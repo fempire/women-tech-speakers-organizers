@@ -171,6 +171,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynote Speeches, CSS, SVG
 - Location - Lebanon
 
+### Nigeria
+
+##### Aderinokun Ire
+- [@IreAderinokun](https://twitter.com/IreAderinokun)
+- [Personal Website](https://ireaderinokun.com)
+- Topics - HTML/CSS, JavaScript, Accessibility, Progressive Enhancement
+- Location - Lagos, Nigeria
 
 ## Women Tech Organizers
 #### Example Format
