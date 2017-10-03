@@ -26,6 +26,18 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship 
 - Location - Bay Area / San Francisco, CA & Raleigh, NC
 
+##### Raquel Vélez
+- [@rockbot](http://twitter.com/rockbot)
+- [Personal Website](http://reactive.audio)
+- Topics - Keynote Speeches, JavaScript, Node.js, NPM, Front-End, Robots
+- Location - Bay Area / San Francisco, CA
+
+##### Marcy Sutton
+- [@marcysutton](http://twitter.com/marcysutton)
+- [Personal Website](http://marcysutton.com)
+- Topics - Keynote Speeches, JavaScript & Accessibility
+- Location - Bellingham, WA
+
 ### Canada
 
 ### Mexico
@@ -36,6 +48,29 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Personal Website](https://ada.is)
 - Topics - WebVR, Progressive Web Apps, Web Technology, Samsung Internet Web Browser
 - Location - London, UK
+
+##### Franziska Hinkelmann
+- [@fhinkel](http://twitter.com/fhinkel)
+- Topics - JavaScript VMs, Chrome V8
+- Location - Munich, Germany
+- Languages besides English - German
+
+##### Eva Lettner
+- [@eva_trostlos](http://twitter.com/eva_trostlos)
+- Topics - CSS, Animation
+- Location - Vienna, Austria
+- Languages besides English - German
+
+##### Hannah Wolfe
+- [@erisDS](http://twitter.com/ErisDS)
+- Topics - JavaScript, sustainable Open Source projects
+- Location - Northhampton, UK
+
+##### Simona Cotin
+- [@simona_cotin](http://twitter.com/simona_cotin)
+- Topics - JavaScript, Angular, Node.js, Azure
+- Location - London, UK
+- Languages besides English - Romanian
 
 ### India
 
