@@ -1,5 +1,5 @@
 # Fempire
-This is a list of women tech speakers &amp; organizers. 
+This is a list of women tech speakers &amp; organizers.
 
 Also included in this list is a list of women who would LIKE to get involved & a list of PEOPLE that would like to help and mentor women.
 
@@ -23,20 +23,8 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ##### Tracy Lee
 - [@ladyleet](http://twitter.com/ladyleet)
 - [ladyleet.com](http://www.ladyleet.com)
-- Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship 
+- Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship
 - Location - Bay Area / San Francisco, CA & Raleigh, NC
-
-##### Raquel Vélez
-- [@rockbot](http://twitter.com/rockbot)
-- [reactive.audio](http://reactive.audio)
-- Topics - Keynote Speeches, JavaScript, Node.js, NPM, Front-End, Robots
-- Location - Bay Area / San Francisco, CA
-
-##### Marcy Sutton
-- [@marcysutton](http://twitter.com/marcysutton)
-- [marcysutton.com](http://marcysutton.com)
-- Topics - Keynote Speeches, JavaScript & Accessibility
-- Location - Bellingham, WA
 
 ##### Sarah Drasner
 - [@sarah_edo](http://twitter.com/sarah_edo)
@@ -101,7 +89,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [code-cartoons.com](https://code-cartoons.com/)
 - Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly
 
-##### Una Kravets 
+##### Una Kravets
 - [@una](http://twitter.com/una)
 - [una.im](https://una.im)
 - Topics - Keynotes Speeches, JavaScript, CSS, Animations
@@ -120,57 +108,38 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Nashville, TN
 
 ### Europe
+- [Personal Website](https://sarahdrasnerdesign.com/)
+- Topics - SVG, Animations, React, Vue.js
 
-##### Ada Rose Cannon
-- [@lady_ada_king](https://twitter.com/lady_ada_king)
-- [ada.is](https://ada.is)
-- Topics - WebVR, Progressive Web Apps, Web Technology, Samsung Internet Web Browser
-- Location - London, UK
+##### Carmen Popoviciu
+- [@CarmenPopoviciu](http://twitter.com/carmenpopoviciu)
+- Topics - Keynote Speeches, Angular, Polymer, Machine Learning, Community
+- Location - Amsterdam, Netherlands
+- Languages besides English - Romanian, Dutch
 
-##### Franziska Hinkelmann
-- [@fhinkel](http://twitter.com/fhinkel)
-- Topics - JavaScript VMs, Chrome V8
-- Location - Munich, Germany
-- Languages besides English - German
+##### Ola Gasidlo
+- [@misprintedtype](http://twitter.com/misprintedtype)
+- Topics - Keynote Speeches, Offline First, Web Compat
+- Location - Berlin, Germany
+- Languages besides English - German, Polish
 
-##### Eva Lettner
-- [@eva_trostlos](http://twitter.com/eva_trostlos)
-- Topics - CSS, Animation
-- Location - Vienna, Austria
-- Languages besides English - German
+##### Stephanie Walter
+- [@WalterStephanie ](http://twitter.com/WalterStephanie)
+- [Personal Website](https://www.stephaniewalter.fr/)
+- Topics - Design, Mobile, UX, CSS, HTML, Javascript
+- Location - Luxembourg
+- Languages besides English - French
 
-##### Hannah Wolfe
-- [@erisDS](http://twitter.com/ErisDS)
-- Topics - JavaScript, sustainable Open Source projects
-- Location - Northhampton, UK
+### Canada
 
-##### Marja Hölttä
-- [@marjakh](http://twitter.com/marjakh)
-- Topics - JavaScript Parsers, Chrome V8
-- Location - Munich, Germany
-- Languages besides English - Finnish
+##### Myriam Jessier
+- [@myriamjessier](http://twitter.com/myriamjessier)
+- [Personal Website](https://myriamjessier.com/)
+- Topics - SEO, Marketing, Search, UX
 
-##### Simona Cotin
-- [@simona_cotin](http://twitter.com/simona_cotin)
-- Topics - JavaScript, Angular, Node.js, Azure
-- Location - London, UK
-- Languages besides English - Romanian
+### Mexico
 
 ### India
-
-##### Kritika Maheshwari
-- [@mozkri](https://twitter.com/mozkri)
-- Topics - Open Web Technologies, Rust
-- Location - Hyderabad, India
-
-### Lebanon
-
-##### Sara Soueidan
-- [@SaraSoueidan](https://twitter.com/SaraSoueidan)
-- [sarasoueidan.com](https://www.sarasoueidan.com/)
-- Topics - Keynote Speeches, CSS, SVG
-- Location - Lebanon
-
 
 ## Women Tech Organizers
 #### Example Format
@@ -193,6 +162,10 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### Europe
 
+##### Madlaina Kalunder
+- [@anialdam](http://twitter.com/anialdam)
+- [Women Techmakers Switzerland](https://www.meetup.com/wtm-switzerland/), Switzerland
+
 ### India
 
 ## Women Interested In Getting Started / Getting Involved
@@ -208,16 +181,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### US
 
-### India
-
-#### Meghna Gupta
-- [@meghna16056](https://twitter.com/meghna16056)
-- [gupta-meghna64.github.io](https://gupta-meghna64.github.io/)
-- Email Address - [meghnagupta64@gmail.com]
-- Topics of Interest - Android, Firebase, Javascript or anything tech :)
-- Location - New Delhi, India
-- Languages besides English - Hindi, French(Basic level of understanding)
-
 ## People Interested In Mentoring Women
 #### Example Format
 ##### Full Name (First, Last)
@@ -230,3 +193,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Explain what you'd like to help women with. Keep it shorter than 3-4 sentences.
 
 ### US
+
+### Europe
+
+##### Martin Splitt
+- [@g33konaut](https://twitter.com/g33konaut)
+- [Personal Website](http://geekonaut.de)
+- How to contact - Twitter, open direct messages
+- Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking
