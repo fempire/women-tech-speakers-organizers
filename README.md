@@ -38,6 +38,87 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynote Speeches, JavaScript & Accessibility
 - Location - Bellingham, WA
 
+##### Sarah Drasner
+- [@sarah_edo](http://twitter.com/sarah_edo)
+- [Personal Website](https://sarahdrasnerdesign.com/)
+- Topics - Keynote Speeches, JavaScript, SVG, Animations, Vue.js
+- Location - Denver, CO
+
+##### Estelle Weyl
+- [@estellevw](http://twitter.com/marcysutton)
+- [Personal Website](http://www.standardista.com/)
+- Topics - Keynote Speeches, JavaScript, Accessibility, Standards
+- Location - San Francisco, CA
+
+##### Shirley Wu
+- [@sxywu](http://twitter.com/sxywu)
+- [Personal Website](http://sxywu.com/)
+- Topics - Data Viz, JavaScript, React
+- Location - San Francisco, CA
+
+##### Mars Jullian
+- [@marsjosephine](http://twitter.com/marsjosephine)
+- [Personal Website](http://marsjullian.com/)
+- Topics - JavaScript, React
+- Location - San Francisco, CA
+
+##### Stacy London
+- [@devonbl](http://twitter.com/stacylondoner)
+- [Personal Website](http://stacy-london.com/)
+- Topics - JavaScript, React
+- Location - San Francisco, CA
+
+##### Cara Kuei
+- [@carakuei](http://twitter.com/carakuei)
+- Topics - JavaScript, React
+- Location - Los Angeles, CA
+
+##### Natalie Qabazard
+- [@natqab](http://twitter.com/natqab)
+- Topics - JavaScript, React
+- Location - San Francisco, CA
+
+##### Devon Lindsey
+- [@devonbl](http://twitter.com/devonbl)
+- [Personal Website](http://devonbrookelindsey.com/)
+- Topics - JavaScript, React
+- Location - San Francisco, CA
+
+##### Ayşegül Yönet
+- [@AysSomething](http://twitter.com/AysSomething)
+- [Personal Website](https://developers.google.com/experts/people/aysegul-yonet)
+- Topics - JavaScript, Angular
+- Location - San Francisco, CA
+
+##### Preethi Kasireddy
+- [@iam_preethi](http://twitter.com/iam_preethi)
+- [Personal Website](https://medium.com/@preethikasireddy)
+- Topics - JavaScript, React
+- Location - San Francisco, CA
+
+##### Lin Clark
+- [@linclark](http://twitter.com/linclark)
+- [Personal Website](https://code-cartoons.com/)
+- Topics - JavaScript, React, Flux, Relay, Redux
+
+##### Una Kravets 
+- [@una](http://twitter.com/una)
+- [Personal Website](https://una.im)
+- Topics - Keynotes Speeches, JavaScript, CSS, Animations
+- Location - New York, NY
+
+##### Val Head
+- [@vlh](http://twitter.com/vlh)
+- [Personal Website](http://valhead.com/)
+- Topics - Keynotes Speeches, JavaScript, Animations
+- Location - Pittsburgh, PA
+
+##### Aimee Knight
+- [@Aimee_Knight](http://twitter.com/Aimee_Knight)
+- [Personal Website](http://www.aimeemarieknight.com/)
+- Topics - JavaScript
+- Location - Nashville, TN
+
 ### Canada
 
 ### Mexico
@@ -78,7 +159,15 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [@mozkri](https://twitter.com/mozkri)
 - [Mozilla Tech Speakers](https://wiki.mozilla.org/TechSpeakers) Global Program
 - Topics - Open Web Technologies, Rust
-- Location- Hyderabad, India
+- Location - Hyderabad, India
+
+### Lebanon
+
+##### Sara Soueidan
+- [@SaraSoueidan](https://twitter.com/SaraSoueidan)
+- [Personal Website](https://www.sarasoueidan.com/)
+- Topics - Keynote Speeches, CSS, SVG
+- Location - Lebanon
 
 
 ## Women Tech Organizers
