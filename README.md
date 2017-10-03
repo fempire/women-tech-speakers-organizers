@@ -119,6 +119,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript
 - Location - Nashville, TN
 
+##### Jennifer Bland
+- [@ratracegrad](http://twitter.com/ratracegrad)
+- [jenniferbland.com](http://www.jenniferbland.com/)
+- Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
+- Location - Atlanta, GA
+
 ### Europe
 
 ##### Ada Rose Cannon
