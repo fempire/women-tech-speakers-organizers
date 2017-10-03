@@ -34,6 +34,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### India
 
+##### Kritika Maheshwari
+- [@mozkri](https://twitter.com/mozkri)
+- [Mozilla Tech Speakers](https://wiki.mozilla.org/TechSpeakers) Global Program
+- Topics - Open Web Technologies, Rust
+- Location- Hyderabad, India
+
+
 ## Women Tech Organizers
 #### Example Format
 ##### Full Name (First, Last)
@@ -56,11 +63,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ### Europe
 
 ### India
-##### Kritika Maheshwari
-- [@mozkri](https://twitter.com/mozkri)
-- [ Mozilla Tech Speakers ] (https://wiki.mozilla.org/TechSpeakers) Global program
-- Group Focus - Open Web Technologies, Rust
-- Location- Hyderabad, India
 
 ## Women Interested In Getting Started / Getting Involved
 #### Example Format
