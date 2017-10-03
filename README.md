@@ -22,49 +22,49 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ##### Tracy Lee
 - [@ladyleet](http://twitter.com/ladyleet)
-- [Personal Website](http://www.ladyleet.com)
+- [ladyleet.com](http://www.ladyleet.com)
 - Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship 
 - Location - Bay Area / San Francisco, CA & Raleigh, NC
 
 ##### Raquel Vélez
 - [@rockbot](http://twitter.com/rockbot)
-- [Personal Website](http://reactive.audio)
+- [reactive.audio](http://reactive.audio)
 - Topics - Keynote Speeches, JavaScript, Node.js, NPM, Front-End, Robots
 - Location - Bay Area / San Francisco, CA
 
 ##### Marcy Sutton
 - [@marcysutton](http://twitter.com/marcysutton)
-- [Personal Website](http://marcysutton.com)
+- [marcysutton.com](http://marcysutton.com)
 - Topics - Keynote Speeches, JavaScript & Accessibility
 - Location - Bellingham, WA
 
 ##### Sarah Drasner
 - [@sarah_edo](http://twitter.com/sarah_edo)
-- [Personal Website](https://sarahdrasnerdesign.com/)
+- [sarahdrasnerdesign.com](https://sarahdrasnerdesign.com/)
 - Topics - Keynote Speeches, JavaScript, SVG, Animations, Vue.js
 - Location - Denver, CO
 
 ##### Estelle Weyl
 - [@estellevw](http://twitter.com/marcysutton)
-- [Personal Website](http://www.standardista.com/)
+- [standardista.com](http://www.standardista.com/)
 - Topics - Keynote Speeches, JavaScript, Accessibility, Standards
 - Location - San Francisco, CA
 
 ##### Shirley Wu
 - [@sxywu](http://twitter.com/sxywu)
-- [Personal Website](http://sxywu.com/)
+- [sxywu.com](http://sxywu.com/)
 - Topics - Data Viz, JavaScript, React
 - Location - San Francisco, CA
 
 ##### Mars Jullian
 - [@marsjosephine](http://twitter.com/marsjosephine)
-- [Personal Website](http://marsjullian.com/)
+- [marsjullian.com](http://marsjullian.com/)
 - Topics - JavaScript, React
 - Location - San Francisco, CA
 
 ##### Stacy London
 - [@devonbl](http://twitter.com/stacylondoner)
-- [Personal Website](http://stacy-london.com/)
+- [stacy-london.com](http://stacy-london.com/)
 - Topics - JavaScript, React
 - Location - San Francisco, CA
 
@@ -80,53 +80,50 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ##### Devon Lindsey
 - [@devonbl](http://twitter.com/devonbl)
-- [Personal Website](http://devonbrookelindsey.com/)
+- [devonbrookelindsey.com](http://devonbrookelindsey.com/)
 - Topics - JavaScript, React
 - Location - San Francisco, CA
 
 ##### Ayşegül Yönet
 - [@AysSomething](http://twitter.com/AysSomething)
-- [Personal Website](https://developers.google.com/experts/people/aysegul-yonet)
-- Topics - JavaScript, Angular
+- [Aysegul Yonet](https://developers.google.com/experts/people/aysegul-yonet)
+- Topics - JavaScript, Angular, VR
 - Location - San Francisco, CA
 
 ##### Preethi Kasireddy
 - [@iam_preethi](http://twitter.com/iam_preethi)
-- [Personal Website](https://medium.com/@preethikasireddy)
+- [medium.com/@preethikasireddy](https://medium.com/@preethikasireddy)
 - Topics - JavaScript, React
 - Location - San Francisco, CA
 
 ##### Lin Clark
 - [@linclark](http://twitter.com/linclark)
-- [Personal Website](https://code-cartoons.com/)
-- Topics - JavaScript, React, Flux, Relay, Redux
+- [code-cartoons.com](https://code-cartoons.com/)
+- Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly
 
 ##### Una Kravets 
 - [@una](http://twitter.com/una)
-- [Personal Website](https://una.im)
+- [una.im](https://una.im)
 - Topics - Keynotes Speeches, JavaScript, CSS, Animations
 - Location - New York, NY
 
 ##### Val Head
 - [@vlh](http://twitter.com/vlh)
-- [Personal Website](http://valhead.com/)
+- [valhead.com](http://valhead.com/)
 - Topics - Keynotes Speeches, JavaScript, Animations
 - Location - Pittsburgh, PA
 
 ##### Aimee Knight
 - [@Aimee_Knight](http://twitter.com/Aimee_Knight)
-- [Personal Website](http://www.aimeemarieknight.com/)
+- [aimeemarieknight.com](http://www.aimeemarieknight.com/)
 - Topics - JavaScript
 - Location - Nashville, TN
 
-### Canada
-
-### Mexico
-
 ### Europe
+
 ##### Ada Rose Cannon
 - [@lady_ada_king](https://twitter.com/lady_ada_king)
-- [Personal Website](https://ada.is)
+- [ada.is](https://ada.is)
 - Topics - WebVR, Progressive Web Apps, Web Technology, Samsung Internet Web Browser
 - Location - London, UK
 
@@ -157,7 +154,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ##### Kritika Maheshwari
 - [@mozkri](https://twitter.com/mozkri)
-- [Mozilla Tech Speakers](https://wiki.mozilla.org/TechSpeakers) Global Program
 - Topics - Open Web Technologies, Rust
 - Location - Hyderabad, India
 
@@ -165,7 +161,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ##### Sara Soueidan
 - [@SaraSoueidan](https://twitter.com/SaraSoueidan)
-- [Personal Website](https://www.sarasoueidan.com/)
+- [sarasoueidan.com](https://www.sarasoueidan.com/)
 - Topics - Keynote Speeches, CSS, SVG
 - Location - Lebanon
 
@@ -210,7 +206,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 #### Meghna Gupta
 - [@meghna16056](https://twitter.com/meghna16056)
-- [Personal Website](https://gupta-meghna64.github.io/)
+- [gupta-meghna64.github.io](https://gupta-meghna64.github.io/)
 - Email Address - [meghnagupta64@gmail.com]
 - Topics of Interest - Android, Firebase, Javascript or anything tech :)
 - Location - New Delhi, India
