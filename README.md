@@ -82,6 +82,16 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### US
 
+### India
+
+#### Meghna Gupta
+- [@meghna16056](https://twitter.com/meghna16056)
+- [Personal Website](https://gupta-meghna64.github.io/)
+- Email Address - [meghnagupta64@gmail.com]
+- Topics of Interest - Android, Firebase, Javascript or anything tech :)
+- Location - New Delhi, India
+- Languages besides English - Hindi, French(Basic level of understanding)
+
 ## People Interested In Mentoring Women
 #### Example Format
 ##### Full Name (First, Last)
