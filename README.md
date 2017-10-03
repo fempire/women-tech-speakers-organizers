@@ -119,6 +119,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript
 - Location - Nashville, TN
 
+##### Jennifer Wadella
+- [@likeOMGitsFEDAY](https://twitter.com/likeOMGitsFEDAY)
+- [jenniferwadella.com](https://jenniferwadella.com/)
+- Topics - JavaScript, Jewelbots, Community Building, Women in Tech
+- Location - Kansas City, MO
+
 ##### Jen Looper
 - [@jenlooper](http://twitter.com/jenlooper)
 - [ladeezfirstmedia.com](http://www.ladeezfirstmedia.com/)
