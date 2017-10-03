@@ -56,6 +56,9 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ### Europe
 
 ### India
+##### Kritika Maheshwari
+- [@mozkri](https://twitter.com/mozkri)
+- Group Focus - JavaScript, Android App development, Hybrid app development
 
 ## Women Interested In Getting Started / Getting Involved
 #### Example Format
