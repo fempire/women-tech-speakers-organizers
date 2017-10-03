@@ -137,6 +137,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
 
+##### Peggy Rayzis
+- [@peggyrayzis](http://twitter.com/peggyrayzis)
+- [Medium Profile](https://medium.com/@peggyrayzis)
+- Topics - Workshops, JavaScript, Universal Components, React, React Native, GraphQL, Apollo GraphQL
+- Location - Hoboken, NJ
+
 ### Europe
 
 ##### Ada Rose Cannon
