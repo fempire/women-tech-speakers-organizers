@@ -119,6 +119,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript
 - Location - Nashville, TN
 
+##### Jen Looper
+- [@jenlooper](http://twitter.com/jenlooper)
+- [ladeezfirstmedia.com](http://www.ladeezfirstmedia.com/)
+- Topics - Keynote Speeches, JavaScript, NativeScript, Web and Mobile Development
+- Location - Boston, MA
+
 ### Europe
 
 ##### Ada Rose Cannon
