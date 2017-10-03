@@ -125,6 +125,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynote Speeches, JavaScript, NativeScript, Web and Mobile Development
 - Location - Boston, MA
 
+##### Jennifer Bland
+- [@ratracegrad](http://twitter.com/ratracegrad)
+- [jenniferbland.com](http://www.jenniferbland.com/)
+- Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
+- Location - Atlanta, GA
+
 ### Europe
 
 ##### Ada Rose Cannon
