@@ -45,7 +45,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Denver, CO
 
 ##### Estelle Weyl
-- [@estellevw](http://twitter.com/marcysutton)
+- [@estellevw](http://twitter.com/estellevw)
 - [standardista.com](http://www.standardista.com/)
 - Topics - Keynote Speeches, JavaScript, Accessibility, Standards
 - Location - San Francisco, CA
