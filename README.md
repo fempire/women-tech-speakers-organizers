@@ -1,5 +1,5 @@
 # Fempire
-This is a list of women tech speakers &amp; organizers. 
+This is a list of women tech speakers &amp; organizers.
 
 Also included in this list is a list of women who would LIKE to get involved & a list of PEOPLE that would like to help and mentor women.
 
@@ -23,7 +23,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ##### Tracy Lee
 - [@ladyleet](http://twitter.com/ladyleet)
 - [ladyleet.com](http://www.ladyleet.com)
-- Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship 
+- Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship
 - Location - Bay Area / San Francisco, CA & Raleigh, NC
 
 ##### Raquel Vélez
@@ -101,7 +101,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [code-cartoons.com](https://code-cartoons.com/)
 - Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly
 
-##### Una Kravets 
+##### Una Kravets
 - [@una](http://twitter.com/una)
 - [una.im](https://una.im)
 - Topics - Keynotes Speeches, JavaScript, CSS, Animations
@@ -136,6 +136,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [jenniferbland.com](http://www.jenniferbland.com/)
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
+
+##### Violet Peña
+- No twitter
+- [violet.is](https://violet.is)
+- Topics - JavaScript, Socket.IO, React, Creative Coding
+- Location - Portland, OR
+- Languages besides English - Spanish
 
 ### Europe
 
