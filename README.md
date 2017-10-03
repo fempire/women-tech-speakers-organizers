@@ -223,7 +223,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [@anialdam](http://twitter.com/anialdam)
 - [Women Techmakers Switzerland](https://www.meetup.com/wtm-switzerland/), Switzerland
 
-##### Natalie Pistunovic
+##### Natalie Pistunovich
 
 - [@nataliepis](https://twitter.com/nataliepis)
 - [Women Technmakers Berlin](http://wtmberlin.com/)
