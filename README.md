@@ -127,6 +127,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - WebVR, Progressive Web Apps, Web Technology, Samsung Internet Web Browser
 - Location - London, UK
 
+##### Alexandra Leisse
+- [@troubalex](http://twitter.com/troubalex)
+- Topics - User Experience Design, Web Development
+- Location - Oslo, Norway
+- Languages besides English - German, Norwegian
+
 ##### Franziska Hinkelmann
 - [@fhinkel](http://twitter.com/fhinkel)
 - Topics - JavaScript VMs, Chrome V8
