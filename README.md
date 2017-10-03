@@ -144,6 +144,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, sustainable Open Source projects
 - Location - Northhampton, UK
 
+##### Marja Hölttä
+- [@marjakh](http://twitter.com/marjakh)
+- Topics - JavaScript Parsers, Chrome V8
+- Location - Munich, Germany
+- Languages besides English - Finnish
+
 ##### Simona Cotin
 - [@simona_cotin](http://twitter.com/simona_cotin)
 - Topics - JavaScript, Angular, Node.js, Azure
