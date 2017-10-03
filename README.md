@@ -31,6 +31,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ### Mexico
 
 ### Europe
+##### Ada Rose Cannon
+- [@lady_ada_king](https://twitter.com/lady_ada_king)
+- [Personal Website](https://ada.is)
+- Topics - WebVR, Progressive Web Apps, Web Technology, Samsung Internet Web Browser
+- Location - London, UK
 
 ### India
 
