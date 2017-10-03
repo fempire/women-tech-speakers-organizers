@@ -125,6 +125,18 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, Jewelbots, Community Building, Women in Tech
 - Location - Kansas City, MO
 
+##### Jen Looper
+- [@jenlooper](http://twitter.com/jenlooper)
+- [ladeezfirstmedia.com](http://www.ladeezfirstmedia.com/)
+- Topics - Keynote Speeches, JavaScript, NativeScript, Web and Mobile Development
+- Location - Boston, MA
+
+##### Jennifer Bland
+- [@ratracegrad](http://twitter.com/ratracegrad)
+- [jenniferbland.com](http://www.jenniferbland.com/)
+- Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
+- Location - Atlanta, GA
+
 ### Europe
 
 ##### Ada Rose Cannon
@@ -177,6 +189,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynote Speeches, CSS, SVG
 - Location - Lebanon
 
+### Nigeria
+
+##### Aderinokun Ire
+- [@IreAderinokun](https://twitter.com/IreAderinokun)
+- [Personal Website](https://ireaderinokun.com)
+- Topics - HTML/CSS, JavaScript, Accessibility, Progressive Enhancement
+- Location - Lagos, Nigeria
 
 ## Women Tech Organizers
 #### Example Format
