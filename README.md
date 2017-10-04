@@ -137,6 +137,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
 
+##### Alaina Kafkes
+- [@alainakafkes](https://twitter.com/alainakafkes)
+- [alainakafk.es](http://alainakafk.es/)
+- Topics - Technical Writing, Python, iOS Development, Web Development, Community Building
+- Location - Chicago, IL / San Francisco, CA
+- Languages besides English - French
+
 ### Europe
 
 ##### Ada Rose Cannon
