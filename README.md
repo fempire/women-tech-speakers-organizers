@@ -186,6 +186,10 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, Angular, PWAs
 - Location - Cincinnati, OH
 
+##### Jules Kremer
+- [@jules_kremer](http://twitter.com/jules_kremer)
+- Topics - Keynote Speeches, Angular, Women in Tech
+- Location - Mountain View & San Diego, CA & Maui, HI
 
 ### Europe
 
