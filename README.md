@@ -119,6 +119,59 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript
 - Location - Nashville, TN
 
+##### Jennifer Wadella
+- [@likeOMGitsFEDAY](https://twitter.com/likeOMGitsFEDAY)
+- [jenniferwadella.com](https://jenniferwadella.com/)
+- Topics - JavaScript, Jewelbots, Community Building, Women in Tech
+- Location - Kansas City, MO
+
+##### Jen Looper
+- [@jenlooper](http://twitter.com/jenlooper)
+- [ladeezfirstmedia.com](http://www.ladeezfirstmedia.com/)
+- Topics - Keynote Speeches, JavaScript, NativeScript, Web and Mobile Development
+- Location - Boston, MA
+
+##### Jennifer Bland
+- [@ratracegrad](http://twitter.com/ratracegrad)
+- [jenniferbland.com](http://www.jenniferbland.com/)
+- Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
+- Location - Atlanta, GA
+
+##### Peggy Rayzis
+- [@peggyrayzis](http://twitter.com/peggyrayzis)
+- [Medium Profile](https://medium.com/@peggyrayzis)
+- Topics - Workshops, JavaScript, Universal Components, React, React Native, GraphQL, Apollo GraphQL
+- Location - Hoboken, NJ
+
+##### Tomomi Imura
+- [@girlie_mac](https://twitter.com/girlie_mac)
+- [girliemac.com](http://www.girliemac.com/)
+- Topics - Workshops, JS, Node.JS, IoT, mentoring, dev rel, mobile, design
+- Location - San Francisco, CA
+
+##### Bear Douglas
+- [@beardigsit](https://twitter.com/beardigsit)
+- Topics - Dev Rel, events, Android, APIs
+- Location - San Francisco, CA
+
+##### Lizzie Siegle
+- [@lizziepika](http://twitter.com/lizziepika)
+- [elizabethsiegle.github.io](https://elizabethsiegle.github.io)
+- Topics - Workshops, JavaScript, Swift, Haskell, meetups, hackathons
+- Location - Bryn Mawr, PA + San Francisco, CA
+
+##### Pearl Latteier
+- [@TwitterHandle](https://twitter.com/pblatteier)
+- [Personal Website](https://pearlbea.com)
+- Topics - JavaScript, Web Components, PWAs
+- Location - Madison, WI
+
+##### Tara Z. Manicsic
+- [@TwitterHandle](https://twitter.com/Tzmanics)
+- [Personal Website](https://tzmanics.com)
+- Topics - JavaScript, Angular, PWAs
+- Location - Cincinnati, OH
+
 ### Europe
 
 ##### Ada Rose Cannon
@@ -156,6 +209,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - London, UK
 - Languages besides English - Romanian
 
+
 ##### Britt Barak
 - Facebook - www.facebook.com/britt.barak
 - [@BrittBarak](https://twitter.com/BrittBarak)
@@ -163,6 +217,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - LinkedIn: https://www.linkedin.com/in/brittbarak
 - Topics - Android (developement, OS, UX), Communities.
 - Location - Tel Aviv, Israel
+
+##### Srushtika Neelakantam
+- [@Srushtika](https://twitter.com/Srushtika)
+- Topics - WebVR, A-Frame, Web Technologies, Realtime Technologies, deepstream.io
+- Location - Berlin, Germany
 
 ### India
 
@@ -179,6 +238,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynote Speeches, CSS, SVG
 - Location - Lebanon
 
+### Nigeria
+
+##### Aderinokun Ire
+- [@IreAderinokun](https://twitter.com/IreAderinokun)
+- [Personal Website](https://ireaderinokun.com)
+- Topics - HTML/CSS, JavaScript, Accessibility, Progressive Enhancement
+- Location - Lagos, Nigeria
 
 ## Women Tech Organizers
 #### Example Format
@@ -247,3 +313,10 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Explain what you'd like to help women with. Keep it shorter than 3-4 sentences.
 
 ### US
+### AUS
+##### Pavithra Kodmad
+- [@pkodmad](http://twitter.com/PKodmad)
+- Email Address - [pavithra.kodmad@gmail.com]
+- Javascript development, OSS contribution, Front End development
+- Location - Sydney, Australia
+- If there are any motivated women out there who are putting continuous effort towards learning some front-end development, I can help them out by teaching concepts, internals of libs, debugging their work and generally do some pairing.
