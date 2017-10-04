@@ -261,3 +261,10 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Explain what you'd like to help women with. Keep it shorter than 3-4 sentences.
 
 ### US
+### AUS
+##### Pavithra Kodmad
+- [@pkodmad](http://twitter.com/PKodmad)
+- Email Address - [pavithra.kodmad@gmail.com]
+- Javascript development, OSS contribution, Front End development
+- Location - Sydney, Australia
+- If there are any motivated women out there who are putting continuous effort towards learning some front-end development, I can help them out by teaching concepts, internals of libs, debugging their work and generally do some pairing.
