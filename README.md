@@ -143,6 +143,17 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Workshops, JavaScript, Universal Components, React, React Native, GraphQL, Apollo GraphQL
 - Location - Hoboken, NJ
 
+##### Tomomi Imura
+- [@girlie_mac](https://twitter.com/girlie_mac)
+- [girliemac.com](http://www.girliemac.com/)
+- Topics - Workshops, JS, Node.JS, IoT, mentoring, dev rel, mobile, design
+- Location - San Francisco, CA
+
+##### Bear Douglas
+- [@beardigsit](https://twitter.com/beardigsit)
+- Topics - Dev Rel, events, Android, APIs
+- Location - San Francisco, CA
+
 ##### Lizzie Siegle
 - [@lizziepika](http://twitter.com/lizziepika)
 - [elizabethsiegle.github.io](https://elizabethsiegle.github.io)
