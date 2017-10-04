@@ -186,6 +186,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, Angular, PWAs
 - Location - Cincinnati, OH
 
+##### Amara Keller
+- [@MissAmaraKay](http://twitter.com/MissAmaraKay)
+- [Medium](https://medium.com/@MissAmaraKay)
+- Topics - AI, JavaScript, NodeJS, Dev Rel, Workshops, meetups
+- Location - Bay Area / San Francisco, CA
+
 
 ### Europe
 
