@@ -101,6 +101,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [code-cartoons.com](https://code-cartoons.com/)
 - Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly
 
+##### Jen Simmons
+- [@jensimmons](https://twitter.com/jensimmons)
+- [jensimmons.com](http://jensimmons.com)
+- Topics - CSS, Layouts, Grids
+- Location - Brooklyn, NY
+
 ##### Una Kravets
 - [@una](http://twitter.com/una)
 - [una.im](https://una.im)
@@ -281,6 +287,17 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Modern Web](http://www.meetup.com/modernweb), Bay Area, CA
 - [Triangle Modern Web](http://www.meetup.com/trianglemodernweb), Raleigh, NC
 - Group Focus - JavaScript, Front End Development
+
+##### Nitya Narashimhan
+- [@nitya](https://twitter.com/nitya)
+- [GDG NYC](https://www.meetup.com/gdgnyc/), New York, NY
+- [GDG Hudson Valley](https://www.meetup.com/gdg-hudson-valley/), Hudson Valley, NY
+- Group Focus - Google Technology, Mobile, Web, Wearables, Cloud, IoT
+
+##### Anastasia Lanz
+- [@anastasialanz](https://twitter.com/anastasialanz)
+- [GDG Pitt](https://www.meetup.com/gdg-pitt/), Pittsburgh, PA
+- Group Focus - Google Technology, Machine Learning, Web Development, Android
 
 ### Canada
 
