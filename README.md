@@ -160,6 +160,18 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Workshops, JavaScript, Swift, Haskell, meetups, hackathons
 - Location - Bryn Mawr, PA + San Francisco, CA
 
+##### Pearl Latteier
+- [@TwitterHandle](https://twitter.com/pblatteier)
+- [Personal Website](https://pearlbea.com)
+- Topics - JavaScript, Web Components, PWAs
+- Location - Madison, WI
+
+##### Tara Z. Manicsic
+- [@TwitterHandle](https://twitter.com/Tzmanics)
+- [Personal Website](https://tzmanics.com)
+- Topics - JavaScript, Angular, PWAs
+- Location - Cincinnati, OH
+
 ### Europe
 
 ##### Ada Rose Cannon
