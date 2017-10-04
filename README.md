@@ -1,5 +1,5 @@
 # Fempire
-This is a list of women tech speakers &amp; organizers. 
+This is a list of women tech speakers &amp; organizers.
 
 Also included in this list is a list of women who would LIKE to get involved & a list of PEOPLE that would like to help and mentor women.
 
@@ -23,7 +23,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ##### Tracy Lee
 - [@ladyleet](http://twitter.com/ladyleet)
 - [ladyleet.com](http://www.ladyleet.com)
-- Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship 
+- Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship
 - Location - Bay Area / San Francisco, CA & Raleigh, NC
 
 ##### Raquel Vélez
@@ -101,7 +101,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [code-cartoons.com](https://code-cartoons.com/)
 - Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly
 
-##### Una Kravets 
+##### Una Kravets
 - [@una](http://twitter.com/una)
 - [una.im](https://una.im)
 - Topics - Keynotes Speeches, JavaScript, CSS, Animations
@@ -144,6 +144,49 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Chicago, IL / San Francisco, CA
 - Languages besides English - French
 
+##### Violet Peña
+- No twitter
+- [violet.is](https://violet.is)
+- Topics - JavaScript, Socket.IO, React, Creative Coding
+- Location - Portland, OR
+- Languages besides English - Spanish
+
+##### Peggy Rayzis
+- [@peggyrayzis](http://twitter.com/peggyrayzis)
+- [Medium Profile](https://medium.com/@peggyrayzis)
+- Topics - Workshops, JavaScript, Universal Components, React, React Native, GraphQL, Apollo GraphQL
+- Location - Hoboken, NJ
+
+##### Tomomi Imura
+- [@girlie_mac](https://twitter.com/girlie_mac)
+- [girliemac.com](http://www.girliemac.com/)
+- Topics - Workshops, JS, Node.JS, IoT, mentoring, dev rel, mobile, design
+- Location - San Francisco, CA
+
+##### Bear Douglas
+- [@beardigsit](https://twitter.com/beardigsit)
+- Topics - Dev Rel, events, Android, APIs
+- Location - San Francisco, CA
+
+##### Lizzie Siegle
+- [@lizziepika](http://twitter.com/lizziepika)
+- [elizabethsiegle.github.io](https://elizabethsiegle.github.io)
+- Topics - Workshops, JavaScript, Swift, Haskell, meetups, hackathons
+- Location - Bryn Mawr, PA + San Francisco, CA
+
+##### Pearl Latteier
+- [@TwitterHandle](https://twitter.com/pblatteier)
+- [Personal Website](https://pearlbea.com)
+- Topics - JavaScript, Web Components, PWAs
+- Location - Madison, WI
+
+##### Tara Z. Manicsic
+- [@TwitterHandle](https://twitter.com/Tzmanics)
+- [Personal Website](https://tzmanics.com)
+- Topics - JavaScript, Angular, PWAs
+- Location - Cincinnati, OH
+
+
 ### Europe
 
 ##### Ada Rose Cannon
@@ -180,6 +223,20 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, Angular, Node.js, Azure
 - Location - London, UK
 - Languages besides English - Romanian
+
+
+##### Britt Barak
+- Facebook - www.facebook.com/britt.barak
+- [@BrittBarak](https://twitter.com/BrittBarak)
+- Medium: https://medium.com/@britt.barak
+- LinkedIn: https://www.linkedin.com/in/brittbarak
+- Topics - Android (developement, OS, UX), Communities.
+- Location - Tel Aviv, Israel
+
+##### Srushtika Neelakantam
+- [@Srushtika](https://twitter.com/Srushtika)
+- Topics - WebVR, A-Frame, Web Technologies, Realtime Technologies, deepstream.io
+- Location - Berlin, Germany
 
 ### India
 
@@ -225,6 +282,15 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### Europe
 
+##### Britt Barak
+- Facebook - www.facebook.com/britt.barak
+- [@BrittBarak](https://twitter.com/BrittBarak)
+- [Android Academy TLV](https://www.facebook.com/groups/android.academy.ils), Tel Aviv, Israel
+- Group Focus - Android development (beginners, professionals), Android UX
+- [Women Techmakers Israel](https://www.facebook.com/wtmil/), Tel Aviv, Israel
+- Group Focus - Public speaking, soft skills, WLB, AI, ML, DL.
+
+
 ### India
 
 ## Women Interested In Getting Started / Getting Involved
@@ -262,3 +328,10 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Explain what you'd like to help women with. Keep it shorter than 3-4 sentences.
 
 ### US
+### AUS
+##### Pavithra Kodmad
+- [@pkodmad](http://twitter.com/PKodmad)
+- Email Address - [pavithra.kodmad@gmail.com]
+- Javascript development, OSS contribution, Front End development
+- Location - Sydney, Australia
+- If there are any motivated women out there who are putting continuous effort towards learning some front-end development, I can help them out by teaching concepts, internals of libs, debugging their work and generally do some pairing.
