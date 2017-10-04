@@ -197,6 +197,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - London, UK
 - Languages besides English - Romanian
 
+##### Srushtika Neelakantam
+- [@Srushtika](https://twitter.com/Srushtika)
+- Topics - WebVR, A-Frame, Web Technologies, Realtime Technologies, deepstream.io
+- Location - Berlin, Germany
+
 ### India
 
 ##### Kritika Maheshwari
