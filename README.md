@@ -279,7 +279,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - WebVR, A-Frame, Web Technologies, Realtime Technologies, deepstream.io
 - Location - Berlin, Germany
 
-##### Oana Galbenu (First, Last)
+##### Oana Galbenu
 - [@oanaalex](https://twitter.com/oanaalex)
 - [galbenu.ro](http://galbenu.ro/)
 - Topics - Keynote Speeches, HTML, CSS and preprocessors, Agile
