@@ -209,6 +209,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Hardware/robotics, workshops, women in tech, mental health in tech
 - Location - Kansas City, MO, US
 
+##### Catherine Meade
+- [@catheraaine](https://twitter.com/catheraaine)
+- [catheraaine.com](http://catheraaine.com/)
+- [BuildRight Workshop](http://buildright.io/modern-css)
+- Topics - CSS, HTML, JavaScript, GitHub, a11y, CMSs, FrontEnd, Design, Design Systems, Collaboration, Workshops, Women in Tech
+- Location - Dayton, OH, USA
+
 
 ### Canada
 
