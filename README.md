@@ -192,6 +192,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - AI, JavaScript, NodeJS, Dev Rel, Workshops, meetups
 - Location - Bay Area / San Francisco, CA
 
+### Canada
+
+##### Myriam Jessier
+- [@myriamjessier](http://twitter.com/myriamjessier)
+- [Personal Website](https://myriamjessier.com/)
+- Topics - SEO, Marketing, Search, UX
 
 ### Europe
 
@@ -230,6 +236,24 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - London, UK
 - Languages besides English - Romanian
 
+##### Carmen Popoviciu
+- [@CarmenPopoviciu](http://twitter.com/carmenpopoviciu)
+- Topics - Keynote Speeches, Angular, Polymer, Machine Learning, Community
+- Location - Amsterdam, Netherlands
+- Languages besides English - Romanian, Dutch
+
+##### Ola Gasidlo
+- [@misprintedtype](http://twitter.com/misprintedtype)
+- Topics - Keynote Speeches, Offline First, Web Compat
+- Location - Berlin, Germany
+- Languages besides English - German, Polish
+
+##### Stephanie Walter
+- [@WalterStephanie ](http://twitter.com/WalterStephanie)
+- [Personal Website](https://www.stephaniewalter.fr/)
+- Topics - Design, Mobile, UX, CSS, HTML, Javascript
+- Location - Luxembourg
+- Languages besides English - French
 
 ##### Britt Barak
 - Facebook - www.facebook.com/britt.barak
@@ -288,6 +312,15 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### Europe
 
+##### Madlaina Kalunder
+- [@anialdam](http://twitter.com/anialdam)
+- [Women Techmakers Switzerland](https://www.meetup.com/wtm-switzerland/), Switzerland
+
+##### Natalie Pistunovich
+
+- [@nataliepis](https://twitter.com/nataliepis)
+- [Women Technmakers Berlin](http://wtmberlin.com/)
+
 ##### Britt Barak
 - Facebook - www.facebook.com/britt.barak
 - [@BrittBarak](https://twitter.com/BrittBarak)
@@ -295,7 +328,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Group Focus - Android development (beginners, professionals), Android UX
 - [Women Techmakers Israel](https://www.facebook.com/wtmil/), Tel Aviv, Israel
 - Group Focus - Public speaking, soft skills, WLB, AI, ML, DL.
-
 
 ### India
 
@@ -334,6 +366,15 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Explain what you'd like to help women with. Keep it shorter than 3-4 sentences.
 
 ### US
+
+### Europe
+
+##### Martin Splitt
+- [@g33konaut](https://twitter.com/g33konaut)
+- [Personal Website](http://geekonaut.de)
+- How to contact - Twitter, open direct messages
+- Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking
+
 ### AUS
 ##### Pavithra Kodmad
 - [@pkodmad](http://twitter.com/PKodmad)
