@@ -349,6 +349,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [GDG Pitt](https://www.meetup.com/gdg-pitt/), Pittsburgh, PA
 - Group Focus - Google Technology, Machine Learning, Web Development, Android
 
+##### K.C. Jones-Evans
+- [@kcjonesevans](https://twitter.com/kcjonesevans)
+- [Dayton Data Viz](https://www.meetup.com/preview/daytondv), Dayton, OH
+- Group Focus - Infographic Design and Development, Web Mapping, D3.js, R, Tableau, Matlab, Processing, Hadoop, Data Mining, etc... Anything to do with the design/development of awesome visualizations
+- [GDI Dayton](https://www.meetup.com/preview/girl-develop-it-dayton), Dayton, OH
+
+
 ### Canada
 
 ### Mexico
