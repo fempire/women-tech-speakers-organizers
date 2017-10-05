@@ -28,8 +28,8 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ##### Raquel Vélez
 - [@rockbot](http://twitter.com/rockbot)
-- [reactive.audio](http://reactive.audio)
-- Topics - Keynote Speeches, JavaScript, Node.js, NPM, Front-End, Robots
+- [rckbt.me](http://rckbt.me)
+- Topics - Keynote Speeches, JavaScript, Node.js, npm, Front-End, Robots
 - Location - Bay Area / San Francisco, CA
 
 ##### Marcy Sutton
