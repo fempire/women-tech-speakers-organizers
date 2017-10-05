@@ -187,9 +187,9 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Madison, WI
 
 ##### Tara Z. Manicsic
-- [@TwitterHandle](https://twitter.com/Tzmanics)
-- [Personal Website](https://tzmanics.com)
-- Topics - JavaScript, Angular, PWAs
+- [@tzmanics](https://twitter.com/Tzmanics)
+- [tzmanics.com](https://tzmanics.com)
+- Topics - JavaScript, PWAs, Node.js, Web Technology, Vue/React/Angular, APIs
 - Location - Cincinnati, OH
 
 ##### Amara Keller
