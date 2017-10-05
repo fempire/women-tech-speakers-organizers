@@ -216,6 +216,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - CSS, HTML, JavaScript, GitHub, a11y, CMSs, FrontEnd, Design, Design Systems, Collaboration, Workshops, Women in Tech
 - Location - Dayton, OH, USA
 
+##### Kim Crayton
+- [@KimCrayton1](https://twitter.com/@KimCrayton1/)
+- [Personal Website](http://kimcrayton.com/)
+- Topics - Diversity, Mentoring, Women in Tech
+- Location - Atlanta, GA, USA
+
 
 ### Canada
 
