@@ -198,6 +198,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - AI, JavaScript, NodeJS, Dev Rel, Workshops, meetups
 - Location - Bay Area / San Francisco, CA
 
+##### Jules Kremer
+- [@jules_kremer](http://twitter.com/jules_kremer)
+- Topics - Keynote Speeches, Angular, Women in Tech
+- Location - Mountain View & San Diego, CA & Maui, HI
+
 ### Canada
 
 ##### Myriam Jessier
