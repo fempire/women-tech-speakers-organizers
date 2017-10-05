@@ -203,6 +203,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynote Speeches, Angular, Women in Tech
 - Location - Mountain View & San Diego, CA & Maui, HI
 
+##### Sarah Withee
+- [@geekygirlsarah](https://twitter.com/geekygirlsarah)
+- [Personal Website](http://www.sarahwithee.com)
+- Topics - Hardware/robotics, workshops, women in tech, mental health in tech
+- Location - Kansas City, MO, US
+
+
 ### Canada
 
 ##### Myriam Jessier
