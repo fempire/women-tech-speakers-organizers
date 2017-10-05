@@ -279,6 +279,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - WebVR, A-Frame, Web Technologies, Realtime Technologies, deepstream.io
 - Location - Berlin, Germany
 
+##### Ineke Scheffers
+- [@FYIneke](https://twitter.com/fyineke) & [@GirlCodeNL](https://twitter.com/GirlCodeNL)
+- [Girl Code](https://www.meetup.com/girlcode/)
+- Topics - Girl Code, women in tech, gender gap in code, workshops, community, web development, changing careers
+- Location - The Hague & Amsterdam, The Netherlands
+- Languages besides English - Dutch
+
 ### India
 
 ##### Kritika Maheshwari
