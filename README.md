@@ -307,7 +307,8 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Open Web Technologies, Rust
 - Location - Hyderabad, India
 
-##### @manjula_dube
+##### Manjula Dube
+- [@manjula_dube](https://twitter.com/manjula_dube)
 - Email Address - [dube.manjula668@gmail.com]
 - Javascript development, OSS contribution, Front End development, React, Functional Programming
 - Location - Mumbai, India
@@ -423,6 +424,16 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Explain what you'd like to help women with. Keep it shorter than 3-4 sentences.
 
 ### US
+
+### India
+#####  Manjula Dune
+- [@manjula_dube](http://twitter.com/manjula_dube)
+- Email Address - [dube.manjula668@gmail.com]
+- Javascript development, OSS contribution, Front End development, React, Functional Programming
+- Location - Mumbai, India
+- I love teaching so any one looking out for javascript mentor reach out to me. I would love to talk about it.
+
+
 
 ### Europe
 
