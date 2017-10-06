@@ -307,6 +307,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Open Web Technologies, Rust
 - Location - Hyderabad, India
 
+##### @manjula_dube
+- Email Address - [dube.manjula668@gmail.com]
+- Javascript development, OSS contribution, Front End development, React, Functional Programming
+- Location - Mumbai, India
+- I am currently leading Google Developer Group - WTM. The fact that motivated me to join this community is, I want to see more and more women in leading and growing position.
+ 
+
 ### Lebanon
 
 ##### Sara Soueidan
