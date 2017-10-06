@@ -382,8 +382,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics of Interest- HTML, CSS and preprocessors, Agile
 - Location - Bucharest, Romania, other Romanian cities
 - Languages besides English - Romanian
-- I would like to get involved because lately in Romania there are more and more developers that forgot why the web is here. They do not know the basic rules and they are in serious need of guidance. I would like to put together a group of exepienced people that would volunteer to mentor and guide the emergind developers and help them on the right track.
-
+- I would like to put together a group of exepienced people that would volunteer to mentor and guide the emergind developers.
 
 ### India
 
