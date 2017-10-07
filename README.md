@@ -216,6 +216,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - CSS, HTML, JavaScript, GitHub, a11y, CMSs, FrontEnd, Design, Design Systems, Collaboration, Workshops, Women in Tech
 - Location - Dayton, OH, USA
 
+##### Heather Taylor
+- [@heatherhonie](http://twitter.com/heatherhonie)
+- [Personal Website](http://www.heathercancode.com)
+- Topics - Transitioning from Print Designer to Web Developer, Apprenticeships
+- Location - Dayton, OH, USA
 
 ### Canada
 
