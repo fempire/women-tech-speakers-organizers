@@ -28,8 +28,8 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ##### Raquel Vélez
 - [@rockbot](http://twitter.com/rockbot)
-- [reactive.audio](http://reactive.audio)
-- Topics - Keynote Speeches, JavaScript, Node.js, NPM, Front-End, Robots
+- [rckbt.me](http://rckbt.me)
+- Topics - Keynote Speeches, JavaScript, Node.js, npm, Front-End, Robots
 - Location - Bay Area / San Francisco, CA
 
 ##### Marcy Sutton
@@ -221,6 +221,21 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Blog](http://blogs.msmvps.com/deborahk/)
 - Topics - Angular, C#, Software Best Practices
 - Location - San Francisco Bay/Silicon Valley Area
+
+##### Kim Crayton
+- [@KimCrayton1](https://twitter.com/@KimCrayton1/)
+- [Personal Website](http://kimcrayton.com/)
+- Topics - Diversity, Mentoring, Women in Tech
+- Location - Atlanta, GA, USA
+
+##### Sia Karamalegos
+- [@thegreengreek](http://twitter.com/thegreengreek)
+- [Medium](https://medium.com/@thegreengreek)
+- [Speaking Website](https://github.com/siakaramalegos/sia_speaks)
+- Topics - React, Redux, React Native, NodeJS, JavaScript, GraphQL, workshops, teaching
+- Location - New Orleans, LA, USA
+
+
 
 ### Canada
 
