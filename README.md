@@ -107,6 +107,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - CSS, Layouts, Grids
 - Location - Brooklyn, NY
 
+##### Jina Anne
+- [@jina](https://twitter.com/jina)
+- [sushiandrobots.com](https://www.sushiandrobots.com/)
+- Topics - Design Systems, Sass, Design, CSS
+
 ##### Una Kravets
 - [@una](http://twitter.com/una)
 - [una.im](https://una.im)
