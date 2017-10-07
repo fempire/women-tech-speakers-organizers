@@ -216,6 +216,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - CSS, HTML, JavaScript, GitHub, a11y, CMSs, FrontEnd, Design, Design Systems, Collaboration, Workshops, Women in Tech
 - Location - Dayton, OH, USA
 
+##### Rachel Ober
+- [@rachelober](https://twitter.com/rachelober)
+- [Personal Website](https://www.rachelober.com)
+- Topics - Keynote, Writing, Speaking, Open Source Software, CSS, Sass, Ruby, Ruby on Rails, RailsBridge, Mentoring, Starting non-profit organizations, Personal Branding, Community Building, creating programming course curriculum, teaching people how to program, teaching people how to teach people how to program
+- Location - New York, NY
+
 ##### Deborah Kurata
 - [@deborahkurata](http://twitter.com/deborahkurata)
 - [Blog](http://blogs.msmvps.com/deborahk/)
@@ -234,6 +240,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Speaking Website](https://github.com/siakaramalegos/sia_speaks)
 - Topics - React, Redux, React Native, NodeJS, JavaScript, GraphQL, workshops, teaching
 - Location - New Orleans, LA, USA
+
 
 
 
@@ -467,6 +474,14 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### US
 
+
+##### Rachel Ober
+- [@rachelober](https://twitter.com/rachelober)
+- [Personal Website](https://www.rachelober.com)
+- How to Contact - Twitter or through my website
+- Topics for Mentoring - Students in Bootcamps, How to Mentor Someone, How to be an awesome Mentee, Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building
+- Location - New York NY
+
 ### India
 #####  Manjula Dune
 - [@manjula_dube](http://twitter.com/manjula_dube)
@@ -476,6 +491,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Medium: https://medium.com/@manjuladube
 - LinkedIn: https://www.linkedin.com/in/manjula-dube-9b5b3550/
 - I love teaching so any one looking out for javascript mentor reach out to me. I would love to talk about it.
+
 
 
 
