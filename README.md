@@ -320,6 +320,19 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - The Hague & Amsterdam, The Netherlands
 - Languages besides English - Dutch
 
+##### Serena Fritsch
+- [@serifritsch](https://twitter.com/serifritsch)
+- Topics - Building Product, Ember, Javascript
+- Location - Dublin, Ireland
+- Languages besides English - German
+
+##### Ingrid Epure
+- [@ingridepure](https://twitter.com/ingridepure)
+- [Personal Website](http://www.storiesinframes.com/)
+- Topics - Ember, Security, DevOps
+- Location - Dublin, Ireland
+- Languages besides English - Romanian
+
 ### India
 
 ##### Kritika Maheshwari
