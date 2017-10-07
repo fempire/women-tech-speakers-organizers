@@ -216,6 +216,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - CSS, HTML, JavaScript, GitHub, a11y, CMSs, FrontEnd, Design, Design Systems, Collaboration, Workshops, Women in Tech
 - Location - Dayton, OH, USA
 
+##### Rachel Ober
+- [@rachelober](https://twitter.com/rachelober)
+- [Personal Website](https://www.rachelober.com)
+- Topics - Keynote, Writing, Speaking, Open Source Software, CSS, Sass, Ruby, Ruby on Rails, RailsBridge, Mentoring, Starting non-profit organizations, Personal Branding, Community Building, creating programming course curriculum, teaching people how to program, teaching people how to teach people how to program
+- Location - New York, NY
 
 ### Canada
 
@@ -416,6 +421,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Explain what you'd like to help women with. Keep it shorter than 3-4 sentences.
 
 ### US
+
+##### Rachel Ober
+- [@rachelober](https://twitter.com/rachelober)
+- [Personal Website](https://www.rachelober.com)
+- How to Contact - Twitter or through my website
+- Topics for Mentoring - Students in Bootcamps, How to Mentor Someone, How to be an awesome Mentee, Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building
+- Location - New York NY
 
 ### Europe
 
