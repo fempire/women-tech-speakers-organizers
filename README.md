@@ -349,6 +349,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [GDG Pitt](https://www.meetup.com/gdg-pitt/), Pittsburgh, PA
 - Group Focus - Google Technology, Machine Learning, Web Development, Android
 
+##### Jina Anne
+- [@jina](https://twitter.com/jina)
+- [Clarity](https://www.clarityconf.com/), San Francisco, CA
+- [SF Design Systems Coalition](https://www.sfdsc.co/), San Francisco, CA
+- [The Mixin](https://www.themixinsf.com/), San Francisco, CA
+- Group Focus - Design Systems, Sass, frontend, product design
+
 ##### K.C. Jones-Evans
 - [@kcjonesevans](https://twitter.com/kcjonesevans)
 - [Dayton Data Viz](https://www.meetup.com/preview/daytondv), Dayton, OH
