@@ -28,8 +28,8 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ##### Raquel Vélez
 - [@rockbot](http://twitter.com/rockbot)
-- [reactive.audio](http://reactive.audio)
-- Topics - Keynote Speeches, JavaScript, Node.js, NPM, Front-End, Robots
+- [rckbt.me](http://rckbt.me)
+- Topics - Keynote Speeches, JavaScript, Node.js, npm, Front-End, Robots
 - Location - Bay Area / San Francisco, CA
 
 ##### Marcy Sutton
@@ -187,9 +187,9 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Madison, WI
 
 ##### Tara Z. Manicsic
-- [@TwitterHandle](https://twitter.com/Tzmanics)
-- [Personal Website](https://tzmanics.com)
-- Topics - JavaScript, Angular, PWAs
+- [@tzmanics](https://twitter.com/Tzmanics)
+- [tzmanics.com](https://tzmanics.com)
+- Topics - JavaScript, PWAs, Node.js, Web Technology, Vue/React/Angular, APIs
 - Location - Cincinnati, OH
 
 ##### Amara Keller
@@ -215,6 +215,26 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [BuildRight Workshop](http://buildright.io/modern-css)
 - Topics - CSS, HTML, JavaScript, GitHub, a11y, CMSs, FrontEnd, Design, Design Systems, Collaboration, Workshops, Women in Tech
 - Location - Dayton, OH, USA
+
+##### Deborah Kurata
+- [@deborahkurata](http://twitter.com/deborahkurata)
+- [Blog](http://blogs.msmvps.com/deborahk/)
+- Topics - Angular, C#, Software Best Practices
+- Location - San Francisco Bay/Silicon Valley Area
+
+##### Kim Crayton
+- [@KimCrayton1](https://twitter.com/@KimCrayton1/)
+- [Personal Website](http://kimcrayton.com/)
+- Topics - Diversity, Mentoring, Women in Tech
+- Location - Atlanta, GA, USA
+
+##### Sia Karamalegos
+- [@thegreengreek](http://twitter.com/thegreengreek)
+- [Medium](https://medium.com/@thegreengreek)
+- [Speaking Website](https://github.com/siakaramalegos/sia_speaks)
+- Topics - React, Redux, React Native, NodeJS, JavaScript, GraphQL, workshops, teaching
+- Location - New Orleans, LA, USA
+
 
 
 ### Canada
@@ -306,6 +326,19 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Budapest, Hungary
 - Languages besides English - Arabic, French
 
+##### Serena Fritsch
+- [@serifritsch](https://twitter.com/serifritsch)
+- Topics - Building Product, Ember, Javascript
+- Location - Dublin, Ireland
+- Languages besides English - German
+
+##### Ingrid Epure
+- [@ingridepure](https://twitter.com/ingridepure)
+- [Personal Website](http://www.storiesinframes.com/)
+- Topics - Ember, Security, DevOps
+- Location - Dublin, Ireland
+- Languages besides English - Romanian
+
 
 ### India
 
@@ -313,6 +346,16 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [@mozkri](https://twitter.com/mozkri)
 - Topics - Open Web Technologies, Rust
 - Location - Hyderabad, India
+
+##### Manjula Dube
+- [@manjula_dube](https://twitter.com/manjula_dube)
+- Email Address - [dube.manjula668@gmail.com]
+- Javascript development, OSS contribution, Front End development, React, Functional Programming
+- Location - Mumbai, India
+- Medium: https://medium.com/@manjuladube
+- LinkedIn: https://www.linkedin.com/in/manjula-dube-9b5b3550/
+- I am currently leading Google Developer Group - WTM. The fact that motivated me to join this community is, I want to see more and more women in leading and growing position.
+ 
 
 ### Lebanon
 
@@ -423,6 +466,18 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Explain what you'd like to help women with. Keep it shorter than 3-4 sentences.
 
 ### US
+
+### India
+#####  Manjula Dune
+- [@manjula_dube](http://twitter.com/manjula_dube)
+- Email Address - [dube.manjula668@gmail.com]
+- Javascript development, OSS contribution, Front End development, React, Functional Programming
+- Location - Mumbai, India
+- Medium: https://medium.com/@manjuladube
+- LinkedIn: https://www.linkedin.com/in/manjula-dube-9b5b3550/
+- I love teaching so any one looking out for javascript mentor reach out to me. I would love to talk about it.
+
+
 
 ### Europe
 
