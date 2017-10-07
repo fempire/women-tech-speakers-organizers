@@ -222,6 +222,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Diversity, Mentoring, Women in Tech
 - Location - Atlanta, GA, USA
 
+##### Sia Karamalegos
+- [@thegreengreek](http://twitter.com/thegreengreek)
+- [Medium](https://medium.com/@thegreengreek)
+- [Speaking Website](https://github.com/siakaramalegos/sia_speaks)
+- Topics - React, Redux, React Native, NodeJS, JavaScript, GraphQL, workshops, teaching
+- Location - New Orleans, LA, USA
+
 
 ### Canada
 
