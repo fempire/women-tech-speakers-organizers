@@ -20,11 +20,37 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### US
 
+
 ##### Aimee Knight
 - [@Aimee_Knight](http://twitter.com/Aimee_Knight)
 - [aimeemarieknight.com](http://www.aimeemarieknight.com/)
 - Topics - JavaScript
 - Location - Nashville, TN
+=======
+##### Tracy Lee
+- [@ladyleet](http://twitter.com/ladyleet)
+- [ladyleet.com](http://www.ladyleet.com)
+- Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship
+- Location - Bay Area / San Francisco, CA & Raleigh, NC
+
+##### Raquel Vélez
+- [@rockbot](http://twitter.com/rockbot)
+- [rckbt.me](http://rckbt.me)
+- Topics - Keynote Speeches, JavaScript, Node.js, npm, Front-End, Robots
+- Location - Bay Area / San Francisco, CA
+
+##### Marcy Sutton
+- [@marcysutton](http://twitter.com/marcysutton)
+- [marcysutton.com](http://marcysutton.com)
+- Topics - Keynote Speeches, JavaScript & Accessibility
+- Location - Bellingham, WA
+
+##### Sarah Drasner
+- [@sarah_edo](http://twitter.com/sarah_edo)
+- [sarahdrasnerdesign.com](https://sarahdrasnerdesign.com/)
+- Topics - Keynote Speeches, JavaScript, SVG, Animations, Vue.js
+- Location - Denver, CO
+
 
 ##### Alaina Kafkes
 - [@alainakafkes](https://twitter.com/alainakafkes)
@@ -143,6 +169,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Workshops, JavaScript, Universal Components, React, React Native, GraphQL, Apollo GraphQL
 - Location - Hoboken, NJ
 
+##### Tara Z. Manicsic
+- [@tzmanics](https://twitter.com/Tzmanics)
+- [tzmanics.com](https://tzmanics.com)
+- Topics - JavaScript, PWAs, Node.js, Web Technology, Vue/React/Angular, APIs
+- Location - Cincinnati, OH
+
+
 ##### Preethi Kasireddy
 - [@iam_preethi](http://twitter.com/iam_preethi)
 - [medium.com/@preethikasireddy](https://medium.com/@preethikasireddy)
@@ -215,6 +248,34 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, Socket.IO, React, Creative Coding
 - Location - Portland, OR
 - Languages besides English - Spanish
+
+##### Rachel Ober
+- [@rachelober](https://twitter.com/rachelober)
+- [Personal Website](https://www.rachelober.com)
+- Topics - Keynote, Writing, Speaking, Open Source Software, CSS, Sass, Ruby, Ruby on Rails, RailsBridge, Mentoring, Starting non-profit organizations, Personal Branding, Community Building, creating programming course curriculum, teaching people how to program, teaching people how to teach people how to program
+- Location - New York, NY
+
+##### Deborah Kurata
+- [@deborahkurata](http://twitter.com/deborahkurata)
+- [Blog](http://blogs.msmvps.com/deborahk/)
+- Topics - Angular, C#, Software Best Practices
+- Location - San Francisco Bay/Silicon Valley Area
+
+##### Kim Crayton
+- [@KimCrayton1](https://twitter.com/@KimCrayton1/)
+- [Personal Website](http://kimcrayton.com/)
+- Topics - Diversity, Mentoring, Women in Tech
+- Location - Atlanta, GA, USA
+
+##### Sia Karamalegos
+- [@thegreengreek](http://twitter.com/thegreengreek)
+- [Medium](https://medium.com/@thegreengreek)
+- [Speaking Website](https://github.com/siakaramalegos/sia_speaks)
+- Topics - React, Redux, React Native, NodeJS, JavaScript, GraphQL, workshops, teaching
+- Location - New Orleans, LA, USA
+
+
+
 
 ### Canada
 
@@ -299,12 +360,42 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - The Hague & Amsterdam, The Netherlands
 - Languages besides English - Dutch
 
+##### Manel Rhaiem (Manel, Rhaiem)
+- [@manelbutterfly](https://twitter.com/manelbutterfly)
+- Topics - Business Intelligence, Data Science, Web Technologies
+- Location - Budapest, Hungary
+- Languages besides English - Arabic, French
+
+##### Serena Fritsch
+- [@serifritsch](https://twitter.com/serifritsch)
+- Topics - Building Product, Ember, Javascript
+- Location - Dublin, Ireland
+- Languages besides English - German
+
+##### Ingrid Epure
+- [@ingridepure](https://twitter.com/ingridepure)
+- [Personal Website](http://www.storiesinframes.com/)
+- Topics - Ember, Security, DevOps
+- Location - Dublin, Ireland
+- Languages besides English - Romanian
+
+
 ### India
 
 ##### Kritika Maheshwari
 - [@mozkri](https://twitter.com/mozkri)
 - Topics - Open Web Technologies, Rust
 - Location - Hyderabad, India
+
+##### Manjula Dube
+- [@manjula_dube](https://twitter.com/manjula_dube)
+- Email Address - [dube.manjula668@gmail.com]
+- Javascript development, OSS contribution, Front End development, React, Functional Programming
+- Location - Mumbai, India
+- Medium: https://medium.com/@manjuladube
+- LinkedIn: https://www.linkedin.com/in/manjula-dube-9b5b3550/
+- I am currently leading Google Developer Group - WTM. The fact that motivated me to join this community is, I want to see more and more women in leading and growing position.
+ 
 
 ### Lebanon
 
@@ -415,6 +506,27 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Explain what you'd like to help women with. Keep it shorter than 3-4 sentences.
 
 ### US
+
+
+##### Rachel Ober
+- [@rachelober](https://twitter.com/rachelober)
+- [Personal Website](https://www.rachelober.com)
+- How to Contact - Twitter or through my website
+- Topics for Mentoring - Students in Bootcamps, How to Mentor Someone, How to be an awesome Mentee, Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building
+- Location - New York NY
+
+### India
+#####  Manjula Dune
+- [@manjula_dube](http://twitter.com/manjula_dube)
+- Email Address - [dube.manjula668@gmail.com]
+- Javascript development, OSS contribution, Front End development, React, Functional Programming
+- Location - Mumbai, India
+- Medium: https://medium.com/@manjuladube
+- LinkedIn: https://www.linkedin.com/in/manjula-dube-9b5b3550/
+- I love teaching so any one looking out for javascript mentor reach out to me. I would love to talk about it.
+
+
+
 
 ### Europe
 
