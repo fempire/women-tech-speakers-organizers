@@ -1,5 +1,5 @@
 # Fempire
-This is a list of women tech speakers &amp; organizers. 
+This is a list of women tech speakers &amp; organizers.
 
 Also included in this list is a list of women who would LIKE to get involved & a list of PEOPLE that would like to help and mentor women.
 
@@ -23,7 +23,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ##### Tracy Lee
 - [@ladyleet](http://twitter.com/ladyleet)
 - [ladyleet.com](http://www.ladyleet.com)
-- Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship 
+- Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship
 - Location - Bay Area / San Francisco, CA & Raleigh, NC
 
 ##### Raquel Vélez
@@ -101,7 +101,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [code-cartoons.com](https://code-cartoons.com/)
 - Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly
 
-##### Una Kravets 
+##### Jen Simmons
+- [@jensimmons](https://twitter.com/jensimmons)
+- [jensimmons.com](http://jensimmons.com)
+- Topics - CSS, Layouts, Grids
+- Location - Brooklyn, NY
+
+##### Una Kravets
 - [@una](http://twitter.com/una)
 - [una.im](https://una.im)
 - Topics - Keynotes Speeches, JavaScript, CSS, Animations
@@ -137,6 +143,20 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
 
+##### Alaina Kafkes
+- [@alainakafkes](https://twitter.com/alainakafkes)
+- [alainakafk.es](http://alainakafk.es/)
+- Topics - Technical Writing, Python, iOS Development, Web Development, Community Building
+- Location - Chicago, IL / San Francisco, CA
+- Languages besides English - French
+
+##### Violet Peña
+- No twitter
+- [violet.is](https://violet.is)
+- Topics - JavaScript, Socket.IO, React, Creative Coding
+- Location - Portland, OR
+- Languages besides English - Spanish
+
 ##### Peggy Rayzis
 - [@peggyrayzis](http://twitter.com/peggyrayzis)
 - [Medium Profile](https://medium.com/@peggyrayzis)
@@ -159,6 +179,50 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [elizabethsiegle.github.io](https://elizabethsiegle.github.io)
 - Topics - Workshops, JavaScript, Swift, Haskell, meetups, hackathons
 - Location - Bryn Mawr, PA + San Francisco, CA
+
+##### Pearl Latteier
+- [@TwitterHandle](https://twitter.com/pblatteier)
+- [Personal Website](https://pearlbea.com)
+- Topics - JavaScript, Web Components, PWAs
+- Location - Madison, WI
+
+##### Tara Z. Manicsic
+- [@TwitterHandle](https://twitter.com/Tzmanics)
+- [Personal Website](https://tzmanics.com)
+- Topics - JavaScript, Angular, PWAs
+- Location - Cincinnati, OH
+
+##### Amara Keller
+- [@MissAmaraKay](http://twitter.com/MissAmaraKay)
+- [Medium](https://medium.com/@MissAmaraKay)
+- Topics - AI, JavaScript, NodeJS, Dev Rel, Workshops, meetups
+- Location - Bay Area / San Francisco, CA
+
+##### Jules Kremer
+- [@jules_kremer](http://twitter.com/jules_kremer)
+- Topics - Keynote Speeches, Angular, Women in Tech
+- Location - Mountain View & San Diego, CA & Maui, HI
+
+##### Sarah Withee
+- [@geekygirlsarah](https://twitter.com/geekygirlsarah)
+- [Personal Website](http://www.sarahwithee.com)
+- Topics - Hardware/robotics, workshops, women in tech, mental health in tech
+- Location - Kansas City, MO, US
+
+##### Catherine Meade
+- [@catheraaine](https://twitter.com/catheraaine)
+- [catheraaine.com](http://catheraaine.com/)
+- [BuildRight Workshop](http://buildright.io/modern-css)
+- Topics - CSS, HTML, JavaScript, GitHub, a11y, CMSs, FrontEnd, Design, Design Systems, Collaboration, Workshops, Women in Tech
+- Location - Dayton, OH, USA
+
+
+### Canada
+
+##### Myriam Jessier
+- [@myriamjessier](http://twitter.com/myriamjessier)
+- [Personal Website](https://myriamjessier.com/)
+- Topics - SEO, Marketing, Search, UX
 
 ### Europe
 
@@ -197,10 +261,44 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - London, UK
 - Languages besides English - Romanian
 
+##### Carmen Popoviciu
+- [@CarmenPopoviciu](http://twitter.com/carmenpopoviciu)
+- Topics - Keynote Speeches, Angular, Polymer, Machine Learning, Community
+- Location - Amsterdam, Netherlands
+- Languages besides English - Romanian, Dutch
+
+##### Ola Gasidlo
+- [@misprintedtype](http://twitter.com/misprintedtype)
+- Topics - Keynote Speeches, Offline First, Web Compat
+- Location - Berlin, Germany
+- Languages besides English - German, Polish
+
+##### Stephanie Walter
+- [@WalterStephanie ](http://twitter.com/WalterStephanie)
+- [Personal Website](https://www.stephaniewalter.fr/)
+- Topics - Design, Mobile, UX, CSS, HTML, Javascript
+- Location - Luxembourg
+- Languages besides English - French
+
+##### Britt Barak
+- Facebook - www.facebook.com/britt.barak
+- [@BrittBarak](https://twitter.com/BrittBarak)
+- Medium: https://medium.com/@britt.barak
+- LinkedIn: https://www.linkedin.com/in/brittbarak
+- Topics - Android (developement, OS, UX), Communities.
+- Location - Tel Aviv, Israel
+
 ##### Srushtika Neelakantam
 - [@Srushtika](https://twitter.com/Srushtika)
 - Topics - WebVR, A-Frame, Web Technologies, Realtime Technologies, deepstream.io
 - Location - Berlin, Germany
+
+##### Ineke Scheffers
+- [@FYIneke](https://twitter.com/fyineke) & [@GirlCodeNL](https://twitter.com/GirlCodeNL)
+- [Girl Code](https://www.meetup.com/girlcode/)
+- Topics - Girl Code, women in tech, gender gap in code, workshops, community, web development, changing careers
+- Location - The Hague & Amsterdam, The Netherlands
+- Languages besides English - Dutch
 
 ### India
 
@@ -240,11 +338,46 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Triangle Modern Web](http://www.meetup.com/trianglemodernweb), Raleigh, NC
 - Group Focus - JavaScript, Front End Development
 
+##### Nitya Narashimhan
+- [@nitya](https://twitter.com/nitya)
+- [GDG NYC](https://www.meetup.com/gdgnyc/), New York, NY
+- [GDG Hudson Valley](https://www.meetup.com/gdg-hudson-valley/), Hudson Valley, NY
+- Group Focus - Google Technology, Mobile, Web, Wearables, Cloud, IoT
+
+##### Anastasia Lanz
+- [@anastasialanz](https://twitter.com/anastasialanz)
+- [GDG Pitt](https://www.meetup.com/gdg-pitt/), Pittsburgh, PA
+- Group Focus - Google Technology, Machine Learning, Web Development, Android
+
+##### K.C. Jones-Evans
+- [@kcjonesevans](https://twitter.com/kcjonesevans)
+- [Dayton Data Viz](https://www.meetup.com/preview/daytondv), Dayton, OH
+- Group Focus - Infographic Design and Development, Web Mapping, D3.js, R, Tableau, Matlab, Processing, Hadoop, Data Mining, etc... Anything to do with the design/development of awesome visualizations
+- [GDI Dayton](https://www.meetup.com/preview/girl-develop-it-dayton), Dayton, OH
+
+
 ### Canada
 
 ### Mexico
 
 ### Europe
+
+##### Madlaina Kalunder
+- [@anialdam](http://twitter.com/anialdam)
+- [Women Techmakers Switzerland](https://www.meetup.com/wtm-switzerland/), Switzerland
+
+##### Natalie Pistunovich
+
+- [@nataliepis](https://twitter.com/nataliepis)
+- [Women Technmakers Berlin](http://wtmberlin.com/)
+
+##### Britt Barak
+- Facebook - www.facebook.com/britt.barak
+- [@BrittBarak](https://twitter.com/BrittBarak)
+- [Android Academy TLV](https://www.facebook.com/groups/android.academy.ils), Tel Aviv, Israel
+- Group Focus - Android development (beginners, professionals), Android UX
+- [Women Techmakers Israel](https://www.facebook.com/wtmil/), Tel Aviv, Israel
+- Group Focus - Public speaking, soft skills, WLB, AI, ML, DL.
 
 ### India
 
@@ -283,6 +416,15 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Explain what you'd like to help women with. Keep it shorter than 3-4 sentences.
 
 ### US
+
+### Europe
+
+##### Martin Splitt
+- [@g33konaut](https://twitter.com/g33konaut)
+- [Personal Website](http://geekonaut.de)
+- How to contact - Twitter, open direct messages
+- Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking
+
 ### AUS
 ##### Pavithra Kodmad
 - [@pkodmad](http://twitter.com/PKodmad)
