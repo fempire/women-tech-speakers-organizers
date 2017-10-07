@@ -216,6 +216,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - CSS, HTML, JavaScript, GitHub, a11y, CMSs, FrontEnd, Design, Design Systems, Collaboration, Workshops, Women in Tech
 - Location - Dayton, OH, USA
 
+##### Deborah Kurata
+- [@deborahkurata](http://twitter.com/deborahkurata)
+- [Blog](http://blogs.msmvps.com/deborahk/)
+- Topics - Angular, C#, Software Best Practices
+- Location - San Francisco Bay/Silicon Valley Area
+
 ##### Kim Crayton
 - [@KimCrayton1](https://twitter.com/@KimCrayton1/)
 - [Personal Website](http://kimcrayton.com/)
@@ -228,6 +234,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Speaking Website](https://github.com/siakaramalegos/sia_speaks)
 - Topics - React, Redux, React Native, NodeJS, JavaScript, GraphQL, workshops, teaching
 - Location - New Orleans, LA, USA
+
 
 
 ### Canada
