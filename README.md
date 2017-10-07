@@ -300,6 +300,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - The Hague & Amsterdam, The Netherlands
 - Languages besides English - Dutch
 
+##### Manel Rhaiem (Manel, Rhaiem)
+- [@manelbutterfly](https://twitter.com/manelbutterfly)
+- Topics - Business Intelligence, Data Science, Web Technologies
+- Location - Budapest, Hungary
+- Languages besides English - Arabic, French
+
+
 ### India
 
 ##### Kritika Maheshwari
