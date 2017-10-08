@@ -311,6 +311,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 
 
+##### Heather Taylor
+- [@heatherhonie](http://twitter.com/heatherhonie)
+- [Personal Website](http://www.heathercancode.com)
+- Topics - Transitioning from Print Designer to Web Developer, Apprenticeships
+- Location - Dayton, OH, USA
 
 ### Canada
 
