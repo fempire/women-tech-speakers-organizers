@@ -420,6 +420,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Languages besides English - Romanian
 
 
+##### Oana Galbenu
+- [@oanaalex](https://twitter.com/oanaalex)
+- [galbenu.ro](http://galbenu.ro/)
+- Topics - Keynote Speeches, HTML, CSS and preprocessors, Agile
+- Location - Bucharest, Romania
+- Languages besides English - Romanian
+
 ### India
 
 ##### Kritika Maheshwari
@@ -531,6 +538,17 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### US
 
+###Europe
+
+##### Oana Galbenu 
+- [@oanaalex](https://twitter.com/oanaalex)
+- [galbenu.ro](http://galbenu.ro/)
+- oana@galbenu.ro. oanagalbenu@gmail.com
+- Topics of Interest- HTML, CSS and preprocessors, Agile
+- Location - Bucharest, Romania, other Romanian cities
+- Languages besides English - Romanian
+- I would like to put together a group of exepienced people that would volunteer to mentor and guide the emergind developers.
+
 ### India
 
 #### Meghna Gupta
@@ -582,6 +600,15 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Personal Website](http://geekonaut.de)
 - How to contact - Twitter, open direct messages
 - Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking
+
+##### Oana Galbenu 
+- [@oanaalex](https://twitter.com/oanaalex)
+- [galbenu.ro](http://galbenu.ro/)
+- How to Contact - [oana@galbenu.ro](mailto:oana@galbenu.ro), [oanagalbenu@gmail.com](mailto:oanagalbenu@gmail.com) or [Twitter](https://twitter.com/oanaalex), open direct messages
+- Topics for Mentoring - HTML, CSS and preprocessors, Agile
+- Location - Bucharest, Romania, other Romanian cities, or any location via Skype (or other media)
+- Languages besides English - Romanian
+- I have more than 10 years of work expecience and more that 8 years as a fully registered web developer. I would like to help women understand the basics of the Web and help them. I have also worked a lot with Agile and I am able to coach and help with advice and best practices. 
 
 ### AUS
 ##### Pavithra Kodmad
