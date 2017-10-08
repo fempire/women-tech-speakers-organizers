@@ -112,6 +112,41 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - CSS, Layouts, Grids
 - Location - Brooklyn, NY
 
+##### Jina Anne
+- [@jina](https://twitter.com/jina)
+- [sushiandrobots.com](https://www.sushiandrobots.com/)
+- Topics - Design Systems, Sass, Design, CSS
+
+##### Una Kravets
+- [@una](http://twitter.com/una)
+- [una.im](https://una.im)
+- Topics - Keynotes Speeches, JavaScript, CSS, Animations
+- Location - New York, NY
+
+##### Val Head
+- [@vlh](http://twitter.com/vlh)
+- [valhead.com](http://valhead.com/)
+- Topics - Keynotes Speeches, JavaScript, Animations
+- Location - Pittsburgh, PA
+
+##### Aimee Knight
+- [@Aimee_Knight](http://twitter.com/Aimee_Knight)
+- [aimeemarieknight.com](http://www.aimeemarieknight.com/)
+- Topics - JavaScript
+- Location - Nashville, TN
+
+##### Jennifer Wadella
+- [@likeOMGitsFEDAY](https://twitter.com/likeOMGitsFEDAY)
+- [jenniferwadella.com](https://jenniferwadella.com/)
+- Topics - JavaScript, Jewelbots, Community Building, Women in Tech
+- Location - Kansas City, MO
+
+##### Jen Looper
+- [@jenlooper](http://twitter.com/jenlooper)
+- [ladeezfirstmedia.com](http://www.ladeezfirstmedia.com/)
+- Topics - Keynote Speeches, JavaScript, NativeScript, Web and Mobile Development
+- Location - Boston, MA
+
 ##### Jennifer Bland
 - [@ratracegrad](http://twitter.com/ratracegrad)
 - [jenniferbland.com](http://www.jenniferbland.com/)
