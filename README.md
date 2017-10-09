@@ -427,6 +427,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Bucharest, Romania
 - Languages besides English - Romanian
 
+##### Sara Di Bartolomeo
+- [Picorana](https://picorana.github.io/)
+- Topics - Generative Art, Data Science, Data Visualization, Computer Graphics
+- Location - Rome, Italy
+- Languages besides English - Italian
+
 ### India
 
 ##### Kritika Maheshwari
