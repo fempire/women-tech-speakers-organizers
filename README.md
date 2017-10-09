@@ -25,7 +25,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Powershell, C#
 - Location - Akron, OH
 
-##### Chole Condon
+##### Chloe Condon
 [@chloecondon](https://twitter.com/ChloeCondon)
 [Medium](https://medium.com/@chloecondon)
 - Topics - Developer Evangelism, Docker
@@ -296,7 +296,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ### Canada
 ##### Heather Payne
 [@heatherpayne](https://twitter.com/heatherpayne)
-[Hackeryou](http://hackeryou.com/?utm_source=organicTwitter&utm_medium=Twitter&utm_campaign=HYhomePage-Twitter&utm_content=TwitterBio)
+[Hackeryou](http://hackeryou.com/)
 - Location - Toronto, ON
 
 ### Mexico
