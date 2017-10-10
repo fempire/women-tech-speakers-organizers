@@ -529,6 +529,15 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [@nataliepis](https://twitter.com/nataliepis)
 - [Women Technmakers Berlin](http://wtmberlin.com/)
 
+##### Sherry List
+- [@sherrrylst](http://twitter.com/sherrrylst)
+- [ngCopenhagen](https://www.meetup.com/ngCopenhagen/), Copenhagen, Denmark
+- Group Focus - Angular, AngularJS, Front End Development
+- [GDG Copenhagen](https://www.meetup.com/GDG-Copenhagen/), Copenhagen, Denmark
+- Group Focus - Google Technology, Machine Learning, Web Development, JavaScript
+- [ngVikings](https://ngvikings.org/), Scandinavia
+- Group Focus - Angular
+
 ### India
 
 ## Women Interested In Getting Started / Getting Involved
