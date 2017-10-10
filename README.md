@@ -19,6 +19,17 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Languages besides English - List, Here
 
 ### US
+##### Sarah Dutkiewicz
+[@sadukie](https://twitter.com/sadukie)
+[Coding Geekette](http://www.codinggeekette.com/)
+- Topics - Powershell, C#
+- Location - Akron, OH
+
+##### Chloe Condon
+[@chloecondon](https://twitter.com/ChloeCondon)
+[Medium](https://medium.com/@chloecondon)
+- Topics - Developer Evangelism, Docker
+- Location - Bay Area / San Francisco
 
 
 ##### Aimee Knight
@@ -507,6 +518,10 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Group Focus - JavaScript, Front End Development
 
 ### Canada
+##### Heather Payne
+[@heatherpayne](https://twitter.com/heatherpayne)
+[Hackeryou](http://hackeryou.com/)
+- Location - Toronto, ON
 
 ### Mexico
 
