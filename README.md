@@ -553,6 +553,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [ngVikings](https://ngvikings.org/), Scandinavia
 - Group Focus - Angular
 
+##### Anna Kurylo
+- [@bluebirrrrd](http://twitter.com/bluebirrrrd)
+- [GDG Kyiv-Center](https://www.meetup.com/GDG-Kyiv-Center/), [Women Techmakers Kyiv](https://twitter.com/wtmkyiv), Kyiv, Ukraine
+- Group Focus - Google Technologies, Android, Front end development, Cloud
+
 ### India
 
 ## Women Interested In Getting Started / Getting Involved
@@ -568,7 +573,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### US
 
-###Europe
+### Europe
 
 ##### Oana Galbenu 
 - [@oanaalex](https://twitter.com/oanaalex)
@@ -639,6 +644,15 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Bucharest, Romania, other Romanian cities, or any location via Skype (or other media)
 - Languages besides English - Romanian
 - I have more than 10 years of work expecience and more that 8 years as a fully registered web developer. I would like to help women understand the basics of the Web and help them. I have also worked a lot with Agile and I am able to coach and help with advice and best practices. 
+
+##### Anna Kurylo
+- [@bluebirrrrd](https://twitter.com/bluebirrrrd)
+- [bluebirrrrd.com](https://bluebirrrrd.com)
+- How to Contact - via Twitter
+- Topics for Mentoring - Front End development, JavaScript, Angular
+- Location - Kyiv, Ukraine, or any location via Skype
+- Languages besides English - Russian, Ukrainian
+- I am working as a front end developer, so I would like to help others learn the concepts of front end development, including JavaScript and Angular.  
 
 ### AUS
 ##### Pavithra Kodmad
