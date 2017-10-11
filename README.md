@@ -99,6 +99,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - React, Redux, React Native, NodeJS, JavaScript, GraphQL, workshops, teaching
 - Location - New Orleans, LA, USA
 
+##### Nara Kasbergen
+- [@xiehan](http://twitter.com/xiehan)
+- [nara.codes](http://nara.codes)
+- Topics - Mental health in tech, APIs, Developer Experience (DX), JavaScript, Angular, voice UI development (e.g. Alexa)
+- Location - Washington, DC, USA
+- Languages besides English - Dutch
+
 ##### Preethi Kasireddy
 - [@iam_preethi](http://twitter.com/iam_preethi)
 - [medium.com/@preethikasireddy](https://medium.com/@preethikasireddy)
