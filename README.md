@@ -33,11 +33,27 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
 
+##### Lin Clark
+- [@linclark](http://twitter.com/linclark)
+- [code-cartoons.com](https://code-cartoons.com/)
+- Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly
+
+##### Chloe Condon
+- [@chloecondon](https://twitter.com/ChloeCondon)
+- [Medium](https://medium.com/@chloecondon)
+- Topics - Developer Evangelism, Docker
+- Location - Bay Area / San Francisco
+
 ##### Kim Crayton
 - [@KimCrayton1](https://twitter.com/@KimCrayton1/)
 - [Personal Website](http://kimcrayton.com/)
 - Topics - Diversity, Mentoring, Women in Tech
 - Location - Atlanta, GA, USA
+
+##### Bear Douglas
+- [@beardigsit](https://twitter.com/beardigsit)
+- Topics - Dev Rel, events, Android, APIs
+- Location - San Francisco, CA
 
 ##### Sarah Drasner
 - [@sarah_edo](http://twitter.com/sarah_edo)
@@ -50,29 +66,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Coding Geekette](http://www.codinggeekette.com/)
 - Topics - Powershell, C#
 - Location - Akron, OH
-
-##### Lin Clark
-- [@linclark](http://twitter.com/linclark)
-- [code-cartoons.com](https://code-cartoons.com/)
-- Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly
-
-
-##### Chloe Condon
-- [@chloecondon](https://twitter.com/ChloeCondon)
-- [Medium](https://medium.com/@chloecondon)
-- Topics - Developer Evangelism, Docker
-- Location - Bay Area / San Francisco
-
-##### Bear Douglas
-- [@beardigsit](https://twitter.com/beardigsit)
-- Topics - Dev Rel, events, Android, APIs
-- Location - San Francisco, CA
-
-##### Sarah Drasner
-- [@sarah_edo](http://twitter.com/sarah_edo)
-- [sarahdrasnerdesign.com](https://sarahdrasnerdesign.com/)
-- Topics - Keynote Speeches, JavaScript, SVG, Animations, Vue.js
-- Location - Denver, CO
 
 ##### Val Head
 - [@vlh](http://twitter.com/vlh)
@@ -98,6 +91,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Technical Writing, Python, iOS Development, Web Development, Community Building
 - Location - Chicago, IL / San Francisco, CA
 - Languages besides English - French
+
+##### Sia Karamalegos
+- [@thegreengreek](http://twitter.com/thegreengreek)
+- [Medium](https://medium.com/@thegreengreek)
+- [Speaking Website](https://github.com/siakaramalegos/sia_speaks)
+- Topics - React, Redux, React Native, NodeJS, JavaScript, GraphQL, workshops, teaching
+- Location - New Orleans, LA, USA
 
 ##### Preethi Kasireddy
 - [@iam_preethi](http://twitter.com/iam_preethi)
@@ -132,13 +132,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [@carakuei](http://twitter.com/carakuei)
 - Topics - JavaScript, React
 - Location - Los Angeles, CA
-
-##### Sia Karamalegos
-- [@thegreengreek](http://twitter.com/thegreengreek)
-- [Medium](https://medium.com/@thegreengreek)
-- [Speaking Website](https://github.com/siakaramalegos/sia_speaks)
-- Topics - React, Redux, React Native, NodeJS, JavaScript, GraphQL, workshops, teaching
-- Location - New Orleans, LA, USA
 
 ##### Deborah Kurata
 - [@deborahkurata](http://twitter.com/deborahkurata)
@@ -372,7 +365,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Budapest, Hungary
 - Languages besides English - Arabic, French
 
-
 ##### Ineke Scheffers
 - [@FYIneke](https://twitter.com/fyineke) & [@GirlCodeNL](https://twitter.com/GirlCodeNL)
 - [Girl Code](https://www.meetup.com/girlcode/)
@@ -515,7 +507,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### US
 
-###Europe
+### Europe
 
 ##### Oana Galbenu 
 - [@oanaalex](https://twitter.com/oanaalex)
