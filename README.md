@@ -19,6 +19,17 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Languages besides English - List, Here
 
 ### US
+##### Sarah Dutkiewicz
+[@sadukie](https://twitter.com/sadukie)
+[Coding Geekette](http://www.codinggeekette.com/)
+- Topics - Powershell, C#
+- Location - Akron, OH
+
+##### Chloe Condon
+[@chloecondon](https://twitter.com/ChloeCondon)
+[Medium](https://medium.com/@chloecondon)
+- Topics - Developer Evangelism, Docker
+- Location - Bay Area / San Francisco
 
 
 ##### Aimee Knight
@@ -507,6 +518,10 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Group Focus - JavaScript, Front End Development
 
 ### Canada
+##### Heather Payne
+[@heatherpayne](https://twitter.com/heatherpayne)
+[Hackeryou](http://hackeryou.com/)
+- Location - Toronto, ON
 
 ### Mexico
 
@@ -528,6 +543,15 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 - [@nataliepis](https://twitter.com/nataliepis)
 - [Women Technmakers Berlin](http://wtmberlin.com/)
+
+##### Sherry List
+- [@sherrrylst](http://twitter.com/sherrrylst)
+- [ngCopenhagen](https://www.meetup.com/ngCopenhagen/), Copenhagen, Denmark
+- Group Focus - Angular, AngularJS, Front End Development
+- [GDG Copenhagen](https://www.meetup.com/GDG-Copenhagen/), Copenhagen, Denmark
+- Group Focus - Google Technology, Machine Learning, Web Development, JavaScript
+- [ngVikings](https://ngvikings.org/), Scandinavia
+- Group Focus - Angular
 
 ##### Anna Kurylo
 - [@bluebirrrrd](http://twitter.com/bluebirrrrd)
