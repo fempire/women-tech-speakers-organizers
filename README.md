@@ -183,6 +183,15 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, PWAs, Node.js, Web Technology, Vue/React/Angular, APIs
 - Location - Cincinnati, OH
 
+##### Rachel Arst McCullough
+- [@ArstMcCullough](https://twitter.com/ArstMcCullough)
+- [mcculloughwebservices.com/](https://mcculloughwebservices.com/)
+- Topics 
+  - Building an Entrepreneurial Ecosystem in Mountain Towns
+  - Small Towns, Big Events: Creating and Growing a Thriving Meetup
+- Organizes: [Tahoe Silicon Mountain](http://www.tahoesiliconmountain.com/) - multiple events every month
+- Location - Truckee, CA, USA
+
 ##### Catherine Meade
 - [@catheraaine](https://twitter.com/catheraaine)
 - [catheraaine.com](http://catheraaine.com/)
