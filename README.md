@@ -50,6 +50,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Diversity, Mentoring, Women in Tech
 - Location - Atlanta, GA, USA
 
+##### Santina Croniser
+- [@SantinaCroniser](https://twitter.com/santinacroniser)
+- Topics - Accessibility, Diversity, Women in Tech, Frontend Development, CMS, Tech in Higher Education
+- Location - Chicago, IL
+
 ##### Bear Douglas
 - [@beardigsit](https://twitter.com/beardigsit)
 - Topics - Dev Rel, events, Android, APIs
