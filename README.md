@@ -270,6 +270,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynote Speeches, JavaScript, Accessibility, Standards
 - Location - San Francisco, CA
 
+##### Rachel White
+- [@ohhoe](http://www.twitter.com/ohhoe)
+- [rachelisaweso.me](http://rachelisaweso.me)
+- Topics - Keynote Speeches, JavaScript, Node.js, Creative Coding, Bots, IoT, Hardware / Robotics, Cyberpunk, Educating new devs, Community, AI
+- Location - Brooklyn, NY. 
+
 ##### Sarah Withee
 - [@geekygirlsarah](https://twitter.com/geekygirlsarah)
 - [Personal Website](http://www.sarahwithee.com)
