@@ -288,6 +288,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, Angular, VR
 - Location - San Francisco, CA
 
+##### Linda Nichols
+- [@lynnaloo](http://twitter.com/lynnaloo)
+- Topics - Serverless, NodeBots, Open Source/Github
+- Location - Norfolk, VA
+
 ### Canada
 
 ##### Myriam Jessier
@@ -476,6 +481,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [GDG NYC](https://www.meetup.com/gdgnyc/), New York, NY
 - [GDG Hudson Valley](https://www.meetup.com/gdg-hudson-valley/), Hudson Valley, NY
 - Group Focus - Google Technology, Mobile, Web, Wearables, Cloud, IoT
+
+##### Linda Nichols
+- [@lynnaloo](https://twitter.com/lynnaloo)
+- [Norfolk.js](https://www.norfolkjs.org), Norfolk, VA
+- [RevolutionConf](https://www.revolutionconf.com), Norfolk VA
+- Group Focus - JavaScript, NodeBots
 
 ### Canada
 ##### Heather Payne
