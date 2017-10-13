@@ -210,6 +210,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynote, Writing, Speaking, Open Source Software, CSS, Sass, Ruby, Ruby on Rails, RailsBridge, Mentoring, Starting non-profit organizations, Personal Branding, Community Building, creating programming course curriculum, teaching people how to program, teaching people how to teach people how to program
 - Location - New York, NY
 
+##### Lyndsey Padget
+- [@lyndseypadget](https://twitter.com/lyndseypadget)
+- [lyndseypadget.com](http://www.lyndseypadget.com)
+- Topics - Git, REST, Node.js, JavaScript, Microservices, Back-end development, Public Speaking, Java, Women in Tech, Work/life balance, Badassery
+- Location - Kansas City, MO
+
 ##### Violet Peña
 - No twitter
 - [violet.is](https://violet.is)
