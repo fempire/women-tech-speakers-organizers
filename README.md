@@ -217,6 +217,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Portland, OR
 - Languages besides English - Spanish
 
+##### Maggie Pint
+- [@maggiepint](https://twitter.com/maggiepint)
+- [maggiepint.com](https://maggiepint.com)
+- Topics - Open Source Sustainability, JavaScript Libraries, Standards/TC39, DateTime, Azure/Cloud
+- Location - Redmond, WA
+
 ##### Natalie Qabazard
 - [@natqab](http://twitter.com/natqab)
 - Topics - JavaScript, React
