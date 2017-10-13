@@ -99,8 +99,9 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ##### Sia Karamalegos
 - [@thegreengreek](http://twitter.com/thegreengreek)
+- [siakaramalegos.github.io/](https://siakaramalegos.github.io/)
 - [Medium](https://medium.com/@thegreengreek)
-- [Speaking Website](https://github.com/siakaramalegos/sia_speaks)
+- [GitHub](https://github.com/siakaramalegos/)
 - Topics - React, Redux, React Native, NodeJS, JavaScript, GraphQL, workshops, teaching
 - Location - New Orleans, LA, USA
 
@@ -191,7 +192,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ##### Rachel Arst McCullough
 - [@ArstMcCullough](https://twitter.com/ArstMcCullough)
 - [mcculloughwebservices.com/](https://mcculloughwebservices.com/)
-- Topics 
+- Topics
   - Building an Entrepreneurial Ecosystem in Mountain Towns
   - Small Towns, Big Events: Creating and Growing a Thriving Meetup
 - Organizes: [Tahoe Silicon Mountain](http://www.tahoesiliconmountain.com/) - multiple events every month
@@ -286,7 +287,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [@ohhoe](http://www.twitter.com/ohhoe)
 - [rachelisaweso.me](http://rachelisaweso.me)
 - Topics - Keynote Speeches, JavaScript, Node.js, Creative Coding, Bots, IoT, Hardware / Robotics, Cyberpunk, Educating new devs, Community, AI
-- Location - Brooklyn, NY. 
+- Location - Brooklyn, NY.
 
 ##### Sarah Withee
 - [@geekygirlsarah](https://twitter.com/geekygirlsarah)
@@ -438,7 +439,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [@mozkri](https://twitter.com/mozkri)
 - Topics - Open Web Technologies, Rust
 - Location - Hyderabad, India
- 
+
 ### Lebanon
 
 ##### Sara Soueidan
@@ -548,7 +549,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### Europe
 
-##### Oana Galbenu 
+##### Oana Galbenu
 - [@oanaalex](https://twitter.com/oanaalex)
 - [galbenu.ro](http://galbenu.ro/)
 - oana@galbenu.ro. oanagalbenu@gmail.com
@@ -607,14 +608,14 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - How to contact - Twitter, open direct messages
 - Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking
 
-##### Oana Galbenu 
+##### Oana Galbenu
 - [@oanaalex](https://twitter.com/oanaalex)
 - [galbenu.ro](http://galbenu.ro/)
 - How to Contact - [oana@galbenu.ro](mailto:oana@galbenu.ro), [oanagalbenu@gmail.com](mailto:oanagalbenu@gmail.com) or [Twitter](https://twitter.com/oanaalex), open direct messages
 - Topics for Mentoring - HTML, CSS and preprocessors, Agile
 - Location - Bucharest, Romania, other Romanian cities, or any location via Skype (or other media)
 - Languages besides English - Romanian
-- I have more than 10 years of work expecience and more that 8 years as a fully registered web developer. I would like to help women understand the basics of the Web and help them. I have also worked a lot with Agile and I am able to coach and help with advice and best practices. 
+- I have more than 10 years of work expecience and more that 8 years as a fully registered web developer. I would like to help women understand the basics of the Web and help them. I have also worked a lot with Agile and I am able to coach and help with advice and best practices.
 
 ### AUS
 ##### Pavithra Kodmad
