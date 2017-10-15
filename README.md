@@ -517,6 +517,8 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ##### Madlaina Kalunder
 - [@anialdam](http://twitter.com/anialdam)
 - [Women Techmakers Switzerland](https://www.meetup.com/wtm-switzerland/), Switzerland
+- Group Focus - Diversity in Tech (all levels), enabling young people in tech, public speaking, workshops, soft skills, project managment and anything that is important to our community.
+- Location: Zurich, Switzerland
 
 ##### Sherry List
 - [@sherrrylst](http://twitter.com/sherrrylst)
@@ -607,6 +609,14 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Personal Website](http://geekonaut.de)
 - How to contact - Twitter, open direct messages
 - Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking
+
+##### Madlaina Kalunder
+- [@anialdam](https://twitter.com/anialdam)
+- [Personal Website](http://madlaina.li)
+- How to contact - Twitter, open direct messages
+- Location - Zurich, Switzerland, the Netherlands, any location
+- Languages: English, German, a little dutch, french and spanish (want to practise)
+- Topics for mentoring - WebVR, 3D, 3D for the web, Game Development, Web Development, digital creation
 
 ##### Oana Galbenu
 - [@oanaalex](https://twitter.com/oanaalex)
