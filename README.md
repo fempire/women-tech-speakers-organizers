@@ -105,6 +105,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, React
 - Location - San Francisco, CA
 
+##### Elle Waters
+- [@Nethermind](http://twitter.com/Nethermind)
+- [simplyaccessible.com](http://www.simplyaccessible.com)
+- Topics - Keynote Speeches, Accessibility, Agile, Inclusive Design, Change Management, Women in Tech, Startup, Entrepreneurship
+- Location - United States
+
 ##### Estelle Weyl
 - [@estellevw](http://twitter.com/estellevw)
 - [standardista.com](http://www.standardista.com/)
