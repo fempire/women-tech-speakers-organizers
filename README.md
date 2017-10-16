@@ -370,6 +370,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Berlin, Germany
 - Languages besides English - German, Polish
 
+##### Marie Guillaumet
+- [@kReEsTaL](https://twitter.com/kReEsTaL)
+- [Personal Website](https://marieguillaumet.com/)
+- Topics - Accessibility, UX, HTML/CSS, WordPress, diversity, women in tech
+- Location - Rennes, France
+- Languages besides English - French
+
 ##### Franziska Hinkelmann
 - [@fhinkel](http://twitter.com/fhinkel)
 - Topics - JavaScript VMs, Chrome V8
