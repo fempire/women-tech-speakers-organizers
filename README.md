@@ -463,6 +463,15 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - HTML/CSS, JavaScript, Accessibility, Progressive Enhancement
 - Location - Lagos, Nigeria
 
+### Argentina
+
+##### Morinigo Laura
+- [@lala_morinigo] (http://twitter.com/lala_morinigo)
+- Topics - Firebase, Javascript, AngularJS, PWA, NodeJS, MongoDB
+- Location - Buenos Aires, Argentina but currently traveling around as a digital nomad.
+- English, Spanish
+
+
 ## Women Tech Organizers
 #### Example Format
 ##### Full Name (First, Last)
@@ -510,6 +519,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Toronto, ON
 
 ### Mexico
+
+### Argentina
+
+##### Laura Morinigo
+- [@lala_morinigo](https://twitter.com/lala_morinigo)
+- [GDG Rio de La Plata / Women Techmakers Rio de la Plata](http://www.meetup.com/gdgriodelaplata)
+- Location - Buenos Aires, Argentina
 
 ### Europe
 
