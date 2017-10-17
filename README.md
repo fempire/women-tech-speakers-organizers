@@ -3,7 +3,7 @@ This is a list of women tech speakers &amp; organizers.
 
 Also included in this list is a list of women who would LIKE to get involved & a list of PEOPLE that would like to help and mentor women.
 
-Add yourself or others by submitting a PR!
+Add yourself or others by submitting a PR! Please add yourself alphabetically, per region.
 
 This list originally started from a [twitter list](https://twitter.com/ladyleet/lists/fempire) I keep - it's not complete, but it's a start if you'd like to follow!
 
@@ -18,43 +18,47 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - City, State, Country
 - Languages besides English - List, Here
 
+--
+
 ### US
-##### Sarah Dutkiewicz
-[@sadukie](https://twitter.com/sadukie)
-[Coding Geekette](http://www.codinggeekette.com/)
-- Topics - Powershell, C#
-- Location - Akron, OH
+
+##### Jina Anne
+- [@jina](https://twitter.com/jina)
+- [sushiandrobots.com](https://www.sushiandrobots.com/)
+- Topics - Design Systems, Sass, Design, CSS
+
+##### Jennifer Bland
+- [@ratracegrad](http://twitter.com/ratracegrad)
+- [jenniferbland.com](http://www.jenniferbland.com/)
+- Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
+- Location - Atlanta, GA
+
+##### Lin Clark
+- [@linclark](http://twitter.com/linclark)
+- [code-cartoons.com](https://code-cartoons.com/)
+- Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly
 
 ##### Chloe Condon
-[@chloecondon](https://twitter.com/ChloeCondon)
-[Medium](https://medium.com/@chloecondon)
+- [@chloecondon](https://twitter.com/ChloeCondon)
+- [Medium](https://medium.com/@chloecondon)
 - Topics - Developer Evangelism, Docker
 - Location - Bay Area / San Francisco
 
+##### Kim Crayton
+- [@KimCrayton1](https://twitter.com/@KimCrayton1/)
+- [Personal Website](http://kimcrayton.com/)
+- Topics - Diversity, Mentoring, Women in Tech
+- Location - Atlanta, GA, USA
 
-##### Aimee Knight
-- [@Aimee_Knight](http://twitter.com/Aimee_Knight)
-- [aimeemarieknight.com](http://www.aimeemarieknight.com/)
-- Topics - JavaScript
-- Location - Nashville, TN
-=======
-##### Tracy Lee
-- [@ladyleet](http://twitter.com/ladyleet)
-- [ladyleet.com](http://www.ladyleet.com)
-- Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship
-- Location - Bay Area / San Francisco, CA & Raleigh, NC
+##### Santina Croniser
+- [@SantinaCroniser](https://twitter.com/santinacroniser)
+- Topics - Accessibility, Diversity, Women in Tech, Frontend Development, CMS, Tech in Higher Education
+- Location - Chicago, IL
 
-##### Raquel Vélez
-- [@rockbot](http://twitter.com/rockbot)
-- [rckbt.me](http://rckbt.me)
-- Topics - Keynote Speeches, JavaScript, Node.js, npm, Front-End, Robots
-- Location - Bay Area / San Francisco, CA
-
-##### Marcy Sutton
-- [@marcysutton](http://twitter.com/marcysutton)
-- [marcysutton.com](http://marcysutton.com)
-- Topics - Keynote Speeches, JavaScript & Accessibility
-- Location - Bellingham, WA
+##### Bear Douglas
+- [@beardigsit](https://twitter.com/beardigsit)
+- Topics - Dev Rel, events, Android, APIs
+- Location - San Francisco, CA
 
 ##### Sarah Drasner
 - [@sarah_edo](http://twitter.com/sarah_edo)
@@ -62,6 +66,29 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynote Speeches, JavaScript, SVG, Animations, Vue.js
 - Location - Denver, CO
 
+##### Sarah Dutkiewicz
+- [@sadukie](https://twitter.com/sadukie)
+- [Coding Geekette](http://www.codinggeekette.com/)
+- Topics - Powershell, C#
+- Location - Akron, OH
+
+##### Val Head
+- [@vlh](http://twitter.com/vlh)
+- [valhead.com](http://valhead.com/)
+- Topics - Keynotes Speeches, JavaScript, Animations
+- Location - Pittsburgh, PA
+
+##### Tomomi Imura
+- [@girlie_mac](https://twitter.com/girlie_mac)
+- [girliemac.com](http://www.girliemac.com/)
+- Topics - Workshops, JS, Node.JS, IoT, mentoring, dev rel, mobile, design
+- Location - San Francisco, CA
+
+##### Mars Jullian
+- [@marsjosephine](http://twitter.com/marsjosephine)
+- [marsjullian.com](http://marsjullian.com/)
+- Topics - JavaScript, React
+- Location - San Francisco, CA
 
 ##### Alaina Kafkes
 - [@alainakafkes](https://twitter.com/alainakafkes)
@@ -70,27 +97,106 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Chicago, IL / San Francisco, CA
 - Languages besides English - French
 
+##### Sia Karamalegos
+- [@thegreengreek](http://twitter.com/thegreengreek)
+- [siakaramalegos.github.io/](https://siakaramalegos.github.io/)
+- [Medium](https://medium.com/@thegreengreek)
+- [GitHub](https://github.com/siakaramalegos/)
+- Topics - React, Redux, React Native, NodeJS, JavaScript, GraphQL, workshops, teaching
+- Location - New Orleans, LA, USA
+
+##### Nara Kasbergen
+- [@xiehan](http://twitter.com/xiehan)
+- [nara.codes](http://nara.codes)
+- Topics - Mental health in tech, APIs, Developer Experience (DX), JavaScript, Angular, voice UI development (e.g. Alexa)
+- Location - Washington, DC, USA
+- Languages besides English - Dutch
+
+##### Preethi Kasireddy
+- [@iam_preethi](http://twitter.com/iam_preethi)
+- [medium.com/@preethikasireddy](https://medium.com/@preethikasireddy)
+- Topics - JavaScript, React
+- Location - San Francisco, CA
+
 ##### Amara Keller
 - [@MissAmaraKay](http://twitter.com/MissAmaraKay)
 - [Medium](https://medium.com/@MissAmaraKay)
 - Topics - AI, JavaScript, NodeJS, Dev Rel, Workshops, meetups
 - Location - Bay Area / San Francisco, CA
 
-##### Ayşegül Yönet
-- [@AysSomething](http://twitter.com/AysSomething)
-- [Aysegul Yonet](https://developers.google.com/experts/people/aysegul-yonet)
-- Topics - JavaScript, Angular, VR
-- Location - San Francisco, CA
+##### Aimee Knight
+- [@Aimee_Knight](http://twitter.com/Aimee_Knight)
+- [aimeemarieknight.com](http://www.aimeemarieknight.com/)
+- Topics - JavaScript
+- Location - Nashville, TN
 
-##### Bear Douglas
-- [@beardigsit](https://twitter.com/beardigsit)
-- Topics - Dev Rel, events, Android, APIs
-- Location - San Francisco, CA
+##### Una Kravets
+- [@una](http://twitter.com/una)
+- [una.im](https://una.im)
+- Topics - Keynotes Speeches, JavaScript, CSS, Animations
+- Location - New York, NY
+
+##### Jules Kremer
+- [@jules_kremer](http://twitter.com/jules_kremer)
+- Topics - Keynote Speeches, Angular, Women in Tech
+- Location - Mountain View & San Diego, CA & Maui, HI
 
 ##### Cara Kuei
 - [@carakuei](http://twitter.com/carakuei)
 - Topics - JavaScript, React
 - Location - Los Angeles, CA
+
+##### Deborah Kurata
+- [@deborahkurata](http://twitter.com/deborahkurata)
+- [Blog](http://blogs.msmvps.com/deborahk/)
+- Topics - Angular, C#, Software Best Practices
+- Location - San Francisco Bay/Silicon Valley Area
+
+##### Pearl Latteier
+- [@TwitterHandle](https://twitter.com/pblatteier)
+- [Personal Website](https://pearlbea.com)
+- Topics - JavaScript, Web Components, PWAs
+- Location - Madison, WI
+
+##### Tracy Lee
+- [@ladyleet](http://twitter.com/ladyleet)
+- [ladyleet.com](http://www.ladyleet.com)
+- Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship
+- Location - Bay Area / San Francisco, CA & Raleigh, NC
+
+##### Devon Lindsey
+- [@devonbl](http://twitter.com/devonbl)
+- [devonbrookelindsey.com](http://devonbrookelindsey.com/)
+- Topics - JavaScript, React
+- Location - San Francisco, CA
+
+##### Stacy London
+- [@devonbl](http://twitter.com/stacylondoner)
+- [stacy-london.com](http://stacy-london.com/)
+- Topics - JavaScript, React
+- Location - San Francisco, CA
+
+##### Jen Looper
+- [@jenlooper](http://twitter.com/jenlooper)
+- [ladeezfirstmedia.com](http://www.ladeezfirstmedia.com/)
+- Topics - Keynote Speeches, JavaScript, NativeScript, Web and Mobile Development, IOT, Machine Learning
+- Location - Boston, MA
+- Languages - English and French
+
+##### Tara Z. Manicsic
+- [@tzmanics](https://twitter.com/Tzmanics)
+- [tzmanics.com](https://tzmanics.com)
+- Topics - JavaScript, PWAs, Node.js, Web Technology, Vue/React/Angular, APIs
+- Location - Cincinnati, OH
+
+##### Rachel Arst McCullough
+- [@ArstMcCullough](https://twitter.com/ArstMcCullough)
+- [mcculloughwebservices.com/](https://mcculloughwebservices.com/)
+- Topics
+  - Building an Entrepreneurial Ecosystem in Mountain Towns
+  - Small Towns, Big Events: Creating and Growing a Thriving Meetup
+- Organizes: [Tahoe Silicon Mountain](http://www.tahoesiliconmountain.com/) - multiple events every month
+- Location - Truckee, CA, USA
 
 ##### Catherine Meade
 - [@catheraaine](https://twitter.com/catheraaine)
@@ -99,121 +205,35 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - CSS, HTML, JavaScript, GitHub, a11y, CMSs, FrontEnd, Design, Design Systems, Collaboration, Workshops, Women in Tech
 - Location - Dayton, OH, USA
 
-##### Devon Lindsey
-- [@devonbl](http://twitter.com/devonbl)
-- [devonbrookelindsey.com](http://devonbrookelindsey.com/)
-- Topics - JavaScript, React
-- Location - San Francisco, CA
-
-##### Elle Waters
-- [@Nethermind](http://twitter.com/Nethermind)
-- [simplyaccessible.com](http://www.simplyaccessible.com)
-- Topics - Keynote Speeches, Accessibility, Agile, Inclusive Design, Change Management, Women in Tech, Startup, Entrepreneurship
-- Location - United States
-
-##### Estelle Weyl
-- [@estellevw](http://twitter.com/estellevw)
-- [standardista.com](http://www.standardista.com/)
-- Topics - Keynote Speeches, JavaScript, Accessibility, Standards
-- Location - San Francisco, CA
-
-##### Jen Looper
-- [@jenlooper](http://twitter.com/jenlooper)
-- [ladeezfirstmedia.com](http://www.ladeezfirstmedia.com/)
-- Topics - Keynote Speeches, JavaScript, NativeScript, Web and Mobile Development
-- Location - Boston, MA
-
-##### Jen Simmons
-- [@jensimmons](https://twitter.com/jensimmons)
-- [jensimmons.com](http://jensimmons.com)
-- Topics - CSS, Layouts, Grids
-- Location - Brooklyn, NY
-
-##### Jina Anne
-- [@jina](https://twitter.com/jina)
-- [sushiandrobots.com](https://www.sushiandrobots.com/)
-- Topics - Design Systems, Sass, Design, CSS
-
-##### Una Kravets
-- [@una](http://twitter.com/una)
-- [una.im](https://una.im)
-- Topics - Keynotes Speeches, JavaScript, CSS, Animations
+##### Rachel Ober
+- [@rachelober](https://twitter.com/rachelober)
+- [Personal Website](https://www.rachelober.com)
+- Topics - Keynote, Writing, Speaking, Open Source Software, CSS, Sass, Ruby, Ruby on Rails, RailsBridge, Mentoring, Starting non-profit organizations, Personal Branding, Community Building, creating programming course curriculum, teaching people how to program, teaching people how to teach people how to program
 - Location - New York, NY
 
-##### Val Head
-- [@vlh](http://twitter.com/vlh)
-- [valhead.com](http://valhead.com/)
-- Topics - Keynotes Speeches, JavaScript, Animations
-- Location - Pittsburgh, PA
-
-##### Aimee Knight
-- [@Aimee_Knight](http://twitter.com/Aimee_Knight)
-- [aimeemarieknight.com](http://www.aimeemarieknight.com/)
-- Topics - JavaScript
-- Location - Nashville, TN
-
-##### Jennifer Wadella
-- [@likeOMGitsFEDAY](https://twitter.com/likeOMGitsFEDAY)
-- [jenniferwadella.com](https://jenniferwadella.com/)
-- Topics - JavaScript, Jewelbots, Community Building, Women in Tech
+##### Lyndsey Padget
+- [@lyndseypadget](https://twitter.com/lyndseypadget)
+- [lyndseypadget.com](http://www.lyndseypadget.com)
+- Topics - Git, REST, Node.js, JavaScript, Microservices, Back-end development, Public Speaking, Java, Women in Tech, Work/life balance, Badassery
 - Location - Kansas City, MO
 
-##### Jen Looper
-- [@jenlooper](http://twitter.com/jenlooper)
-- [ladeezfirstmedia.com](http://www.ladeezfirstmedia.com/)
-- Topics - Keynote Speeches, JavaScript, NativeScript, Web and Mobile Development
-- Location - Boston, MA
+##### Violet Peña
+- No twitter
+- [violet.is](https://violet.is)
+- Topics - JavaScript, Socket.IO, React, Creative Coding
+- Location - Portland, OR
+- Languages besides English - Spanish
 
-##### Jennifer Bland
-- [@ratracegrad](http://twitter.com/ratracegrad)
-- [jenniferbland.com](http://www.jenniferbland.com/)
-- Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
-- Location - Atlanta, GA
-
-##### Jennifer Wadella
-- [@likeOMGitsFEDAY](https://twitter.com/likeOMGitsFEDAY)
-- [jenniferwadella.com](https://jenniferwadella.com/)
-- Topics - JavaScript, Jewelbots, Community Building, Women in Tech
-- Location - Kansas City, MO
-
-##### Jules Kremer
-- [@jules_kremer](http://twitter.com/jules_kremer)
-- Topics - Keynote Speeches, Angular, Women in Tech
-- Location - Mountain View & San Diego, CA & Maui, HI
-
-##### Lin Clark
-- [@linclark](http://twitter.com/linclark)
-- [code-cartoons.com](https://code-cartoons.com/)
-- Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly
-
-##### Lizzie Siegle
-- [@lizziepika](http://twitter.com/lizziepika)
-- [elizabethsiegle.github.io](https://elizabethsiegle.github.io)
-- Topics - Workshops, JavaScript, Swift, Haskell, meetups, hackathons
-- Location - Bryn Mawr, PA + San Francisco, CA
-
-##### Marcy Sutton
-- [@marcysutton](http://twitter.com/marcysutton)
-- [marcysutton.com](http://marcysutton.com)
-- Topics - Keynote Speeches, JavaScript & Accessibility
-- Location - Bellingham, WA
-
-##### Mars Jullian
-- [@marsjosephine](http://twitter.com/marsjosephine)
-- [marsjullian.com](http://marsjullian.com/)
-- Topics - JavaScript, React
-- Location - San Francisco, CA
+##### Maggie Pint
+- [@maggiepint](https://twitter.com/maggiepint)
+- [maggiepint.com](https://maggiepint.com)
+- Topics - Open Source Sustainability, JavaScript Libraries, Standards/TC39, DateTime, Azure/Cloud
+- Location - Redmond, WA
 
 ##### Natalie Qabazard
 - [@natqab](http://twitter.com/natqab)
 - Topics - JavaScript, React
 - Location - San Francisco, CA
-
-##### Pearl Latteier
-- [@TwitterHandle](https://twitter.com/pblatteier)
-- [Personal Website](https://pearlbea.com)
-- Topics - JavaScript, Web Components, PWAs
-- Location - Madison, WI
 
 ##### Peggy Rayzis
 - [@peggyrayzis](http://twitter.com/peggyrayzis)
@@ -221,30 +241,53 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Workshops, JavaScript, Universal Components, React, React Native, GraphQL, Apollo GraphQL
 - Location - Hoboken, NJ
 
-##### Tara Z. Manicsic
-- [@tzmanics](https://twitter.com/Tzmanics)
-- [tzmanics.com](https://tzmanics.com)
-- Topics - JavaScript, PWAs, Node.js, Web Technology, Vue/React/Angular, APIs
-- Location - Cincinnati, OH
+##### Lizzie Siegle
+- [@lizziepika](http://twitter.com/lizziepika)
+- [elizabethsiegle.github.io](https://elizabethsiegle.github.io)
+- Topics - Workshops, JavaScript, Swift, Haskell, meetups, hackathons
+- Location - Bryn Mawr, PA + San Francisco, CA
 
+##### Jen Simmons
+- [@jensimmons](https://twitter.com/jensimmons)
+- [jensimmons.com](http://jensimmons.com)
+- Topics - CSS, Layouts, Grids
+- Location - Brooklyn, NY
 
-##### Preethi Kasireddy
-- [@iam_preethi](http://twitter.com/iam_preethi)
-- [medium.com/@preethikasireddy](https://medium.com/@preethikasireddy)
-- Topics - JavaScript, React
-- Location - San Francisco, CA
+##### Marcy Sutton
+- [@marcysutton](http://twitter.com/marcysutton)
+- [marcysutton.com](http://marcysutton.com)
+- Topics - Keynote Speeches, JavaScript & Accessibility
+- Location - Bellingham, WA
+
+##### Heather Taylor
+- [@heatherhonie](http://twitter.com/heatherhonie)
+- [Personal Website](http://www.heathercancode.com)
+- Topics - Transitioning from Print Designer to Web Developer, Apprenticeships
+- Location - Dayton, OH, USA
 
 ##### Raquel Vélez
 - [@rockbot](http://twitter.com/rockbot)
-- [reactive.audio](http://reactive.audio)
-- Topics - Keynote Speeches, JavaScript, Node.js, NPM, Front-End, Robots
+- [rckbt.me](http://rckbt.me)
+- Topics - Keynote Speeches, JavaScript, Node.js, npm, Front-End, Robots
 - Location - Bay Area / San Francisco, CA
 
-##### Sarah Drasner
-- [@sarah_edo](http://twitter.com/sarah_edo)
-- [sarahdrasnerdesign.com](https://sarahdrasnerdesign.com/)
-- Topics - Keynote Speeches, JavaScript, SVG, Animations, Vue.js
-- Location - Denver, CO
+##### Jennifer Wadella
+- [@likeOMGitsFEDAY](https://twitter.com/likeOMGitsFEDAY)
+- [jenniferwadella.com](https://jenniferwadella.com/)
+- Topics - JavaScript, Jewelbots, Community Building, Women in Tech
+- Location - Kansas City, MO
+
+##### Estelle Weyl
+- [@estellevw](http://twitter.com/estellevw)
+- [standardista.com](http://www.standardista.com/)
+- Topics - Keynote Speeches, JavaScript, Accessibility, Standards
+- Location - San Francisco, CA
+
+##### Rachel White
+- [@ohhoe](http://www.twitter.com/ohhoe)
+- [rachelisaweso.me](http://rachelisaweso.me)
+- Topics - Keynote Speeches, JavaScript, Node.js, Creative Coding, Bots, IoT, Hardware / Robotics, Cyberpunk, Educating new devs, Community, AI
+- Location - Brooklyn, NY.
 
 ##### Sarah Withee
 - [@geekygirlsarah](https://twitter.com/geekygirlsarah)
@@ -258,81 +301,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Data Viz, JavaScript, React
 - Location - San Francisco, CA
 
-##### Stacy London
-- [@devonbl](http://twitter.com/stacylondoner)
-- [stacy-london.com](http://stacy-london.com/)
-- Topics - JavaScript, React
+##### Ayşegül Yönet
+- [@AysSomething](http://twitter.com/AysSomething)
+- [Aysegul Yonet](https://developers.google.com/experts/people/aysegul-yonet)
+- Topics - JavaScript, Angular, VR
 - Location - San Francisco, CA
-
-##### Tara Z. Manicsic
-- [@TwitterHandle](https://twitter.com/Tzmanics)
-- [Personal Website](https://tzmanics.com)
-- Topics - JavaScript, Angular, PWAs
-- Location - Cincinnati, OH
-
-##### Tomomi Imura
-- [@girlie_mac](https://twitter.com/girlie_mac)
-- [girliemac.com](http://www.girliemac.com/)
-- Topics - Workshops, JS, Node.JS, IoT, mentoring, dev rel, mobile, design
-- Location - San Francisco, CA
-
-##### Tracy Lee
-- [@ladyleet](http://twitter.com/ladyleet)
-- [ladyleet.com](http://www.ladyleet.com)
-- Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship
-- Location - Bay Area / San Francisco, CA & Raleigh, NC
-
-##### Una Kravets
-- [@una](http://twitter.com/una)
-- [una.im](https://una.im)
-- Topics - Keynotes Speeches, JavaScript, CSS, Animations
-- Location - New York, NY
-
-##### Val Head
-- [@vlh](http://twitter.com/vlh)
-- [valhead.com](http://valhead.com/)
-- Topics - Keynotes Speeches, JavaScript, Animations
-- Location - Pittsburgh, PA
-
-##### Violet Peña
-- No twitter
-- [violet.is](https://violet.is)
-- Topics - JavaScript, Socket.IO, React, Creative Coding
-- Location - Portland, OR
-- Languages besides English - Spanish
-
-##### Rachel Ober
-- [@rachelober](https://twitter.com/rachelober)
-- [Personal Website](https://www.rachelober.com)
-- Topics - Keynote, Writing, Speaking, Open Source Software, CSS, Sass, Ruby, Ruby on Rails, RailsBridge, Mentoring, Starting non-profit organizations, Personal Branding, Community Building, creating programming course curriculum, teaching people how to program, teaching people how to teach people how to program
-- Location - New York, NY
-
-##### Deborah Kurata
-- [@deborahkurata](http://twitter.com/deborahkurata)
-- [Blog](http://blogs.msmvps.com/deborahk/)
-- Topics - Angular, C#, Software Best Practices
-- Location - San Francisco Bay/Silicon Valley Area
-
-##### Kim Crayton
-- [@KimCrayton1](https://twitter.com/@KimCrayton1/)
-- [Personal Website](http://kimcrayton.com/)
-- Topics - Diversity, Mentoring, Women in Tech
-- Location - Atlanta, GA, USA
-
-##### Sia Karamalegos
-- [@thegreengreek](http://twitter.com/thegreengreek)
-- [Medium](https://medium.com/@thegreengreek)
-- [Speaking Website](https://github.com/siakaramalegos/sia_speaks)
-- Topics - React, Redux, React Native, NodeJS, JavaScript, GraphQL, workshops, teaching
-- Location - New Orleans, LA, USA
-
-
-
-##### Heather Taylor
-- [@heatherhonie](http://twitter.com/heatherhonie)
-- [Personal Website](http://www.heathercancode.com)
-- Topics - Transitioning from Print Designer to Web Developer, Apprenticeships
-- Location - Dayton, OH, USA
 
 ### Canada
 
@@ -343,12 +316,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### Europe
 
-##### Ada Rose Cannon
-- [@lady_ada_king](https://twitter.com/lady_ada_king)
-- [ada.is](https://ada.is)
-- Topics - WebVR, Progressive Web Apps, Web Technology, Samsung Internet Web Browser
-- Location - London, UK
-
 ##### Britt Barak
 - Facebook - www.facebook.com/britt.barak
 - [@BrittBarak](https://twitter.com/BrittBarak)
@@ -357,40 +324,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Android (developement, OS, UX), Communities.
 - Location - Tel Aviv, Israel
 
-##### Carmen Popoviciu
-- [@CarmenPopoviciu](http://twitter.com/carmenpopoviciu)
-- Topics - Keynote Speeches, Angular, Polymer, Machine Learning, Community
-- Location - Amsterdam, Netherlands
-- Languages besides English - Romanian, Dutch
 
-##### Eva Lettner
-- [@eva_trostlos](http://twitter.com/eva_trostlos)
-- Topics - CSS, Animation
-- Location - Vienna, Austria
-- Languages besides English - German
-
-##### Franziska Hinkelmann
-- [@fhinkel](http://twitter.com/fhinkel)
-- Topics - JavaScript VMs, Chrome V8
-- Location - Munich, Germany
-- Languages besides English - German
-
-##### Hannah Wolfe
-- [@erisDS](http://twitter.com/ErisDS)
-- Topics - JavaScript, sustainable Open Source projects
-- Location - Northhampton, UK
-
-##### Marja Hölttä
-- [@marjakh](http://twitter.com/marjakh)
-- Topics - JavaScript Parsers, Chrome V8
-- Location - Munich, Germany
-- Languages besides English - Finnish
-
-##### Ola Gasidlo
-- [@misprintedtype](http://twitter.com/misprintedtype)
-- Topics - Keynote Speeches, Offline First, Web Compat
-- Location - Berlin, Germany
-- Languages besides English - German, Polish
+##### Ada Rose Cannon
+- [@lady_ada_king](https://twitter.com/lady_ada_king)
+- [ada.is](https://ada.is)
+- Topics - WebVR, Progressive Web Apps, Web Technology, Samsung Internet Web Browser
+- Location - London, UK
 
 ##### Simona Cotin
 - [@simona_cotin](http://twitter.com/simona_cotin)
@@ -398,36 +337,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - London, UK
 - Languages besides English - Romanian
 
-##### Srushtika Neelakantam
-- [@Srushtika](https://twitter.com/Srushtika)
-- Topics - WebVR, A-Frame, Web Technologies, Realtime Technologies, deepstream.io
-- Location - Berlin, Germany
 
-##### Stephanie Walter
-- [@WalterStephanie ](http://twitter.com/WalterStephanie)
-- [Personal Website](https://www.stephaniewalter.fr/)
-- Topics - Design, Mobile, UX, CSS, HTML, Javascript
-- Location - Luxembourg
-- Languages besides English - French
-
-##### Ineke Scheffers
-- [@FYIneke](https://twitter.com/fyineke) & [@GirlCodeNL](https://twitter.com/GirlCodeNL)
-- [Girl Code](https://www.meetup.com/girlcode/)
-- Topics - Girl Code, women in tech, gender gap in code, workshops, community, web development, changing careers
-- Location - The Hague & Amsterdam, The Netherlands
-- Languages besides English - Dutch
-
-##### Manel Rhaiem (Manel, Rhaiem)
-- [@manelbutterfly](https://twitter.com/manelbutterfly)
-- Topics - Business Intelligence, Data Science, Web Technologies
-- Location - Budapest, Hungary
-- Languages besides English - Arabic, French
-
-##### Serena Fritsch
-- [@serifritsch](https://twitter.com/serifritsch)
-- Topics - Building Product, Ember, Javascript
-- Location - Dublin, Ireland
-- Languages besides English - German
+##### Sara Di Bartolomeo
+- [Picorana](https://picorana.github.io/)
+- Topics - Generative Art, Data Science, Data Visualization, Computer Graphics
+- Location - Rome, Italy
+- Languages besides English - Italian
 
 ##### Ingrid Epure
 - [@ingridepure](https://twitter.com/ingridepure)
@@ -436,6 +351,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Dublin, Ireland
 - Languages besides English - Romanian
 
+##### Serena Fritsch
+- [@serifritsch](https://twitter.com/serifritsch)
+- Topics - Building Product, Ember, Javascript
+- Location - Dublin, Ireland
+- Languages besides English - German
 
 ##### Oana Galbenu
 - [@oanaalex](https://twitter.com/oanaalex)
@@ -444,28 +364,88 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Bucharest, Romania
 - Languages besides English - Romanian
 
-##### Sara Di Bartolomeo
-- [Picorana](https://picorana.github.io/)
-- Topics - Generative Art, Data Science, Data Visualization, Computer Graphics
-- Location - Rome, Italy
-- Languages besides English - Italian
+##### Ola Gasidlo
+- [@misprintedtype](http://twitter.com/misprintedtype)
+- Topics - Keynote Speeches, Offline First, Web Compat
+- Location - Berlin, Germany
+- Languages besides English - German, Polish
+
+##### Marie Guillaumet
+- [@kReEsTaL](https://twitter.com/kReEsTaL)
+- [Personal Website](https://marieguillaumet.com/)
+- Topics - Accessibility, UX, HTML/CSS, WordPress, diversity, women in tech
+- Location - Rennes, France
+- Languages besides English - French
+
+##### Franziska Hinkelmann
+- [@fhinkel](http://twitter.com/fhinkel)
+- Topics - JavaScript VMs, Chrome V8
+- Location - Munich, Germany
+- Languages besides English - German
+
+##### Marja Hölttä
+- [@marjakh](http://twitter.com/marjakh)
+- Topics - JavaScript Parsers, Chrome V8
+- Location - Munich, Germany
+- Languages besides English - Finnish
+
+##### Eva Lettner
+- [@eva_trostlos](http://twitter.com/eva_trostlos)
+- Topics - CSS, Animation
+- Location - Vienna, Austria
+- Languages besides English - German
+
+##### Srushtika Neelakantam
+- [@Srushtika](https://twitter.com/Srushtika)
+- Topics - WebVR, A-Frame, Web Technologies, Realtime Technologies, deepstream.io
+- Location - Berlin, Germany
+
+##### Carmen Popoviciu
+- [@CarmenPopoviciu](http://twitter.com/carmenpopoviciu)
+- Topics - Keynote Speeches, Angular, Polymer, Machine Learning, Community
+- Location - Amsterdam, Netherlands
+- Languages besides English - Romanian, Dutch
+
+##### Manel Rhaiem (Manel, Rhaiem)
+- [@manelbutterfly](https://twitter.com/manelbutterfly)
+- Topics - Business Intelligence, Data Science, Web Technologies
+- Location - Budapest, Hungary
+- Languages besides English - Arabic, French
+
+##### Ineke Scheffers
+- [@FYIneke](https://twitter.com/fyineke) & [@GirlCodeNL](https://twitter.com/GirlCodeNL)
+- [Girl Code](https://www.meetup.com/girlcode/)
+- Topics - Girl Code, women in tech, gender gap in code, workshops, community, web development, changing careers
+- Location - The Hague & Amsterdam, The Netherlands
+- Languages besides English - Dutch
+
+##### Stephanie Walter
+- [@WalterStephanie ](http://twitter.com/WalterStephanie)
+- [Personal Website](https://www.stephaniewalter.fr/)
+- Topics - Design, Mobile, UX, CSS, HTML, Javascript
+- Location - Luxembourg
+- Languages besides English - French
+
+##### Hannah Wolfe
+- [@erisDS](http://twitter.com/ErisDS)
+- Topics - JavaScript, sustainable Open Source projects
+- Location - Northhampton, UK
 
 ### India
-
-##### Kritika Maheshwari
-- [@mozkri](https://twitter.com/mozkri)
-- Topics - Open Web Technologies, Rust
-- Location - Hyderabad, India
 
 ##### Manjula Dube
 - [@manjula_dube](https://twitter.com/manjula_dube)
 - Email Address - [dube.manjula668@gmail.com]
 - Javascript development, OSS contribution, Front End development, React, Functional Programming
+- [Medium](https://medium.com/@manjuladube)
+- [LinkedIn](https://www.linkedin.com/in/manjula-dube-9b5b3550)
+- I am currently leading the Google Developer Group - WTM.
 - Location - Mumbai, India
-- Medium: https://medium.com/@manjuladube
-- LinkedIn: https://www.linkedin.com/in/manjula-dube-9b5b3550/
-- I am currently leading Google Developer Group - WTM. The fact that motivated me to join this community is, I want to see more and more women in leading and growing position.
- 
+
+##### Kritika Maheshwari
+- [@mozkri](https://twitter.com/mozkri)
+- Topics - Open Web Technologies, Rust
+- Location - Hyderabad, India
 
 ### Lebanon
 
@@ -483,6 +463,15 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - HTML/CSS, JavaScript, Accessibility, Progressive Enhancement
 - Location - Lagos, Nigeria
 
+### Argentina
+
+##### Morinigo Laura
+- [@lala_morinigo] (http://twitter.com/lala_morinigo)
+- Topics - Firebase, Javascript, AngularJS, PWA, NodeJS, MongoDB
+- Location - Buenos Aires, Argentina but currently traveling around as a digital nomad.
+- English, Spanish
+
+
 ## Women Tech Organizers
 #### Example Format
 ##### Full Name (First, Last)
@@ -492,11 +481,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - City, State, Country
 
 ### US
-
-##### Anastasia Lanz
-- [@anastasialanz](https://twitter.com/anastasialanz)
-- [GDG Pitt](https://www.meetup.com/gdg-pitt/), Pittsburgh, PA
-- Group Focus - Google Technology, Machine Learning, Web Development, Android
 
 ##### Jina Anne
 - [@jina](https://twitter.com/jina)
@@ -511,11 +495,10 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Group Focus - Infographic Design and Development, Web Mapping, D3.js, R, Tableau, Matlab, Processing, Hadoop, Data Mining, etc... Anything to do with the design/development of awesome visualizations
 - [GDI Dayton](https://www.meetup.com/preview/girl-develop-it-dayton), Dayton, OH
 
-##### Nitya Narashimhan
-- [@nitya](https://twitter.com/nitya)
-- [GDG NYC](https://www.meetup.com/gdgnyc/), New York, NY
-- [GDG Hudson Valley](https://www.meetup.com/gdg-hudson-valley/), Hudson Valley, NY
-- Group Focus - Google Technology, Mobile, Web, Wearables, Cloud, IoT
+##### Anastasia Lanz
+- [@anastasialanz](https://twitter.com/anastasialanz)
+- [GDG Pitt](https://www.meetup.com/gdg-pitt/), Pittsburgh, PA
+- Group Focus - Google Technology, Machine Learning, Web Development, Android
 
 ##### Tracy Lee
 - [@ladyleet](http://twitter.com/ladyleet)
@@ -523,13 +506,26 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Triangle Modern Web](http://www.meetup.com/trianglemodernweb), Raleigh, NC
 - Group Focus - JavaScript, Front End Development
 
+##### Nitya Narashimhan
+- [@nitya](https://twitter.com/nitya)
+- [GDG NYC](https://www.meetup.com/gdgnyc/), New York, NY
+- [GDG Hudson Valley](https://www.meetup.com/gdg-hudson-valley/), Hudson Valley, NY
+- Group Focus - Google Technology, Mobile, Web, Wearables, Cloud, IoT
+
 ### Canada
 ##### Heather Payne
-[@heatherpayne](https://twitter.com/heatherpayne)
-[Hackeryou](http://hackeryou.com/)
+- [@heatherpayne](https://twitter.com/heatherpayne)
+- [Hackeryou](http://hackeryou.com/)
 - Location - Toronto, ON
 
 ### Mexico
+
+### Argentina
+
+##### Laura Morinigo
+- [@lala_morinigo](https://twitter.com/lala_morinigo)
+- [GDG Rio de La Plata / Women Techmakers Rio de la Plata](http://www.meetup.com/gdgriodelaplata)
+- Location - Buenos Aires, Argentina
 
 ### Europe
 
@@ -544,11 +540,8 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ##### Madlaina Kalunder
 - [@anialdam](http://twitter.com/anialdam)
 - [Women Techmakers Switzerland](https://www.meetup.com/wtm-switzerland/), Switzerland
-
-##### Natalie Pistunovich
-
-- [@nataliepis](https://twitter.com/nataliepis)
-- [Women Technmakers Berlin](http://wtmberlin.com/)
+- Group Focus - Diversity in Tech (all levels), enabling young people in tech, public speaking, workshops, soft skills, project managment and anything that is important to our community.
+- Location: Zurich, Switzerland
 
 ##### Sherry List
 - [@sherrrylst](http://twitter.com/sherrrylst)
@@ -558,6 +551,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Group Focus - Google Technology, Machine Learning, Web Development, JavaScript
 - [ngVikings](https://ngvikings.org/), Scandinavia
 - Group Focus - Angular
+
+##### Natalie Pistunovich
+
+- [@nataliepis](https://twitter.com/nataliepis)
+- [Women Technmakers Berlin](http://wtmberlin.com/)
 
 ### India
 
@@ -574,9 +572,9 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### US
 
-###Europe
+### Europe
 
-##### Oana Galbenu 
+##### Oana Galbenu
 - [@oanaalex](https://twitter.com/oanaalex)
 - [galbenu.ro](http://galbenu.ro/)
 - oana@galbenu.ro. oanagalbenu@gmail.com
@@ -627,8 +625,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - I love teaching so any one looking out for javascript mentor reach out to me. I would love to talk about it.
 
 
-
-
 ### Europe
 
 ##### Martin Splitt
@@ -637,14 +633,22 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - How to contact - Twitter, open direct messages
 - Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking
 
-##### Oana Galbenu 
+##### Madlaina Kalunder
+- [@anialdam](https://twitter.com/anialdam)
+- [Personal Website](http://madlaina.li)
+- How to contact - Twitter, open direct messages
+- Location - Zurich, Switzerland, the Netherlands, any location
+- Languages: English, German, a little dutch, french and spanish (want to practise)
+- Topics for mentoring - WebVR, 3D, 3D for the web, Game Development, Web Development, digital creation
+
+##### Oana Galbenu
 - [@oanaalex](https://twitter.com/oanaalex)
 - [galbenu.ro](http://galbenu.ro/)
 - How to Contact - [oana@galbenu.ro](mailto:oana@galbenu.ro), [oanagalbenu@gmail.com](mailto:oanagalbenu@gmail.com) or [Twitter](https://twitter.com/oanaalex), open direct messages
 - Topics for Mentoring - HTML, CSS and preprocessors, Agile
 - Location - Bucharest, Romania, other Romanian cities, or any location via Skype (or other media)
 - Languages besides English - Romanian
-- I have more than 10 years of work expecience and more that 8 years as a fully registered web developer. I would like to help women understand the basics of the Web and help them. I have also worked a lot with Agile and I am able to coach and help with advice and best practices. 
+- I have more than 10 years of work expecience and more that 8 years as a fully registered web developer. I would like to help women understand the basics of the Web and help them. I have also worked a lot with Agile and I am able to coach and help with advice and best practices.
 
 ### AUS
 ##### Pavithra Kodmad
