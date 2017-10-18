@@ -307,6 +307,14 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, Angular, VR
 - Location - San Francisco, CA
 
+##### Neem Serra
+- [@TeamNeem](http://twitter.com/TeamNeem)
+- [Neem Serra](http://www.neemserra.com)
+- Topics - Swift, unconscious bias (being a cupcake in a doughnut world), and intro to programming
+- Location - St. Louis, MO
+
+--
+
 ### Canada
 
 ##### Myriam Jessier
