@@ -461,6 +461,16 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Open Web Technologies, Rust
 - Location - Hyderabad, India
 
+##### Ramya Authappan
+- [@atramya](https://twitter.com/atramya)
+- Email Address - [at.ramya@gmail.com]
+- Test Automation and Framework Design | Contract Test | Test Strategies for Microservices
+- [LinkedIn](https://www.linkedin.com/in/ramyaat/)
+- I one of the organizers of [WomenWhoCode Chennai Meetups](https://twitter.com/WWCodeChennai)
+- My Talks so far: https://tiny.cc/ramya_talks
+- Location - Chennai, India
+
+
 ### Lebanon
 
 ##### Sara Soueidan
