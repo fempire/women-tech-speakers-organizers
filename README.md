@@ -78,6 +78,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynotes Speeches, JavaScript, Animations
 - Location - Pittsburgh, PA
 
+##### Lisa Huang
+- [@lisaychuang](http://twitter.com/lisaychuang)
+- [lambdalisa.com](http://lambdalisa.com/)
+- Topics - JavaScript, web development, mobile, AMP open source project
+- Location - San Francisco Bay area, CA
+
 ##### Tomomi Imura
 - [@girlie_mac](https://twitter.com/girlie_mac)
 - [girliemac.com](http://www.girliemac.com/)
