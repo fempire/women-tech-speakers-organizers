@@ -579,6 +579,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Explain what you'd like to get involved in. Keep it shorter than 3-4 sentences.
 
 ### US
+##### Zoe Kafkes
+- [@zkafkes](http://twitter.com/zkafkes)
+- [Personal Website](http://zoekafkes.me/)
+- zoekafkes@me.com
+- Topics of Interest- HTML, CSS, Front-end design
+- Location - Atlanta, GA, USA
+- I would like to break into the tech industry and am presently working on getting my front-end certification from freecodecamp
 
 ### Europe
 
