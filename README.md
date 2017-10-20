@@ -78,6 +78,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynotes Speeches, JavaScript, Animations
 - Location - Pittsburgh, PA
 
+##### Lisa Huang
+- [@lisaychuang](http://twitter.com/lisaychuang)
+- [lambdalisa.com](http://lambdalisa.com/)
+- Topics - JavaScript, web development, mobile, AMP open source project
+- Location - San Francisco Bay area, CA
+
 ##### Tomomi Imura
 - [@girlie_mac](https://twitter.com/girlie_mac)
 - [girliemac.com](http://www.girliemac.com/)
@@ -99,8 +105,9 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ##### Sia Karamalegos
 - [@thegreengreek](http://twitter.com/thegreengreek)
+- [siakaramalegos.github.io/](https://siakaramalegos.github.io/)
 - [Medium](https://medium.com/@thegreengreek)
-- [Speaking Website](https://github.com/siakaramalegos/sia_speaks)
+- [GitHub](https://github.com/siakaramalegos/)
 - Topics - React, Redux, React Native, NodeJS, JavaScript, GraphQL, workshops, teaching
 - Location - New Orleans, LA, USA
 
@@ -191,7 +198,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ##### Rachel Arst McCullough
 - [@ArstMcCullough](https://twitter.com/ArstMcCullough)
 - [mcculloughwebservices.com/](https://mcculloughwebservices.com/)
-- Topics 
+- Topics
   - Building an Entrepreneurial Ecosystem in Mountain Towns
   - Small Towns, Big Events: Creating and Growing a Thriving Meetup
 - Organizes: [Tahoe Silicon Mountain](http://www.tahoesiliconmountain.com/) - multiple events every month
@@ -204,11 +211,22 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - CSS, HTML, JavaScript, GitHub, a11y, CMSs, FrontEnd, Design, Design Systems, Collaboration, Workshops, Women in Tech
 - Location - Dayton, OH, USA
 
+##### Linda Nichols
+- [@lynnaloo](http://twitter.com/lynnaloo)
+- Topics - Serverless, NodeBots, Open Source/Github
+- Location - Norfolk, VA
+
 ##### Rachel Ober
 - [@rachelober](https://twitter.com/rachelober)
 - [Personal Website](https://www.rachelober.com)
 - Topics - Keynote, Writing, Speaking, Open Source Software, CSS, Sass, Ruby, Ruby on Rails, RailsBridge, Mentoring, Starting non-profit organizations, Personal Branding, Community Building, creating programming course curriculum, teaching people how to program, teaching people how to teach people how to program
 - Location - New York, NY
+
+##### Lyndsey Padget
+- [@lyndseypadget](https://twitter.com/lyndseypadget)
+- [lyndseypadget.com](http://www.lyndseypadget.com)
+- Topics - Git, REST, Node.js, JavaScript, Microservices, Back-end development, Public Speaking, Java, Women in Tech, Work/life balance, Badassery
+- Location - Kansas City, MO
 
 ##### Violet Peña
 - No twitter
@@ -216,6 +234,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, Socket.IO, React, Creative Coding
 - Location - Portland, OR
 - Languages besides English - Spanish
+
+##### Maggie Pint
+- [@maggiepint](https://twitter.com/maggiepint)
+- [maggiepint.com](https://maggiepint.com)
+- Topics - Open Source Sustainability, JavaScript Libraries, Standards/TC39, DateTime, Azure/Cloud
+- Location - Redmond, WA
 
 ##### Natalie Qabazard
 - [@natqab](http://twitter.com/natqab)
@@ -227,6 +251,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Medium Profile](https://medium.com/@peggyrayzis)
 - Topics - Workshops, JavaScript, Universal Components, React, React Native, GraphQL, Apollo GraphQL
 - Location - Hoboken, NJ
+
+##### Neem Serra
+- [@TeamNeem](http://twitter.com/TeamNeem)
+- [Neem Serra](http://www.neemserra.com)
+- Topics - Swift, unconscious bias (being a cupcake in a doughnut world), and intro to programming
+- Location - St. Louis, MO
 
 ##### Lizzie Siegle
 - [@lizziepika](http://twitter.com/lizziepika)
@@ -270,6 +300,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynote Speeches, JavaScript, Accessibility, Standards
 - Location - San Francisco, CA
 
+##### Rachel White
+- [@ohhoe](http://www.twitter.com/ohhoe)
+- [rachelisaweso.me](http://rachelisaweso.me)
+- Topics - Keynote Speeches, JavaScript, Node.js, Creative Coding, Bots, IoT, Hardware / Robotics, Cyberpunk, Educating new devs, Community, AI
+- Location - Brooklyn, NY.
+
 ##### Sarah Withee
 - [@geekygirlsarah](https://twitter.com/geekygirlsarah)
 - [Personal Website](http://www.sarahwithee.com)
@@ -288,10 +324,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, Angular, VR
 - Location - San Francisco, CA
 
-##### Linda Nichols
-- [@lynnaloo](http://twitter.com/lynnaloo)
-- Topics - Serverless, NodeBots, Open Source/Github
-- Location - Norfolk, VA
+--
 
 ### Canada
 
@@ -355,6 +388,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynote Speeches, Offline First, Web Compat
 - Location - Berlin, Germany
 - Languages besides English - German, Polish
+
+##### Marie Guillaumet
+- [@kReEsTaL](https://twitter.com/kReEsTaL)
+- [Personal Website](https://marieguillaumet.com/)
+- Topics - Accessibility, UX, HTML/CSS, WordPress, diversity, women in tech
+- Location - Rennes, France
+- Languages besides English - French
 
 ##### Franziska Hinkelmann
 - [@fhinkel](http://twitter.com/fhinkel)
@@ -425,7 +465,17 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [@mozkri](https://twitter.com/mozkri)
 - Topics - Open Web Technologies, Rust
 - Location - Hyderabad, India
- 
+
+##### Ramya Authappan
+- [@atramya](https://twitter.com/atramya)
+- Email Address - [at.ramya@gmail.com]
+- Test Automation and Framework Design | Contract Test | Test Strategies for Microservices
+- [LinkedIn](https://www.linkedin.com/in/ramyaat/)
+- I one of the organizers of [WomenWhoCode Chennai Meetups](https://twitter.com/WWCodeChennai)
+- My Talks so far: https://tiny.cc/ramya_talks
+- Location - Chennai, India
+
+
 ### Lebanon
 
 ##### Sara Soueidan
@@ -509,6 +559,8 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ##### Madlaina Kalunder
 - [@anialdam](http://twitter.com/anialdam)
 - [Women Techmakers Switzerland](https://www.meetup.com/wtm-switzerland/), Switzerland
+- Group Focus - Diversity in Tech (all levels), enabling young people in tech, public speaking, workshops, soft skills, project managment and anything that is important to our community.
+- Location: Zurich, Switzerland
 
 ##### Sherry List
 - [@sherrrylst](http://twitter.com/sherrrylst)
@@ -538,10 +590,17 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Explain what you'd like to get involved in. Keep it shorter than 3-4 sentences.
 
 ### US
+##### Zoe Kafkes
+- [@zkafkes](http://twitter.com/zkafkes)
+- [Personal Website](http://zoekafkes.me/)
+- zoekafkes@me.com
+- Topics of Interest- HTML, CSS, Front-end design
+- Location - Atlanta, GA, USA
+- I would like to break into the tech industry and am presently working on getting my front-end certification from freecodecamp
 
 ### Europe
 
-##### Oana Galbenu 
+##### Oana Galbenu
 - [@oanaalex](https://twitter.com/oanaalex)
 - [galbenu.ro](http://galbenu.ro/)
 - oana@galbenu.ro. oanagalbenu@gmail.com
@@ -600,14 +659,22 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - How to contact - Twitter, open direct messages
 - Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking
 
-##### Oana Galbenu 
+##### Madlaina Kalunder
+- [@anialdam](https://twitter.com/anialdam)
+- [Personal Website](http://madlaina.li)
+- How to contact - Twitter, open direct messages
+- Location - Zurich, Switzerland, the Netherlands, any location
+- Languages: English, German, a little dutch, french and spanish (want to practise)
+- Topics for mentoring - WebVR, 3D, 3D for the web, Game Development, Web Development, digital creation
+
+##### Oana Galbenu
 - [@oanaalex](https://twitter.com/oanaalex)
 - [galbenu.ro](http://galbenu.ro/)
 - How to Contact - [oana@galbenu.ro](mailto:oana@galbenu.ro), [oanagalbenu@gmail.com](mailto:oanagalbenu@gmail.com) or [Twitter](https://twitter.com/oanaalex), open direct messages
 - Topics for Mentoring - HTML, CSS and preprocessors, Agile
 - Location - Bucharest, Romania, other Romanian cities, or any location via Skype (or other media)
 - Languages besides English - Romanian
-- I have more than 10 years of work expecience and more that 8 years as a fully registered web developer. I would like to help women understand the basics of the Web and help them. I have also worked a lot with Agile and I am able to coach and help with advice and best practices. 
+- I have more than 10 years of work expecience and more that 8 years as a fully registered web developer. I would like to help women understand the basics of the Web and help them. I have also worked a lot with Agile and I am able to coach and help with advice and best practices.
 
 ### AUS
 ##### Pavithra Kodmad
