@@ -335,6 +335,16 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### Europe
 
+##### Amanda Cavallaro
+- [@chibichibibr](http://twitter.com/chibichibibr)
+- [Personal Website](http://amanda.ml)
+- Topics - Conversational experience - chatbots, women in technology, diversity and inclusion, community.
+- [GDG Cloud London](http://meetup.com/gdgcloud) and Women Techmakers London, UK
+- Location - London, United Kingdom.
+- Languages besides English - Portuguese and Italian.
+
+
+
 ##### Britt Barak
 - Facebook - www.facebook.com/britt.barak
 - [@BrittBarak](https://twitter.com/BrittBarak)
@@ -547,6 +557,14 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ### Mexico
 
 ### Europe
+
+##### Amanda Cavallaro
+- [@chibichibibr](http://twitter.com/chibichibibr)
+- [Personal Website](http://amanda.ml)
+- [GDG Cloud London](http://meetup.com/gdgcloud) and Women Techmakers London, UK
+- Group Focus - Google Cloud Platform, Cloud computing.
+- Location - London, United Kingdom.
+
 
 ##### Britt Barak
 - Facebook - www.facebook.com/britt.barak
