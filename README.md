@@ -450,6 +450,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, sustainable Open Source projects
 - Location - Northhampton, UK
 
+##### Steph Locke
+- [@stefflocke](https://twitter.com/stefflocke)
+- [itsaLocke.com](http://itsalocke.com)
+- Topics - Data Science, Microsoft Data Platform, DataOps
+- Location - Cardiff, UK (will travel nationally & internationally)
+- Languages besides English - NA
+
 ### India
 
 ##### Manjula Dube
