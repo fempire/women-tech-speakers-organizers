@@ -492,6 +492,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - HTML/CSS, JavaScript, Accessibility, Progressive Enhancement
 - Location - Lagos, Nigeria
 
+#### Moyinoluwa Adeyemi
+- [@moyheen](http://twitter.com/moyheen)
+- Android Developer, Google Events Co-organiser, Speaker
+- Location - Lagos, Nigeria
+
+
 ## Women Tech Organizers
 #### Example Format
 ##### Full Name (First, Last)
