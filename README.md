@@ -78,6 +78,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Keynotes Speeches, JavaScript, Animations
 - Location - Pittsburgh, PA
 
+##### Asia Hoe
+- [@TwitterHandle](http://twitter.com/asiahoe)
+- [Personal Website](http://www.asiahoe.com)
+- Topics - Design, Design Systems, Mentorship, Mobile, Philanthropy, User Research, UX
+- Location - New York, NY, USA
+
 ##### Lisa Huang
 - [@lisaychuang](http://twitter.com/lisaychuang)
 - [lambdalisa.com](http://lambdalisa.com/)
