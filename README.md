@@ -300,6 +300,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, Jewelbots, Community Building, Women in Tech
 - Location - Kansas City, MO
 
+##### Brittany Walker
+- [@musicalwebdev](https://twitter.com/musicalwebdev)
+- [brittanywalker.io](http://www.brittanywalker.io/)
+- Topics - CSS (Sass), JavaScript, Animations, Illustrations, Front-End, React
+- Location - Washington, DC
+
 ##### Estelle Weyl
 - [@estellevw](http://twitter.com/estellevw)
 - [standardista.com](http://www.standardista.com/)
