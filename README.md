@@ -72,6 +72,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Powershell, C#
 - Location - Akron, OH
 
+##### Deepti Gandluri
+- [@dptig](https://twitter.com/dptig)
+- Topics - WebAssembly, Chrome V8
+- Location - San Francisco, CA
+
 ##### Val Head
 - [@vlh](http://twitter.com/vlh)
 - [valhead.com](http://valhead.com/)
@@ -334,11 +339,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [@AysSomething](http://twitter.com/AysSomething)
 - [Aysegul Yonet](https://developers.google.com/experts/people/aysegul-yonet)
 - Topics - JavaScript, Angular, VR
-- Location - San Francisco, CA
-
-##### Deepti Gandluri
-- [@dptig](https://twitter.com/dptig)
-- Topics - WebAssembly, Chrome V8
 - Location - San Francisco, CA
 
 --
