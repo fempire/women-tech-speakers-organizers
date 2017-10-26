@@ -72,6 +72,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Powershell, C#
 - Location - Akron, OH
 
+#### Christina Gorton
+- @coffeecraftcode
+- www.coffeecraftcode.com
+- christina@gravityworksdesign.com
+- Topics of Interest- HTML, CSS, Moms in Tech, Mental health and tech, SVG, Vue
+- Location - Bowling Green, KY, USA
+
 ##### Val Head
 - [@vlh](http://twitter.com/vlh)
 - [valhead.com](http://valhead.com/)
@@ -276,26 +283,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - CSS, Layouts, Grids
 - Location - Brooklyn, NY
 
-##### Caree Youngman
-- [@careecodes](https://twitter.com/careecodes)
-- [Personal Website](http://caree.codes)
-- [Writing](https://blog.caree.codes)
-- [GitHub](https://github.com/careecodes)
-- [CodePen](https://codepen.io/careecodes/)
-- [LinkedIn](https://www.linkedin.com/in/caree-youngman-a87339ab/)
-- Email: caree@caree[dot]codes
-- Topics - Women in Tech, impostor syndrome, Javascript, Accessibility, Front End, 
-- Location - Dallas, TX, US
-
-
-#### Christina Gorton
-- @coffeecraftcode
-- www.coffeecraftcode.com
-- christina@gravityworksdesign.com
-- Topics of Interest- HTML, CSS, Moms in Tech, Mental health and tech, SVG, Vue
-- Location - Bowling Green, KY, USA
-
-
 ##### Marcy Sutton
 - [@marcysutton](http://twitter.com/marcysutton)
 - [marcysutton.com](http://marcysutton.com)
@@ -355,6 +342,17 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Aysegul Yonet](https://developers.google.com/experts/people/aysegul-yonet)
 - Topics - JavaScript, Angular, VR
 - Location - San Francisco, CA
+
+##### Caree Youngman
+- [@careecodes](https://twitter.com/careecodes)
+- [Personal Website](http://caree.codes)
+- [Writing](https://blog.caree.codes)
+- [GitHub](https://github.com/careecodes)
+- [CodePen](https://codepen.io/careecodes/)
+- [LinkedIn](https://www.linkedin.com/in/caree-youngman-a87339ab/)
+- Email: caree@caree[dot]codes
+- Topics - Women in Tech, impostor syndrome, Javascript, Accessibility, Front End, 
+- Location - Dallas, TX, US
 
 --
 
