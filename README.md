@@ -486,7 +486,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### Nigeria
 
-##### Aderinokun Ire
+##### Ire Aderinokun
 - [@IreAderinokun](https://twitter.com/IreAderinokun)
 - [Personal Website](https://ireaderinokun.com)
 - Topics - HTML/CSS, JavaScript, Accessibility, Progressive Enhancement
