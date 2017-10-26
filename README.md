@@ -9,6 +9,34 @@ This list originally started from a [twitter list](https://twitter.com/ladyleet/
 
 Code of Conduct - If anyone is reported as malicious or making others feel uncomfortable, they may be removed from this list. To report, email tracy@thisdot.co.
 
+## Table of Contents
+### [Speakers](https://github.com/fempire/women-tech-speakers-organizers#women-tech-speakers):
+- [United States](https://github.com/fempire/women-tech-speakers-organizers#us)
+- [Canada](https://github.com/fempire/women-tech-speakers-organizers#canada)
+- [Europe](https://github.com/fempire/women-tech-speakers-organizers#europe)
+- [India](https://github.com/fempire/women-tech-speakers-organizers#india)
+- [Lebanon](https://github.com/fempire/women-tech-speakers-organizers#lebanon)
+- [Nigeria](https://github.com/fempire/women-tech-speakers-organizers#nigeria)
+
+### [Organizers](https://github.com/fempire/women-tech-speakers-organizers#women-tech-organizers):
+- [United States](https://github.com/fempire/women-tech-speakers-organizers#us-1)
+- [Canada](https://github.com/fempire/women-tech-speakers-organizers#canada-1)
+- [Mexico](https://github.com/fempire/women-tech-speakers-organizers#mexico)
+- [Europe](https://github.com/fempire/women-tech-speakers-organizers#europe-1)
+- [India](https://github.com/fempire/women-tech-speakers-organizers#india-1)
+
+### [Women Interest in Getting Started/Involved](https://github.com/fempire/women-tech-speakers-organizers#women-interested-in-getting-started--getting-involved)
+- [United States](https://github.com/fempire/women-tech-speakers-organizers#us-2)
+- [Europe](https://github.com/fempire/women-tech-speakers-organizers#europe-2)
+- [India](https://github.com/fempire/women-tech-speakers-organizers#india-2)
+
+### [People Interested in Mentoring Women](https://github.com/fempire/women-tech-speakers-organizers#people-interested-in-mentoring-women)
+- [United States](https://github.com/fempire/women-tech-speakers-organizers#us-3)
+- [India](https://github.com/fempire/women-tech-speakers-organizers#india-3)
+- [Europe](https://github.com/fempire/women-tech-speakers-organizers#europe-3)
+- [Australia](https://github.com/fempire/women-tech-speakers-organizers#aus)
+
+
 ## Women Tech Speakers
 #### Example Format
 ##### Full Name (First, Last)
