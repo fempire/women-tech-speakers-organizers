@@ -276,6 +276,16 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - CSS, Layouts, Grids
 - Location - Brooklyn, NY
 
+##### Caree Youngman
+- [@careecodes](https://twitter.com/careecodes)
+- [Personal Website](http://caree.codes)
+- [Writing](https://blog.caree.codes)
+- [GitHub](https://github.com/careecodes)
+- [CodePen](https://codepen.io/careecodes/)
+- [LinkedIn](https://www.linkedin.com/in/caree-youngman-a87339ab/)
+- Topics - Women in Tech, impostor syndrome, Javascript, Accessibility, Front End, 
+- Location - Kansas City, MO, US
+
 ##### Marcy Sutton
 - [@marcysutton](http://twitter.com/marcysutton)
 - [marcysutton.com](http://marcysutton.com)
