@@ -283,8 +283,18 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [GitHub](https://github.com/careecodes)
 - [CodePen](https://codepen.io/careecodes/)
 - [LinkedIn](https://www.linkedin.com/in/caree-youngman-a87339ab/)
+- Email: caree@caree[dot]codes
 - Topics - Women in Tech, impostor syndrome, Javascript, Accessibility, Front End, 
-- Location - Kansas City, MO, US
+- Location - Dallas, TX, US
+
+
+#### Christina Gorton
+- @coffeecraftcode
+- www.coffeecraftcode.com
+- christina@gravityworksdesign.com
+- Topics of Interest- HTML, CSS, Moms in Tech, Mental health and tech, SVG, Vue
+- Location - Bowling Green, KY, USA
+
 
 ##### Marcy Sutton
 - [@marcysutton](http://twitter.com/marcysutton)
