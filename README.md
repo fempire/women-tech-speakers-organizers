@@ -336,6 +336,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, Angular, VR
 - Location - San Francisco, CA
 
+##### Deepti Gandluri
+- [@dptig](https://twitter.com/dptig)
+- Topics - WebAssembly, Chrome V8
+- Location - San Francisco, CA
+
 --
 
 ### Canada
