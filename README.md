@@ -61,6 +61,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
 
+##### Kara Carrell
+- [@KaraAJC](https://twitter.com/KaraAJC)
+- [Kara.Codes](https://kara.codes)
+- Topics - Git/Github, Ruby, Rails, ES6, HTML/CSS, Learning to Code, Intersectionality, Ideation & Design Thinking
+- Location - Chicago, IL, USA
+
 ##### Lin Clark
 - [@linclark](http://twitter.com/linclark)
 - [code-cartoons.com](https://code-cartoons.com/)
@@ -565,6 +571,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [SF Design Systems Coalition](https://www.sfdsc.co/), San Francisco, CA
 - [The Mixin](https://www.themixinsf.com/), San Francisco, CA
 - Group Focus - Design Systems, Sass, frontend, product design
+
+##### Kara Carrell
+- [@WSCChicago](https://twitter.com/wscchicago)
+- [Write/Speak/Code Chicago](http:/writespeakcode.com)
+- Group Focus - Write/Speak/Code is on a mission to empower women and non-binary software developers to become thought leaders, conference speakers, and open source contributors. We run conferences, meetups, and events across the US.
+- Location - Chicago, IL, USA
 
 ##### K.C. Jones-Evans
 - [@kcjonesevans](https://twitter.com/kcjonesevans)
