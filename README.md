@@ -106,9 +106,14 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Powershell, C#
 - Location - Akron, OH
 
-#### Christina Gorton
-- @coffeecraftcode
-- www.coffeecraftcode.com
+##### Deepti Gandluri
+- [@dptig](https://twitter.com/dptig)
+- Topics - WebAssembly, Chrome V8
+- Location - San Francisco, CA
+
+##### Christina Gorton
+- [@coffeecraftcode](https://twitter.com/coffeecraftcode)
+- [Website](www.coffeecraftcode.com)
 - christina@gravityworksdesign.com
 - Topics of Interest- HTML, CSS, Moms in Tech, Mental health and tech, SVG, Vue
 - Location - Bowling Green, KY, USA
