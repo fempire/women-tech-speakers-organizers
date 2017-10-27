@@ -236,7 +236,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ##### Jen Looper
 - [@jenlooper](http://twitter.com/jenlooper)
-- [ladeezfirstmedia.com](http://www.ladeezfirstmedia.com/)
+- [jenlooper.com](http://www.jenlooper.com/)
 - Topics - Keynote Speeches, JavaScript, NativeScript, Web and Mobile Development, IOT, Machine Learning
 - Location - Boston, MA
 - Languages - English and French
@@ -412,8 +412,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - London, United Kingdom.
 - Languages besides English - Portuguese and Italian.
 
-
-
 ##### Britt Barak
 - Facebook - www.facebook.com/britt.barak
 - [@BrittBarak](https://twitter.com/BrittBarak)
@@ -421,7 +419,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - LinkedIn: https://www.linkedin.com/in/brittbarak
 - Topics - Android (developement, OS, UX), Communities.
 - Location - Tel Aviv, Israel
-
 
 ##### Ada Rose Cannon
 - [@lady_ada_king](https://twitter.com/lady_ada_king)
@@ -434,7 +431,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, Angular, Node.js, Azure
 - Location - London, UK
 - Languages besides English - Romanian
-
 
 ##### Sara Di Bartolomeo
 - [Picorana](https://picorana.github.io/)
@@ -538,6 +534,15 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### India
 
+##### Ramya Authappan
+- [@atramya](https://twitter.com/atramya)
+- Email Address - [at.ramya@gmail.com]
+- Test Automation and Framework Design | Contract Test | Test Strategies for Microservices
+- [LinkedIn](https://www.linkedin.com/in/ramyaat/)
+- I one of the organizers of [WomenWhoCode Chennai Meetups](https://twitter.com/WWCodeChennai)
+- My Talks so far: https://tiny.cc/ramya_talks
+- Location - Chennai, India
+
 ##### Manjula Dube
 - [@manjula_dube](https://twitter.com/manjula_dube)
 - Email Address - [dube.manjula668@gmail.com]
@@ -551,16 +556,6 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [@mozkri](https://twitter.com/mozkri)
 - Topics - Open Web Technologies, Rust
 - Location - Hyderabad, India
-
-##### Ramya Authappan
-- [@atramya](https://twitter.com/atramya)
-- Email Address - [at.ramya@gmail.com]
-- Test Automation and Framework Design | Contract Test | Test Strategies for Microservices
-- [LinkedIn](https://www.linkedin.com/in/ramyaat/)
-- I one of the organizers of [WomenWhoCode Chennai Meetups](https://twitter.com/WWCodeChennai)
-- My Talks so far: https://tiny.cc/ramya_talks
-- Location - Chennai, India
-
 
 ### Lebanon
 
@@ -651,8 +646,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Personal Website](http://amanda.ml)
 - [GDG Cloud London](http://meetup.com/gdgcloud) and Women Techmakers London, UK
 - Group Focus - Google Cloud Platform, Cloud computing.
-- Location - London, United Kingdom.
-
+- Location - London, United Kingdom
 
 ##### Britt Barak
 - Facebook - www.facebook.com/britt.barak
@@ -713,7 +707,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics of Interest- HTML, CSS and preprocessors, Agile
 - Location - Bucharest, Romania, other Romanian cities
 - Languages besides English - Romanian
-- I would like to put together a group of exepienced people that would volunteer to mentor and guide the emergind developers.
+- I would like to put together a group of experienced people that would volunteer to mentor and guide emerging developers.
 
 ### India
 
@@ -723,7 +717,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Email Address - [meghnagupta64@gmail.com]
 - Topics of Interest - Android, Firebase, Javascript or anything tech :)
 - Location - New Delhi, India
-- Languages besides English - Hindi, French(Basic level of understanding)
+- Languages besides English - Hindi, French (Basic level of understanding)
 
 ## People Interested In Mentoring Women
 #### Example Format
@@ -754,7 +748,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Mumbai, India
 - Medium: https://medium.com/@manjuladube
 - LinkedIn: https://www.linkedin.com/in/manjula-dube-9b5b3550/
-- I love teaching so any one looking out for javascript mentor reach out to me. I would love to talk about it.
+- I love teaching so any one looking out for a JavaScript mentor reach out to me. I would love to talk about it.
 
 
 ### Europe
