@@ -9,6 +9,34 @@ This list originally started from a [twitter list](https://twitter.com/ladyleet/
 
 Code of Conduct - If anyone is reported as malicious or making others feel uncomfortable, they may be removed from this list. To report, email tracy@thisdot.co.
 
+## Table of Contents
+### [Speakers](https://github.com/fempire/women-tech-speakers-organizers#women-tech-speakers):
+- [United States](https://github.com/fempire/women-tech-speakers-organizers#us)
+- [Canada](https://github.com/fempire/women-tech-speakers-organizers#canada)
+- [Europe](https://github.com/fempire/women-tech-speakers-organizers#europe)
+- [India](https://github.com/fempire/women-tech-speakers-organizers#india)
+- [Lebanon](https://github.com/fempire/women-tech-speakers-organizers#lebanon)
+- [Nigeria](https://github.com/fempire/women-tech-speakers-organizers#nigeria)
+
+### [Organizers](https://github.com/fempire/women-tech-speakers-organizers#women-tech-organizers):
+- [United States](https://github.com/fempire/women-tech-speakers-organizers#us-1)
+- [Canada](https://github.com/fempire/women-tech-speakers-organizers#canada-1)
+- [Mexico](https://github.com/fempire/women-tech-speakers-organizers#mexico)
+- [Europe](https://github.com/fempire/women-tech-speakers-organizers#europe-1)
+- [India](https://github.com/fempire/women-tech-speakers-organizers#india-1)
+
+### [Women Interest in Getting Started/Involved](https://github.com/fempire/women-tech-speakers-organizers#women-interested-in-getting-started--getting-involved)
+- [United States](https://github.com/fempire/women-tech-speakers-organizers#us-2)
+- [Europe](https://github.com/fempire/women-tech-speakers-organizers#europe-2)
+- [India](https://github.com/fempire/women-tech-speakers-organizers#india-2)
+
+### [People Interested in Mentoring Women](https://github.com/fempire/women-tech-speakers-organizers#people-interested-in-mentoring-women)
+- [United States](https://github.com/fempire/women-tech-speakers-organizers#us-3)
+- [India](https://github.com/fempire/women-tech-speakers-organizers#india-3)
+- [Europe](https://github.com/fempire/women-tech-speakers-organizers#europe-3)
+- [Australia](https://github.com/fempire/women-tech-speakers-organizers#aus)
+
+
 ## Women Tech Speakers
 #### Example Format
 ##### Full Name (First, Last)
@@ -32,6 +60,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [jenniferbland.com](http://www.jenniferbland.com/)
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
+
+##### Kara Carrell
+- [@KaraAJC](https://twitter.com/KaraAJC)
+- [Kara.Codes](https://kara.codes)
+- Topics - Git/Github, Ruby, Rails, ES6, HTML/CSS, Learning to Code, Intersectionality, Ideation & Design Thinking
+- Location - Chicago, IL, USA
 
 ##### Lin Clark
 - [@linclark](http://twitter.com/linclark)
@@ -76,6 +110,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [@dptig](https://twitter.com/dptig)
 - Topics - WebAssembly, Chrome V8
 - Location - San Francisco, CA
+
+##### Christina Gorton
+- [@coffeecraftcode](https://twitter.com/coffeecraftcode)
+- [Website](www.coffeecraftcode.com)
+- christina@gravityworksdesign.com
+- Topics of Interest- HTML, CSS, Moms in Tech, Mental health and tech, SVG, Vue
+- Location - Bowling Green, KY, USA
 
 ##### Val Head
 - [@vlh](http://twitter.com/vlh)
@@ -341,6 +382,17 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - JavaScript, Angular, VR
 - Location - San Francisco, CA
 
+##### Caree Youngman
+- [@careecodes](https://twitter.com/careecodes)
+- [Personal Website](http://caree.codes)
+- [Writing](https://blog.caree.codes)
+- [GitHub](https://github.com/careecodes)
+- [CodePen](https://codepen.io/careecodes/)
+- [LinkedIn](https://www.linkedin.com/in/caree-youngman-a87339ab/)
+- Email: caree@caree[dot]codes
+- Topics - Women in Tech, impostor syndrome, Javascript, Accessibility, Front End, 
+- Location - Dallas, TX, US
+
 --
 
 ### Canada
@@ -520,11 +572,17 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### Nigeria
 
-##### Aderinokun Ire
+##### Ire Aderinokun
 - [@IreAderinokun](https://twitter.com/IreAderinokun)
 - [Personal Website](https://ireaderinokun.com)
 - Topics - HTML/CSS, JavaScript, Accessibility, Progressive Enhancement
 - Location - Lagos, Nigeria
+
+#### Moyinoluwa Adeyemi
+- [@moyheen](http://twitter.com/moyheen)
+- Android Developer, Google Events Co-organiser, Speaker
+- Location - Lagos, Nigeria
+
 
 ## Women Tech Organizers
 #### Example Format
@@ -542,6 +600,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [SF Design Systems Coalition](https://www.sfdsc.co/), San Francisco, CA
 - [The Mixin](https://www.themixinsf.com/), San Francisco, CA
 - Group Focus - Design Systems, Sass, frontend, product design
+
+##### Kara Carrell
+- [@WSCChicago](https://twitter.com/wscchicago)
+- [Write/Speak/Code Chicago](http:/writespeakcode.com)
+- Group Focus - Write/Speak/Code is on a mission to empower women and non-binary software developers to become thought leaders, conference speakers, and open source contributors. We run conferences, meetups, and events across the US.
+- Location - Chicago, IL, USA
 
 ##### K.C. Jones-Evans
 - [@kcjonesevans](https://twitter.com/kcjonesevans)
