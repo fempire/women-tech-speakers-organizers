@@ -1,0 +1,631 @@
+[{
+    "name": "Women Tech Speakers",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "US",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Jina Anne",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/jina\">@jina</a></li>\n<li><a href=\"https://www.sushiandrobots.com/\">sushiandrobots.com</a></li>\n<li>Topics - Design Systems, Sass, Design, CSS</li>\n</ul>"
+    }
+}, {
+    "name": "Jennifer Bland",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/ratracegrad\">@ratracegrad</a></li>\n<li><a href=\"http://www.jenniferbland.com/\">jenniferbland.com</a></li>\n<li>Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox</li>\n<li>Location - Atlanta, GA</li>\n</ul>"
+    }
+}, {
+    "name": "Kara Carrell",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/KaraAJC\">@KaraAJC</a></li>\n<li><a href=\"https://kara.codes\">Kara.Codes</a></li>\n<li>Topics - Git/Github, Ruby, Rails, ES6, HTML/CSS, Learning to Code, Intersectionality, Ideation &#x26; Design Thinking</li>\n<li>Location - Chicago, IL, USA</li>\n</ul>"
+    }
+}, {
+    "name": "Lin Clark",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/linclark\">@linclark</a></li>\n<li><a href=\"https://code-cartoons.com/\">code-cartoons.com</a></li>\n<li>Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly</li>\n</ul>"
+    }
+}, {
+    "name": "Chloe Condon",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/ChloeCondon\">@chloecondon</a></li>\n<li><a href=\"https://medium.com/@chloecondon\">Medium</a></li>\n<li>Topics - Developer Evangelism, Docker</li>\n<li>Location - Bay Area / San Francisco</li>\n</ul>"
+    }
+}, {
+    "name": "Kim Crayton",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/@KimCrayton1/\">@KimCrayton1</a></li>\n<li><a href=\"http://kimcrayton.com/\">Personal Website</a></li>\n<li>Topics - Diversity, Mentoring, Women in Tech</li>\n<li>Location - Atlanta, GA, USA</li>\n</ul>"
+    }
+}, {
+    "name": "Santina Croniser",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/santinacroniser\">@SantinaCroniser</a></li>\n<li>Topics - Accessibility, Diversity, Women in Tech, Frontend Development, CMS, Tech in Higher Education</li>\n<li>Location - Chicago, IL</li>\n</ul>"
+    }
+}, {
+    "name": "Bear Douglas",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/beardigsit\">@beardigsit</a></li>\n<li>Topics - Dev Rel, events, Android, APIs</li>\n<li>Location - San Francisco, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Sarah Drasner",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/sarah_edo\">@sarah_edo</a></li>\n<li><a href=\"https://sarahdrasnerdesign.com/\">sarahdrasnerdesign.com</a></li>\n<li>Topics - Keynote Speeches, JavaScript, SVG, Animations, Vue.js</li>\n<li>Location - Denver, CO</li>\n</ul>"
+    }
+}, {
+    "name": "Sarah Dutkiewicz",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/sadukie\">@sadukie</a></li>\n<li><a href=\"http://www.codinggeekette.com/\">Coding Geekette</a></li>\n<li>Topics - Powershell, C#</li>\n<li>Location - Akron, OH</li>\n</ul>"
+    }
+}, {
+    "name": "Deepti Gandluri",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/dptig\">@dptig</a></li>\n<li>Topics - WebAssembly, Chrome V8</li>\n<li>Location - San Francisco, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Christina Gorton",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/coffeecraftcode\">@coffeecraftcode</a></li>\n<li><a href=\"www.coffeecraftcode.com\">Website</a></li>\n<li>christina@gravityworksdesign.com</li>\n<li>Topics of Interest- HTML, CSS, Moms in Tech, Mental health and tech, SVG, Vue</li>\n<li>Location - Bowling Green, KY, USA</li>\n</ul>"
+    }
+}, {
+    "name": "Val Head",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/vlh\">@vlh</a></li>\n<li><a href=\"http://valhead.com/\">valhead.com</a></li>\n<li>Topics - Keynotes Speeches, JavaScript, Animations</li>\n<li>Location - Pittsburgh, PA</li>\n</ul>"
+    }
+}, {
+    "name": "Asia Hoe",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/asiahoe\">@TwitterHandle</a></li>\n<li><a href=\"http://www.asiahoe.com\">Personal Website</a></li>\n<li>Topics - Design, Design Systems, Mentorship, Mobile, Philanthropy, User Research, UX</li>\n<li>Location - New York, NY, USA</li>\n</ul>"
+    }
+}, {
+    "name": "Lisa Huang",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/lisaychuang\">@lisaychuang</a></li>\n<li><a href=\"http://lambdalisa.com/\">lambdalisa.com</a></li>\n<li>Topics - JavaScript, web development, mobile, AMP open source project</li>\n<li>Location - San Francisco Bay area, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Tomomi Imura",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/girlie_mac\">@girlie_mac</a></li>\n<li><a href=\"http://www.girliemac.com/\">girliemac.com</a></li>\n<li>Topics - Workshops, JS, Node.JS, IoT, mentoring, dev rel, mobile, design</li>\n<li>Location - San Francisco, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Mars Jullian",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/marsjosephine\">@marsjosephine</a></li>\n<li><a href=\"http://marsjullian.com/\">marsjullian.com</a></li>\n<li>Topics - JavaScript, React</li>\n<li>Location - San Francisco, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Alaina Kafkes",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/alainakafkes\">@alainakafkes</a></li>\n<li><a href=\"http://alainakafk.es/\">alainakafk.es</a></li>\n<li>Topics - Technical Writing, Python, iOS Development, Web Development, Community Building</li>\n<li>Location - Chicago, IL / San Francisco, CA</li>\n<li>Languages besides English - French</li>\n</ul>"
+    }
+}, {
+    "name": "Sia Karamalegos",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/thegreengreek\">@thegreengreek</a></li>\n<li><a href=\"https://siakaramalegos.github.io/\">siakaramalegos.github.io/</a></li>\n<li><a href=\"https://medium.com/@thegreengreek\">Medium</a></li>\n<li><a href=\"https://github.com/siakaramalegos/\">GitHub</a></li>\n<li>Topics - React, Redux, React Native, NodeJS, JavaScript, GraphQL, workshops, teaching</li>\n<li>Location - New Orleans, LA, USA</li>\n</ul>"
+    }
+}, {
+    "name": "Nara Kasbergen",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/xiehan\">@xiehan</a></li>\n<li><a href=\"http://nara.codes\">nara.codes</a></li>\n<li>Topics - Mental health in tech, APIs, Developer Experience (DX), JavaScript, Angular, voice UI development (e.g. Alexa)</li>\n<li>Location - Washington, DC, USA</li>\n<li>Languages besides English - Dutch</li>\n</ul>"
+    }
+}, {
+    "name": "Preethi Kasireddy",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/iam_preethi\">@iam_preethi</a></li>\n<li><a href=\"https://medium.com/@preethikasireddy\">medium.com/@preethikasireddy</a></li>\n<li>Topics - JavaScript, React</li>\n<li>Location - San Francisco, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Amara Keller",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/MissAmaraKay\">@MissAmaraKay</a></li>\n<li><a href=\"https://medium.com/@MissAmaraKay\">Medium</a></li>\n<li>Topics - AI, JavaScript, NodeJS, Dev Rel, Workshops, meetups</li>\n<li>Location - Bay Area / San Francisco, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Aimee Knight",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/Aimee_Knight\">@Aimee_Knight</a></li>\n<li><a href=\"http://www.aimeemarieknight.com/\">aimeemarieknight.com</a></li>\n<li>Topics - JavaScript</li>\n<li>Location - Nashville, TN</li>\n</ul>"
+    }
+}, {
+    "name": "Una Kravets",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/una\">@una</a></li>\n<li><a href=\"https://una.im\">una.im</a></li>\n<li>Topics - Keynotes Speeches, JavaScript, CSS, Animations</li>\n<li>Location - New York, NY</li>\n</ul>"
+    }
+}, {
+    "name": "Jules Kremer",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/jules_kremer\">@jules_kremer</a></li>\n<li>Topics - Keynote Speeches, Angular, Women in Tech</li>\n<li>Location - Mountain View &#x26; San Diego, CA &#x26; Maui, HI</li>\n</ul>"
+    }
+}, {
+    "name": "Cara Kuei",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/carakuei\">@carakuei</a></li>\n<li>Topics - JavaScript, React</li>\n<li>Location - Los Angeles, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Deborah Kurata",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/deborahkurata\">@deborahkurata</a></li>\n<li><a href=\"http://blogs.msmvps.com/deborahk/\">Blog</a></li>\n<li>Topics - Angular, C#, Software Best Practices</li>\n<li>Location - San Francisco Bay/Silicon Valley Area</li>\n</ul>"
+    }
+}, {
+    "name": "Pearl Latteier",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/pblatteier\">@TwitterHandle</a></li>\n<li><a href=\"https://pearlbea.com\">Personal Website</a></li>\n<li>Topics - JavaScript, Web Components, PWAs</li>\n<li>Location - Madison, WI</li>\n</ul>"
+    }
+}, {
+    "name": "Tracy Lee",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/ladyleet\">@ladyleet</a></li>\n<li><a href=\"http://www.ladyleet.com\">ladyleet.com</a></li>\n<li>Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship</li>\n<li>Location - Bay Area / San Francisco, CA &#x26; Raleigh, NC</li>\n</ul>"
+    }
+}, {
+    "name": "Devon Lindsey",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/devonbl\">@devonbl</a></li>\n<li><a href=\"http://devonbrookelindsey.com/\">devonbrookelindsey.com</a></li>\n<li>Topics - JavaScript, React</li>\n<li>Location - San Francisco, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Stacy London",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/stacylondoner\">@devonbl</a></li>\n<li><a href=\"http://stacy-london.com/\">stacy-london.com</a></li>\n<li>Topics - JavaScript, React</li>\n<li>Location - San Francisco, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Jen Looper",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/jenlooper\">@jenlooper</a></li>\n<li><a href=\"http://www.jenlooper.com/\">jenlooper.com</a></li>\n<li>Topics - Keynote Speeches, JavaScript, NativeScript, Web and Mobile Development, IOT, Machine Learning</li>\n<li>Location - Boston, MA</li>\n<li>Languages - English and French</li>\n</ul>"
+    }
+}, {
+    "name": "Tara Z. Manicsic",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/Tzmanics\">@tzmanics</a></li>\n<li><a href=\"https://tzmanics.com\">tzmanics.com</a></li>\n<li>Topics - JavaScript, PWAs, Node.js, Web Technology, Vue/React/Angular, APIs</li>\n<li>Location - Cincinnati, OH</li>\n</ul>"
+    }
+}, {
+    "name": "Rachel Arst McCullough",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/ArstMcCullough\">@ArstMcCullough</a></li>\n<li><a href=\"https://mcculloughwebservices.com/\">mcculloughwebservices.com/</a></li>\n<li>\n<p>Topics</p>\n<ul>\n<li>Building an Entrepreneurial Ecosystem in Mountain Towns</li>\n<li>Small Towns, Big Events: Creating and Growing a Thriving Meetup</li>\n</ul>\n</li>\n<li>Organizes: <a href=\"http://www.tahoesiliconmountain.com/\">Tahoe Silicon Mountain</a> - multiple events every month</li>\n<li>Location - Truckee, CA, USA</li>\n</ul>"
+    }
+}, {
+    "name": "Catherine Meade",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/catheraaine\">@catheraaine</a></li>\n<li><a href=\"http://catheraaine.com/\">catheraaine.com</a></li>\n<li><a href=\"http://buildright.io/modern-css\">BuildRight Workshop</a></li>\n<li>Topics - CSS, HTML, JavaScript, GitHub, a11y, CMSs, FrontEnd, Design, Design Systems, Collaboration, Workshops, Women in Tech</li>\n<li>Location - Dayton, OH, USA</li>\n</ul>"
+    }
+}, {
+    "name": "Linda Nichols",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/lynnaloo\">@lynnaloo</a></li>\n<li>Topics - Serverless, NodeBots, Open Source/Github</li>\n<li>Location - Norfolk, VA</li>\n</ul>"
+    }
+}, {
+    "name": "Rachel Ober",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/rachelober\">@rachelober</a></li>\n<li><a href=\"https://www.rachelober.com\">Personal Website</a></li>\n<li>Topics - Keynote, Writing, Speaking, Open Source Software, CSS, Sass, Ruby, Ruby on Rails, RailsBridge, Mentoring, Starting non-profit organizations, Personal Branding, Community Building, creating programming course curriculum, teaching people how to program, teaching people how to teach people how to program</li>\n<li>Location - New York, NY</li>\n</ul>"
+    }
+}, {
+    "name": "Lyndsey Padget",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/lyndseypadget\">@lyndseypadget</a></li>\n<li><a href=\"http://www.lyndseypadget.com\">lyndseypadget.com</a></li>\n<li>Topics - Git, REST, Node.js, JavaScript, Microservices, Back-end development, Public Speaking, Java, Women in Tech, Work/life balance, Badassery</li>\n<li>Location - Kansas City, MO</li>\n</ul>"
+    }
+}, {
+    "name": "Violet Peña",
+    "info": {
+        "html": "<ul>\n<li>No twitter</li>\n<li><a href=\"https://violet.is\">violet.is</a></li>\n<li>Topics - JavaScript, Socket.IO, React, Creative Coding</li>\n<li>Location - Portland, OR</li>\n<li>Languages besides English - Spanish</li>\n</ul>"
+    }
+}, {
+    "name": "Maggie Pint",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/maggiepint\">@maggiepint</a></li>\n<li><a href=\"https://maggiepint.com\">maggiepint.com</a></li>\n<li>Topics - Open Source Sustainability, JavaScript Libraries, Standards/TC39, DateTime, Azure/Cloud</li>\n<li>Location - Redmond, WA</li>\n</ul>"
+    }
+}, {
+    "name": "Natalie Qabazard",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/natqab\">@natqab</a></li>\n<li>Topics - JavaScript, React</li>\n<li>Location - San Francisco, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Peggy Rayzis",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/peggyrayzis\">@peggyrayzis</a></li>\n<li><a href=\"https://medium.com/@peggyrayzis\">Medium Profile</a></li>\n<li>Topics - Workshops, JavaScript, Universal Components, React, React Native, GraphQL, Apollo GraphQL</li>\n<li>Location - Hoboken, NJ</li>\n</ul>"
+    }
+}, {
+    "name": "Neem Serra",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/TeamNeem\">@TeamNeem</a></li>\n<li><a href=\"http://www.neemserra.com\">Neem Serra</a></li>\n<li>Topics - Swift, unconscious bias (being a cupcake in a doughnut world), and intro to programming</li>\n<li>Location - St. Louis, MO</li>\n</ul>"
+    }
+}, {
+    "name": "Lizzie Siegle",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/lizziepika\">@lizziepika</a></li>\n<li><a href=\"https://elizabethsiegle.github.io\">elizabethsiegle.github.io</a></li>\n<li>Topics - Workshops, JavaScript, Swift, Haskell, meetups, hackathons</li>\n<li>Location - Bryn Mawr, PA + San Francisco, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Jen Simmons",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/jensimmons\">@jensimmons</a></li>\n<li><a href=\"http://jensimmons.com\">jensimmons.com</a></li>\n<li>Topics - CSS, Layouts, Grids</li>\n<li>Location - Brooklyn, NY</li>\n</ul>"
+    }
+}, {
+    "name": "Marcy Sutton",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/marcysutton\">@marcysutton</a></li>\n<li><a href=\"http://marcysutton.com\">marcysutton.com</a></li>\n<li>Topics - Keynote Speeches, JavaScript &#x26; Accessibility</li>\n<li>Location - Bellingham, WA</li>\n</ul>"
+    }
+}, {
+    "name": "Heather Taylor",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/heatherhonie\">@heatherhonie</a></li>\n<li><a href=\"http://www.heathercancode.com\">Personal Website</a></li>\n<li>Topics - Transitioning from Print Designer to Web Developer, Apprenticeships</li>\n<li>Location - Dayton, OH, USA</li>\n</ul>"
+    }
+}, {
+    "name": "Raquel Vélez",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/rockbot\">@rockbot</a></li>\n<li><a href=\"http://rckbt.me\">rckbt.me</a></li>\n<li>Topics - Keynote Speeches, JavaScript, Node.js, npm, Front-End, Robots</li>\n<li>Location - Bay Area / San Francisco, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Jennifer Wadella",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/likeOMGitsFEDAY\">@likeOMGitsFEDAY</a></li>\n<li><a href=\"https://jenniferwadella.com/\">jenniferwadella.com</a></li>\n<li>Topics - JavaScript, Jewelbots, Community Building, Women in Tech</li>\n<li>Location - Kansas City, MO</li>\n</ul>"
+    }
+}, {
+    "name": "Brittany Walker",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/musicalwebdev\">@musicalwebdev</a></li>\n<li><a href=\"http://www.brittanywalker.io/\">brittanywalker.io</a></li>\n<li>Topics - CSS (Sass), JavaScript, Animations, Illustrations, Front-End, React</li>\n<li>Location - Washington, DC</li>\n</ul>"
+    }
+}, {
+    "name": "Estelle Weyl",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/estellevw\">@estellevw</a></li>\n<li><a href=\"http://www.standardista.com/\">standardista.com</a></li>\n<li>Topics - Keynote Speeches, JavaScript, Accessibility, Standards</li>\n<li>Location - San Francisco, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Rachel White",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://www.twitter.com/ohhoe\">@ohhoe</a></li>\n<li><a href=\"http://rachelisaweso.me\">rachelisaweso.me</a></li>\n<li>Topics - Keynote Speeches, JavaScript, Node.js, Creative Coding, Bots, IoT, Hardware / Robotics, Cyberpunk, Educating new devs, Community, AI</li>\n<li>Location - Brooklyn, NY.</li>\n</ul>"
+    }
+}, {
+    "name": "Sarah Withee",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/geekygirlsarah\">@geekygirlsarah</a></li>\n<li><a href=\"http://www.sarahwithee.com\">Personal Website</a></li>\n<li>Topics - Hardware/robotics, workshops, women in tech, mental health in tech</li>\n<li>Location - Kansas City, MO, US</li>\n</ul>"
+    }
+}, {
+    "name": "Shirley Wu",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/sxywu\">@sxywu</a></li>\n<li><a href=\"http://sxywu.com/\">sxywu.com</a></li>\n<li>Topics - Data Viz, JavaScript, React</li>\n<li>Location - San Francisco, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Ayşegül Yönet",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/AysSomething\">@AysSomething</a></li>\n<li><a href=\"https://developers.google.com/experts/people/aysegul-yonet\">Aysegul Yonet</a></li>\n<li>Topics - JavaScript, Angular, VR</li>\n<li>Location - San Francisco, CA</li>\n</ul>"
+    }
+}, {
+    "name": "Caree Youngman",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/careecodes\">@careecodes</a></li>\n<li><a href=\"http://caree.codes\">Personal Website</a></li>\n<li><a href=\"https://blog.caree.codes\">Writing</a></li>\n<li><a href=\"https://github.com/careecodes\">GitHub</a></li>\n<li><a href=\"https://codepen.io/careecodes/\">CodePen</a></li>\n<li><a href=\"https://www.linkedin.com/in/caree-youngman-a87339ab/\">LinkedIn</a></li>\n<li>Email: caree@caree[dot]codes</li>\n<li>Topics - Women in Tech, impostor syndrome, Javascript, Accessibility, Front End, </li>\n<li>Location - Dallas, TX, US</li>\n</ul>\n<p>--</p>"
+    }
+}, {
+    "name": "Canada",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Myriam Jessier",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/myriamjessier\">@myriamjessier</a></li>\n<li><a href=\"https://myriamjessier.com/\">Personal Website</a></li>\n<li>Topics - SEO, Marketing, Search, UX</li>\n</ul>"
+    }
+}, {
+    "name": "Europe",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Amanda Cavallaro",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/chibichibibr\">@chibichibibr</a></li>\n<li><a href=\"http://amanda.ml\">Personal Website</a></li>\n<li>Topics - Conversational experience - chatbots, women in technology, diversity and inclusion, community.</li>\n<li><a href=\"http://meetup.com/gdgcloud\">GDG Cloud London</a> and Women Techmakers London, UK</li>\n<li>Location - London, United Kingdom.</li>\n<li>Languages besides English - Portuguese and Italian.</li>\n</ul>"
+    }
+}, {
+    "name": "Britt Barak",
+    "info": {
+        "html": "<ul>\n<li>Facebook - www.facebook.com/britt.barak</li>\n<li><a href=\"https://twitter.com/BrittBarak\">@BrittBarak</a></li>\n<li>Medium: <a href=\"https://medium.com/@britt.barak\">https://medium.com/@britt.barak</a></li>\n<li>LinkedIn: <a href=\"https://www.linkedin.com/in/brittbarak\">https://www.linkedin.com/in/brittbarak</a></li>\n<li>Topics - Android (developement, OS, UX), Communities.</li>\n<li>Location - Tel Aviv, Israel</li>\n</ul>"
+    }
+}, {
+    "name": "Ada Rose Cannon",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/lady_ada_king\">@lady_ada_king</a></li>\n<li><a href=\"https://ada.is\">ada.is</a></li>\n<li>Topics - WebVR, Progressive Web Apps, Web Technology, Samsung Internet Web Browser</li>\n<li>Location - London, UK</li>\n</ul>"
+    }
+}, {
+    "name": "Simona Cotin",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/simona_cotin\">@simona_cotin</a></li>\n<li>Topics - JavaScript, Angular, Node.js, Azure</li>\n<li>Location - London, UK</li>\n<li>Languages besides English - Romanian</li>\n</ul>"
+    }
+}, {
+    "name": "Sara Di Bartolomeo",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://picorana.github.io/\">Picorana</a></li>\n<li>Topics - Generative Art, Data Science, Data Visualization, Computer Graphics</li>\n<li>Location - Rome, Italy</li>\n<li>Languages besides English - Italian</li>\n</ul>"
+    }
+}, {
+    "name": "Ingrid Epure",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/ingridepure\">@ingridepure</a></li>\n<li><a href=\"http://www.storiesinframes.com/\">Personal Website</a></li>\n<li>Topics - Ember, Security, DevOps</li>\n<li>Location - Dublin, Ireland</li>\n<li>Languages besides English - Romanian</li>\n</ul>"
+    }
+}, {
+    "name": "Serena Fritsch",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/serifritsch\">@serifritsch</a></li>\n<li>Topics - Building Product, Ember, Javascript</li>\n<li>Location - Dublin, Ireland</li>\n<li>Languages besides English - German</li>\n</ul>"
+    }
+}, {
+    "name": "Oana Galbenu",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/oanaalex\">@oanaalex</a></li>\n<li><a href=\"http://galbenu.ro/\">galbenu.ro</a></li>\n<li>Topics - Keynote Speeches, HTML, CSS and preprocessors, Agile</li>\n<li>Location - Bucharest, Romania</li>\n<li>Languages besides English - Romanian</li>\n</ul>"
+    }
+}, {
+    "name": "Ola Gasidlo",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/misprintedtype\">@misprintedtype</a></li>\n<li>Topics - Keynote Speeches, Offline First, Web Compat</li>\n<li>Location - Berlin, Germany</li>\n<li>Languages besides English - German, Polish</li>\n</ul>"
+    }
+}, {
+    "name": "Marie Guillaumet",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/kReEsTaL\">@kReEsTaL</a></li>\n<li><a href=\"https://marieguillaumet.com/\">Personal Website</a></li>\n<li>Topics - Accessibility, UX, HTML/CSS, WordPress, diversity, women in tech</li>\n<li>Location - Rennes, France</li>\n<li>Languages besides English - French</li>\n</ul>"
+    }
+}, {
+    "name": "Franziska Hinkelmann",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/fhinkel\">@fhinkel</a></li>\n<li>Topics - JavaScript VMs, Chrome V8</li>\n<li>Location - Munich, Germany</li>\n<li>Languages besides English - German</li>\n</ul>"
+    }
+}, {
+    "name": "Marja Hölttä",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/marjakh\">@marjakh</a></li>\n<li>Topics - JavaScript Parsers, Chrome V8</li>\n<li>Location - Munich, Germany</li>\n<li>Languages besides English - Finnish</li>\n</ul>"
+    }
+}, {
+    "name": "Eva Lettner",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/eva_trostlos\">@eva_trostlos</a></li>\n<li>Topics - CSS, Animation</li>\n<li>Location - Vienna, Austria</li>\n<li>Languages besides English - German</li>\n</ul>"
+    }
+}, {
+    "name": "Srushtika Neelakantam",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/Srushtika\">@Srushtika</a></li>\n<li>Topics - WebVR, A-Frame, Web Technologies, Realtime Technologies, deepstream.io</li>\n<li>Location - Berlin, Germany</li>\n</ul>"
+    }
+}, {
+    "name": "Carmen Popoviciu",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/carmenpopoviciu\">@CarmenPopoviciu</a></li>\n<li>Topics - Keynote Speeches, Angular, Polymer, Machine Learning, Community</li>\n<li>Location - Amsterdam, Netherlands</li>\n<li>Languages besides English - Romanian, Dutch</li>\n</ul>"
+    }
+}, {
+    "name": "Manel Rhaiem (Manel, Rhaiem)",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/manelbutterfly\">@manelbutterfly</a></li>\n<li>Topics - Business Intelligence, Data Science, Web Technologies</li>\n<li>Location - Budapest, Hungary</li>\n<li>Languages besides English - Arabic, French</li>\n</ul>\n<p>##### Ineke Scheffers</p>\n<ul>\n<li><a href=\"https://twitter.com/fyineke\">@FYIneke</a> &#x26; <a href=\"https://twitter.com/GirlCodeNL\">@GirlCodeNL</a></li>\n<li><a href=\"https://www.meetup.com/girlcode/\">Girl Code</a></li>\n<li>Topics - Girl Code, women in tech, gender gap in code, workshops, community, web development, changing careers</li>\n<li>Location - The Hague &#x26; Amsterdam, The Netherlands</li>\n<li>Languages besides English - Dutch</li>\n</ul>"
+    }
+}, {
+    "name": "Stephanie Walter",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/WalterStephanie\">@WalterStephanie </a></li>\n<li><a href=\"https://www.stephaniewalter.fr/\">Personal Website</a></li>\n<li>Topics - Design, Mobile, UX, CSS, HTML, Javascript</li>\n<li>Location - Luxembourg</li>\n<li>Languages besides English - French</li>\n</ul>"
+    }
+}, {
+    "name": "Hannah Wolfe",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/ErisDS\">@erisDS</a></li>\n<li>Topics - JavaScript, sustainable Open Source projects</li>\n<li>Location - Northhampton, UK</li>\n</ul>"
+    }
+}, {
+    "name": "Steph Locke",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/stefflocke\">@stefflocke</a></li>\n<li><a href=\"http://itsalocke.com\">itsaLocke.com</a></li>\n<li>Topics - Data Science, Microsoft Data Platform, DataOps</li>\n<li>Location - Cardiff, UK (will travel nationally &#x26; internationally)</li>\n<li>Languages besides English - NA</li>\n</ul>"
+    }
+}, {
+    "name": "India",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Ramya Authappan",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/atramya\">@atramya</a></li>\n<li>Email Address - [at.ramya@gmail.com]</li>\n<li>Test Automation and Framework Design | Contract Test | Test Strategies for Microservices</li>\n<li><a href=\"https://www.linkedin.com/in/ramyaat/\">LinkedIn</a></li>\n<li>I one of the organizers of <a href=\"https://twitter.com/WWCodeChennai\">WomenWhoCode Chennai Meetups</a></li>\n<li>My Talks so far: <a href=\"https://tiny.cc/ramya_talks\">https://tiny.cc/ramya_talks</a></li>\n<li>Location - Chennai, India</li>\n</ul>"
+    }
+}, {
+    "name": "Manjula Dube",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/manjula_dube\">@manjula_dube</a></li>\n<li>Email Address - [dube.manjula668@gmail.com]</li>\n<li>Javascript development, OSS contribution, Front End development, React, Functional Programming</li>\n<li><a href=\"https://medium.com/@manjuladube\">Medium</a></li>\n<li><a href=\"https://www.linkedin.com/in/manjula-dube-9b5b3550\">LinkedIn</a></li>\n<li>I am currently leading the Google Developer Group - WTM.</li>\n<li>Location - Mumbai, India</li>\n</ul>"
+    }
+}, {
+    "name": "Kritika Maheshwari",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/mozkri\">@mozkri</a></li>\n<li>Topics - Open Web Technologies, Rust</li>\n<li>Location - Hyderabad, India</li>\n</ul>"
+    }
+}, {
+    "name": "Lebanon",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Sara Soueidan",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/SaraSoueidan\">@SaraSoueidan</a></li>\n<li><a href=\"https://www.sarasoueidan.com/\">sarasoueidan.com</a></li>\n<li>Topics - Keynote Speeches, CSS, SVG</li>\n<li>Location - Lebanon</li>\n</ul>"
+    }
+}, {
+    "name": "Nigeria",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Ire Aderinokun",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/IreAderinokun\">@IreAderinokun</a></li>\n<li><a href=\"https://ireaderinokun.com\">Personal Website</a></li>\n<li>Topics - HTML/CSS, JavaScript, Accessibility, Progressive Enhancement</li>\n<li>Location - Lagos, Nigeria</li>\n</ul>"
+    }
+}, {
+    "name": "Moyinoluwa Adeyemi",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/moyheen\">@moyheen</a></li>\n<li>Android Developer, Google Events Co-organiser, Speaker</li>\n<li>Location - Lagos, Nigeria</li>\n</ul>"
+    }
+}, {
+    "name": "Women Tech Organizers",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "US",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Jina Anne",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/jina\">@jina</a></li>\n<li><a href=\"https://www.clarityconf.com/\">Clarity</a>, San Francisco, CA</li>\n<li><a href=\"https://www.sfdsc.co/\">SF Design Systems Coalition</a>, San Francisco, CA</li>\n<li><a href=\"https://www.themixinsf.com/\">The Mixin</a>, San Francisco, CA</li>\n<li>Group Focus - Design Systems, Sass, frontend, product design</li>\n</ul>"
+    }
+}, {
+    "name": "Kara Carrell",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/wscchicago\">@WSCChicago</a></li>\n<li><a href=\"http:/writespeakcode.com\">Write/Speak/Code Chicago</a></li>\n<li>Group Focus - Write/Speak/Code is on a mission to empower women and non-binary software developers to become thought leaders, conference speakers, and open source contributors. We run conferences, meetups, and events across the US.</li>\n<li>Location - Chicago, IL, USA</li>\n</ul>"
+    }
+}, {
+    "name": "K.C. Jones-Evans",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/kcjonesevans\">@kcjonesevans</a></li>\n<li><a href=\"https://www.meetup.com/preview/daytondv\">Dayton Data Viz</a>, Dayton, OH</li>\n<li>Group Focus - Infographic Design and Development, Web Mapping, D3.js, R, Tableau, Matlab, Processing, Hadoop, Data Mining, etc... Anything to do with the design/development of awesome visualizations</li>\n<li><a href=\"https://www.meetup.com/preview/girl-develop-it-dayton\">GDI Dayton</a>, Dayton, OH</li>\n</ul>"
+    }
+}, {
+    "name": "Anastasia Lanz",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/anastasialanz\">@anastasialanz</a></li>\n<li><a href=\"https://www.meetup.com/gdg-pitt/\">GDG Pitt</a>, Pittsburgh, PA</li>\n<li>Group Focus - Google Technology, Machine Learning, Web Development, Android</li>\n</ul>"
+    }
+}, {
+    "name": "Tracy Lee",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/ladyleet\">@ladyleet</a></li>\n<li><a href=\"http://www.meetup.com/modernweb\">Modern Web</a>, Bay Area, CA</li>\n<li><a href=\"http://www.meetup.com/trianglemodernweb\">Triangle Modern Web</a>, Raleigh, NC</li>\n<li>Group Focus - JavaScript, Front End Development</li>\n</ul>"
+    }
+}, {
+    "name": "Nitya Narashimhan",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/nitya\">@nitya</a></li>\n<li><a href=\"https://www.meetup.com/gdgnyc/\">GDG NYC</a>, New York, NY</li>\n<li><a href=\"https://www.meetup.com/gdg-hudson-valley/\">GDG Hudson Valley</a>, Hudson Valley, NY</li>\n<li>Group Focus - Google Technology, Mobile, Web, Wearables, Cloud, IoT</li>\n</ul>"
+    }
+}, {
+    "name": "Linda Nichols",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/lynnaloo\">@lynnaloo</a></li>\n<li><a href=\"https://www.norfolkjs.org\">Norfolk.js</a>, Norfolk, VA</li>\n<li><a href=\"https://www.revolutionconf.com\">RevolutionConf</a>, Norfolk VA</li>\n<li>Group Focus - JavaScript, NodeBots</li>\n</ul>"
+    }
+}, {
+    "name": "Canada",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Heather Payne",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/heatherpayne\">@heatherpayne</a></li>\n<li><a href=\"http://hackeryou.com/\">Hackeryou</a></li>\n<li>Location - Toronto, ON</li>\n</ul>"
+    }
+}, {
+    "name": "Mexico",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Europe",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Amanda Cavallaro",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/chibichibibr\">@chibichibibr</a></li>\n<li><a href=\"http://amanda.ml\">Personal Website</a></li>\n<li><a href=\"http://meetup.com/gdgcloud\">GDG Cloud London</a> and Women Techmakers London, UK</li>\n<li>Group Focus - Google Cloud Platform, Cloud computing.</li>\n<li>Location - London, United Kingdom</li>\n</ul>"
+    }
+}, {
+    "name": "Britt Barak",
+    "info": {
+        "html": "<ul>\n<li>Facebook - www.facebook.com/britt.barak</li>\n<li><a href=\"https://twitter.com/BrittBarak\">@BrittBarak</a></li>\n<li><a href=\"https://www.facebook.com/groups/android.academy.ils\">Android Academy TLV</a>, Tel Aviv, Israel</li>\n<li>Group Focus - Android development (beginners, professionals), Android UX</li>\n<li><a href=\"https://www.facebook.com/wtmil/\">Women Techmakers Israel</a>, Tel Aviv, Israel</li>\n<li>Group Focus - Public speaking, soft skills, WLB, AI, ML, DL.</li>\n</ul>"
+    }
+}, {
+    "name": "Madlaina Kalunder",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/anialdam\">@anialdam</a></li>\n<li><a href=\"https://www.meetup.com/wtm-switzerland/\">Women Techmakers Switzerland</a>, Switzerland</li>\n<li>Group Focus - Diversity in Tech (all levels), enabling young people in tech, public speaking, workshops, soft skills, project managment and anything that is important to our community.</li>\n<li>Location: Zurich, Switzerland</li>\n</ul>"
+    }
+}, {
+    "name": "Sherry List",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/sherrrylst\">@sherrrylst</a></li>\n<li><a href=\"https://www.meetup.com/ngCopenhagen/\">ngCopenhagen</a>, Copenhagen, Denmark</li>\n<li>Group Focus - Angular, AngularJS, Front End Development</li>\n<li><a href=\"https://www.meetup.com/GDG-Copenhagen/\">GDG Copenhagen</a>, Copenhagen, Denmark</li>\n<li>Group Focus - Google Technology, Machine Learning, Web Development, JavaScript</li>\n<li><a href=\"https://ngvikings.org/\">ngVikings</a>, Scandinavia</li>\n<li>Group Focus - Angular</li>\n</ul>"
+    }
+}, {
+    "name": "Natalie Pistunovich",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/nataliepis\">@nataliepis</a></li>\n<li><a href=\"http://wtmberlin.com/\">Women Technmakers Berlin</a></li>\n</ul>"
+    }
+}, {
+    "name": "India",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Women Interested In Getting Started / Getting Involved",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "US",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Zoe Kafkes",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/zkafkes\">@zkafkes</a></li>\n<li><a href=\"http://zoekafkes.me/\">Personal Website</a></li>\n<li>zoekafkes@me.com</li>\n<li>Topics of Interest- HTML, CSS, Front-end design</li>\n<li>Location - Atlanta, GA, USA</li>\n<li>I would like to break into the tech industry and am presently working on getting my front-end certification from freecodecamp</li>\n</ul>"
+    }
+}, {
+    "name": "Europe",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Oana Galbenu",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/oanaalex\">@oanaalex</a></li>\n<li><a href=\"http://galbenu.ro/\">galbenu.ro</a></li>\n<li>oana@galbenu.ro. oanagalbenu@gmail.com</li>\n<li>Topics of Interest- HTML, CSS and preprocessors, Agile</li>\n<li>Location - Bucharest, Romania, other Romanian cities</li>\n<li>Languages besides English - Romanian</li>\n<li>I would like to put together a group of experienced people that would volunteer to mentor and guide emerging developers.</li>\n</ul>"
+    }
+}, {
+    "name": "India",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Meghna Gupta",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/meghna16056\">@meghna16056</a></li>\n<li><a href=\"https://gupta-meghna64.github.io/\">gupta-meghna64.github.io</a></li>\n<li>Email Address - [meghnagupta64@gmail.com]</li>\n<li>Topics of Interest - Android, Firebase, Javascript or anything tech :)</li>\n<li>Location - New Delhi, India</li>\n<li>Languages besides English - Hindi, French (Basic level of understanding)</li>\n</ul>"
+    }
+}, {
+    "name": "People Interested In Mentoring Women",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "US",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Rachel Ober",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/rachelober\">@rachelober</a></li>\n<li><a href=\"https://www.rachelober.com\">Personal Website</a></li>\n<li>How to Contact - Twitter or through my website</li>\n<li>Topics for Mentoring - Students in Bootcamps, How to Mentor Someone, How to be an awesome Mentee, Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building</li>\n<li>Location - New York NY</li>\n</ul>"
+    }
+}, {
+    "name": "India",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Manjula Dune",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/manjula_dube\">@manjula_dube</a></li>\n<li>Email Address - [dube.manjula668@gmail.com]</li>\n<li>Javascript development, OSS contribution, Front End development, React, Functional Programming</li>\n<li>Location - Mumbai, India</li>\n<li>Medium: <a href=\"https://medium.com/@manjuladube\">https://medium.com/@manjuladube</a></li>\n<li>LinkedIn: <a href=\"https://www.linkedin.com/in/manjula-dube-9b5b3550/\">https://www.linkedin.com/in/manjula-dube-9b5b3550/</a></li>\n<li>I love teaching so any one looking out for a JavaScript mentor reach out to me. I would love to talk about it.</li>\n</ul>"
+    }
+}, {
+    "name": "Europe",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Martin Splitt",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/g33konaut\">@g33konaut</a></li>\n<li><a href=\"http://geekonaut.de\">Personal Website</a></li>\n<li>How to contact - Twitter, open direct messages</li>\n<li>Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking</li>\n</ul>"
+    }
+}, {
+    "name": "Madlaina Kalunder",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/anialdam\">@anialdam</a></li>\n<li><a href=\"http://madlaina.li\">Personal Website</a></li>\n<li>How to contact - Twitter, open direct messages</li>\n<li>Location - Zurich, Switzerland, the Netherlands, any location</li>\n<li>Languages: English, German, a little dutch, french and spanish (want to practise)</li>\n<li>Topics for mentoring - WebVR, 3D, 3D for the web, Game Development, Web Development, digital creation</li>\n</ul>"
+    }
+}, {
+    "name": "Oana Galbenu",
+    "info": {
+        "html": "<ul>\n<li><a href=\"https://twitter.com/oanaalex\">@oanaalex</a></li>\n<li><a href=\"http://galbenu.ro/\">galbenu.ro</a></li>\n<li>How to Contact - <a href=\"mailto:oana@galbenu.ro\">oana@galbenu.ro</a>, <a href=\"mailto:oanagalbenu@gmail.com\">oanagalbenu@gmail.com</a> or <a href=\"https://twitter.com/oanaalex\">Twitter</a>, open direct messages</li>\n<li>Topics for Mentoring - HTML, CSS and preprocessors, Agile</li>\n<li>Location - Bucharest, Romania, other Romanian cities, or any location via Skype (or other media)</li>\n<li>Languages besides English - Romanian</li>\n<li>I have more than 10 years of work expecience and more that 8 years as a fully registered web developer. I would like to help women understand the basics of the Web and help them. I have also worked a lot with Agile and I am able to coach and help with advice and best practices.</li>\n</ul>"
+    }
+}, {
+    "name": "AUS",
+    "info": {
+        "html": ""
+    }
+}, {
+    "name": "Pavithra Kodmad",
+    "info": {
+        "html": "<ul>\n<li><a href=\"http://twitter.com/PKodmad\">@pkodmad</a></li>\n<li>Email Address - [pavithra.kodmad@gmail.com]</li>\n<li>Javascript development, OSS contribution, Front End development</li>\n<li>Location - Sydney, Australia</li>\n<li>If there are any motivated women out there who are putting continuous effort towards learning some front-end development, I can help them out by teaching concepts, internals of libs, debugging their work and generally do some pairing.</li>\n</ul>"
+    }
+}]
