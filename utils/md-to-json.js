@@ -10,8 +10,6 @@ const assert = require('assert');
 function mdToJson (txt) {
   assert.equal(typeof txt, 'string', 'input should be a markdown string');
 
-  const toHtml = unified().use(html);
-
   const lexer = unified()
     .use(markdown)
     .use(html);
@@ -51,8 +49,8 @@ function mdToJson (txt) {
     };
  
     results[key] = {
-      raw: trimRight(lexer.stringify(tree)),
-      html: trimRight(toHtml.stringify(tree))
+      // raw: trimRight(unified().use(markdown).stringify(tree)),
+      html: trimRight(lexer.stringify(tree))
     }
   })
 
