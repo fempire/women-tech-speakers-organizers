@@ -1,0 +1,29 @@
+{
+  "name": "women-tech-speakers-organizers",
+  "version": "0.0.1",
+  "description": "fempire - women tech speakers and organizers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://donaldsonjulia@github.com/fempire/women-tech-speakers-organizers.git"
+  },
+  "keywords": [
+    "fempire"
+  ],
+  "author": "Julia Donaldson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fempire/women-tech-speakers-organizers/issues"
+  },
+  "homepage": "https://github.com/fempire/women-tech-speakers-organizers#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mdjson": "^2.0.1",
+    "remark-html": "^6.0.1",
+    "remark-parse": "^4.0.0",
+    "unified": "^6.1.5"
+  }
+}
