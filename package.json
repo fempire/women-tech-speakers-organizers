@@ -21,7 +21,6 @@
   "homepage": "https://github.com/fempire/women-tech-speakers-organizers#readme",
   "dependencies": {
     "lodash": "^4.17.4",
-    "mdjson": "^2.0.1",
     "remark-html": "^6.0.1",
     "remark-parse": "^4.0.0",
     "unified": "^6.1.5"

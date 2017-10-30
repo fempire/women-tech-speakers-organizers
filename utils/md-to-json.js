@@ -1,7 +1,3 @@
-// const html = require('mdast-html')
-// const assert = require('assert')
-// const mdast = require('mdast')
-
 const unified = require('unified');
 const markdown = require('remark-parse');
 const html = require('remark-html');
@@ -44,7 +40,7 @@ function mdToJson (txt) {
     if (!key) return;
 
     // push any subsequent non-heading token into array
-    res[key].push(token);
+    results[key].push(token);
   })
 
   // parse array of subsequent tokens into raw or html strings

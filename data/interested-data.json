@@ -13,7 +13,7 @@
 }, {
     "name": "Zoe Kafkes",
     "info": {
-        "raw": "-   [@zkafkes](http://twitter.com/zkafkes)\n-   [Personal Website](http://zoekafkes.me/)\n-   zoekafkes@me.com\n-   Topics of Interest- HTML, CSS, Front-end design\n-   Location - Atlanta, GA, USA\n-   I would like to break into the tech industry and am presently working on getting my front-end certification from freecodecamp",
+        "raw": "<ul>\n<li><a href=\"http://twitter.com/zkafkes\">@zkafkes</a></li>\n<li><a href=\"http://zoekafkes.me/\">Personal Website</a></li>\n<li>zoekafkes@me.com</li>\n<li>Topics of Interest- HTML, CSS, Front-end design</li>\n<li>Location - Atlanta, GA, USA</li>\n<li>I would like to break into the tech industry and am presently working on getting my front-end certification from freecodecamp</li>\n</ul>",
         "html": "<ul>\n<li><a href=\"http://twitter.com/zkafkes\">@zkafkes</a></li>\n<li><a href=\"http://zoekafkes.me/\">Personal Website</a></li>\n<li>zoekafkes@me.com</li>\n<li>Topics of Interest- HTML, CSS, Front-end design</li>\n<li>Location - Atlanta, GA, USA</li>\n<li>I would like to break into the tech industry and am presently working on getting my front-end certification from freecodecamp</li>\n</ul>"
     }
 }, {
@@ -25,7 +25,7 @@
 }, {
     "name": "Oana Galbenu",
     "info": {
-        "raw": "-   [@oanaalex](https://twitter.com/oanaalex)\n-   [galbenu.ro](http://galbenu.ro/)\n-   oana@galbenu.ro. oanagalbenu@gmail.com\n-   Topics of Interest- HTML, CSS and preprocessors, Agile\n-   Location - Bucharest, Romania, other Romanian cities\n-   Languages besides English - Romanian\n-   I would like to put together a group of experienced people that would volunteer to mentor and guide emerging developers.",
+        "raw": "<ul>\n<li><a href=\"https://twitter.com/oanaalex\">@oanaalex</a></li>\n<li><a href=\"http://galbenu.ro/\">galbenu.ro</a></li>\n<li>oana@galbenu.ro. oanagalbenu@gmail.com</li>\n<li>Topics of Interest- HTML, CSS and preprocessors, Agile</li>\n<li>Location - Bucharest, Romania, other Romanian cities</li>\n<li>Languages besides English - Romanian</li>\n<li>I would like to put together a group of experienced people that would volunteer to mentor and guide emerging developers.</li>\n</ul>",
         "html": "<ul>\n<li><a href=\"https://twitter.com/oanaalex\">@oanaalex</a></li>\n<li><a href=\"http://galbenu.ro/\">galbenu.ro</a></li>\n<li>oana@galbenu.ro. oanagalbenu@gmail.com</li>\n<li>Topics of Interest- HTML, CSS and preprocessors, Agile</li>\n<li>Location - Bucharest, Romania, other Romanian cities</li>\n<li>Languages besides English - Romanian</li>\n<li>I would like to put together a group of experienced people that would volunteer to mentor and guide emerging developers.</li>\n</ul>"
     }
 }, {
@@ -37,7 +37,7 @@
 }, {
     "name": "Meghna Gupta",
     "info": {
-        "raw": "-   [@meghna16056](https://twitter.com/meghna16056)\n-   [gupta-meghna64.github.io](https://gupta-meghna64.github.io/)\n-   Email Address - [meghnagupta64@gmail.com]\n-   Topics of Interest - Android, Firebase, Javascript or anything tech :)\n-   Location - New Delhi, India\n-   Languages besides English - Hindi, French (Basic level of understanding)",
+        "raw": "<ul>\n<li><a href=\"https://twitter.com/meghna16056\">@meghna16056</a></li>\n<li><a href=\"https://gupta-meghna64.github.io/\">gupta-meghna64.github.io</a></li>\n<li>Email Address - [meghnagupta64@gmail.com]</li>\n<li>Topics of Interest - Android, Firebase, Javascript or anything tech :)</li>\n<li>Location - New Delhi, India</li>\n<li>Languages besides English - Hindi, French (Basic level of understanding)</li>\n</ul>",
         "html": "<ul>\n<li><a href=\"https://twitter.com/meghna16056\">@meghna16056</a></li>\n<li><a href=\"https://gupta-meghna64.github.io/\">gupta-meghna64.github.io</a></li>\n<li>Email Address - [meghnagupta64@gmail.com]</li>\n<li>Topics of Interest - Android, Firebase, Javascript or anything tech :)</li>\n<li>Location - New Delhi, India</li>\n<li>Languages besides English - Hindi, French (Basic level of understanding)</li>\n</ul>"
     }
 }]
