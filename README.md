@@ -404,6 +404,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### Europe
 
+##### Alina Yurenko
+- [@v4venceremos](https://twitter.com/v4venceremos)
+- Topics - Marketing, Community Management, Communications
+- Location - Lviv, Ukraine (will travel nationally & internationally)
+- Languages besides English - Ukrainian, Russian
+
 ##### Amanda Cavallaro
 - [@chibichibibr](http://twitter.com/chibichibibr)
 - [Personal Website](http://amanda.ml)
@@ -483,6 +489,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Location - Munich, Germany
 - Languages besides English - Finnish
 
+##### Diana Pinchuk
+- [@diana_pinchuk](https://twitter.com/diana_pinchuk)
+- Topics - Software testing
+- Location - Lviv, Ukraine (will travel nationally & internationally)
+- Languages besides English - Ukrainian, Russian
+
 ##### Eva Lettner
 - [@eva_trostlos](http://twitter.com/eva_trostlos)
 - Topics - CSS, Animation
@@ -505,6 +517,12 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Business Intelligence, Data Science, Web Technologies
 - Location - Budapest, Hungary
 - Languages besides English - Arabic, French
+
+##### Marta Maxymiak
+- [@marta.maxymiak](https://www.facebook.com/marta.maxymiak)
+- Topics - Web, Payments
+- Location - Lviv, Ukraine (will travel nationally & internationally)
+- Languages besides English - Ukrainian, Russian
 
 ##### Ineke Scheffers
 - [@FYIneke](https://twitter.com/fyineke) & [@GirlCodeNL](https://twitter.com/GirlCodeNL)
@@ -531,6 +549,18 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Data Science, Microsoft Data Platform, DataOps
 - Location - Cardiff, UK (will travel nationally & internationally)
 - Languages besides English - NA
+
+##### Sophie Huts
+- [@sophie_h29](https://twitter.com/sophie_h29)
+- Topics - Web, PWA, Firebase
+- Location - Lviv, Ukraine (will travel nationally & internationally)
+- Languages besides English - Ukrainian
+
+##### Vasylyna Mytsak
+- [@vasylyna.mytsak](https://www.facebook.com/vasylyna.mytsak)
+- Topics - Development, Typescript, Angular, JavaScript, Community building, Tech event management
+- Location - Lviv, Ukraine (will travel nationally & internationally)
+- Languages besides English - Ukrainian, Russian
 
 ### India
 
@@ -641,6 +671,14 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 ### Europe
 
+##### Alina Yurenko
+- [@v4venceremos](https://twitter.com/v4venceremos)
+- [GDG Lviv](https://www.meetup.com/GDG-Lviv/), Lviv, Ukraine
+- Group Focus - Google Technology, Android, Web and Cloud
+- [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
+- Group Focus - The biggest Google tech event in CEE
+- Location - Lviv, Ukraine
+
 ##### Amanda Cavallaro
 - [@chibichibibr](http://twitter.com/chibichibibr)
 - [Personal Website](http://amanda.ml)
@@ -656,11 +694,27 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Women Techmakers Israel](https://www.facebook.com/wtmil/), Tel Aviv, Israel
 - Group Focus - Public speaking, soft skills, WLB, AI, ML, DL.
 
+##### Diana Pinchuk
+- [@diana_pinchuk](https://twitter.com/diana_pinchuk)
+- [GDG Lviv](https://www.meetup.com/GDG-Lviv/), Lviv, Ukraine
+- Group Focus - Google Technology, Android, Web and Cloud
+- [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
+- Group Focus - The biggest Google tech event in CEE
+- Location - Lviv, Ukraine
+
 ##### Madlaina Kalunder
 - [@anialdam](http://twitter.com/anialdam)
 - [Women Techmakers Switzerland](https://www.meetup.com/wtm-switzerland/), Switzerland
 - Group Focus - Diversity in Tech (all levels), enabling young people in tech, public speaking, workshops, soft skills, project managment and anything that is important to our community.
 - Location: Zurich, Switzerland
+
+##### Marta Maxymiak
+- [@marta.maxymiak](https://www.facebook.com/marta.maxymiak)
+- [GDG Lviv](https://www.meetup.com/GDG-Lviv/), Lviv, Ukraine
+- Group Focus - Google Technology, Android, Web and Cloud
+- [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
+- Group Focus - The biggest Google tech event in CEE
+- Location - Lviv, Ukraine
 
 ##### Sherry List
 - [@sherrrylst](http://twitter.com/sherrrylst)
@@ -675,6 +729,23 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 
 - [@nataliepis](https://twitter.com/nataliepis)
 - [Women Technmakers Berlin](http://wtmberlin.com/)
+
+##### Sophie Huts
+- [@sophie_h29](https://twitter.com/sophie_h29)
+- [GDG Lviv](https://www.meetup.com/GDG-Lviv/), Lviv, Ukraine
+- Group Focus - Google Technology, Android, Web and Cloud
+- [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
+- Group Focus - The biggest Google tech event in CEE
+- Location - Lviv, Ukraine
+
+##### Vasylyna Mytsak
+- [@vasylyna.mytsak](https://www.facebook.com/vasylyna.mytsak)
+- [GDG Lviv](https://www.meetup.com/GDG-Lviv/), Lviv, Ukraine
+- Group Focus - Google Technology, Android, Web and Cloud
+- [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
+- Group Focus - The biggest Google tech event in CEE
+- Location - Lviv, Ukraine
+
 
 ### India
 
