@@ -17,6 +17,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [India](https://github.com/fempire/women-tech-speakers-organizers#india)
 - [Lebanon](https://github.com/fempire/women-tech-speakers-organizers#lebanon)
 - [Nigeria](https://github.com/fempire/women-tech-speakers-organizers#nigeria)
+- [Asia](https://github.com/fempire/women-tech-speakers-organizers#asia)
 
 ### [Organizers](https://github.com/fempire/women-tech-speakers-organizers#women-tech-organizers):
 - [United States](https://github.com/fempire/women-tech-speakers-organizers#us-1)
@@ -24,6 +25,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Mexico](https://github.com/fempire/women-tech-speakers-organizers#mexico)
 - [Europe](https://github.com/fempire/women-tech-speakers-organizers#europe-1)
 - [India](https://github.com/fempire/women-tech-speakers-organizers#india-1)
+- [Asia](https://github.com/fempire/women-tech-speakers-organizers#asia-1)
 
 ### [Women Interest in Getting Started/Involved](https://github.com/fempire/women-tech-speakers-organizers#women-interested-in-getting-started--getting-involved)
 - [United States](https://github.com/fempire/women-tech-speakers-organizers#us-2)
@@ -607,6 +609,14 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [@moyheen](http://twitter.com/moyheen)
 - Android Developer, Google Events Co-organiser, Speaker
 - Location - Lagos, Nigeria
+
+### Asia 
+##### Hong Phuc Dang
+- [@hpdang](https://twitter.com/hpdang)
+- [FOSSASIA](https://fossasia.org)
+- [LinkedIn](https://www.linkedin.com/in/hongphucdang)
+- Topics - Open Source AI,SUSI.AI, Open Data, FashionTech  
+- Location - Singapore, Vietnam, and around Asia. 
 
 
 ## Women Tech Organizers
