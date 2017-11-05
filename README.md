@@ -37,7 +37,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [@MichelehCenter](https://twitter.com/MichelehCenter)
 - [micheleh.com](http://www.micheleh.com)
 - How to Contact - twitter, LinkedIn or email (m@micheleh.com OR micheleh.center@turner.com)
-- Topics - PHP, Drupal, Laravel, Wordpress, CSS/Sass/Bootstrap/Grids, Rest API, React, Vue, JS in general
+- Topics - PHP, Drupal, Laravel, Wordpress, CSS/Sass/Bootstrap/Grids, Rest API, React, Vue, JS in general, "from Designer to Developer - how to," "Designing w/ a Developer mindset or vice versa"
 - Location - Atlanta, GA, USA
 - Languages - Lao
 
