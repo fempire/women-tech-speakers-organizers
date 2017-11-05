@@ -33,6 +33,14 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
 
+##### Micheleh Center
+- [@MichelehCenter](https://twitter.com/MichelehCenter)
+- [micheleh.com](http://www.micheleh.com)
+- How to Contact - twitter or email (m@micheleh.com)
+- Topics - PHP, Drupal, Larvel, Wordpress, CSS/Sass/Bootstrap/Grids, Rest API, React, Vue, JS in general
+- Location - Atlanta, GA, USA
+- Languages - Lao
+
 ##### Lin Clark
 - [@linclark](http://twitter.com/linclark)
 - [code-cartoons.com](https://code-cartoons.com/)
