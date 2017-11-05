@@ -36,7 +36,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 ##### Micheleh "MC" Center
 - [@MichelehCenter](https://twitter.com/MichelehCenter)
 - [micheleh.com](http://www.micheleh.com)
-- How to Contact - twitter or email (m@micheleh.com)
+- How to Contact - twitter, LinkedIn or email (m@micheleh.com)
 - Topics - PHP, Drupal, Laravel, Wordpress, CSS/Sass/Bootstrap/Grids, Rest API, React, Vue, JS in general
 - Location - Atlanta, GA, USA
 - Languages - Lao
