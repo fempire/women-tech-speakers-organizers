@@ -15,6 +15,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
 <!-- TOC depthTo:3 -->
 
 - [Table of Contents](#table-of-contents)
+- [Code of Conduct](#code-of-conduct)
 - [Speakers](#speakers)
   - [United States](#united-states)
   - [Canada](#canada)
@@ -38,11 +39,14 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [India](#india-2)
 - [Contributing](#contributing)
   - [Formatting](#formatting)
-- [Code of Conduct](#code-of-conduct)
 
 <!-- /TOC -->
 
 ---
+
+## Code of Conduct
+
+If anyone is reported as malicious or making others feel uncomfortable, they may be removed from this list. To report, email `tracy@thisdot.co`.
 
 ## Speakers
 
@@ -1012,7 +1016,3 @@ Please add yourself alphabetically, per region.
 - Languages besides English - List, Here
 - Explain what you'd like to get involved in. Keep it shorter than 3-4 sentences.
 ```
-
-## Code of Conduct
-
-If anyone is reported as malicious or making others feel uncomfortable, they may be removed from this list. To report, email `tracy@thisdot.co`.
