@@ -65,6 +65,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
 
+<<<<<<< HEAD
 #### Kara Carrell
 
 - [@KaraAJC](https://twitter.com/KaraAJC)
@@ -74,6 +75,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Lin Clark
 
+=======
+##### Micheleh "MC" Center
+- [@MichelehCenter](https://twitter.com/MichelehCenter)
+- [micheleh.com](http://www.micheleh.com)
+- How to Contact - twitter, LinkedIn or email (m@micheleh.com OR micheleh.center@turner.com)
+- Topics - PHP, Drupal, Laravel, Wordpress, CSS/Sass/Bootstrap/Grids, Rest API, React, Vue, JS in general, "from Designer to Developer - how to," "Designing w/ a Developer mindset or vice versa"
+- Location - Atlanta, GA, USA
+- Languages - Lao
+
+##### Lin Clark
+>>>>>>> c3fb243194caa383a805743ea099eed8ce3c474f
 - [@linclark](http://twitter.com/linclark)
 - [code-cartoons.com](https://code-cartoons.com/)
 - Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly
@@ -705,6 +717,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - HTML/CSS, JavaScript, Accessibility, Progressive Enhancement
 - Location - Lagos, Nigeria
 
+<<<<<<< HEAD
 #### Moyinoluwa Adeyemi
 - [@moyheen](http://twitter.com/moyheen)
 - Android Developer, Google Events Co-organiser, Speaker
@@ -712,6 +725,24 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Asia
 #### Hong Phuc Dang
+=======
+### Argentina
+
+##### Morinigo Laura
+- [@lala_morinigo] (http://twitter.com/lala_morinigo)
+- Topics - Firebase, Javascript, AngularJS, PWA, NodeJS, MongoDB
+- Location - Buenos Aires, Argentina but currently traveling around as a digital nomad.
+- English, Spanish
+
+
+## Women Tech Organizers
+#### Example Format
+##### Full Name (First, Last)
+- [@TwitterHandle](http://twitter.com)
+- [Group Name](http://linktogroup.com), City, State, Country
+- Group Focus - List, Here
+- Location - City, State, Country
+>>>>>>> c3fb243194caa383a805743ea099eed8ce3c474f
 
 - [@hpdang](https://twitter.com/hpdang)
 - [FOSSASIA](https://fossasia.org)
@@ -780,6 +811,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Hackeryou](http://hackeryou.com/)
 - Location - Toronto, ON
 
+<<<<<<< HEAD
+=======
+### Mexico
+
+### Argentina
+
+##### Laura Morinigo
+- [@lala_morinigo](https://twitter.com/lala_morinigo)
+- [GDG Rio de La Plata / Women Techmakers Rio de la Plata](http://www.meetup.com/gdgriodelaplata)
+- Location - Buenos Aires, Argentina
+
+>>>>>>> c3fb243194caa383a805743ea099eed8ce3c474f
 ### Europe
 
 #### Alina Yurenko
