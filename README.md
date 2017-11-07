@@ -321,6 +321,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Keynote, Writing, Speaking, Open Source Software, CSS, Sass, Ruby, Ruby on Rails, RailsBridge, Mentoring, Starting non-profit organizations, Personal Branding, Community Building, creating programming course curriculum, teaching people how to program, teaching people how to teach people how to program
 - Location - New York, NY
 
+#### Heidi Olsen
+
+- [@swisswebmiss](https://twitter.com/swisswebmiss)
+- Topics - CSS, HTML, Web Animations, SVGs, Design Systems, APIs, Solution Architecture, Email Development, a11y
+- Location - Portland, OR, USA
+
 #### Lyndsey Padget
 
 - [@lyndseypadget](https://twitter.com/lyndseypadget)
