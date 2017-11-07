@@ -487,6 +487,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - London, United Kingdom.
 - Languages besides English - Portuguese and Italian.
 
+#### Bo Vandersteene
+
+- [@reibo_bo](http://twitter.com/reibo_bo)
+- Topics - Keynote Speeches, Angular, Typescript, Javascript. 
+- Location - Kortrijk, Belgium.
+- Languages besides English - Dutch and French.
+
 #### Britt Barak
 
 - Facebook - www.facebook.com/britt.barak
