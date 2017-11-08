@@ -713,7 +713,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - HTML/CSS, JavaScript, Accessibility, Progressive Enhancement
 - Location - Lagos, Nigeria
 
-<<<<<<< HEAD
 #### Moyinoluwa Adeyemi
 - [@moyheen](http://twitter.com/moyheen)
 - Android Developer, Google Events Co-organiser, Speaker
