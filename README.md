@@ -65,7 +65,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
 
-<<<<<<< HEAD
 #### Kara Carrell
 
 - [@KaraAJC](https://twitter.com/KaraAJC)
