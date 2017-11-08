@@ -24,9 +24,11 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Lebanon](#lebanon)
   - [Nigeria](#nigeria)
   - [Asia](#asia)
+  - [Argentina](#argentina)
 - [Organizers](#organizers)
   - [United States](#united-states-1)
   - [Canada](#canada-1)
+  - [Argentina](#argentina-1)
   - [Europe](#europe-1)
 - [Mentors](#mentors)
   - [United States](#united-states-2)
@@ -720,7 +722,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Asia
 
-=======
+#### Hong Phuc Dang
+- [@hpdang](https://twitter.com/hpdang)
+- [FOSSASIA](https://fossasia.org)
+- [LinkedIn](https://www.linkedin.com/in/hongphucdang)
+- Topics - Open Source AI,SUSI.AI, Open Data, FashionTech
+- Location - Singapore, Vietnam, and around Asia.
+
 ### Argentina
 
 ##### Morinigo Laura
@@ -728,22 +736,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Firebase, Javascript, AngularJS, PWA, NodeJS, MongoDB
 - Location - Buenos Aires, Argentina but currently traveling around as a digital nomad.
 - English, Spanish
-
-
-## Women Tech Organizers
-#### Example Format
-##### Full Name (First, Last)
-- [@TwitterHandle](http://twitter.com)
-- [Group Name](http://linktogroup.com), City, State, Country
-- Group Focus - List, Here
-- Location - City, State, Country
-
-#### Hong Phuc Dang
-- [@hpdang](https://twitter.com/hpdang)
-- [FOSSASIA](https://fossasia.org)
-- [LinkedIn](https://www.linkedin.com/in/hongphucdang)
-- Topics - Open Source AI,SUSI.AI, Open Data, FashionTech
-- Location - Singapore, Vietnam, and around Asia.
 
 ## Organizers
 
@@ -805,8 +797,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@heatherpayne](https://twitter.com/heatherpayne)
 - [Hackeryou](http://hackeryou.com/)
 - Location - Toronto, ON
-
-### Mexico
 
 ### Argentina
 
