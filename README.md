@@ -73,9 +73,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Git/Github, Ruby, Rails, ES6, HTML/CSS, Learning to Code, Intersectionality, Ideation & Design Thinking
 - Location - Chicago, IL, USA
 
-#### Lin Clark
-
-=======
 ##### Micheleh "MC" Center
 - [@MichelehCenter](https://twitter.com/MichelehCenter)
 - [micheleh.com](http://www.micheleh.com)
@@ -85,7 +82,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Languages - Lao
 
 ##### Lin Clark
->>>>>>> c3fb243194caa383a805743ea099eed8ce3c474f
+
 - [@linclark](http://twitter.com/linclark)
 - [code-cartoons.com](https://code-cartoons.com/)
 - Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly
@@ -724,7 +721,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lagos, Nigeria
 
 ### Asia
-#### Hong Phuc Dang
+
 =======
 ### Argentina
 
@@ -742,8 +739,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Group Name](http://linktogroup.com), City, State, Country
 - Group Focus - List, Here
 - Location - City, State, Country
->>>>>>> c3fb243194caa383a805743ea099eed8ce3c474f
 
+#### Hong Phuc Dang
 - [@hpdang](https://twitter.com/hpdang)
 - [FOSSASIA](https://fossasia.org)
 - [LinkedIn](https://www.linkedin.com/in/hongphucdang)
@@ -811,8 +808,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Hackeryou](http://hackeryou.com/)
 - Location - Toronto, ON
 
-<<<<<<< HEAD
-=======
 ### Mexico
 
 ### Argentina
@@ -822,7 +817,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [GDG Rio de La Plata / Women Techmakers Rio de la Plata](http://www.meetup.com/gdgriodelaplata)
 - Location - Buenos Aires, Argentina
 
->>>>>>> c3fb243194caa383a805743ea099eed8ce3c474f
 ### Europe
 
 #### Alina Yurenko
@@ -851,9 +845,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Women Techmakers Israel](https://www.facebook.com/wtmil/), Tel Aviv, Israel
 - Group Focus - Public speaking, soft skills, WLB, AI, ML, DL.
 
-#### Diana Pinchuk
+#### Sophie Huts
 
-- [@diana_pinchuk](https://twitter.com/diana_pinchuk)
+- [@sophie_h29](https://twitter.com/sophie_h29)
 - [GDG Lviv](https://www.meetup.com/GDG-Lviv/), Lviv, Ukraine
 - Group Focus - Google Technology, Android, Web and Cloud
 - [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
@@ -867,15 +861,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - Diversity in Tech (all levels), enabling young people in tech, public speaking, workshops, soft skills, project managment and anything that is important to our community.
 - Location: Zurich, Switzerland
 
-#### Marta Maxymiak
-
-- [@marta.maxymiak](https://www.facebook.com/marta.maxymiak)
-- [GDG Lviv](https://www.meetup.com/GDG-Lviv/), Lviv, Ukraine
-- Group Focus - Google Technology, Android, Web and Cloud
-- [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
-- Group Focus - The biggest Google tech event in CEE
-- Location - Lviv, Ukraine
-
 #### Sherry List
 
 - [@sherrrylst](http://twitter.com/sherrrylst)
@@ -886,14 +871,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [ngVikings](https://ngvikings.org/), Scandinavia
 - Group Focus - Angular
 
-#### Natalie Pistunovich
+#### Marta Maxymiak
 
-- [@nataliepis](https://twitter.com/nataliepis)
-- [Women Technmakers Berlin](http://wtmberlin.com/)
-
-#### Sophie Huts
-
-- [@sophie_h29](https://twitter.com/sophie_h29)
+- [@marta.maxymiak](https://www.facebook.com/marta.maxymiak)
 - [GDG Lviv](https://www.meetup.com/GDG-Lviv/), Lviv, Ukraine
 - Group Focus - Google Technology, Android, Web and Cloud
 - [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
@@ -908,6 +888,20 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
 - Group Focus - The biggest Google tech event in CEE
 - Location - Lviv, Ukraine
+
+#### Diana Pinchuk
+
+- [@diana_pinchuk](https://twitter.com/diana_pinchuk)
+- [GDG Lviv](https://www.meetup.com/GDG-Lviv/), Lviv, Ukraine
+- Group Focus - Google Technology, Android, Web and Cloud
+- [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
+- Group Focus - The biggest Google tech event in CEE
+- Location - Lviv, Ukraine
+
+#### Natalie Pistunovich
+
+- [@nataliepis](https://twitter.com/nataliepis)
+- [Women Technmakers Berlin](http://wtmberlin.com/)
 
 ## Mentors
 
@@ -935,12 +929,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
-#### Martin Splitt
+#### Oana Galbenu
 
-- [@g33konaut](https://twitter.com/g33konaut)
-- [Personal Website](http://geekonaut.de)
-- How to contact - Twitter, open direct messages
-- Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking
+- [@oanaalex](https://twitter.com/oanaalex)
+- [galbenu.ro](http://galbenu.ro/)
+- How to Contact - [oana@galbenu.ro](mailto:oana@galbenu.ro), [oanagalbenu@gmail.com](mailto:oanagalbenu@gmail.com) or [Twitter](https://twitter.com/oanaalex), open direct messages
+- Topics for Mentoring - HTML, CSS and preprocessors, Agile
+- Location - Bucharest, Romania, other Romanian cities, or any location via Skype (or other media)
+- Languages besides English - Romanian
+- I have more than 10 years of work expecience and more that 8 years as a fully registered web developer. I would like to help women understand the basics of the Web and help them. I have also worked a lot with Agile and I am able to coach and help with advice and best practices.
 
 #### Madlaina Kalunder
 
@@ -951,15 +948,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Languages: English, German, a little dutch, french and spanish (want to practise)
 - Topics for mentoring - WebVR, 3D, 3D for the web, Game Development, Web Development, digital creation
 
-#### Oana Galbenu
+#### Martin Splitt
 
-- [@oanaalex](https://twitter.com/oanaalex)
-- [galbenu.ro](http://galbenu.ro/)
-- How to Contact - [oana@galbenu.ro](mailto:oana@galbenu.ro), [oanagalbenu@gmail.com](mailto:oanagalbenu@gmail.com) or [Twitter](https://twitter.com/oanaalex), open direct messages
-- Topics for Mentoring - HTML, CSS and preprocessors, Agile
-- Location - Bucharest, Romania, other Romanian cities, or any location via Skype (or other media)
-- Languages besides English - Romanian
-- I have more than 10 years of work expecience and more that 8 years as a fully registered web developer. I would like to help women understand the basics of the Web and help them. I have also worked a lot with Agile and I am able to coach and help with advice and best practices.
+- [@g33konaut](https://twitter.com/g33konaut)
+- [Personal Website](http://geekonaut.de)
+- How to contact - Twitter, open direct messages
+- Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking
 
 ### Australia
 
