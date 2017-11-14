@@ -913,6 +913,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics for Mentoring - Students in Bootcamps, How to Mentor Someone, How to be an awesome Mentee, Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building
 - Location - New York NY
 
+#### Sean Larkin
+
+- [@TheLarkInn](https://twitter.com/thelarkinn)
+- [Personal Website](https://github.com/thelarkinn)
+- How to Contact - Twitter DM's are always open and my first recomendation, next is my work email <first>.<last>@microsoft[dot]com
+- Topics for Mentoring - Front end developement, JavaScript basics, webpack, getting started in open source, submitting your first PR, finding healthy and inclusive open source projects, becoming an open source maintainer, helping fund open source, speaking at conferences, reviewing CFP's. Especially passionate and well suited for teaching you how to contribute to and become a maintainer of webpack!
+- Location - Seattle, WA, USA
+
 ### India
 
 ####  Manjula Dune
