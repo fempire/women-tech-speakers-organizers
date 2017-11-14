@@ -302,6 +302,11 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - HTML/CSS, JavaScript, Accessibility, Progressive Enhancement
 - Location - Lagos, Nigeria
 
+##### Ada Nduka Oyom
+- [@kolokodess](https://twitter.com/kolokodess)
+- Topics - HTML/CSS, JavaScript, Python, Keynote speeches, Women in tech, Community
+- Location - Lagos, Nigeria
+
 ## Women Tech Organizers
 #### Example Format
 ##### Full Name (First, Last)
@@ -352,6 +357,14 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Group Focus - Public speaking, soft skills, WLB, AI, ML, DL.
 
 ### India
+
+###Nigeria
+
+##### Ada Nduka Oyom
+- [@kolokodess](https://twitter.com/kolokodess)
+- [She Code Africa](http://medium.com/shecodeafrica), Africa
+- Group Focus - Software development, Hardware Engineering, web and mobile development, Public speaking, Women in tech
+- Location - Lagos, Nigeria
 
 ## Women Interested In Getting Started / Getting Involved
 #### Example Format
