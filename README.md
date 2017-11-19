@@ -736,6 +736,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Android Developer, Google Events Co-organiser, Speaker
 - Location - Lagos, Nigeria
 
+#### Ada Nduka Oyom
+- [@kolokodess](https://twitter.com/kolokodess)
+- Topics - HTML/CSS, JavaScript, Python, Keynote speeches, Women in tech, Community
+- Location - Lagos, Nigeria
+
 ### Asia
 
 #### Hong Phuc Dang
@@ -747,11 +752,19 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Argentina
 
-#### Laura Morinigo
-- [@lala_morinigo](http://twitter.com/lala_morinigo)
+##### Morinigo Laura
+- [@lala_morinigo] (http://twitter.com/lala_morinigo)
 - Topics - Firebase, Javascript, AngularJS, PWA, NodeJS, MongoDB
 - Location - Buenos Aires, Argentina but currently traveling around as a digital nomad.
 - English, Spanish
+
+## Women Tech Organizers
+#### Example Format
+##### Full Name (First, Last)
+- [@TwitterHandle](http://twitter.com)
+- [Group Name](http://linktogroup.com), City, State, Country
+- Group Focus - List, Here
+- Location - City, State, Country
 
 ## Organizers
 
@@ -914,6 +927,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@nataliepis](https://twitter.com/nataliepis)
 - [Women Technmakers Berlin](http://wtmberlin.com/)
 
+
+###Nigeria
+
+##### Ada Nduka Oyom
+- [@kolokodess](https://twitter.com/kolokodess)
+- [She Code Africa](http://medium.com/shecodeafrica), Africa
+- Group Focus - Software development, Hardware Engineering, web and mobile development, Public speaking, Women in tech
+- Location - Lagos, Nigeria
+
+
 ## Mentors
 
 ### United States
@@ -945,6 +968,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Medium: https://medium.com/@manjuladube
 - LinkedIn: https://www.linkedin.com/in/manjula-dube-9b5b3550/
 - I love teaching so any one looking out for a JavaScript mentor reach out to me. I would love to talk about it.
+
+### Nigeria 
+
+#### Ada Nduka Oyom
+- [@kolokodess](https://twitter.com/kolokodess)
+- How to Contact - via Twitter 
+- Topics for Mentoring - Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, community building
+- Location - Lagos, Nigeria
 
 ### Europe
 
