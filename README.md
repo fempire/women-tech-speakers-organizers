@@ -657,6 +657,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - The Hague & Amsterdam, The Netherlands
 - Languages besides English - Dutch
 
+#### Kseniia Shumelchyk
+ 
+ - [@KseniiaS](https://twitter.com/KseniiaS)
+ - [Facebook](https://www.facebook.com/kseniya.shumelchyk)
+ - [LinkedIn](https://www.linkedin.com/in/kseniiashumelchyk/)
+ - Topics - Android, Architecture design, UI/UX, Wearables, Communities
+ - Location - Dnipro, Ukraine
+ - Languages besides English - Ukrainian, Russian
+
 #### Bo Vandersteene
 
 - [@reibo_bo](http://twitter.com/reibo_bo)
@@ -909,6 +918,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@nataliepis](https://twitter.com/nataliepis)
 - [Women Technmakers Berlin](http://wtmberlin.com/)
+
+#### Kseniia Shumelchyk
+ 
+ - [@KseniiaS](https://twitter.com/KseniiaS)
+ - [Facebook](https://www.facebook.com/kseniya.shumelchyk)
+ - [GDG Dnipro] (https://www.facebook.com/gdgdnipro), Dnipro, Ukraine
+ - Group Focus - Android Development (UI/UX, Security, Performance), Mobile Architecture, VR/AR, Wearables, Cloud, ML, Google technologies
+ - [Women Techmakers Ukraine] (https://www.facebook.com/wtm.ukraine), Dnipro, Ukraine
+ - Group Focus - Engineering, Quality assurance, Project & product management, Soft skills, Diversity, Google technologies, Study Jams
+ - Location - Dnipro, Ukraine
 
 #### Alina Yurenko
 
