@@ -24,9 +24,11 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Lebanon](#lebanon)
   - [Nigeria](#nigeria)
   - [Asia](#asia)
+  - [Argentina](#argentina)
 - [Organizers](#organizers)
   - [United States](#united-states-1)
   - [Canada](#canada-1)
+  - [Argentina](#argentina-1)
   - [Europe](#europe-1)
 - [Mentors](#mentors)
   - [United States](#united-states-2)
@@ -501,6 +503,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - London, United Kingdom.
 - Languages besides English - Portuguese and Italian.
 
+
 #### Britt Barak
 
 - Facebook - www.facebook.com/britt.barak
@@ -509,6 +512,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - LinkedIn: https://www.linkedin.com/in/brittbarak
 - Topics - Android (developement, OS, UX), Communities.
 - Location - Tel Aviv, Israel
+
+#### Eliza Camberogiannis
+
+- [@elizacamber](https://twitter.com/ElizaCamber)
+- [Medium](https://medium.com/@elizacamber)
+- Topics - Android, VUI (conversational apps), diversity, communities 
+- Location - Amsterdam, the Netherlands
+- Languages besides English - Greek
 
 #### Ada Rose Cannon
 
@@ -631,6 +642,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - The Hague & Amsterdam, The Netherlands
 - Languages besides English - Dutch
 
+#### Bo Vandersteene
+
+- [@reibo_bo](http://twitter.com/reibo_bo)
+- Topics - Keynote Speeches, Angular, Typescript, Javascript. 
+- Location - Kortrijk, Belgium.
+- Languages besides English - Dutch and French.
+
 #### Stephanie Walter
 
 - [@WalterStephanie ](http://twitter.com/WalterStephanie)
@@ -713,21 +731,25 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - HTML/CSS, JavaScript, Accessibility, Progressive Enhancement
 - Location - Lagos, Nigeria
 
-=======
-#### Ada Nduka Oyom
-- [@kolokodess](https://twitter.com/kolokodess)
-- Topics - HTML/CSS, JavaScript, Python, Keynote speeches, Women in tech, Community
-- Location - Lagos, Nigeria
-
-=======
 #### Moyinoluwa Adeyemi
 - [@moyheen](http://twitter.com/moyheen)
 - Android Developer, Google Events Co-organiser, Speaker
 - Location - Lagos, Nigeria
 
+#### Ada Nduka Oyom
+- [@kolokodess](https://twitter.com/kolokodess)
+- Topics - HTML/CSS, JavaScript, Python, Keynote speeches, Women in tech, Community
+- Location - Lagos, Nigeria
+
 ### Asia
 
-=======
+#### Hong Phuc Dang
+- [@hpdang](https://twitter.com/hpdang)
+- [FOSSASIA](https://fossasia.org)
+- [LinkedIn](https://www.linkedin.com/in/hongphucdang)
+- Topics - Open Source AI,SUSI.AI, Open Data, FashionTech
+- Location - Singapore, Vietnam, and around Asia.
+
 ### Argentina
 
 ##### Morinigo Laura
@@ -736,8 +758,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Buenos Aires, Argentina but currently traveling around as a digital nomad.
 - English, Spanish
 
-
-
 ## Women Tech Organizers
 #### Example Format
 ##### Full Name (First, Last)
@@ -745,13 +765,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Group Name](http://linktogroup.com), City, State, Country
 - Group Focus - List, Here
 - Location - City, State, Country
-
-#### Hong Phuc Dang
-- [@hpdang](https://twitter.com/hpdang)
-- [FOSSASIA](https://fossasia.org)
-- [LinkedIn](https://www.linkedin.com/in/hongphucdang)
-- Topics - Open Source AI,SUSI.AI, Open Data, FashionTech
-- Location - Singapore, Vietnam, and around Asia.
 
 ## Organizers
 
@@ -814,11 +827,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Hackeryou](http://hackeryou.com/)
 - Location - Toronto, ON
 
-### Mexico
-
 ### Argentina
 
-##### Laura Morinigo
+#### Laura Morinigo
 - [@lala_morinigo](https://twitter.com/lala_morinigo)
 - [GDG Rio de La Plata / Women Techmakers Rio de la Plata](http://www.meetup.com/gdgriodelaplata)
 - Location - Buenos Aires, Argentina
@@ -850,6 +861,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - Android development (beginners, professionals), Android UX
 - [Women Techmakers Israel](https://www.facebook.com/wtmil/), Tel Aviv, Israel
 - Group Focus - Public speaking, soft skills, WLB, AI, ML, DL.
+
+##### Eliza Camberogiannis
+
+- [@elizacamber](https://twitter.com/ElizaCamber)
+- [Women Techmakers the Netherlands](https://www.meetup.com/Women-Techmakers-The-Netherlands/)
+- Group Focus - Diversity, soft skills, Google technologies, Android, Cloud, Web, ML
+- Location - Amsterdam, the Netherlands
 
 #### Sophie Huts
 
@@ -931,29 +949,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics for Mentoring - Students in Bootcamps, How to Mentor Someone, How to be an awesome Mentee, Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building
 - Location - New York NY
 
+#### Sean Larkin
+
+- [@TheLarkInn](https://twitter.com/thelarkinn)
+- [Personal Website](https://github.com/thelarkinn)
+- How to Contact - Twitter DM's are always open and my first recomendation, next is my work email <first>.<last>@microsoft[dot]com
+- Topics for Mentoring - Front end developement, JavaScript basics, webpack, getting started in open source, submitting your first PR, finding healthy and inclusive open source projects, becoming an open source maintainer, helping fund open source, speaking at conferences, reviewing CFP's. Especially passionate and well suited for teaching you how to contribute to and become a maintainer of webpack!
+- Location - Seattle, WA, USA
+
 ### India
 
-### Nigeria 
-
-#### Ada Nduka Oyom
-- [@kolokodess](https://twitter.com/kolokodess)
-- How to Contact - via Twitter 
-- Topics for Mentoring - Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, community building
-- Location - Lagos, Nigeria
-
-
-
-## Women Interested In Getting Started / Getting Involved
-#### Example Format
-##### Full Name (First, Last)
-- [@TwitterHandle](http://twitter.com)
-- [Personal Website](http://www.examplewebsitelink.com)
-- Email Address
-- Topics of Interest- Topic 1, Topic 2, Topic 3
-- Location - City, State, Country
-- Languages besides English - List, Here
-- Explain what you'd like to get involved in. Keep it shorter than 3-4 sentences.
-=======
 ####  Manjula Dune
 
 - [@manjula_dube](http://twitter.com/manjula_dube)
@@ -963,6 +968,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Medium: https://medium.com/@manjuladube
 - LinkedIn: https://www.linkedin.com/in/manjula-dube-9b5b3550/
 - I love teaching so any one looking out for a JavaScript mentor reach out to me. I would love to talk about it.
+
+### Nigeria 
+
+#### Ada Nduka Oyom
+- [@kolokodess](https://twitter.com/kolokodess)
+- How to Contact - via Twitter 
+- Topics for Mentoring - Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, community building
+- Location - Lagos, Nigeria
 
 ### Europe
 
@@ -986,7 +999,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics for mentoring - WebVR, 3D, 3D for the web, Game Development, Web Development, digital creation
 
 #### Martin Splitt
->>>>>>> master
 
 - [@g33konaut](https://twitter.com/g33konaut)
 - [Personal Website](http://geekonaut.de)
