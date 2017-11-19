@@ -503,6 +503,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - London, United Kingdom.
 - Languages besides English - Portuguese and Italian.
 
+
 #### Britt Barak
 
 - Facebook - www.facebook.com/britt.barak
@@ -632,6 +633,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Girl Code, women in tech, gender gap in code, workshops, community, web development, changing careers
 - Location - The Hague & Amsterdam, The Netherlands
 - Languages besides English - Dutch
+
+#### Bo Vandersteene
+
+- [@reibo_bo](http://twitter.com/reibo_bo)
+- Topics - Keynote Speeches, Angular, Typescript, Javascript. 
+- Location - Kortrijk, Belgium.
+- Languages besides English - Dutch and French.
 
 #### Stephanie Walter
 
