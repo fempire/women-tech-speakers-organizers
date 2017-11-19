@@ -24,9 +24,11 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Lebanon](#lebanon)
   - [Nigeria](#nigeria)
   - [Asia](#asia)
+  - [Argentina](#argentina)
 - [Organizers](#organizers)
   - [United States](#united-states-1)
   - [Canada](#canada-1)
+  - [Argentina](#argentina-1)
   - [Europe](#europe-1)
 - [Mentors](#mentors)
   - [United States](#united-states-2)
@@ -720,30 +722,20 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Asia
 
-=======
-### Argentina
-
-##### Morinigo Laura
-- [@lala_morinigo] (http://twitter.com/lala_morinigo)
-- Topics - Firebase, Javascript, AngularJS, PWA, NodeJS, MongoDB
-- Location - Buenos Aires, Argentina but currently traveling around as a digital nomad.
-- English, Spanish
-
-
-## Women Tech Organizers
-#### Example Format
-##### Full Name (First, Last)
-- [@TwitterHandle](http://twitter.com)
-- [Group Name](http://linktogroup.com), City, State, Country
-- Group Focus - List, Here
-- Location - City, State, Country
-
 #### Hong Phuc Dang
 - [@hpdang](https://twitter.com/hpdang)
 - [FOSSASIA](https://fossasia.org)
 - [LinkedIn](https://www.linkedin.com/in/hongphucdang)
 - Topics - Open Source AI,SUSI.AI, Open Data, FashionTech
 - Location - Singapore, Vietnam, and around Asia.
+
+### Argentina
+
+#### Laura Morinigo
+- [@lala_morinigo](http://twitter.com/lala_morinigo)
+- Topics - Firebase, Javascript, AngularJS, PWA, NodeJS, MongoDB
+- Location - Buenos Aires, Argentina but currently traveling around as a digital nomad.
+- English, Spanish
 
 ## Organizers
 
@@ -806,11 +798,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Hackeryou](http://hackeryou.com/)
 - Location - Toronto, ON
 
-### Mexico
-
 ### Argentina
 
-##### Laura Morinigo
+#### Laura Morinigo
 - [@lala_morinigo](https://twitter.com/lala_morinigo)
 - [GDG Rio de La Plata / Women Techmakers Rio de la Plata](http://www.meetup.com/gdgriodelaplata)
 - Location - Buenos Aires, Argentina
