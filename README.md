@@ -517,6 +517,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - WebVR, Progressive Web Apps, Web Technology, Samsung Internet Web Browser
 - Location - London, UK
 
+#### Kseniia Shumelchyk
+ 
+ - [@KseniiaS](https://twitter.com/KseniiaS)
+ - [Facebook](https://www.facebook.com/kseniya.shumelchyk)
+ - [LinkedIn](https://www.linkedin.com/in/kseniiashumelchyk/)
+ - Topics - Android, Architecture design, UI/UX, Wearables, Communities
+ - Location - Dnipro, Ukraine
+ - Languages besides English - Ukrainian, Russian
+
 #### Simona Cotin
 
 - [@simona_cotin](http://twitter.com/simona_cotin)
@@ -842,6 +851,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - Android development (beginners, professionals), Android UX
 - [Women Techmakers Israel](https://www.facebook.com/wtmil/), Tel Aviv, Israel
 - Group Focus - Public speaking, soft skills, WLB, AI, ML, DL.
+
+#### Kseniia Shumelchyk
+ 
+ - [@KseniiaS](https://twitter.com/KseniiaS)
+ - [Facebook](https://www.facebook.com/kseniya.shumelchyk)
+ - [GDG Dnipro] (https://www.facebook.com/gdgdnipro), Dnipro, Ukraine
+ - Group Focus - Android Development (UI/UX, Security, Performance), Mobile Architecture, VR/AR, Wearables, Cloud, ML, Google technologies
+ - [Women Techmakers Ukraine] (https://www.facebook.com/wtm.ukraine), Dnipro, Ukraine
+ - Group Focus - Engineering, Quality assurance, Project & product management, Soft skills, Diversity, Google technologies, Study Jams
+ - Location - Dnipro, Ukraine
 
 #### Sophie Huts
 
