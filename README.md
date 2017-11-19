@@ -29,6 +29,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [United States](#united-states-1)
   - [Canada](#canada-1)
   - [Argentina](#argentina-1)
+  - [Nigeria](#nigeria-1)
   - [Europe](#europe-1)
 - [Mentors](#mentors)
   - [United States](#united-states-2)
