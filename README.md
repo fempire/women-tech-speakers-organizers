@@ -513,6 +513,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Android (developement, OS, UX), Communities.
 - Location - Tel Aviv, Israel
 
+#### Eliza Camberogiannis
+
+- [@elizacamber](https://twitter.com/ElizaCamber)
+- [Medium](https://medium.com/@elizacamber)
+- Topics - Android, VUI (conversational apps), diversity, communities 
+- Location - Amsterdam, the Netherlands
+- Languages besides English - Greek
+
 #### Ada Rose Cannon
 
 - [@lady_ada_king](https://twitter.com/lady_ada_king)
@@ -840,6 +848,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - Android development (beginners, professionals), Android UX
 - [Women Techmakers Israel](https://www.facebook.com/wtmil/), Tel Aviv, Israel
 - Group Focus - Public speaking, soft skills, WLB, AI, ML, DL.
+
+##### Eliza Camberogiannis
+
+- [@elizacamber](https://twitter.com/ElizaCamber)
+- [Women Techmakers the Netherlands](https://www.meetup.com/Women-Techmakers-The-Netherlands/)
+- Group Focus - Diversity, soft skills, Google technologies, Android, Cloud, Web, ML
+- Location - Amsterdam, the Netherlands
 
 #### Sophie Huts
 
