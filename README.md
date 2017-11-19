@@ -487,16 +487,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
-#### Amanda Cavallaro
-
-- [@chibichibibr](http://twitter.com/chibichibibr)
-- [Personal Website](http://amanda.ml)
-- Topics - Conversational experience - chatbots, women in technology, diversity and inclusion, community.
-- [GDG Cloud London](http://meetup.com/gdgcloud) and Women Techmakers London, UK
-- Location - London, United Kingdom.
-- Languages besides English - Portuguese and Italian.
-
-
 #### Britt Barak
 
 - Facebook - www.facebook.com/britt.barak
@@ -520,6 +510,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [ada.is](https://ada.is)
 - Topics - WebVR, Progressive Web Apps, Web Technology, Samsung Internet Web Browser
 - Location - London, UK
+
+#### Amanda Cavallaro
+
+- [@chibichibibr](http://twitter.com/chibichibibr)
+- [Personal Website](http://amanda.ml)
+- Topics - Conversational experience - chatbots, women in technology, diversity and inclusion, community.
+- [GDG Cloud London](http://meetup.com/gdgcloud) and Women Techmakers London, UK
+- Location - London, United Kingdom.
+- Languages besides English - Portuguese and Italian.
 
 #### Simona Cotin
 
@@ -752,19 +751,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Argentina
 
-##### Morinigo Laura
+##### Laura Morinigo
 - [@lala_morinigo] (http://twitter.com/lala_morinigo)
 - Topics - Firebase, Javascript, AngularJS, PWA, NodeJS, MongoDB
 - Location - Buenos Aires, Argentina but currently traveling around as a digital nomad.
 - English, Spanish
-
-## Women Tech Organizers
-#### Example Format
-##### Full Name (First, Last)
-- [@TwitterHandle](http://twitter.com)
-- [Group Name](http://linktogroup.com), City, State, Country
-- Group Focus - List, Here
-- Location - City, State, Country
 
 ## Organizers
 
@@ -836,23 +827,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
-#### Alina Yurenko
-
-- [@v4venceremos](https://twitter.com/v4venceremos)
-- [GDG Lviv](https://www.meetup.com/GDG-Lviv/), Lviv, Ukraine
-- Group Focus - Google Technology, Android, Web and Cloud
-- [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
-- Group Focus - The biggest Google tech event in CEE
-- Location - Lviv, Ukraine
-
-#### Amanda Cavallaro
-
-- [@chibichibibr](http://twitter.com/chibichibibr)
-- [Personal Website](http://amanda.ml)
-- [GDG Cloud London](http://meetup.com/gdgcloud) and Women Techmakers London, UK
-- Group Focus - Google Cloud Platform, Cloud computing.
-- Location - London, United Kingdom
-
 #### Britt Barak
 
 - Facebook - www.facebook.com/britt.barak
@@ -868,6 +842,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Women Techmakers the Netherlands](https://www.meetup.com/Women-Techmakers-The-Netherlands/)
 - Group Focus - Diversity, soft skills, Google technologies, Android, Cloud, Web, ML
 - Location - Amsterdam, the Netherlands
+
+#### Amanda Cavallaro
+
+- [@chibichibibr](http://twitter.com/chibichibibr)
+- [Personal Website](http://amanda.ml)
+- [GDG Cloud London](http://meetup.com/gdgcloud) and Women Techmakers London, UK
+- Group Focus - Google Cloud Platform, Cloud computing.
+- Location - London, United Kingdom
 
 #### Sophie Huts
 
@@ -927,8 +909,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@nataliepis](https://twitter.com/nataliepis)
 - [Women Technmakers Berlin](http://wtmberlin.com/)
 
+#### Alina Yurenko
 
-###Nigeria
+- [@v4venceremos](https://twitter.com/v4venceremos)
+- [GDG Lviv](https://www.meetup.com/GDG-Lviv/), Lviv, Ukraine
+- Group Focus - Google Technology, Android, Web and Cloud
+- [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
+- Group Focus - The biggest Google tech event in CEE
+- Location - Lviv, Ukraine
+
+### Nigeria
 
 ##### Ada Nduka Oyom
 - [@kolokodess](https://twitter.com/kolokodess)
