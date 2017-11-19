@@ -487,13 +487,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
-#### Alina Yurenko
-
-- [@v4venceremos](https://twitter.com/v4venceremos)
-- Topics - Marketing, Community Management, Communications
-- Location - Lviv, Ukraine (will travel nationally & internationally)
-- Languages besides English - Ukrainian, Russian
-
 #### Amanda Cavallaro
 
 - [@chibichibibr](http://twitter.com/chibichibibr)
@@ -594,12 +587,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Munich, Germany
 - Languages besides English - Finnish
 
-#### Diana Pinchuk
+#### Sophie Huts
 
-- [@diana_pinchuk](https://twitter.com/diana_pinchuk)
-- Topics - Software testing
+- [@sophie_h29](https://twitter.com/sophie_h29)
+- Topics - Web, PWA, Firebase
 - Location - Lviv, Ukraine (will travel nationally & internationally)
-- Languages besides English - Ukrainian, Russian
+- Languages besides English - Ukrainian
 
 #### Eva Lettner
 
@@ -608,11 +601,40 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Vienna, Austria
 - Languages besides English - German
 
+#### Steph Locke
+
+- [@stefflocke](https://twitter.com/stefflocke)
+- [itsaLocke.com](http://itsalocke.com)
+- Topics - Data Science, Microsoft Data Platform, DataOps
+- Location - Cardiff, UK (will travel nationally & internationally)
+- Languages besides English - NA
+
+#### Marta Maxymiak
+
+- [@marta.maxymiak](https://www.facebook.com/marta.maxymiak)
+- Topics - Web, Payments
+- Location - Lviv, Ukraine (will travel nationally & internationally)
+- Languages besides English - Ukrainian, Russian
+
+#### Vasylyna Mytsak
+
+- [@vasylyna.mytsak](https://www.facebook.com/vasylyna.mytsak)
+- Topics - Development, Typescript, Angular, JavaScript, Community building, Tech event management
+- Location - Lviv, Ukraine (will travel nationally & internationally)
+- Languages besides English - Ukrainian, Russian
+
 #### Srushtika Neelakantam
 
 - [@Srushtika](https://twitter.com/Srushtika)
 - Topics - WebVR, A-Frame, Web Technologies, Realtime Technologies, deepstream.io
 - Location - Berlin, Germany
+
+#### Diana Pinchuk
+
+- [@diana_pinchuk](https://twitter.com/diana_pinchuk)
+- Topics - Software testing
+- Location - Lviv, Ukraine (will travel nationally & internationally)
+- Languages besides English - Ukrainian, Russian
 
 #### Carmen Popoviciu
 
@@ -628,14 +650,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Budapest, Hungary
 - Languages besides English - Arabic, French
 
-#### Marta Maxymiak
-
-- [@marta.maxymiak](https://www.facebook.com/marta.maxymiak)
-- Topics - Web, Payments
-- Location - Lviv, Ukraine (will travel nationally & internationally)
-- Languages besides English - Ukrainian, Russian
-
-##### Ineke Scheffers
+#### Ineke Scheffers
 - [@FYIneke](https://twitter.com/fyineke) & [@GirlCodeNL](https://twitter.com/GirlCodeNL)
 - [Girl Code](https://www.meetup.com/girlcode/)
 - Topics - Girl Code, women in tech, gender gap in code, workshops, community, web development, changing careers
@@ -663,25 +678,10 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, sustainable Open Source projects
 - Location - Northhampton, UK
 
-#### Steph Locke
+#### Alina Yurenko
 
-- [@stefflocke](https://twitter.com/stefflocke)
-- [itsaLocke.com](http://itsalocke.com)
-- Topics - Data Science, Microsoft Data Platform, DataOps
-- Location - Cardiff, UK (will travel nationally & internationally)
-- Languages besides English - NA
-
-#### Sophie Huts
-
-- [@sophie_h29](https://twitter.com/sophie_h29)
-- Topics - Web, PWA, Firebase
-- Location - Lviv, Ukraine (will travel nationally & internationally)
-- Languages besides English - Ukrainian
-
-#### Vasylyna Mytsak
-
-- [@vasylyna.mytsak](https://www.facebook.com/vasylyna.mytsak)
-- Topics - Development, Typescript, Angular, JavaScript, Community building, Tech event management
+- [@v4venceremos](https://twitter.com/v4venceremos)
+- Topics - Marketing, Community Management, Communications
 - Location - Lviv, Ukraine (will travel nationally & internationally)
 - Languages besides English - Ukrainian, Russian
 
