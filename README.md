@@ -947,7 +947,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - Software development, Hardware Engineering, web and mobile development, Public speaking, Women in tech
 - Location - Lagos, Nigeria
 
-### Brasil
+### Brazil
 
 #### Thaissa Candella
 - [thaissacandella](https://www.linkedin.com/in/thaissacandella/)
