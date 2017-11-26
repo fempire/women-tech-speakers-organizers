@@ -673,6 +673,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Kortrijk, Belgium.
 - Languages besides English - Dutch and French.
 
+#### Natalia Venditto
+
+- [@anfibiacreativa](https://twitter.com/anfibiacreativa)
+- [LinkedIn](https://www.linkedin.com/in/anfibiacreativa/)
+- Topics - Frontend Architecture, Frontend Development, Javascript, Web Performance
+- Location - Barcelona, Spain (will travel nationally & internationally)
+- Languages besides English - Spanish
+
 #### Stephanie Walter
 
 - [@WalterStephanie ](http://twitter.com/WalterStephanie)
