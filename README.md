@@ -31,6 +31,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Argentina](#argentina-1)
   - [Nigeria](#nigeria-1)
   - [Europe](#europe-1)
+  - [Brazil](#brazil)
 - [Mentors](#mentors)
   - [United States](#united-states-2)
   - [India](#india-1)
@@ -954,6 +955,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - Software development, Hardware Engineering, web and mobile development, Public speaking, Women in tech
 - Location - Lagos, Nigeria
 
+### Brazil
+
+#### Thaissa Candella
+- [thaissacandella](https://www.linkedin.com/in/thaissacandella/)
+- Google Developer Group Campinas
+  - [Meetup](https://www.meetup.com/gdgcampinas/)
+  - [Facebook Page](https://www.facebook.com/gdgcampinas/)
+  - [Facebook Group](https://www.facebook.com/groups/gdgcampinas/)
+- [Women Techmakers Campinas](https://chat.whatsapp.com/1BRjNhkWMxEGj5o1unKSP3)
+- [Facebook Developer Circle Campinas](https://www.facebook.com/groups/DevCCampinas/)
+- Location - Campinas, SP, Brazil
 
 ## Mentors
 
