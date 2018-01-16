@@ -808,6 +808,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [GDG Pitt](https://www.meetup.com/gdg-pitt/), Pittsburgh, PA
 - Group Focus - Google Technology, Machine Learning, Web Development, Android
 
+#### Erin LeDell
+
+- [@ledell](https://twitter.com/ledell)
+- [Bay Area Women in Machine Learning & Data Science](https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/) Bay Area, CA, USA
+- [R-Ladies San Francisco](https://www.meetup.com/rladies-san-francisco/) Bay Area, CA, USA
+- Group Focus - Machine Learning & Data Science / R
+- Location - Bay Area, CA, USA
+
 #### Tracy Lee
 
 - [@ladyleet](http://twitter.com/ladyleet)
