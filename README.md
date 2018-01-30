@@ -41,6 +41,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [United States](#united-states-3)
   - [Europe](#europe-3)
   - [India](#india-2)
+  - [Nigeria](#nigeria-2)
 - [Contributing](#contributing)
   - [Formatting](#formatting)
 
@@ -1088,6 +1089,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics of Interest - Android, Firebase, Javascript or anything tech :)
 - Location - New Delhi, India
 - Languages besides English - Hindi, French (Basic level of understanding)
+
+### Nigeria
+
+#### Egwuenu Gift
+
+- [@lauragift21](http://twitter.com/lauragift21)
+- [Personal Website](http://giftegwuenu.com)
+- laurandidi21@gmail.com
+- Topics of Interest- HTML, CSS, JavaScript, Vuejs
+- Location - Lagos, Nigeria
+- I'll like to get more involved in the open-source community and actively partcipate in the tech community.
 
 ## Contributing
 
