@@ -435,7 +435,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@estellevw](http://twitter.com/estellevw)
 - [standardista.com](http://www.standardista.com/)
-- Topics - Keynote Speeches, JavaScript, Accessibility, Standards
+- [GitHub](https://estelle.github.io)
+- Topics - Keynote Speeches, CSS, JavaScript, Accessibility, Standards, Web Performance
 - Location - San Francisco, CA
 
 #### Rachel White
@@ -837,6 +838,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Norfolk.js](https://www.norfolkjs.org), Norfolk, VA
 - [RevolutionConf](https://www.revolutionconf.com), Norfolk VA
 - Group Focus - JavaScript, NodeBots
+
+#### Estelle Weyl
+
+- [@estellevw](https://twitter.com/estellevw)
+- [#PerfMatters](https://www.perfmattersconf.com/), Redwood City, CA
+- [SF Web Performance Meetup Group](https://www.meetup.com/SF-Web-Performance-Group/), Mountain View, CA
+- Group Focus - Web Performance, frontend web performance, JavaScript, Accessibility 
 
 ### Canada
 
