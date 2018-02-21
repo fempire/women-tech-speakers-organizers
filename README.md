@@ -705,6 +705,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lviv, Ukraine (will travel nationally & internationally)
 - Languages besides English - Ukrainian, Russian
 
+#### Laura Morillo-Velarde
+
+- [@laura_morillo](https://twitter.com/laura_morillo)
+- Topics - Kubernetes, Google Cloud, Nodejs, Ruby, TDD, Extreme Programming
+- Location - Madrid, Spain (will travel nationally & internationally)
+- Languages besides English - Spanish
+
 ### India
 
 #### Ramya Authappan
@@ -963,6 +970,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
 - Group Focus - The biggest Google tech event in CEE
 - Location - Lviv, Ukraine
+
+#### Laura Morillo-Velarde
+
+- [@laura_morillo](https://twitter.com/laura_morillo)
+- [GDG Madrid](https://www.meetup.com/es-ES/GDGMadrid/), Madrid, Spain
+- Group Focus - Google Technology, Android, Web and Cloud
+- [WTM Madrid](http://wtm.gdgmadrid.es), Madrid, Spain
+- Group Focus - Technology in general, but focusing on provide visibility and resources to women
+- Location - Madrid, Spain
 
 ### Nigeria
 
