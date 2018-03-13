@@ -479,7 +479,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Women in Tech, impostor syndrome, Javascript, Accessibility, Front End,
 - Location - Dallas, TX, US
 
---
+#### Lauren Tan
+
+- [@sugarpirate_](https://twitter.com/sugarpirate_)
+- [Writing](https://medium.com/@sugarpirate)
+- [GitHub](https://github.com/poteto)
+- [LinkedIn](https://www.linkedin.com/in/laurenelizabethtan)
+- Email: arr@sugarpirate.com
+- Topics - Javascript, Frontend, Elixir, Ruby, Microservices
+- Location - SF Bay Area, CA, USA
 
 ### Canada
 
