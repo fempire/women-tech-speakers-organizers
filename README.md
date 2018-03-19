@@ -787,6 +787,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Android Developer, Google Events Co-organiser, Speaker
 - Location - Lagos, Nigeria
 
+#### Emem Brownson
+- [@brownjee001](https://twitter.com/brownjee001)
+- Topics - Android, Java, Kotlin, Firebase products for Android, Women in tech, How to build a startup, BMC or LMC
+- Location - Uyo, Nigeria
+
 #### Ada Nduka Oyom
 - [@kolokodess](https://twitter.com/kolokodess)
 - Topics - HTML/CSS, JavaScript, Python, Keynote speeches, Women in tech, Community
@@ -1029,6 +1034,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - Software development, Hardware Engineering, web and mobile development, Public speaking, Women in tech
 - Location - Lagos, Nigeria
 
+##### Emem Brownson
+- [@brownjee001](https://twitter.com/brownjee001)
+- [Girls Programming Academy](https://web.facebook.com/GirlsProAc/)
+- [WTM Uyo](https://web.facebook.com/WomenTechmakersUyo/)
+- [GDG Uyo](https://web.facebook.com/gdguyo/)
+- Group Focus - Software development, web and mobile development, Public speaking, Women in tech
+- Location - Uyo, Nigeria
+
 ### Brazil
 
 #### Thaissa Candella
@@ -1080,6 +1093,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - How to Contact - via Twitter
 - Topics for Mentoring - Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, community building
 - Location - Lagos, Nigeria
+
+### Nigeria
+
+#### Emem Brownson
+- [@brownjee001](https://twitter.com/brownjee001)
+- How to Contact - (mailto:brownjee001@gmail.com) or via Twitter
+- Topics for Mentoring - Android, Public Speaking, Project Management, Community building, Meetups, Presentation 
+- Location - Uyo, Nigeria
 
 ### Europe
 
