@@ -714,6 +714,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lviv, Ukraine (will travel nationally & internationally)
 - Languages besides English - Ukrainian, Russian
 
+#### Tereza Iofciu
+
+- [@terezaif](https://twitter.com/terezaif)
+- [LinkedIn](https://www.linkedin.com/in/tereza-iofciu-2072555/)
+- Topics - Data Science, Data Engineering
+- Location - Hambburg, Germany
+- Languages besides English - Romanian, German
+
 ### India
 
 #### Ramya Authappan
