@@ -742,6 +742,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Open Web Technologies, Rust
 - Location - Hyderabad, India
 
+#### Shagufta Gurmukhdas
+
+- [@mozkri](https://twitter.com/shaguftamethwan)
+- Topics - WebVR, Deep learning
+- Location - Pune, India
+- Contact: Twitter DM
+
 ### Lebanon
 
 #### Sara Soueidan
