@@ -754,15 +754,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Android Developer, Google Events Co-organiser, Speaker
 - Location - Lagos, Nigeria
 
-#### Ada Nduka Oyom
-- [@kolokodess](https://twitter.com/kolokodess)
-- Topics - HTML/CSS, JavaScript, Python, Keynote speeches, Women in tech, Community
-- Location - Lagos, Nigeria
-
 #### Emem Brownson
 - [@brownjee001](https://twitter.com/brownjee001)
 - Topics - Android, Java, Kotlin, Firebase products for Android, Women in tech, How to build a startup, BMC or LMC
 - Location - Uyo, Nigeria
+
+#### Ada Nduka Oyom
+- [@kolokodess](https://twitter.com/kolokodess)
+- Topics - HTML/CSS, JavaScript, Python, Keynote speeches, Women in tech, Community
+- Location - Lagos, Nigeria
 
 ### Asia
 
