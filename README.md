@@ -847,6 +847,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [RevolutionConf](https://www.revolutionconf.com), Norfolk VA
 - Group Focus - JavaScript, NodeBots
 
+#### Margaret Valtierra
+
+- [@Margaretvaltie](http://twitter.com/margaretvaltie)
+- [DevOpsDays Chicago](https://www.devopsdays.org/events/2018-chicago/welcome/), Chicago, IL USA
+- Group Focus - DevOps, culture, SRE, community, leadership
+- [Chicago AWS user group](http://chicagoaws.com/), Chicago, IL USA
+- Group Focus - Amazon Web Services, AWS user stories, security, big data, developers 
+
 #### Estelle Weyl
 
 - [@estellevw](https://twitter.com/estellevw)
