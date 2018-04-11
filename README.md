@@ -731,6 +731,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### India
 
+#### Bhavani Ravi
+
+- [@atramya](https://twitter.com/geeky_bhavani)
+- Email Address - [bhava0895@gmail.com]
+- Python | Django | Chatbots | WomenInTech
+- [bhavaniravi.com](http://bhavaniravi.com)
+- I one of the organizers & mentor at [Build2learn](http://build2learn.in)
+- Location - Chennai, India
+
 #### Ramya Authappan
 
 - [@atramya](https://twitter.com/atramya)
