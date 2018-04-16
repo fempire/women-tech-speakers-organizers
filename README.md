@@ -356,6 +356,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Portland, OR
 - Languages besides English - Spanish
 
+#### Michelle Perz
+
+- [@pinkfiregoddess](http://twitter.com/pinkfiregoddess)
+- Topics - Ansible Automation (Tower, Engine), Devops, Open Source
+- Location - Rochester, NY, USA
+
 #### Maggie Pint
 
 - [@maggiepint](https://twitter.com/maggiepint)
