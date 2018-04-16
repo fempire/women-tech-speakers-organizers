@@ -498,6 +498,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Personal Website](https://myriamjessier.com/)
 - Topics - SEO, Marketing, Search, UX
 
+#### Sage Franch
+
+- [@thetrendytechie](http://twitter.com/thetrendytechie)
+- [Personal Website](http://trendytechie.ca)
+- Email: sage@trendytechie.ca or sage@getcrescendo.co
+- Topics - AI, blockchain, diversity and inclusion, futurism
+- Location - Toronto, Ontario, Canada
+
+
 ### Europe
 
 #### Britt Barak
