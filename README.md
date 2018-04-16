@@ -899,7 +899,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [DevOpsDays Chicago](https://www.devopsdays.org/events/2018-chicago/welcome/), Chicago, IL USA
 - Group Focus - DevOps, culture, SRE, community, leadership
 - [Chicago AWS user group](http://chicagoaws.com/), Chicago, IL USA
-- Group Focus - Amazon Web Services, AWS user stories, security, big data, developers 
+- Group Focus - Amazon Web Services, AWS user stories, security, big data, developers
 
 #### Estelle Weyl
 
@@ -1017,6 +1017,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
  - Group Focus - Engineering, Quality assurance, Project & product management, Soft skills, Diversity, Google technologies, Study Jams
  - Location - Dnipro, Ukraine
 
+#### Katerina Skroumpelou
+
+- [@psybercity](https://twitter.com/psybercity)
+- [GitHub profile](https://github.com/mandarini)
+- [Angular Athens](https://www.meetup.com/en-AU/Angular-Athens/), Athens, Greece
+- Group Focus - Angular, JavaScript, Front end technologies
+- Topics Katerina speaks about: Angular, JavaScript, Front end technologies, web maps (Google Maps, OpenLayers)
+- Location - Athens, Greece  
+
 #### Alina Yurenko
 
 - [@v4venceremos](https://twitter.com/v4venceremos)
@@ -1108,7 +1117,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Emem Brownson
 - [@brownjee001](https://twitter.com/brownjee001)
 - How to Contact - (mailto:brownjee001@gmail.com) or via Twitter
-- Topics for Mentoring - Android, Public Speaking, Project Management, Community building, Meetups, Presentation 
+- Topics for Mentoring - Android, Public Speaking, Project Management, Community building, Meetups, Presentation
 - Location - Uyo, Nigeria
 
 ### Europe
