@@ -490,6 +490,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Javascript, Frontend, Elixir, Ruby, Microservices
 - Location - SF Bay Area, CA, USA
 
+#### Helena McCabe
+
+- [@misshelenasue](https://twitter.com/misshelenasue)
+- [GitHub](https://github.com/helenasue)
+- Email: helena@lullabot.com
+- Topics - Web Accessibility, Drupal
+- Location - Orlando, FL, USA
+
 ### Canada
 
 #### Myriam Jessier
