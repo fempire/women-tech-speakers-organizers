@@ -168,6 +168,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Keynotes Speeches, JavaScript, Animations
 - Location - Pittsburgh, PA
 
+#### Bianca Henderson
+
+- [@bizonks](http://twitter.com/bizonks)
+- Topics - Moms in Tech, Self-starting/Self-teaching, Technical Writing, Ansible, Open Source
+- Location - Durham, NC, USA
+
 #### Asia Hoe
 
 - [@TwitterHandle](http://twitter.com/asiahoe)
@@ -1200,7 +1206,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics of Interest- Web Development, Diversity, Women in Tech
 - Location - Raleigh, NC, USA
 - Languages besides English - Urdu
-- I am currently working on completing the full stack web development program at Flatiron School. I would like to join the tech industry and use my new skills to make a positive impact in the world. I would also like to help more women and minorities get involved in tech. 
+- I am currently working on completing the full stack web development program at Flatiron School. I would like to join the tech industry and use my new skills to make a positive impact in the world. I would also like to help more women and minorities get involved in tech.
 
 ### Europe
 
