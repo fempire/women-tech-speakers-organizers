@@ -64,6 +64,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [sushiandrobots.com](https://www.sushiandrobots.com/)
 - Topics - Design Systems, Sass, Design, CSS
 
+#### Jessica Bell
+
+- [@SirJesstheBrave](http://twitter.com/SirJesstheBrave)
+- [sirjessthebrave.com](https://sirjessthebrave.github.io/)
+- Topics - JavaScript, AngularJS, HTML/CSS, SASS, Git/Version Control, Career Change, Web Development
+- Location - Washington, DC
+
 #### Jennifer Bland
 
 - [@ratracegrad](http://twitter.com/ratracegrad)
