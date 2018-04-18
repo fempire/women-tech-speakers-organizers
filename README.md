@@ -613,6 +613,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lviv, Ukraine (will travel nationally & internationally)
 - Languages besides English - Ukrainian
 
+#### Sally Lait
+
+- [@sallylait](http://twitter.com/sallylait)
+- [sallylait.com](https://sallylait.com)
+- Topics - Digital transformation and change, web technologies, APIs, JAMstack, strategy, open data, keynotes, MC
+- Location - Suffolk, UK
+
 #### Eva Lettner
 
 - [@eva_trostlos](http://twitter.com/eva_trostlos)
