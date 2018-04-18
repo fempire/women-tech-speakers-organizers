@@ -275,6 +275,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Keynote Speeches, JavaScript, NativeScript, React Native, React, Angular, Women in Tech, Startup, Entrepreneurship
 - Location - Bay Area / San Francisco, CA & Raleigh, NC
 
+#### Gina Likins
+
+- [@lintqueen](http://twitter.com/lintqueen)
+- [lintqueen.com](http://www.lintqueen.com)
+- Topics - Keynote Speeches, open source in education, eTextiles & small circuits, open source communities, communication & conflict resolution, open organizations, open source principles
+- Location - Raleigh, NC
+
 #### Devon Lindsey
 
 - [@devonbl](http://twitter.com/devonbl)
