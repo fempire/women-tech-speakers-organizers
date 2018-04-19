@@ -1156,8 +1156,10 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Personal Website](http://krishoward.org/)
 - [YOW! Conferences and Workshops](http://yowconference.com.au/)
 - Group Focus - software development, testing, IoT, data engineering and data science, AI/ML, technology leadership
+- Location - Australia, Singapore, Hong Kong
 - [Sydney Technology Leaders](https://www.meetup.com/Syd-Technology-Leaders/)
 - Group Focus - technology and people leadership
+- Location - Sydney, Australia
 
 ## Mentors
 
