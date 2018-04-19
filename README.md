@@ -1115,7 +1115,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@TheLarkInn](https://twitter.com/thelarkinn)
 - [Personal Website](https://github.com/thelarkinn)
-- How to Contact - Twitter DM's are always open and my first recomendation, next is my work email <first>.<last>@microsoft[dot]com
+- How to Contact - Twitter DM's are always open and my first recomendation, next is my work email \<first>.\<last>@microsoft[dot]com
 - Topics for Mentoring - Front end developement, JavaScript basics, webpack, getting started in open source, submitting your first PR, finding healthy and inclusive open source projects, becoming an open source maintainer, helping fund open source, speaking at conferences, reviewing CFP's. Especially passionate and well suited for teaching you how to contribute to and become a maintainer of webpack!
 - Location - Seattle, WA, USA
 
@@ -1197,6 +1197,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics of Interest- HTML, CSS, Front-end design
 - Location - Atlanta, GA, USA
 - I would like to break into the tech industry and am presently working on getting my front-end certification from freecodecamp
+
+#### Maira Wenzel
+
+- [@mairacw](http://twitter.com/mairacw)
+- Topics of Interest - women in tech, latinas in tech, open source, .NET, technical writing
+- Location - Redmond, WA, USA
+- Languages besides English - Brazilian Portuguese
+- I have experience already in the tech industry but I'm new to public speaking. Would like to get more experience on presenting at meetups/conferences/etc.
 
 #### Alavia Yahya
 
