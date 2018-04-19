@@ -188,6 +188,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Design, Design Systems, Mentorship, Mobile, Philanthropy, User Research, UX
 - Location - New York, NY, USA
 
+#### Ashley Hunsberger
+
+- [@aahunsberger](https://twitter.com/aahunsberger)
+- Topics - Organizer of Selenium Conference, QA, DevOps, Women in Tech, Culture
+- Location - Raleigh, North Carolina, USA
+
 #### Lisa Huang
 
 - [@lisaychuang](http://twitter.com/lisaychuang)
