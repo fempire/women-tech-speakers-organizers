@@ -188,18 +188,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Design, Design Systems, Mentorship, Mobile, Philanthropy, User Research, UX
 - Location - New York, NY, USA
 
-#### Ashley Hunsberger
-
-- [@aahunsberger](https://twitter.com/aahunsberger)
-- Topics - Organizer of Selenium Conference, QA, DevOps, Women in Tech, Culture
-- Location - Raleigh, North Carolina, USA
-
 #### Lisa Huang
 
 - [@lisaychuang](http://twitter.com/lisaychuang)
 - [lambdalisa.com](http://lambdalisa.com/)
 - Topics - JavaScript, web development, mobile, AMP open source project
 - Location - San Francisco Bay area, CA
+
+#### Ashley Hunsberger
+
+- [@aahunsberger](https://twitter.com/aahunsberger)
+- Topics - Organizer of Selenium Conference, QA, DevOps, Women in Tech, Culture
+- Location - Raleigh, North Carolina, USA
 
 #### Tomomi Imura
 
@@ -470,6 +470,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [brittanywalker.io](http://www.brittanywalker.io/)
 - Topics - CSS (Sass), JavaScript, Animations, Illustrations, Front-End, React
 - Location - Washington, DC
+
+#### Hilary Weaver-Robb
+
+- [@g33klady](https://twitter.com/g33klady)
+- [g33klady.com](https://g33klady.com)
+- Topics - Software Testing, REST Web Service and API Testing, Test Automation using C#, TFS Test Manager, Relationships between Devs and Testers
+- Location - Detroit, MI
 
 #### Estelle Weyl
 
