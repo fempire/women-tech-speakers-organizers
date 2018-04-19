@@ -476,6 +476,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@g33klady](https://twitter.com/g33klady)
 - [g33klady.com](https://g33klady.com)
 - Topics - Software Testing, REST Web Service and API Testing, Test Automation using C#, TFS Test Manager, Relationships between Devs and Testers
+- Organizer/Board/Track Chair - Motor City Software Testers user group, CodeMash, KalamazooX, Ann Arbor GiveCamp
 - Location - Detroit, MI
 
 #### Estelle Weyl
