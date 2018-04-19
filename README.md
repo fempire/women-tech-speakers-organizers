@@ -33,6 +33,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Nigeria](#nigeria-1)
   - [Europe](#europe-1)
   - [Brazil](#brazil)
+  - [Australia] (#australia)
 - [Mentors](#mentors)
   - [United States](#united-states-2)
   - [India](#india-1)
@@ -895,6 +896,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English, French
 
+##### Kris Howard
+- [@web_goddess](https://twitter.com/web_goddess)
+- [Personal Website](http://krishoward.org/)
+- Topics - Keynotes, Mentoring, Art & Tech, Making/Crafting, Leadership, Career Development, Women in tech
+- Location - Sydney, Australia
+
 ## Organizers
 
 ### United States
@@ -1141,6 +1148,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Women Techmakers Campinas](https://chat.whatsapp.com/1BRjNhkWMxEGj5o1unKSP3)
 - [Facebook Developer Circle Campinas](https://www.facebook.com/groups/DevCCampinas/)
 - Location - Campinas, SP, Brazil
+
+### Australia
+
+#### Kris Howard
+- [@web_goddess](https://twitter.com/web_goddess)
+- [Personal Website](http://krishoward.org/)
+- [YOW! Conferences and Workshops](http://yowconference.com.au/)
+- Group Focus - software development, testing, IoT, data engineering and data science, AI/ML, technology leadership
+- [Sydney Technology Leaders](https://www.meetup.com/Syd-Technology-Leaders/)
+- Group Focus - technology and people leadership
 
 ## Mentors
 
