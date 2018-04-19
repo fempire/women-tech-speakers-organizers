@@ -71,6 +71,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, AngularJS, HTML/CSS, SASS, Git/Version Control, Career Change, Web Development
 - Location - Washington, DC
 
+#### Jessica Dene Earley-Cha
+
+- [@chatasweetie](http://twitter.com/chatasweetie)
+- [chatasweetie.com](https://chatasweetie.com/about-me/)
+- Topics - Python, Flask, Whiteboarding, Community Management, Google Assistant, Conversational UI, Voice UI and more
+- Location - Bay Area, CA
+
 #### Jennifer Bland
 
 - [@ratracegrad](http://twitter.com/ratracegrad)
@@ -876,6 +883,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [SF Design Systems Coalition](https://www.sfdsc.co/), San Francisco, CA
 - [The Mixin](https://www.themixinsf.com/), San Francisco, CA
 - Group Focus - Design Systems, Sass, frontend, product design
+
+#### Jessica Dene Earley-Cha
+
+- [@chatasweetie](http://twitter.com/chatasweetie)
+- [Google Developer Group San Fransisco GDG SF](https://www.meetup.com/google-developer-group-san-francisco/)
+- Group Focus - Community & Learning about Google Products 
+- Location - San Francisco, CA
 
 #### Kara Carrell
 
