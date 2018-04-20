@@ -43,6 +43,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Europe](#europe-3)
   - [India](#india-2)
   - [Nigeria](#nigeria-2)
+  - [Australia](#australia)
 - [Contributing](#contributing)
   - [Formatting](#formatting)
 
@@ -895,6 +896,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English, French
 
+##### Daisy Smith
+- [@daisysmells](http://twitter.com/daisysmells)
+- [Portfolio](http://daisymarie128.github.io)
+- Topics - JavaScript, Web technologies, Creative Coding, Women in tech
+- Location - Sydney, Australia
+- English
+
 ## Organizers
 
 ### United States
@@ -1228,6 +1236,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - If there are any motivated women out there who are putting continuous effort towards learning some front-end development, I can help them out by teaching concepts, internals of libs, debugging their work and generally do some pairing.
 
+#### Daisy Smith
+
+- [@daisysmells](http://twitter.com/daisysmells)
+- [Portfolio](http://daisymarie128.github.io)
+- Email Address - Twitter || [daisymarie128@gmail.com]
+- Javascript development, Front End development, Creative coding, Getting Started with Web Development
+- Location - Sydney, Australia
+
 ## Getting Started
 
 ### United States
@@ -1292,6 +1308,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics of Interest- HTML, CSS, JavaScript, Vuejs
 - Location - Lagos, Nigeria
 - I'll like to get more involved in the open-source community and actively partcipate in the tech community.
+
+### Australia
+
+#### Daisy Smith
+
+- [@daisysmells](http://twitter.com/daisysmells)
+- [Portfolio](http://daisymarie128.hithub.io)
+- daisymarie128@gmail.com
+- Topics of Interest - OpenFrameworks, Hardware, Machine Learning, C++, Graphics, WebGL, OpenGL, Python, Security
+- Location - Lagos, Nigeria
+- I'll like to get more experience with the topics mentioned above. Also I'm primarily a Web Developer with 3.5-4yrs experience. I'd like to expand my knowledge with some help learning other languages like C++ or Python, to help me grow my career path.
 
 ## Contributing
 
