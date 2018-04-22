@@ -895,6 +895,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English, French
 
+##### Larene Le Gassick
+
+- [@larenelg](https://twitter.com/larenelg)
+- [LinkedIn](https://www.linkedin.com/in/larene)
+- Topics - Accessibility, Machine Learning, Javascript, .NET, Hardware
+- Location - Brisbane, Australia
+- English, Chinese
+
 ## Organizers
 
 ### United States
@@ -1141,6 +1149,19 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Women Techmakers Campinas](https://chat.whatsapp.com/1BRjNhkWMxEGj5o1unKSP3)
 - [Facebook Developer Circle Campinas](https://www.facebook.com/groups/DevCCampinas/)
 - Location - Campinas, SP, Brazil
+
+### Australia
+
+#### Larene Le Gassick
+- [@larenelg](https://twitter.com/larenelg)
+- Women Who Code Brisbane
+  - [Meetup](https://www.meetup.com/Women-Who-Code-Brisbane)
+  - [Facebook](https://www.facebook.com/WomenWhoCodeBrisbane/)
+  - [Official](https://www.womenwhocode.com/brisbane)
+- CTO School Brisbane
+  - [Meetup](https://www.meetup.com/CTO-School-Brisbane/)
+  - [Youtube]https://www.youtube.com/channel/UCnFOxxQL0HZHIAHIkR-8zQg)
+- Location - Brisbane, Australia
 
 ## Mentors
 
