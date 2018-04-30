@@ -565,6 +565,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Android (developement, OS, UX), Communities.
 - Location - Tel Aviv, Israel
 
+#### Janet Bastiman
+
+- [@yssybyl](https://twitter.com/yssybyl)
+- Personal website - [janjanjan.uk](http://janjanjan.uk)
+- LinkedIn - [https://www.linkedin.com/in/janetbastiman](https://www.linkedin.com/in/janetbastiman)
+- [Tech Women London](https://www.meetup.com/Tech-Women-London/)
+- Topics - AI, biologically inspired computing, productionising data science, building great tech teams, continous lifecycle, python, docker
+- Location - London, UK (will travel nationally and internationally)
+
 #### Eliza Camberogiannis
 
 - [@elizacamber](https://twitter.com/ElizaCamber)
