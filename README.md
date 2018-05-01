@@ -886,6 +886,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Buenos Aires, Argentina but currently traveling around as a digital nomad.
 - English, Spanish
 
+##### Eva Ferreira
+- [@evaferreira92] (http://twitter.com/evaferreira92)
+- Topics - CSS, JavaScript, Accessibility
+- Location - Buenos Aires, Argentina.
+- English, Spanish, German
+
 ### Australia
 
 ##### Charlie Gerard
@@ -991,6 +997,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Laura Morinigo
 - [@lala_morinigo](https://twitter.com/lala_morinigo)
 - [GDG Rio de La Plata / Women Techmakers Rio de la Plata](http://www.meetup.com/gdgriodelaplata)
+- Location - Buenos Aires, Argentina
+
+#### Eva Ferreira
+- [@evaferreira92](https://twitter.com/evaferreira92)
+- [CSSConf Argentina](https://www.cssconfar.com)
 - Location - Buenos Aires, Argentina
 
 ### Europe
