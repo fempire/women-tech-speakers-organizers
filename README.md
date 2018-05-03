@@ -4,7 +4,7 @@ This is a list of women tech speakers &amp; organizers.
 
 Also included in this list is a list of women who would LIKE to get involved & a list of PEOPLE that would like to help and mentor women.
 
-This list originally started from a [Twitter list](https://twitter.com/ladyleet/lists/fempire) I keep - it's not complete, but it's a start if you'd like to follow!
+This list originally started from a [Twitter list](https://twitter.com/ladyleet/lists/fempire) I keep - it's not complete, but it's a start if you'd like to follow! :)
 
 ---
 
