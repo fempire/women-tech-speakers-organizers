@@ -4,7 +4,7 @@ This is a list of women tech speakers &amp; organizers.
 
 Also included in this list is a list of women who would LIKE to get involved & a list of PEOPLE that would like to help and mentor women.
 
-This list originally started from a [Twitter list](https://twitter.com/ladyleet/lists/fempire) I keep - it's not complete, but it's a start if you'd like to follow!
+This list originally started from a [Twitter list](https://twitter.com/ladyleet/lists/fempire) I keep - it's not complete, but it's a start if you'd like to follow! :)
 
 ---
 
@@ -33,6 +33,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Nigeria](#nigeria-1)
   - [Europe](#europe-1)
   - [Brazil](#brazil)
+  - [Australia] (#australia)
 - [Mentors](#mentors)
   - [United States](#united-states-2)
   - [India](#india-1)
@@ -189,18 +190,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Design, Design Systems, Mentorship, Mobile, Philanthropy, User Research, UX
 - Location - New York, NY, USA
 
-#### Ashley Hunsberger
-
-- [@aahunsberger](https://twitter.com/aahunsberger)
-- Topics - Organizer of Selenium Conference, QA, DevOps, Women in Tech, Culture
-- Location - Raleigh, North Carolina, USA
-
 #### Lisa Huang
 
 - [@lisaychuang](http://twitter.com/lisaychuang)
 - [lambdalisa.com](http://lambdalisa.com/)
 - Topics - JavaScript, web development, mobile, AMP open source project
 - Location - San Francisco Bay area, CA
+
+#### Ashley Hunsberger
+
+- [@aahunsberger](https://twitter.com/aahunsberger)
+- Topics - Organizer of Selenium Conference, QA, DevOps, Women in Tech, Culture
+- Location - Raleigh, North Carolina, USA
 
 #### Tomomi Imura
 
@@ -471,6 +472,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [brittanywalker.io](http://www.brittanywalker.io/)
 - Topics - CSS (Sass), JavaScript, Animations, Illustrations, Front-End, React
 - Location - Washington, DC
+
+#### Hilary Weaver-Robb
+
+- [@g33klady](https://twitter.com/g33klady)
+- [g33klady.com](https://g33klady.com)
+- Topics - Software Testing, REST Web Service and API Testing, Test Automation using C#, TFS Test Manager, Relationships between Devs and Testers
+- Organizer/Board/Track Chair - Motor City Software Testers user group, CodeMash, KalamazooX, Ann Arbor GiveCamp
+- Location - Detroit, MI
 
 #### Estelle Weyl
 
@@ -896,12 +905,20 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English, French
 
+
 ##### Daisy Smith
 - [@daisysmells](http://twitter.com/daisysmells)
 - [Portfolio](http://daisymarie128.github.io)
 - Topics - JavaScript, Web technologies, Creative Coding, Women in tech
 - Location - Sydney, Australia
 - English
+
+##### Kris Howard
+- [@web_goddess](https://twitter.com/web_goddess)
+- [Personal Website](http://krishoward.org/)
+- Topics - Keynotes, Mentoring, Art & Tech, Making/Crafting, Leadership, Career Development, Women in tech
+- Location - Sydney, Australia
+
 
 ## Organizers
 
@@ -1149,6 +1166,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Women Techmakers Campinas](https://chat.whatsapp.com/1BRjNhkWMxEGj5o1unKSP3)
 - [Facebook Developer Circle Campinas](https://www.facebook.com/groups/DevCCampinas/)
 - Location - Campinas, SP, Brazil
+
+### Australia
+
+#### Kris Howard
+- [@web_goddess](https://twitter.com/web_goddess)
+- [Personal Website](http://krishoward.org/)
+- [YOW! Conferences and Workshops](http://yowconference.com.au/)
+- Group Focus - software development, testing, IoT, data engineering and data science, AI/ML, technology leadership
+- Location - Australia, Singapore, Hong Kong
+- [Sydney Technology Leaders](https://www.meetup.com/Syd-Technology-Leaders/)
+- Group Focus - technology and people leadership
+- Location - Sydney, Australia
 
 ## Mentors
 
