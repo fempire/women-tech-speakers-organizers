@@ -643,6 +643,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Berlin, Germany
 - Languages besides English - German, Polish
 
+#### Aurélie Guillaume
+
+- [@slig36](https://twitter.com/slig36)
+- [Personal Website](http://www.aurelie-guillaume.fr)
+- Topics - Internationalization, Good practice, Code Quality, PHP, Symfony
+- Location - Paris, France,
+- Languages besides English - French
+
 #### Marie Guillaumet
 
 - [@kReEsTaL](https://twitter.com/kReEsTaL)
