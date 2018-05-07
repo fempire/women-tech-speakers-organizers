@@ -814,7 +814,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Bhavani Ravi
 
-- [@atramya](https://twitter.com/geeky_bhavani)
+- [@geeky_bhavani](https://twitter.com/geeky_bhavani)
 - Email Address - [bhava0895@gmail.com]
 - Python | Django | Chatbots | WomenInTech
 - [bhavaniravi.com](http://bhavaniravi.com)
