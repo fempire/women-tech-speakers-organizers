@@ -1025,6 +1025,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English, French
 
+##### Larene Le Gassick
+
+- [@larenelg](https://twitter.com/larenelg)
+- [LinkedIn](https://www.linkedin.com/in/larene)
+- Topics - Accessibility, Machine Learning, Javascript, .NET, Hardware
+- Location - Brisbane, Australia
+- English, Chinese
+
 ##### Isabel Nyo
 
 - [@eisabai](http://twitter.com/eisabai)
@@ -1309,6 +1317,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Australia
 
+#### Larene Le Gassick
+- [@larenelg](https://twitter.com/larenelg)
+- Women Who Code Brisbane
+  - [Meetup](https://www.meetup.com/Women-Who-Code-Brisbane)
+  - [Facebook](https://www.facebook.com/WomenWhoCodeBrisbane/)
+  - [Official](https://www.womenwhocode.com/brisbane)
+- CTO School Brisbane
+  - [Meetup](https://www.meetup.com/CTO-School-Brisbane/)
+  - [Youtube]https://www.youtube.com/channel/UCnFOxxQL0HZHIAHIkR-8zQg)
+- Location - Brisbane, Australia
+
 #### Kris Howard
 - [@web_goddess](https://twitter.com/web_goddess)
 - [Personal Website](http://krishoward.org/)
@@ -1318,6 +1337,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Sydney Technology Leaders](https://www.meetup.com/Syd-Technology-Leaders/)
 - Group Focus - technology and people leadership
 - Location - Sydney, Australia
+
 
 ## Mentors
 
