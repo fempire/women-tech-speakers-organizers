@@ -61,6 +61,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### United States
 
+#### Seetha Annamraju
+
+- [@seetha_a](http://twitter.com/seetha_a)
+- [LinkedIn](https://linkedin.com/in/seethaa)
+- Topics - Android, Kotlin, Women in Tech, Mentorship, Startups
+- Location - San Francisco, CA
+
 #### Jina Anne
 
 - [@jina](https://twitter.com/jina)
