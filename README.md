@@ -569,6 +569,42 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Web Accessibility, Drupal
 - Location - Orlando, FL, USA
 
+#### Tammy Bütow
+
+- [@tammybutow](https://twitter.com/tammybutow)
+- [GitHub](https://github.com/tammybutow)
+- [LinkedIn](https://www.linkedin.com/in/tammybutow/)
+- Email: tammybutow@gmail.com
+- Topics: Site Reliability Engineering, Chaos Engineering
+- Location: San Francisco, CA, USA
+
+#### Neha Jain
+
+- [@_nehajain](https://twitter.com/_nehajain)
+- [GitHub](https://github.com/n3jain)
+- [LinkedIn](https://www.linkedin.com/in/nehajainhbti/)
+- [PiMothers](http://www.pimothers.com/) Blog about mothers in tech stories
+- Email: neha.hbti.it@gmail.com
+- Topics: Software Engineering
+- Location: San Francisco, CA, USA
+
+#### Ayesha Mazumdar
+
+- [@ayeshakmaz](https://twitter.com/ayeshakmaz)
+- [GitHub](https://github.com/ayeshakmaz)
+- [LinkedIn](https://www.linkedin.com/in/ayeshamaz/)
+- Email: ayeshakmaz@gmail.com
+- Topics: UX
+- Location: San Francisco, CA, USA
+
+#### Laura Laban
+
+- [@lauraviatrix](https://twitter.com/lauraviatrix)
+- [LinkedIn](https://www.linkedin.com/in/laura-laban-b4035b/)
+- Email: mlaban@gmail.com
+- Topics: Software Engineering (C#, Xamarin, Mobile Development, Azure), Flight Simulation, Flight Physics
+- Location: NYC, NY, USA
+
 ### Canada
 
 #### Myriam Jessier
