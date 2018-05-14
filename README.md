@@ -357,6 +357,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - CSS, HTML, JavaScript, GitHub, a11y, CMSs, FrontEnd, Design, Design Systems, Collaboration, Workshops, Women in Tech
 - Location - Dayton, OH, USA
 
+#### Stefana Muller
+
+- [@stefanamuller](https://twitter.com/stefanamuller)
+- [stefanamuller.com](http://stefanamuller.com/)
+- [Long Island Women in Tech](http://liwomenintech.com) 
+- Topics - Developer Evangelism, DevOps, Agile, Product Management, Docker deployment, Continuous Deployment, Machine Learning for Application Optimization, Women in Tech, Careers in Tech, Personal Branding, Hour of Code, Social Media for Kids (Safety), meetup, Keynotes, Public Speaking, wordpress, css, divi theme.
+- Location - New York, NY, USA
+
 #### Linda Nichols
 
 - [@lynnaloo](http://twitter.com/lynnaloo)
@@ -981,6 +989,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Modern Web](http://www.meetup.com/modernweb), Bay Area, CA
 - [Triangle Modern Web](http://www.meetup.com/trianglemodernweb), Raleigh, NC
 - Group Focus - JavaScript, Front End Development
+
+#### Stefana Muller
+
+- [@liwomenintech](https://twitter.com/liwomenintech)
+- [Long Island Women in Tech](http://liwomenintech.com), Long Island, NY
+- Group Focus - Women in Tech, Local Resources (Long Island, NY), networking, learn new skills, provide or receive mentorship, get career support and give back to our local community, encouraging girls in tech.
 
 #### Nitya Narashimhan
 
