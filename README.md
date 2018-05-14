@@ -187,7 +187,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Bianca Henderson
 
 - [@bizonks](http://twitter.com/bizonks)
-- Topics - Moms in Tech, Self-starting/Self-teaching, Technical Writing, Ansible, Open Source
+- Topics - Moms in Tech, Self-starting/Self-teaching, Technical Writing, Ansible, Open Source, Native Americans in Tech
 - Location - Durham, NC, USA
 
 #### Asia Hoe
