@@ -23,6 +23,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [India](#india)
   - [Lebanon](#lebanon)
   - [Nigeria](#nigeria)
+  - [South Africa](#south-africa)
   - [Asia](#asia)
   - [Argentina](#argentina)
   - [Australia](#australia)
@@ -953,6 +954,37 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@kolokodess](https://twitter.com/kolokodess)
 - Topics - HTML/CSS, JavaScript, Python, Keynote speeches, Women in tech, Community
 - Location - Lagos, Nigeria
+
+### South Africa
+
+#### Gergana Young
+
+- [@GerybBg](https://twitter.com/GerybBg)
+- [LinkedIn](https://www.linkedin.com/in/gergana-young-97628a50)
+- Topics - Javascript, Angular, IoT
+- Location - Johannesburg, Gauteng, South Africa
+
+#### Jade Abbott
+
+- [@alienelf](https://twitter.com/@alienelf)
+- [Blog](https://medium.com/@alienelf/)
+- Topics - Machine Learning, Deep learning, Artificial Intelligence, DataOps, Data Engineering
+- Location - Johannesburg, Gauteng, South Africa
+
+#### Rebecca Franks
+
+- [@riggaroo](https://twitter.com/riggaroo)
+- [Personal Website](https://riggaroo.co.za/)
+- Topics - Android, Java, Kotlin, Open source
+- Location - Johannesburg, Gauteng, South Africa
+
+#### Ridhwana Khan
+
+- [@Ridhwana_K](https://twitter.com/Ridhwana_K)
+- [LinkedIn](https://www.linkedin.com/in/ridhwanakhan/)
+- Topics - ReactJS, Ember.js, CSS, Rails, Women in Tech, Diversity in Tech
+- Location - Johannesburg, Gauteng, South Africa
+
 
 ### Asia
 
