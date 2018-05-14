@@ -332,6 +332,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Boston, MA
 - Languages - English and French
 
+#### Jen Luker
+
+- [@knitcodemonkey](http://twitter.com/knitcodemonkey)
+- [jenluker.com](http://jenluker.com)
+- Topics - Accessibility, Webpack, JavaScript, Imposter Syndrome
+- Location - Orem, UT
+
 #### Tara Z. Manicsic
 
 - [@tzmanics](https://twitter.com/Tzmanics)
