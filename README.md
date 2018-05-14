@@ -136,6 +136,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Accessibility, Diversity, Women in Tech, Frontend Development, CMS, Tech in Higher Education
 - Location - Chicago, IL
 
+#### Angela Damaso
+
+- [@devbabie](http://twitter.com/devbabie)
+- [Personal Website](http://www.adamaso.com)
+- Topics - CSS, Accessibility, Javascript, Angular, Women in Tech, Design
+- Location - New York, NY
+
 #### Bear Douglas
 
 - [@beardigsit](https://twitter.com/beardigsit)
