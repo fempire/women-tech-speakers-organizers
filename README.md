@@ -1018,6 +1018,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English, French
 
+##### Isabel Nyo
+
+- [@eisabai](http://twitter.com/eisabai)
+- [LinkedIn](https://www.linkedin.com/in/eisabai)
+- [Medium](https://medium.com/@eisabai)
+- [Website](http://eisabainyo.net)
+- Topics - Enginnering leadership, Career development, Women in technology, Kenote speeches, Frontend, Web technologies
+- Location - Sydney, Australia
+- English, Burmese
 
 ##### Daisy Smith
 - [@daisysmells](http://twitter.com/daisysmells)
