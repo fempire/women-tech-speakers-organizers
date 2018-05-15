@@ -383,7 +383,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@stefanamuller](https://twitter.com/stefanamuller)
 - [stefanamuller.com](http://stefanamuller.com/)
-- [Long Island Women in Tech](http://liwomenintech.com) 
+- [Long Island Women in Tech](http://liwomenintech.com)
 - Topics - Developer Evangelism, DevOps, Agile, Product Management, Docker deployment, Continuous Deployment, Machine Learning for Application Optimization, Women in Tech, Careers in Tech, Personal Branding, Hour of Code, Social Media for Kids (Safety), meetup, Keynotes, Public Speaking, wordpress, css, divi theme.
 - Location - New York, NY, USA
 
@@ -629,6 +629,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - AI, blockchain, diversity and inclusion, futurism
 - Location - Toronto, Ontario, Canada
 
+#### Sarah Kraynick
+- [@luvnumberz](http://twitter.com/luvnumberz)
+- [Writing](https://medium.com/@luvnumberz)
+- [GitHub](https://github.com/skraynick)
+- [LinkedIn](https://www.linkedin.com/in/sarahkraynick/)
+- Email: sarah.kraynick@e253solutions.com
+- Topics:  Cybersecurity, Cyberwarfare
+- Location - Split my time between Prince Albert Sk, Vancvouer BC, and Amsterdam NL.
 
 ### Europe
 
@@ -1073,7 +1081,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@chatasweetie](http://twitter.com/chatasweetie)
 - [Google Developer Group San Fransisco GDG SF](https://www.meetup.com/google-developer-group-san-francisco/)
-- Group Focus - Community & Learning about Google Products 
+- Group Focus - Community & Learning about Google Products
 - Location - San Francisco, CA
 
 #### Kara Carrell
