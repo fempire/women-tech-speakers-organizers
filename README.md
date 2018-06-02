@@ -406,6 +406,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - CSS, HTML, Web Animations, SVGs, Design Systems, APIs, Solution Architecture, Email Development, a11y
 - Location - Portland, OR, USA
 
+#### Eryn O'Neil
+- [@eryno](https://twitter.com/eryno)
+- [Slideshare](https://www.slideshare.net/eryno) && [Speakerdeck](https://speakerdeck.com/eryno)
+- Topics - Keynote Speeches, Tech Leading/Tech Management, Leadership, Project Chaos, UX for Developers, Software Ethics, PHP, the human people parts of software development
+- Location - Minneapolis, MN
+
 #### Lyndsey Padget
 
 - [@lyndseypadget](https://twitter.com/lyndseypadget)
