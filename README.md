@@ -1070,6 +1070,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Keynotes, Mentoring, Art & Tech, Making/Crafting, Leadership, Career Development, Women in tech
 - Location - Sydney, Australia
 
+##### Anna Harrison
+- [@shinyUX](https://twitter.com/shinyUX)
+- [Personal Website](http://www.annaharrison.com/)
+- Topics - UX, Design, Marketing, Team Building
+- Location - Brisbane, Australia
 
 ## Organizers
 
