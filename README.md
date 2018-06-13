@@ -1162,6 +1162,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Canada
 
+#### Laurence de Villers
+- [@L\_de\_V](https://twitter.com/L_de_V)
+- [GDG Montreal Android](http://android-montreal.com/), Montreal, QC
+- Group Focus - Android - GDG - Technical Talks 
+- [Women Techmakers Montreal](https://wtmmontreal.com/), Montreal, QC
+- Special event to promote and empower Women in Tech 
+
 #### Heather Payne
 
 - [@heatherpayne](https://twitter.com/heatherpayne)
