@@ -652,6 +652,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Email: courrier@sophiedeziel.com
 - Topics:  Ruby, Rails, Open-Source, Best Practices
 - Location - Montreal, Quebec, Canada
+- Languages besides English - French
 
 ### Europe
 
