@@ -95,6 +95,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
 
+#### Amy Carney
+
+- [@click2carney](https://twitter.com/click2carney)
+- [Blog](https://carneydevelopit.wordpress.com)
+- Topics - Accessibility, HTML, CSS
+- Location - Juneau, AK, USA
+
 #### Kara Carrell
 
 - [@KaraAJC](https://twitter.com/KaraAJC)
@@ -452,6 +459,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Medium Profile](https://medium.com/@peggyrayzis)
 - Topics - Workshops, JavaScript, Universal Components, React, React Native, GraphQL, Apollo GraphQL
 - Location - Hoboken, NJ
+
+#### Colleen Schnettler
+
+- [@leenyburger](https://twitter.com/leenyburger)
+- [Website](https://bitmappeddesigns.com)
+- Topics - Ruby on Rails, Freelancing, Women in Tech/Engineering
+- Location - VA, USA
 
 #### Neem Serra
 
