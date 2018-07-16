@@ -95,6 +95,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
 
+#### Amy Carney
+
+- [@click2carney](https://twitter.com/click2carney)
+- [Blog](https://carneydevelopit.wordpress.com)
+- Topics - Accessibility, HTML, CSS
+- Location - Juneau, AK, USA
+
 #### Kara Carrell
 
 - [@KaraAJC](https://twitter.com/KaraAJC)
@@ -453,6 +460,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Workshops, JavaScript, Universal Components, React, React Native, GraphQL, Apollo GraphQL
 - Location - Hoboken, NJ
 
+#### Colleen Schnettler
+
+- [@leenyburger](https://twitter.com/leenyburger)
+- [Website](https://bitmappeddesigns.com)
+- Topics - Ruby on Rails, Freelancing, Women in Tech/Engineering
+- Location - VA, USA
+
 #### Neem Serra
 
 - [@TeamNeem](http://twitter.com/TeamNeem)
@@ -653,6 +667,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics:  Ruby, Rails, Open-Source, Best Practices
 - Location - Montreal, Quebec, Canada
 - Languages besides English - French
+
+#### Christina Moro
+- [LinkedIn](https://www.linkedin.com/in/christinamoro/)
+- Email: christina@squarephotos.ca
+- Topics - AI, robotics, diversity and inclusion, Canadian startup ecosystem
+- Location - Toronto, ON, Canada & Montreal, QC, Canada
 
 ### Europe
 
@@ -952,6 +972,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - WebVR, Deep learning
 - Location - Pune, India
 - Contact: Twitter DM
+
+#### Palak Jain
+
+- [@till-tomorrow](https://github.com/till-tomorrow)
+- Android Development | Data structures | Algorithms
+- Location - Hackathons
 
 ### Lebanon
 
@@ -1532,6 +1558,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics of Interest - OpenFrameworks, Hardware, Machine Learning, C++, Graphics, WebGL, OpenGL, Python, Security
 - Location - Lagos, Nigeria
 - I'll like to get more experience with the topics mentioned above. Also I'm primarily a Web Developer with 3.5-4yrs experience. I'd like to expand my knowledge with some help learning other languages like C++ or Python, to help me grow my career path.
+
+### Colombia
+
+#### Vanessa Aristizabal
+
+- [@vanessamarely](http://twitter.com/vanessamarely)
+- vanessamarely@gmail.com
+- Topics of Interest- HTML, CSS (and preprocessors), Javascript, Angular, React, UX
+- Location - Medellin, Antioquia, Colombia
+- Languages besides English - Spanish
+- I have experience in Web Development. I like to learn new things and love sharing it with others. I would like to help more women to get involved in tech industry.
 
 ## Contributing
 
