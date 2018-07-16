@@ -943,6 +943,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Pune, India
 - Contact: Twitter DM
 
+#### Palak Jain
+
+- [@till-tomorrow](https://github.com/till-tomorrow)
+- Android Development | Data structures | Algorithms
+- Location - Hackathons
+
 ### Lebanon
 
 #### Sara Soueidan
