@@ -658,6 +658,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics:  Cybersecurity, Cyberwarfare
 - Location - Split my time between Prince Albert Sk, Vancvouer BC, and Amsterdam NL.
 
+#### Sophie Déziel
+- [@sophiedeziel](http://twitter.com/sophiedeziel)
+- [Medium](https://medium.com/@sophiedeziel)
+- [GitHub](https://github.com/sophiedeziel)
+- President of [Montreal.rb](https://montrealrb.com)
+- Email: courrier@sophiedeziel.com
+- Topics:  Ruby, Rails, Open-Source, Best Practices
+- Location - Montreal, Quebec, Canada
+- Languages besides English - French
+
 #### Christina Moro
 - [LinkedIn](https://www.linkedin.com/in/christinamoro/)
 - Email: christina@squarephotos.ca
