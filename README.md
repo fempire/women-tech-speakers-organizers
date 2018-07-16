@@ -901,6 +901,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Luxembourg
 - Languages besides English - French
 
+#### Kim van Wilgen
+
+- [@kimvanwilgen](http://twitter.com/kimvanwilgen)
+- [Personal Website](http://www.kimvanwilgen.com)
+- Topics - Continuous delivery, DevSecOps, leadership / lead development, culture / organisation
+- Location - the Netherlands (will travel nationally and internationally)
+- Languages besides English - Dutch
+
 #### Hannah Wolfe
 
 - [@erisDS](http://twitter.com/ErisDS)
