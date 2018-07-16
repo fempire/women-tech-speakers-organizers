@@ -929,6 +929,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Hambburg, Germany
 - Languages besides English - Romanian, German
 
+
+#### Ana Cidre
+
+- [@AnaCidre_](https://twitter.com/AnaCidre_)
+- [anacidre.com](https://anacidre.com)
+- Topics - JavaScript, Angular, Diversity and Inclusion, Community.
+- Location - Sanxenxo, Spain
+- Languages besides English - Spanish
+
+
 ### India
 
 #### Bhavani Ravi
