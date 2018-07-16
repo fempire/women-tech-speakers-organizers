@@ -658,6 +658,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics:  Cybersecurity, Cyberwarfare
 - Location - Split my time between Prince Albert Sk, Vancvouer BC, and Amsterdam NL.
 
+#### Christina Moro
+- [LinkedIn](https://www.linkedin.com/in/christinamoro/)
+- Email: christina@squarephotos.ca
+- Topics - AI, robotics, diversity and inclusion, Canadian startup ecosystem
+- Location - Toronto, ON, Canada & Montreal, QC, Canada
+
 ### Europe
 
 #### Britt Barak
