@@ -855,6 +855,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Amsterdam, Netherlands
 - Languages besides English - Romanian, Dutch
 
+#### Irina Preda
+
+- [@IrinaPreda](https://twitter.com/IrinaPreda)
+- Topics - Community, Diversity and Inclusion, Machine Learning, Javascript
+- Location - Edinburgh, United Kingdom
+- Languages besides English - Romanian
+
 #### Manel Rhaiem (Manel, Rhaiem)
 
 - [@manelbutterfly](https://twitter.com/manelbutterfly)
