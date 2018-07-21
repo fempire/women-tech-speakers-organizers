@@ -858,7 +858,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Irina Preda
 
 - [@IrinaPreda](https://twitter.com/IrinaPreda)
-- Topics - Community, Diversity and Inclusion, Machine Learning, Javascript
+- Topics - Community, Diversity and Inclusion, Machine Learning, Algorithmic Fairness
 - Location - Edinburgh, United Kingdom
 - Languages besides English - Romanian
 
