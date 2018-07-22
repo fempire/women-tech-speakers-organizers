@@ -633,6 +633,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics: Software Engineering (C#, Xamarin, Mobile Development, Azure), Flight Simulation, Flight Physics
 - Location: NYC, NY, USA
 
+#### Amanda Sopkin
+
+- [@amandasopkin](https://twitter.com/amandasopkin)
+- [Personal Website](http://amandasopkin.com/)
+- [LinkedIn](https://www.linkedin.com/in/amandasopkin/)
+- Topics - Mathematics, Python, Web Development, Best practices in Software Engineering
+- Location - Seattle, WA, USA
+
 ### Canada
 
 #### Myriam Jessier
