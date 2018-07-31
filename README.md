@@ -46,6 +46,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [India](#india-2)
   - [Nigeria](#nigeria-2)
   - [Australia](#australia)
+  - [Colombia](#colombia)
 - [Contributing](#contributing)
   - [Formatting](#formatting)
 
