@@ -1495,6 +1495,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - How to contact - Twitter, open direct messages
 - Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking
 
+#### Anna Kapuscinska
+
+- [@lambdanis](https://twitter.com/lambdanis)
+- How to contact - Twitter, DMs open
+- Topics for mentoring - Python, functional programming, general databases, systems & network
+- Location - Wroclaw, Poland (remote contact also ok)
+- Languages besides English - Polish
+
 ### Australia
 
 #### Pavithra Kodmad
