@@ -633,6 +633,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics: Software Engineering (C#, Xamarin, Mobile Development, Azure), Flight Simulation, Flight Physics
 - Location: NYC, NY, USA
 
+#### Jigyasa Grover
+- Red Hat Women in Open Source Academic Award Winner | ex-Director, Women Who Code (Delhi)
+- Conference/Keynote Speaker (Open Source, Android, Python, Machine Learning, Software Engineering)
+- [grover.jigyasa1@gmail.com](grover.jigyasa1@gmail.com)
+- [twitter.com/jigyasa_grover](https://twitter.com/jigyasa_grover)
+- [github.com/jigyasa-grover](https://github.com/jigyasa-grover)
+- Location: San Francisco Bay Area, CA
+
 ### Canada
 
 #### Myriam Jessier
