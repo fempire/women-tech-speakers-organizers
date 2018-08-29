@@ -282,7 +282,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@Aimee_Knight](http://twitter.com/Aimee_Knight)
 - [aimeemarieknight.com](http://www.aimeemarieknight.com/)
-- Topics - JavaScript
+- Topics - Keynotes Speeches, JavaScript, CSS
 - Location - Nashville, TN
 
 #### Una Kravets
