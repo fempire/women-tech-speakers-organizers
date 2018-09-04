@@ -640,6 +640,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics: Software Engineering (C#, Xamarin, Mobile Development, Azure), Flight Simulation, Flight Physics
 - Location: NYC, NY, USA
 
+#### Srishti Sethi
+
+- [@Srish_Aka_Tux](https://twitter.com/Srish_Aka_Tux)
+- [Personal Website](http://srishtisethi.com)
+- [LinkedIn](https://www.linkedin.com/in/srishakatux/)
+- Email: srishakatux@gmail.com
+- Topics: Developer Evangelism, Strategies for onboarding and retaining new contributors in FLOSS projects, Contributing to Wikipedia/Wikimedia Projects, Building online learning communities
+- Location: San Francisco, CA, USA
+
 ### Canada
 
 #### Myriam Jessier
