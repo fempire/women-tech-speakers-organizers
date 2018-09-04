@@ -282,7 +282,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@Aimee_Knight](http://twitter.com/Aimee_Knight)
 - [aimeemarieknight.com](http://www.aimeemarieknight.com/)
-- Topics - JavaScript
+- Topics - Keynotes Speeches, JavaScript, CSS
 - Location - Nashville, TN
 
 #### Una Kravets
@@ -425,6 +425,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [lyndseypadget.com](http://www.lyndseypadget.com)
 - Topics - Git, REST, Node.js, JavaScript, Microservices, Back-end development, Public Speaking, Java, Women in Tech, Work/life balance, Badassery
 - Location - Kansas City, MO
+
+#### Caterina Paun
+
+- [@caterinasworld](http://twitter.com/caterinasworld)
+- [caterinasworld.com](https://caterinasworld.github.io/)
+- Topics - Prototyping, React, design systems, voice apps, NLP, community building, leadership
+- Location - Portland, OR, USA
 
 #### Violet Peña
 
@@ -640,6 +647,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [twitter.com/jigyasa_grover](https://twitter.com/jigyasa_grover)
 - [github.com/jigyasa-grover](https://github.com/jigyasa-grover)
 - Location: San Francisco Bay Area, CA
+
+#### Srishti Sethi
+
+- [@Srish_Aka_Tux](https://twitter.com/Srish_Aka_Tux)
+- [Personal Website](http://srishtisethi.com)
+- [LinkedIn](https://www.linkedin.com/in/srishakatux/)
+- Email: srishakatux@gmail.com
+- Topics: Developer Evangelism, Strategies for onboarding and retaining new contributors in FLOSS projects, Contributing to Wikipedia/Wikimedia Projects, Building online learning communities
+- Location: San Francisco, CA, USA
 
 ### Canada
 
@@ -1211,6 +1227,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Norfolk.js](https://www.norfolkjs.org), Norfolk, VA
 - [RevolutionConf](https://www.revolutionconf.com), Norfolk VA
 - Group Focus - JavaScript, NodeBots
+
+#### Caterina Paun
+
+- [@caterinasworld](http://twitter.com/caterinasworld)
+- [Women Who Code Portland](https://www.meetup.com/women-who-code-portland/), Portland, OR, USA
+- [Women in Voice](https://twitter.com/womeninvoice), remote/worldwide
+- Group Focus - Prototyping, React, design systems, voice apps, NLP, community building, leadership
+- Location - Portland, OR, USA
 
 #### Margaret Valtierra
 
