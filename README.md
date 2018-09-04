@@ -496,6 +496,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - CSS, Layouts, Grids
 - Location - Brooklyn, NY
 
+#### Emily Stamey
+
+- [@elstamey](https://twitter.com/elstamey)
+- [elstamey.com](http://elstamey.com)
+- Topics - Event Sourcing, Legacy Application Development, Organizing Meetups/Communities, WomenInTech
+- Location - Raleigh, NC
+
 #### Marcy Sutton
 
 - [@marcysutton](http://twitter.com/marcysutton)
