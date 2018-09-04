@@ -34,7 +34,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Nigeria](#nigeria-1)
   - [Europe](#europe-1)
   - [Brazil](#brazil)
-  - [Australia] (#australia)
+  - [Australia](#australia)
 - [Mentors](#mentors)
   - [United States](#united-states-2)
   - [India](#india-1)
@@ -1526,6 +1526,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Personal Website](http://geekonaut.de)
 - How to contact - Twitter, open direct messages
 - Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking
+
+#### Anna Kapuscinska
+
+- [@lambdanis](https://twitter.com/lambdanis)
+- How to contact - Twitter, DMs open
+- Topics for mentoring - Python, functional programming, general databases, systems & network
+- Location - Wroclaw, Poland (remote contact also ok)
+- Languages besides English - Polish
 
 ### Australia
 
