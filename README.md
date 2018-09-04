@@ -426,6 +426,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Git, REST, Node.js, JavaScript, Microservices, Back-end development, Public Speaking, Java, Women in Tech, Work/life balance, Badassery
 - Location - Kansas City, MO
 
+#### Caterina Paun
+
+- [@caterinasworld](http://twitter.com/caterinasworld)
+- [caterinasworld.com](https://caterinasworld.github.io/)
+- Topics - Prototyping, React, design systems, voice apps, NLP, community building, leadership
+- Location - Portland, OR, USA
+
 #### Violet Peña
 
 - No twitter
@@ -1203,6 +1210,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Norfolk.js](https://www.norfolkjs.org), Norfolk, VA
 - [RevolutionConf](https://www.revolutionconf.com), Norfolk VA
 - Group Focus - JavaScript, NodeBots
+
+#### Caterina Paun
+
+- [@caterinasworld](http://twitter.com/caterinasworld)
+- [Women Who Code Portland](https://www.meetup.com/women-who-code-portland/), Portland, OR, USA
+- [Women in Voice](https://twitter.com/womeninvoice), remote/worldwide
+- Group Focus - Prototyping, React, design systems, voice apps, NLP, community building, leadership
+- Location - Portland, OR, USA
 
 #### Margaret Valtierra
 
