@@ -34,7 +34,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Nigeria](#nigeria-1)
   - [Europe](#europe-1)
   - [Brazil](#brazil)
-  - [Australia] (#australia)
+  - [Australia](#australia)
 - [Mentors](#mentors)
   - [United States](#united-states-2)
   - [India](#india-1)
@@ -46,6 +46,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [India](#india-2)
   - [Nigeria](#nigeria-2)
   - [Australia](#australia)
+  - [Colombia](#colombia)
 - [Contributing](#contributing)
   - [Formatting](#formatting)
 
@@ -282,7 +283,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@Aimee_Knight](http://twitter.com/Aimee_Knight)
 - [aimeemarieknight.com](http://www.aimeemarieknight.com/)
-- Topics - JavaScript
+- Topics - Keynotes Speeches, JavaScript, CSS
 - Location - Nashville, TN
 
 #### Una Kravets
@@ -425,6 +426,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [lyndseypadget.com](http://www.lyndseypadget.com)
 - Topics - Git, REST, Node.js, JavaScript, Microservices, Back-end development, Public Speaking, Java, Women in Tech, Work/life balance, Badassery
 - Location - Kansas City, MO
+
+#### Caterina Paun
+
+- [@caterinasworld](http://twitter.com/caterinasworld)
+- [caterinasworld.com](https://caterinasworld.github.io/)
+- Topics - Prototyping, React, design systems, voice apps, NLP, community building, leadership
+- Location - Portland, OR, USA
 
 #### Violet Peña
 
@@ -633,6 +641,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics: Software Engineering (C#, Xamarin, Mobile Development, Azure), Flight Simulation, Flight Physics
 - Location: NYC, NY, USA
 
+
 #### Amanda Sopkin
 
 - [@amandasopkin](https://twitter.com/amandasopkin)
@@ -640,6 +649,24 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [LinkedIn](https://www.linkedin.com/in/amandasopkin/)
 - Topics - Mathematics, Python, Web Development, Best practices in Software Engineering
 - Location - Seattle, WA, USA
+
+#### Jigyasa Grover
+- Red Hat Women in Open Source Academic Award Winner | ex-Director, Women Who Code (Delhi)
+- Conference/Keynote Speaker (Open Source, Android, Python, Machine Learning, Software Engineering)
+- [grover.jigyasa1@gmail.com](grover.jigyasa1@gmail.com)
+- [twitter.com/jigyasa_grover](https://twitter.com/jigyasa_grover)
+- [github.com/jigyasa-grover](https://github.com/jigyasa-grover)
+- Location: San Francisco Bay Area, CA
+
+#### Srishti Sethi
+
+- [@Srish_Aka_Tux](https://twitter.com/Srish_Aka_Tux)
+- [Personal Website](http://srishtisethi.com)
+- [LinkedIn](https://www.linkedin.com/in/srishakatux/)
+- Email: srishakatux@gmail.com
+- Topics: Developer Evangelism, Strategies for onboarding and retaining new contributors in FLOSS projects, Contributing to Wikipedia/Wikimedia Projects, Building online learning communities
+- Location: San Francisco, CA, USA
+
 
 ### Canada
 
@@ -1212,6 +1239,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [RevolutionConf](https://www.revolutionconf.com), Norfolk VA
 - Group Focus - JavaScript, NodeBots
 
+#### Caterina Paun
+
+- [@caterinasworld](http://twitter.com/caterinasworld)
+- [Women Who Code Portland](https://www.meetup.com/women-who-code-portland/), Portland, OR, USA
+- [Women in Voice](https://twitter.com/womeninvoice), remote/worldwide
+- Group Focus - Prototyping, React, design systems, voice apps, NLP, community building, leadership
+- Location - Portland, OR, USA
+
 #### Margaret Valtierra
 
 - [@Margaretvaltie](http://twitter.com/margaretvaltie)
@@ -1502,6 +1537,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Personal Website](http://geekonaut.de)
 - How to contact - Twitter, open direct messages
 - Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking
+
+#### Anna Kapuscinska
+
+- [@lambdanis](https://twitter.com/lambdanis)
+- How to contact - Twitter, DMs open
+- Topics for mentoring - Python, functional programming, general databases, systems & network
+- Location - Wroclaw, Poland (remote contact also ok)
+- Languages besides English - Polish
 
 ### Australia
 
