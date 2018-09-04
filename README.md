@@ -641,6 +641,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics: Software Engineering (C#, Xamarin, Mobile Development, Azure), Flight Simulation, Flight Physics
 - Location: NYC, NY, USA
 
+
+#### Amanda Sopkin
+
+- [@amandasopkin](https://twitter.com/amandasopkin)
+- [Personal Website](http://amandasopkin.com/)
+- [LinkedIn](https://www.linkedin.com/in/amandasopkin/)
+- Topics - Mathematics, Python, Web Development, Best practices in Software Engineering
+- Location - Seattle, WA, USA
+
 #### Jigyasa Grover
 - Red Hat Women in Open Source Academic Award Winner | ex-Director, Women Who Code (Delhi)
 - Conference/Keynote Speaker (Open Source, Android, Python, Machine Learning, Software Engineering)
@@ -657,6 +666,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Email: srishakatux@gmail.com
 - Topics: Developer Evangelism, Strategies for onboarding and retaining new contributors in FLOSS projects, Contributing to Wikipedia/Wikimedia Projects, Building online learning communities
 - Location: San Francisco, CA, USA
+
 
 ### Canada
 
