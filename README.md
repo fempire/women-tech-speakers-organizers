@@ -600,8 +600,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Writing](https://medium.com/@sugarpirate)
 - [GitHub](https://github.com/poteto)
 - [LinkedIn](https://www.linkedin.com/in/laurenelizabethtan)
+- [Talk playlist](https://www.youtube.com/playlist?list=PLan19OJ97cWgibOzz2dI1O9k0BgWoZ31H)
 - Email: arr@sugarpirate.com
-- Topics - Javascript, Frontend, Elixir, Ruby, Microservices
+- Topics - TypeScript, Javascript, Frontend, Elixir, Ruby, Functional programming, Microservices
 - Location - SF Bay Area, CA, USA
 
 #### Helena McCabe
