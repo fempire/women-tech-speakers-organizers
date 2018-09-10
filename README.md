@@ -675,6 +675,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location: San Francisco, CA, USA
 
 
+#### Shruti Kapoor
+- [@shrutikapoor](https://twitter.com/shrutikapoor08)
+- [Medium](https://medium.com/@shruti.kapoor08)
+- Email: hello@shrutikapoor.me
+- Topics: JavaScript, React, GraphQL
+- Location: San Francisco Bay Area, CA, USA
+
+
+
 ### Canada
 
 #### Myriam Jessier
