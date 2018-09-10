@@ -674,6 +674,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics: Developer Evangelism, Strategies for onboarding and retaining new contributors in FLOSS projects, Contributing to Wikipedia/Wikimedia Projects, Building online learning communities
 - Location: San Francisco, CA, USA
 
+#### Ali Spittel
+
+- [@aspittel](https://twitter.com/ASpittel)
+- [Personal Website](https://www.alispit.tel/#/)
+- [LinkedIn](https://www.linkedin.com/in/aspittel/)
+- Topics: Art + Code, CSS, web development, teaching code, Python
+- Location: Washington, DC, USA
 
 ### Canada
 
