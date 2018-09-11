@@ -534,6 +534,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Transitioning from Print Designer to Web Developer, Apprenticeships
 - Location - Dayton, OH, USA
 
+#### Beth Tucker Long
+
+- [@e3betht](http://twitter.com/e3betht)
+- [Personal Website](http://www.treelinedesign.com)
+- Topics - PHP, WordPress, Web Development Practices - see my [list of slides](http://www.treelinedesign.com/slides) and [talk feedback](https://joind.in/user/e3betht/talks)
+- Location - Madison, WI
+
 #### Raquel Vélez
 
 - [@rockbot](http://twitter.com/rockbot)
@@ -1278,6 +1285,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - DevOps, culture, SRE, community, leadership
 - [Chicago AWS user group](http://chicagoaws.com/), Chicago, IL USA
 - Group Focus - Amazon Web Services, AWS user stories, security, big data, developers
+
+#### Beth Tucker Long
+
+- [@e3betht](http://twitter.com/e3betht)
+- [Madison PHP Conference](https://www.madisonphpconference.com) and [Madison PHP User Group](https://www.madisonphp.com), Madison, WI, USA
+- Group Focus - PHP and Related Web Technologies 
+- [Madison Web Design & Development Group](http://madwebdev.com/), Madison, WI, USA
+- Group Focus - Graphic Design and Web Development
 
 #### Estelle Weyl
 
