@@ -1610,6 +1610,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Atlanta, GA, USA
 - I would like to break into the tech industry and am presently working on getting my front-end certification from freecodecamp
 
+#### Krystal Maughan
+
+- [@kammitama](https://www.twitter.com/kammitama)
+- [Personal Website](https://kammitama5.github.io/about/)
+- krystal.maughan@gmail.com
+- Topics of Interest- Functional Programming, Haskell, Programming Language Theory
+- Location - Los Angeles, CA, USA
+- I'm starting my career in the tech industry (still a student) and would like to meet others who are interested in and share my love for FP (functional programming) and PLT (programming language theory). Females in FP are a rarity!
+
 #### Maira Wenzel
 
 - [@mairacw](http://twitter.com/mairacw)
