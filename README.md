@@ -1006,7 +1006,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Hambburg, Germany
 - Languages besides English - Romanian, German
 
-
 #### Ana Cidre
 
 - [@AnaCidre_](https://twitter.com/AnaCidre_)
@@ -1015,6 +1014,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sanxenxo, Spain
 - Languages besides English - Spanish
 
+#### Natalia Tepluhina
+
+- [@N_Tepluhina](https://twitter.com/N_Tepluhina)
+- Topics - Vue, TypeScript, RxJS
+- Location - Kyiv, Ukraine (will travel nationally and internationally)
+- Languages besides English - Russian, Ukrainian
 
 ### India
 
