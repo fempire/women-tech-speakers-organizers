@@ -69,6 +69,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Android, Kotlin, Women in Tech, Mentorship, Startups
 - Location - San Francisco, CA
 
+#### Anagha Todalbagi
+
+- [@AnaghaTodalbagi](https://twitter.com/AnaghaTodalbagi)
+- [LinkedIn](https://www.linkedin.com/in/anaghatodalbagi)
+- [Personal Website](https://about.me/anagha)
+- Topics - Go, Python, start up experience
+- Location - San Francisco, CA, USA
+
 #### Jina Anne
 
 - [@jina](https://twitter.com/jina)
@@ -1497,6 +1505,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - How to Contact - Twitter DM's are always open and my first recomendation, next is my work email \<first>.\<last>@microsoft[dot]com
 - Topics for Mentoring - Front end developement, JavaScript basics, webpack, getting started in open source, submitting your first PR, finding healthy and inclusive open source projects, becoming an open source maintainer, helping fund open source, speaking at conferences, reviewing CFP's. Especially passionate and well suited for teaching you how to contribute to and become a maintainer of webpack!
 - Location - Seattle, WA, USA
+
+#### Anagha Todalbagi
+
+- [@AnaghaTodalbagi](https://twitter.com/AnaghaTodalbagi)
+- [LinkedIn](https://www.linkedin.com/in/anaghatodalbagi)
+- [Personal Website](https://about.me/anagha)
+- How to Contact - Twitter or through my website
+- Topics for Mentoring - Reach out to me with questions about Go and Python development
+- Location - San Francisco, CA, USA
 
 ### India
 
