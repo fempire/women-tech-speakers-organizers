@@ -1211,6 +1211,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - UX, Design, Marketing, Team Building
 - Location - Brisbane, Australia
 
+
+##### Meggan Turner
+- [@megganeturner](http://twitter.com/megganeturner)
+- [Portfolio](http://megganeturner.github.io)
+- Topics - JavaScript, Women in Tech, Git
+- Location - Sydney, Australia
+- English
+
 ## Organizers
 
 ### United States
@@ -1313,9 +1321,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Laurence de Villers
 - [@L\_de\_V](https://twitter.com/L_de_V)
 - [GDG Montreal Android](http://android-montreal.com/), Montreal, QC
-- Group Focus - Android - GDG - Technical Talks 
+- Group Focus - Android - GDG - Technical Talks
 - [Women Techmakers Montreal](https://wtmmontreal.com/), Montreal, QC
-- Special event to promote and empower Women in Tech 
+- Special event to promote and empower Women in Tech
 
 #### Heather Payne
 
