@@ -229,8 +229,10 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Tomomi Imura
 
 - [@girlie_mac](https://twitter.com/girlie_mac)
-- [girliemac.com](http://www.girliemac.com/)
-- Topics - Workshops, JS, Node.JS, IoT, mentoring, dev rel, mobile, design
+- [girliemac.com](https://www.girliemac.com/)
+- [GitHub](https://github.com/girliemac)
+- [Medium](https://medium.com/@girlie_mac)
+- Topics - API, technical writing, JavaScript, Node.JS, IoT, bots, mentoring, DevRel, design, sketchnotes, combining technology with cats
 - Location - San Francisco, CA
 
 #### Mars Jullian
