@@ -206,6 +206,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Moms in Tech, Self-starting/Self-teaching, Technical Writing, Ansible, Open Source, Native Americans in Tech
 - Location - Durham, NC, USA
 
+#### Franziska Hinkelmann
+
+- [@fhinkel](http://twitter.com/fhinkel)
+- [fhinkel.rocks](http://fhinkel.rocks)
+- Topics - JavaScript Performance, Node.js Core, Cloud Platform
+- Location - New York, NY
+
 #### Asia Hoe
 
 - [@TwitterHandle](http://twitter.com/asiahoe)
@@ -819,13 +826,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Accessibility, UX, HTML/CSS, WordPress, diversity, women in tech
 - Location - Rennes, France
 - Languages besides English - French
-
-#### Franziska Hinkelmann
-
-- [@fhinkel](http://twitter.com/fhinkel)
-- Topics - JavaScript VMs, Chrome V8
-- Location - Munich, Germany
-- Languages besides English - German
 
 #### Marja Hölttä
 
