@@ -1028,6 +1028,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Kyiv, Ukraine (will travel nationally and internationally)
 - Languages besides English - Russian, Ukrainian
 
+#### Sara Vieira
+ - [@NikkitaFTW](https://twitter.com/NikkitaFTW)
+ - Topics - React, Vue, GraphQL
+ - Location - Berlin, Germany
+ - Languages besides English - Portuguese
+
 ### India
 
 #### Bhavani Ravi
