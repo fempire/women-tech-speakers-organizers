@@ -1111,6 +1111,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - HTML/CSS, JavaScript, Python, Keynote speeches, Women in tech, Community
 - Location - Lagos, Nigeria
 
+#### Egwuenu Gift
+- [@lauragift21](https://twitter.com/lauragift21)
+- Topics - JavaScript, HTML/CSS, Tech Community
+- Location - Lagos, Nigeria
+
 ### South Africa
 
 #### Gergana Young
@@ -1313,9 +1318,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Laurence de Villers
 - [@L\_de\_V](https://twitter.com/L_de_V)
 - [GDG Montreal Android](http://android-montreal.com/), Montreal, QC
-- Group Focus - Android - GDG - Technical Talks 
+- Group Focus - Android - GDG - Technical Talks
 - [Women Techmakers Montreal](https://wtmmontreal.com/), Montreal, QC
-- Special event to promote and empower Women in Tech 
+- Special event to promote and empower Women in Tech
 
 #### Heather Payne
 
@@ -1436,7 +1441,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Angular Athens](https://www.meetup.com/en-AU/Angular-Athens/), Athens, Greece
 - Group Focus - Angular, JavaScript, Front end technologies
 - Topics Katerina speaks about: Angular, JavaScript, Front end technologies, web maps (Google Maps, OpenLayers)
-- Location - Athens, Greece  
+- Location - Athens, Greece
 
 #### Alina Yurenko
 
@@ -1458,19 +1463,25 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Nigeria
 
-##### Ada Nduka Oyom
+#### Ada Nduka Oyom
 - [@kolokodess](https://twitter.com/kolokodess)
 - [She Code Africa](http://medium.com/shecodeafrica), Africa
 - Group Focus - Software development, Hardware Engineering, web and mobile development, Public speaking, Women in tech
 - Location - Lagos, Nigeria
 
-##### Emem Brownson
+#### Emem Brownson
 - [@brownjee001](https://twitter.com/brownjee001)
 - [Girls Programming Academy](https://web.facebook.com/GirlsProAc/)
 - [WTM Uyo](https://web.facebook.com/WomenTechmakersUyo/)
 - [GDG Uyo](https://web.facebook.com/gdguyo/)
 - Group Focus - Software development, web and mobile development, Public speaking, Women in tech
 - Location - Uyo, Nigeria
+
+#### Egwuenu Gift
+- [@lauragift21](https://twitter.com/lauragift21)
+- [Concatenate Conference](https://concatenate.io/)
+- Group Focus- Front End Development, Design systems, Performance and Animation
+- Location - Lagos, Nigeria
 
 ### Brazil
 
