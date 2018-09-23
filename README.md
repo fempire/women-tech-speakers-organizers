@@ -1671,6 +1671,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Languages besides English - Romanian
 - I would like to put together a group of experienced people that would volunteer to mentor and guide emerging developers.
 
+#### Sara Wegman
+
+- [@SaraLaughed](http://twitter.com/saralaughed)
+- [sarawegman.com](http://www.sarawegman.com)
+- sarawegman@gmail.com
+- Topics of Interest- JavaScript, web development, apps, writing, speaking
+- Location - Leiden, Netherlands
+- Languages besides English - Dutch
+- I am currently working on building up my portfolio and making my first mobile app. I would like to get involved in speaking and writing on code-related topics.
+
 ### India
 
 #### Meghna Gupta
