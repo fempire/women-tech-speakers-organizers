@@ -1313,9 +1313,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Laurence de Villers
 - [@L\_de\_V](https://twitter.com/L_de_V)
 - [GDG Montreal Android](http://android-montreal.com/), Montreal, QC
-- Group Focus - Android - GDG - Technical Talks 
+- Group Focus - Android - GDG - Technical Talks
 - [Women Techmakers Montreal](https://wtmmontreal.com/), Montreal, QC
-- Special event to promote and empower Women in Tech 
+- Special event to promote and empower Women in Tech
 
 #### Heather Payne
 
@@ -1436,7 +1436,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Angular Athens](https://www.meetup.com/en-AU/Angular-Athens/), Athens, Greece
 - Group Focus - Angular, JavaScript, Front end technologies
 - Topics Katerina speaks about: Angular, JavaScript, Front end technologies, web maps (Google Maps, OpenLayers)
-- Location - Athens, Greece  
+- Location - Athens, Greece
 
 #### Alina Yurenko
 
@@ -1692,6 +1692,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics of Interest- HTML, CSS, JavaScript, Vuejs
 - Location - Lagos, Nigeria
 - I'll like to get more involved in the open-source community and actively partcipate in the tech community.
+
+#### Chiamaka Ikeanyi
+
+- [@chiamakaikeanyi](http://twitter.com/chiamakaikeanyi)
+- [Personal Website](https://chiamakaikeanyi.netlify.com/)
+- chiamakaikeanyi@gmail.com
+- Topics of Interest- JavaScript, ReactJS, Accessibility, Collaboration, Technical Writing
+- Location - Lagos, Nigeria
+- I crave to expand my knowledge base and aid in raising the next generation of Tech leaders.
 
 ### Australia
 
