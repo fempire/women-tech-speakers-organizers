@@ -1623,6 +1623,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### United States
 
+#### Marissa Douglass
+
+- [@mahdouglass](https://twitter.com/mahdouglass)
+- [Github](https://github.com/mahdouglass)
+- Topics of Interest – HTML, CSS, JavaScript, Angular, women in tech
+- Location: SLC, UT, USA
+- I have a few years experience in the tech industry but would like to get more involved with meetups, conferences, and networking.
+
 #### Zoe Kafkes
 
 - [@zkafkes](http://twitter.com/zkafkes)
@@ -1658,14 +1666,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Raleigh, NC, USA
 - Languages besides English - Urdu
 - I am currently working on completing the full stack web development program at Flatiron School. I would like to join the tech industry and use my new skills to make a positive impact in the world. I would also like to help more women and minorities get involved in tech.
-
-#### Marissa Douglass
-
-- [@mahdouglass](https://twitter.com/mahdouglass)
-- [Github](https://github.com/mahdouglass)
-- Topics of Interest – HTML, CSS, JavaScript, Angular, women in tech
-- Location: SLC, UT, USA
-- I have a few years experience in the tech industry but would like to get more involved with meetups, conferences, and networking.
 
 ### Europe
 
