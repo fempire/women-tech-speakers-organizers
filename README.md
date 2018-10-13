@@ -472,6 +472,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Open Source Sustainability, JavaScript Libraries, Standards/TC39, DateTime, Azure/Cloud
 - Location - Redmond, WA
 
+#### Eve Porcello
+
+- [@eveporcello](https://twitter.com/eveporcello)
+- [graphqlworkshop.com](https://www.graphqlworkshop.com/)
+- Topics - React, GraphQL
+- Location - Tahoe City, CA
+
 #### Natalie Qabazard
 
 - [@natqab](http://twitter.com/natqab)
