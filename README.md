@@ -931,6 +931,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Edinburgh, United Kingdom
 - Languages besides English - Romanian
 
+#### Maaret Pyhäjärvi
+
+- [@maaretp](https://twitter.com/maaretp)
+- [Personal website](https://maaretp.com)
+- Topics: Keynote Speeches, Exploratory Testing, Mob Programming, Agile, Polyglot Programming
+- Location - Helsinki, Finland
+- Languages besides English - Finnish
+
 #### Manel Rhaiem (Manel, Rhaiem)
 
 - [@manelbutterfly](https://twitter.com/manelbutterfly)
@@ -1313,9 +1321,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Laurence de Villers
 - [@L\_de\_V](https://twitter.com/L_de_V)
 - [GDG Montreal Android](http://android-montreal.com/), Montreal, QC
-- Group Focus - Android - GDG - Technical Talks 
+- Group Focus - Android - GDG - Technical Talks
 - [Women Techmakers Montreal](https://wtmmontreal.com/), Montreal, QC
-- Special event to promote and empower Women in Tech 
+- Special event to promote and empower Women in Tech
 
 #### Heather Payne
 
@@ -1418,6 +1426,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@nataliepis](https://twitter.com/nataliepis)
 - [Women Technmakers Berlin](http://wtmberlin.com/)
+
+#### Maaret Pyhäjärvi
+
+- [@maaretp](https://twitter.com/maaretp)
+- [European Testing Conference](http://europeantestingconference.eu)
+- [Tech Excellence Finland meetup](https://www.meetup.com/Tech-Excellence-Finland/)
+- [Helsinki Software Testing meetup](https://www.meetup.com/helsinki-software-testing/)
+- Location: Helsinki, Finland
 
 #### Kseniia Shumelchyk
 
