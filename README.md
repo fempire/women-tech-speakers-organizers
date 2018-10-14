@@ -431,6 +431,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - CSS, HTML, Web Animations, SVGs, Design Systems, APIs, Solution Architecture, Email Development, a11y
 - Location - Portland, OR, USA
 
+#### Alejandra Quetzalli Olvera-Novack
+- Founder of sheCodesNow.com
+- Languages besides English - Spanish
+[@QuetzalliAle](https://twitter.com/QuetzalliAle)
+- Topics - Keynote Speeches, Cloud Computing, AWS, CSS3 Animations, HTML5, Web Accesability, UI Architecture, Front-End UI, Women In Tech, Diversity & Inclusion, Tech Education, JavaScript, NodeJS, NPM, Git, Documentation Best Practices
+- Location - Seattle, WA, USA
+
 #### Eryn O'Neil
 - [@eryno](https://twitter.com/eryno)
 - [Slideshare](https://www.slideshare.net/eryno) && [Speakerdeck](https://speakerdeck.com/eryno)
