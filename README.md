@@ -250,6 +250,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - API, technical writing, JavaScript, Node.JS, IoT, bots, mentoring, DevRel, design, sketchnotes, combining technology with cats
 - Location - San Francisco, CA
 
+#### Angie Jones
+
+- [@techgirl1908](http://twitter.com/techgirl1908)
+- [angiejones.tech](http://angiejones.tech)
+- Topics - Keynotes, Test Automation, DevOps, Machine Learning (ML)
+- Location - San Francisco, CA (will travel nationally & internationally)
+
 #### Mars Jullian
 
 - [@marsjosephine](http://twitter.com/marsjosephine)
