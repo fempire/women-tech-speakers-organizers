@@ -1211,6 +1211,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - UX, Design, Marketing, Team Building
 - Location - Brisbane, Australia
 
+##### Tanya Butenko
+- [@ButenkoMe](https://twitter.com/ButenkoMe)
+- [LinkedIn](https://www.linkedin.com/in/tanya-butenko-019a6a98/)
+- Topics - JavaScript, Tech Community, Diversity, Mentorship, Women in tech
+- Location - Sydney, Australia
+- English, Russian
+
 ## Organizers
 
 ### United States
@@ -1507,6 +1514,19 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - technology and people leadership
 - Location - Sydney, Australia
 
+#### Tanya Butenko
+- [@ButenkoMe](https://twitter.com/ButenkoMe)
+- [LinkedIn](https://www.linkedin.com/in/tanya-butenko-019a6a98/)
+- Women Who Code Sydney
+  - [Meetup](https://www.meetup.com/Women-Who-Code-Sydney/)
+  - [Official](https://www.womenwhocode.com/sydney)
+- Muses Code JS (former NodeGirls)
+  - [Meetup](https://www.meetup.com/MusesCodeJS/)
+  - [Facebook](https://www.facebook.com/MusesCodeJS)
+  - [LinkedIn](https://www.linkedin.com/company/nodegirls-australia/)
+  - [Official](http://nodegirls.com.au/)
+- Location - Sydney, Australia
+
 
 ## Mentors
 
@@ -1618,6 +1638,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Email Address - Twitter || [daisymarie128@gmail.com]
 - Javascript development, Front End development, Creative coding, Getting Started with Web Development
 - Location - Sydney, Australia
+
+#### Tanya Butenko
+- [@ButenkoMe](https://twitter.com/ButenkoMe)
+- [LinkedIn](https://www.linkedin.com/in/tanya-butenko-019a6a98/)
+- Email Address - [tanya@butenko.me]
+- JavaScript, Node.js, full stack development, getting started with web development
+- Location - Sydney, Australia
+- English, Russian, Ukrainian
 
 ## Getting Started
 
