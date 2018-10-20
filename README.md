@@ -1165,6 +1165,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Buenos Aires, Argentina.
 - English, Spanish, German
 
+##### Diana Rodriguez
+- [@cotufa82] (http://twitter.com/cotufa82)
+- Topics - Vue, Deployment, IOT, Infrastructure, Docker, Kubernetes 
+- Location - Undefined!
+- English, Spanish, Portuguese
+
 ### Australia
 
 ##### Charlie Gerard
@@ -1334,6 +1340,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@evaferreira92](https://twitter.com/evaferreira92)
 - [CSSConf Argentina](https://www.cssconfar.com)
 - Location - Buenos Aires, Argentina
+
+#### Diana Rodriguez
+
+- [@cotufa82](https://twitter.com/cotufa82)
+- [Vue Vixens](https://www.vuevixens.org)
+- Location - Worldwide
 
 ### Europe
 
