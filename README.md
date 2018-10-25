@@ -34,11 +34,13 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Nigeria](#nigeria-1)
   - [Europe](#europe-1)
   - [Brazil](#brazil)
+  - [Asia](#asia-1)
   - [Australia](#australia)
 - [Mentors](#mentors)
   - [United States](#united-states-2)
   - [India](#india-1)
   - [Europe](#europe-2)
+  - [Asia](#asia-2)
   - [Australia](#australia)
 - [Getting Started](#getting-started)
   - [United States](#united-states-3)
@@ -1151,6 +1153,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Open Source AI,SUSI.AI, Open Data, FashionTech
 - Location - Singapore, Vietnam, and around Asia.
 
+### Japan
+
+##### Tutti Quintella
+- [Twitter @tuttiq](http://twitter.com/tuttiq)
+- [Github @tuttiq](http://github.com/tuttiq)
+- Topics - Ruby on Rails, Web technologies, Project management, Team management, Leadership, Women in tech
+- Location - Tokyo, Japan (eventually Brazil, able to travel to speak on occasions)
+- English, Portuguese
+
+
 ### Argentina
 
 ##### Laura Morinigo
@@ -1210,6 +1222,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Personal Website](http://www.annaharrison.com/)
 - Topics - UX, Design, Marketing, Team Building
 - Location - Brisbane, Australia
+
 
 ## Organizers
 
@@ -1484,6 +1497,22 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Facebook Developer Circle Campinas](https://www.facebook.com/groups/DevCCampinas/)
 - Location - Campinas, SP, Brazil
 
+### Asia
+
+#### Japan
+
+##### Tutti Quintella
+- [Twitter @tuttiq](http://twitter.com/tuttiq)
+- [Github @tuttiq](http://github.com/tuttiq)
+- Women Who Code Tokyo
+  - [Meetup](https://www.meetup.com/Women-Who-Code-Tokyo/)
+  - [Twitter](https://twitter.com/WWCode_Tokyo)
+  - [Official](https://www.womenwhocode.com/tokyo)
+  - Email: tokyo@womenwhocode.com
+- Location - Tokyo, Japan
+- English, Portuguese
+
+
 ### Australia
 
 #### Larene Le Gassick
@@ -1601,6 +1630,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Wroclaw, Poland (remote contact also ok)
 - Languages besides English - Polish
 
+### Asia
+
+#### Japan
+
+##### Tutti Quintella
+- [Twitter @tuttiq](http://twitter.com/tuttiq)
+- [Github @tuttiq](http://github.com/tuttiq)
+- Email: tutti@womenwhocode.com
+- Topics: Ruby on Rails, Javascript frameworks (React, Vue.js, Angular), web development, computer science
+- Location - Tokyo, Japan
+- English, Portuguese
+
 ### Australia
 
 #### Pavithra Kodmad
@@ -1618,6 +1659,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Email Address - Twitter || [daisymarie128@gmail.com]
 - Javascript development, Front End development, Creative coding, Getting Started with Web Development
 - Location - Sydney, Australia
+
+
 
 ## Getting Started
 
