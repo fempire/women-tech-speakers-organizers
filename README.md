@@ -954,6 +954,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
  - Location - Dnipro, Ukraine
  - Languages besides English - Ukrainian, Russian
 
+ #### Carolyn Stransky
+
+  - [@carolstran](https://twitter.com/carolstran)
+  - [More Information](https://github.com/carolstran/tech-talks)
+  - Topics - Accessibility, Documentation, Self-care
+  - Location - Berlin, Germany
+
 #### Bo Vandersteene
 
 - [@reibo_bo](http://twitter.com/reibo_bo)
@@ -1313,9 +1320,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Laurence de Villers
 - [@L\_de\_V](https://twitter.com/L_de_V)
 - [GDG Montreal Android](http://android-montreal.com/), Montreal, QC
-- Group Focus - Android - GDG - Technical Talks 
+- Group Focus - Android - GDG - Technical Talks
 - [Women Techmakers Montreal](https://wtmmontreal.com/), Montreal, QC
-- Special event to promote and empower Women in Tech 
+- Special event to promote and empower Women in Tech
 
 #### Heather Payne
 
