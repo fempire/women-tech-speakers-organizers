@@ -187,6 +187,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Powershell, C#
 - Location - Akron, OH
 
+#### Ann Marie Fred
+
+- [@DukeAMO](https://twitter.com/DukeAMO)
+- [LinkedIn](https://www.linkedin.com/in/amfred/)
+- Topics - DevOps, DevSecOps, Continuous Delivery, Software Development Culture and Best Practices, Github for Managers, Automating Compliance, Squad Models, Agile, Release Management, How to Get a Conference Talk Accepted, How to Be Active on Social Media without Losing Your Soul
+- Location - St. Louis, MO, USA (relocating from Reasearch Triangle Park, NC, USA)
+
 #### Deepti Gandluri
 
 - [@dptig](https://twitter.com/dptig)
@@ -1536,6 +1543,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - How to Contact - Twitter or through my website
 - Topics for Mentoring - Reach out to me with questions about Go and Python development
 - Location - San Francisco, CA, USA
+
+#### Ann Marie Fred
+
+- [@DukeAMO](https://twitter.com/DukeAMO)
+- [LinkedIn](https://www.linkedin.com/in/amfred/)
+- How to Contact - Twitter
+- Topics for Mentoring - DevOps, DevSecOps, Continuous Delivery, Software Development Culture and Best Practices, How to Get a Conference Talk Accepted, How to Be Active on Social Media without Losing Your Soul
+- Location - St. Louis, MO, USA (relocating from Reasearch Triangle Park, NC, USA)
 
 ### India
 
