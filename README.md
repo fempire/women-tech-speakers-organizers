@@ -865,6 +865,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Dublin, Ireland
 - Languages besides English - Romanian
 
+#### Sal Freudenberg
+
+- [@SalFreudenberg](https://twitter.com/SalFreudenberg)
+- [Personal Website](https://salfreudenberg.wordpress.com/)
+- Topics - Neurodiversity, Mob programming, Cucumber, Agile
+- Location - UK
+
 #### Serena Fritsch
 
 - [@serifritsch](https://twitter.com/serifritsch)
