@@ -71,14 +71,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Android, Kotlin, Women in Tech, Mentorship, Startups
 - Location - San Francisco, CA
 
-#### Anagha Todalbagi
-
-- [@AnaghaTodalbagi](https://twitter.com/AnaghaTodalbagi)
-- [LinkedIn](https://www.linkedin.com/in/anaghatodalbagi)
-- [Personal Website](https://about.me/anagha)
-- Topics - Go, Python, start up experience
-- Location - San Francisco, CA, USA
-
 #### Jina Anne
 
 - [@jina](https://twitter.com/jina)
@@ -569,6 +561,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Personal Website](http://www.heathercancode.com)
 - Topics - Transitioning from Print Designer to Web Developer, Apprenticeships
 - Location - Dayton, OH, USA
+
+#### Anagha Todalbagi
+
+- [@AnaghaTodalbagi](https://twitter.com/AnaghaTodalbagi)
+- [LinkedIn](https://www.linkedin.com/in/anaghatodalbagi)
+- [Personal Website](https://about.me/anagha)
+- Topics - Go, Python, start up experience
+- Location - San Francisco, CA, USA
 
 #### Beth Tucker Long
 
