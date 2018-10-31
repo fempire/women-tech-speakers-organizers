@@ -720,6 +720,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics: JavaScript, React, GraphQL
 - Location: San Francisco Bay Area, CA, USA
 
+#### Adhithi Ravichandran
+  - [@AdhithiRavi](https://twitter.com/AdhithiRavi)
+  - [Personal Website](http://adhithiravichandran.com/)
+  - [Medium]: (https://medium.com/@adhithiravi)
+  - Topics:  React Native, React, Developer Human Skills
+  - Location: Kansas City, USA
+
 
 
 ### Canada
