@@ -837,6 +837,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - London, United Kingdom.
 - Languages besides English - Portuguese and Italian.
 
+#### Annabel Church
+- [@annabelchurch](http://twitter.com/annabelchurch)
+- [Personal Website](http://annabelchurch.com)
+- Location - Berlin, Germany
+- Journalism/Technology, Hacks/Hackers, Data Driven Journalism, Web Developement, JS, Python, IOT, Diversity in tech
+
 #### Simona Cotin
 
 - [@simona_cotin](http://twitter.com/simona_cotin)
@@ -1450,6 +1456,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - Google Cloud Platform, Cloud computing.
 - Location - London, United Kingdom
 
+#### Annabel Church
+- [@annabelchurch](http://twitter.com/annabelchurch)
+- [Hacks/Hackers Berlin](https://www.meetup.com/Hacks-Hackers-Berlin/), Germany
+- Group Focus - Journalism / Technology, Data Driven Journalism, Newsroom tech, Newsnerds
+- Location - Berlin, Germany
+
 #### Sophie Huts
 
 - [@sophie_h29](https://twitter.com/sophie_h29)
@@ -1533,7 +1545,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Angular Athens](https://www.meetup.com/en-AU/Angular-Athens/), Athens, Greece
 - Group Focus - Angular, JavaScript, Front end technologies
 - Topics Katerina speaks about: Angular, JavaScript, Front end technologies, web maps (Google Maps, OpenLayers)
-- Location - Athens, Greece  
+- Location - Athens, Greece
 
 #### Alina Yurenko
 
