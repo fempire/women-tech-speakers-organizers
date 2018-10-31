@@ -1085,6 +1085,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Android Development | Data structures | Algorithms
 - Location - Hackathons
 
+#### Apoorva Tiwari
+
+- [@apoorva_tiw](https://twitter.com/apoorva_tiw)
+- [apoorvatiw](https://www.linkedin.com/in/apoorvatiw/)
+- Topics - Google Technology | Mobile | Cloud | Women in Tech | Community
+- Location - Hyderabad, IN
+- Language - English, Hindi
+
 ### Lebanon
 
 #### Sara Soueidan
