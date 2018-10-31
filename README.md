@@ -910,6 +910,21 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Rennes, France
 - Languages besides English - French
 
+#### Felienne Hermans
+
+- [@felienne](https://twitter.com/Felienne)
+- [Personal Website](http://www.felienne.com/)
+- Topics - Programming, Programming Education, Programming for kids
+- Location - Rotterdam, the Netherlands (will travel nationally & internationally)
+- Languages besides English - Dutch
+
+#### Franziska Hinkelmann
+
+- [@fhinkel](http://twitter.com/fhinkel)
+- Topics - JavaScript VMs, Chrome V8
+- Location - Munich, Germany
+- Languages besides English - German
+
 #### Marja Hölttä
 
 - [@marjakh](http://twitter.com/marjakh)
