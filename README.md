@@ -960,6 +960,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Edinburgh, United Kingdom
 - Languages besides English - Romanian
 
+#### Maaret Pyhäjärvi
+
+- [@maaretp](https://twitter.com/maaretp)
+- [Personal website](https://maaretp.com)
+- Topics: Keynote Speeches, Exploratory Testing, Mob Programming, Agile, Polyglot Programming
+- Location - Helsinki, Finland
+- Languages besides English - Finnish
+
 #### Manel Rhaiem (Manel, Rhaiem)
 
 - [@manelbutterfly](https://twitter.com/manelbutterfly)
@@ -1485,6 +1493,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@nataliepis](https://twitter.com/nataliepis)
 - [Women Technmakers Berlin](http://wtmberlin.com/)
+
+#### Maaret Pyhäjärvi
+
+- [@maaretp](https://twitter.com/maaretp)
+- [European Testing Conference](http://europeantestingconference.eu)
+- [Tech Excellence Finland meetup](https://www.meetup.com/Tech-Excellence-Finland/)
+- [Helsinki Software Testing meetup](https://www.meetup.com/helsinki-software-testing/)
+- Location: Helsinki, Finland
 
 #### Kseniia Shumelchyk
 
