@@ -1,6 +1,6 @@
 # Fempire
 
-This is a list of women tech speakers &amp; organizers. Please submit a PR if you'd like!
+This is a list of women tech speakers &amp; organizers. Please submit a PR if you'd like to add yourself or add others!
 
 Also included in this list is a list of women who would LIKE to get involved & a list of PEOPLE that would like to help and mentor women.
 
