@@ -1110,6 +1110,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - I one of the organizers & mentor at [Build2learn](http://build2learn.in)
 - Location - Chennai, India
 
+#### Khushbu Parakh
+- [@TwitterHandle](http://twitter.com/cokencode)
+- [Personal Website](http://khushbu.strikingly.com/)
+- [LinkedIn](https://www.linkedin.com/in/khushbuparakh)
+- Topics - Cloud Computing, Python, Automation Testing, Open Source
+- Location - Bengaluru, Karnataka, India
+
 #### Ramya Authappan
 
 - [@atramya](https://twitter.com/atramya)
