@@ -393,6 +393,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, PWAs, Node.js, Web Technology, Vue/React/Angular, APIs
 - Location - Cincinnati, OH
 
+#### Jessica Mauerhan
+
+- [@jessicamauerhan](http://twitter.com/jessicamauerhan)
+- Topics - PHP, Code Quality, Testing (TDD/BDD), Community
+- Location - McKinney, TX
+
 #### Rachel Arst McCullough
 
 - [@ArstMcCullough](https://twitter.com/ArstMcCullough)
