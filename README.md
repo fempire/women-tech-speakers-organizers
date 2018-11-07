@@ -1230,6 +1230,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, HTML/CSS, Tech Community
 - Location - Lagos, Nigeria
 
+#### Nenne 'Adora' Nwodo
+
+- [@theadoranwodo](https://twitter.com/theadoranwodo)
+- [Personal Website](https://adoranwodo.com)
+- Topics - Android Development, Software Design Patterns, Game Development, DevOps, JavaScript, VueJS, Mobile Experiences
+- Location - Lagos, Nigeria
+
 ### South Africa
 
 #### Gergana Young
@@ -1768,6 +1775,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@kolokodess](https://twitter.com/kolokodess)
 - How to Contact - via Twitter
 - Topics for Mentoring - Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, community building
+- Location - Lagos, Nigeria
+
+#### Nenne 'Adora' Nwodo
+
+- [@theadoranwodo](https://twitter.com/theadoranwodo)
+- [Personal Website](https://adoranwodo.com)
+- Email Address - [nennenwodo@gmail.com]
+- Topics for Mentoring - JavaScript, Laravel, DevOps, Continuous Integration and Deployment, Android Development
 - Location - Lagos, Nigeria
 
 ### Nigeria
