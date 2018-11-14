@@ -1087,6 +1087,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Alina Yurenko
 
 - [@alina_yurenko](https://twitter.com/alina_yurenko)
+— [Medium posts](https://medium.com/@alina.yur) 
 - Topics - Java, JVM, GraalVM
 - Location - Lviv, Ukraine (will travel nationally & internationally)
 - Languages besides English - Ukrainian
