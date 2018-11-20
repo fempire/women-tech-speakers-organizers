@@ -77,6 +77,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [sushiandrobots.com](https://www.sushiandrobots.com/)
 - Topics - Design Systems, Sass, Design, CSS
 
+#### Laurie Barth
+
+- [@laurieontech](https://twitter.com/laurieontech)
+- [laurieontech.com](https://laurieontech.com/)
+- Topics - Software Engineering, Web Development, DevOps, Engineering Culture, Project Challenges
+- Location - Washington, DC
+
 #### Jessica Bell
 
 - [@SirJesstheBrave](http://twitter.com/SirJesstheBrave)
