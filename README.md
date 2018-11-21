@@ -1228,6 +1228,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
  - Location - Berlin, Germany
  - Languages besides English - Portuguese
 
+#### Stanimira Vlaeva
+ - [@StanimiraVlaeva](https://twitter.com/StanimiraVlaeva)
+ - Topics - NativeScript, Angular, Schematics
+ - Location - Sofia, Bulgaria
+ - Languages besides English - Bulgarian
+
+#### Elena Gancheva
+ - [@eagancheva](https://twitter.com/eagancheva)
+ - Topics - Angular, Vue
+ - Location - Sofia, Bulgaria
+ - Languages besides English - Bulgarian
 
 ### India
 
