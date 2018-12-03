@@ -506,6 +506,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, React
 - Location - San Francisco, CA
 
+#### Samantha Quiñones
+
+- [@ieatkillerbees](http://twitter.com/ieatkillerbees)
+- [Personal Website](https://ieatkillerbe.es)
+- Topics - Ethics, Leadership, Inclusion, PHP, Scaling
+- Location - New York City, NY
+
 #### Peggy Rayzis
 
 - [@peggyrayzis](http://twitter.com/peggyrayzis)
