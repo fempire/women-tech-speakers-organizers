@@ -358,6 +358,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Keynote Speeches, open source in education, eTextiles & small circuits, open source communities, communication & conflict resolution, open organizations, open source principles
 - Location - Raleigh, NC
 
+#### Susan Lin
+
+- [@mintlodica](http://twitter.com/mintlodica)
+- [Portfolio](http://www.bysusanlin.com)
+- Topics - Design Strategy, Design Systems, Leadership, Management & Strategy, Visual Thinking.
+- Location - San Francisco (SF), CA, USA
+
 #### Devon Lindsey
 
 - [@devonbl](http://twitter.com/devonbl)
