@@ -161,6 +161,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - CSS, Accessibility, Javascript, Angular, Women in Tech, Design
 - Location - New York, NY
 
+#### Rhia Dixon
+
+- [@TheFakeRiRi](http://twitter.com/TheFakeRiRi)
+- [www.RhiaDixon.com](http://www.rhiadixon.com)
+- Topics - C#/.NET, AWS, Cloud Tools, Diversity & Inclusion, Diversity in Tech, Networking, Imposter Syndrome, Tips for Newbies
+- Location - Kansas City, MO
+
 #### Bear Douglas
 
 - [@beardigsit](https://twitter.com/beardigsit)
