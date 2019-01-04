@@ -318,6 +318,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Keynotes Speeches, JavaScript, CSS
 - Location - Nashville, TN
 
+#### Rae Krantz
+
+- [@rustbeltrae](http://twitter.com/rustbeltrae)
+- [rachelkrantz.com](http://rachelkrantz.com)
+- Topics - Keynotes Speeches, JavaScript, Angular, Apprenticeships, Teams
+- Location - Akron, OH
+
 #### Una Kravets
 
 - [@una](http://twitter.com/una)
