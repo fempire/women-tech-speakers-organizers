@@ -1142,11 +1142,21 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Kyiv, Ukraine (will travel nationally and internationally)
 - Languages besides English - Russian, Ukrainian
 
+
+#### Olga Petrova
+
+- [@tyoushe](https://twitter.com/tyoushe)
+- Topics - Javascript, Web, Frameworks, UI components, Ext JS
+- Location - Munich, Germany (will travel nationally and internationally)
+- Languages besides English - Russian
+
+
 #### Sara Vieira
  - [@NikkitaFTW](https://twitter.com/NikkitaFTW)
  - Topics - React, Vue, GraphQL
  - Location - Berlin, Germany
  - Languages besides English - Portuguese
+
 
 ### India
 
