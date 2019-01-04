@@ -1106,8 +1106,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
  - Topics - Android, Architecture design, UI/UX, Wearables, Communities
  - Location - Dnipro, Ukraine
  - Languages besides English - Ukrainian, Russian
+ 
+   
+#### Agata Sobek
 
- #### Carolyn Stransky
+  - [LinkedIn](https://www.linkedin.com/in/agatasobek/)
+  - Email Address - [kochanagatka@gmail.com]
+  - Topics - SCRUM, Agile, KANBAN, LeSS, Team building, #noestimates, soft skills
+  - Location - Wroclaw, Poland
+  - Languages besides English - Polish
+
+#### Carolyn Stransky
 
   - [@carolstran](https://twitter.com/carolstran)
   - [More Information](https://github.com/carolstran/tech-talks)
