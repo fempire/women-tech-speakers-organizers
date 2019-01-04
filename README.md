@@ -1909,6 +1909,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
+#### Adi Polak
+
+- [@adipolak](https://twitter.com/adipolak)
+- polakadi8@gmail.com
+- Topics of Interest- Big Data, Java, Scala, AI, Kotlin, Serverless, Security, Mentorship, Startups
+- Location - Tel Aviv, Israel
+- Languages besides English - Hebrew
+- I working on my online persona in tech and would much appriciate your help and guidence. 
+
+
 #### Oana Galbenu
 
 - [@oanaalex](https://twitter.com/oanaalex)
