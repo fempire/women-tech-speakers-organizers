@@ -1377,12 +1377,20 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - UX, Design, Marketing, Team Building
 - Location - Brisbane, Australia
 
+##### Meggan Turner
+- [@megganeturner](http://twitter.com/megganeturner)
+- [Portfolio](http://megganeturner.github.io)
+- Topics - JavaScript, Women in Tech, Git
+- Location - Sydney, Australia
+- English
+
 ##### Tanya Butenko
 - [@ButenkoMe](https://twitter.com/ButenkoMe)
 - [LinkedIn](https://www.linkedin.com/in/tanya-butenko-019a6a98/)
 - Topics - JavaScript, Tech Community, Diversity, Mentorship, Women in tech
 - Location - Sydney, Australia
 - English, Russian
+
 
 ## Organizers
 
