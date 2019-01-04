@@ -133,6 +133,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Developer Evangelism, Docker
 - Location - Bay Area / San Francisco
 
+#### Allison McMillan
+
+- [@allie_p](https://twitter.com/allie_p)
+- [website](http://daydreamsinruby.com/speaking/)
+- Topics - Mentorship, Learning and Professional Growth, Peer Teaching/Learning, Leadership Development, Garbage Collection, Parenting as a Technologist
+- Location - Washington, DC
+
 #### Frances Coronel
 
 - [@fvcproductions](http://twitter.com/fvcproductions)
