@@ -459,6 +459,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Organizes: [Tahoe Silicon Mountain](http://www.tahoesiliconmountain.com/) - multiple events every month
 - Location - Truckee, CA, USA
 
+
+#### Kathleen McMahon
+
+- [@resource11](http://twitter.com/resource11)
+- [kathleenmcmahon.me](https://kathleenmcmahon.me)
+- Topics - Accessibility, React, Design Systems, Open Source, Women in Tech
+- Location - Boston, MA
+
 #### Catherine Meade
 
 - [@catheraaine](https://twitter.com/catheraaine)
