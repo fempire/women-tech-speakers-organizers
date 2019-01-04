@@ -415,6 +415,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, PWAs, Node.js, Web Technology, Vue/React/Angular, APIs
 - Location - Cincinnati, OH
 
+#### Jenny A. Manning
+
+- [@j41manning](https://twitter.com/j41manning)
+- [J.41.Manning@gmail.com](j41manning@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/J41Manning)
+- Topics - History of programming languages, Scala, Java, C++, Software Architecture
+- Location - Pittsburgh, PA
+
 #### Jessica Mauerhan
 
 - [@jessicamauerhan](http://twitter.com/jessicamauerhan)
