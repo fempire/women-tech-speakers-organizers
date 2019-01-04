@@ -1122,10 +1122,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Alina Yurenko
 
-- [@v4venceremos](https://twitter.com/v4venceremos)
-- Topics - Marketing, Community Management, Communications
+- [@alina_yurenko](https://twitter.com/alina_yurenko)
+— [Medium posts](https://medium.com/@alina.yur) 
+- Topics - Java, JVM, GraalVM
 - Location - Lviv, Ukraine (will travel nationally & internationally)
-- Languages besides English - Ukrainian, Russian
+- Languages besides English - Ukrainian
 
 #### Laura Morillo-Velarde
 
@@ -1677,7 +1678,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Alina Yurenko
 
-- [@v4venceremos](https://twitter.com/v4venceremos)
+- [@alina_yurenko](https://twitter.com/alina_yurenko)
 - [GDG Lviv](https://www.meetup.com/GDG-Lviv/), Lviv, Ukraine
 - Group Focus - Google Technology, Android, Web and Cloud
 - [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
