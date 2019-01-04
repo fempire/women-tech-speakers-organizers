@@ -1325,6 +1325,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Tokyo, Japan (eventually Brazil, able to travel to speak on occasions)
 - English, Portuguese
 
+#### Xiaoli Shen
+- [@furixturi](http://twitter.com)
+- [Personal Website](http://www.shenxiaoli.com/) | [Github Web Dev](http://twitter.com/fr-xiaoli) | [Github Other Stuff](http://twitter.com/furixturi) 
+- Topics - JavaScript (React, Node), Golang, Web Development, Full-stack, Career in Tech, Creative Technologies
+- Location - Tokyo, Japan | sometimes Frankfurt, Germany (willing to travel elsewhere)
+- English, Chinese, German, Japanese
 
 ### Argentina
 
@@ -1729,6 +1735,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Tokyo, Japan
 - English, Portuguese
 
+#### Xiaoli Shen
+- [@furixturi](http://twitter.com)
+- [Personal Website](http://www.shenxiaoli.com/) | [Github Web Dev](http://twitter.com/fr-xiaoli) | [Github Other Stuff](http://twitter.com/furixturi) 
+- How to Contact - [twitter](http://twitter.com), [email](alabebop@tmail.com)
+- Topics of interest - JavaScript, React, Node, Golang, Web Development, Full-stack, Creative Technologies, Front-end and UX
+- Location - Tokyo, Japan (remote anywhere)
+- English, Chinese, German, Japanese
+- Topics of mentoring - Web Development, Programming, Career in tech
 
 ### Australia
 
