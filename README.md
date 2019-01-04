@@ -155,6 +155,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Diversity, Mentoring, Women in Tech
 - Location - Atlanta, GA, USA
 
+#### Lanette Creamer
+
+- [@LanetteCream](https://twitter.com/@LanetteCream/)
+- Topics - Keynotes, JavaScript, Agile Testing, Test Automation (with JavaScript), iOS and Mac Testing, Enough Git to Git By, Mentoring and Training New Developers, Typography, Coding Basics for Non-Programmers, Pain Management for New Developers, Disability
+- Location - Seattle, WA, USA
+
 #### Santina Croniser
 
 - [@SantinaCroniser](https://twitter.com/santinacroniser)
