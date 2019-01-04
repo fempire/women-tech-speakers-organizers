@@ -1347,6 +1347,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Machine Learning, Deep learning, Artificial Intelligence, DataOps, Data Engineering
 - Location - Johannesburg, Gauteng, South Africa
 
+#### Pamela Hill
+
+- [@pamelaahill](https://twitter.com/pamelaahill)
+- [Personal Website](https://www.pamelaahill.com/)
+- Topics - Kotlin, Android, User Experience for developers
+- Location - Pretoria, Gauteng, South Africa
+
 #### Rebecca Franks
 
 - [@riggaroo](https://twitter.com/riggaroo)
