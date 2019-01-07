@@ -866,16 +866,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
-#### Adi Polak
-
-- [@adipolak](https://twitter.com/adipolak)
-- Medium: https://medium.com/@adipolak
-- LinkedIn: https://www.linkedin.com/in/adi-polak-68548365/
-- Facebook - whttps://www.facebook.com/adi.polak.9
-- Topics - Big Data, Java, Scala, AI, Kotlin, Serverless, Security, Mentorship, Startups
-- Location - Tel Aviv, Israel (will travel nationally and internationally)
-- Languages besides English - Hebrew
-
 #### Britt Barak
 
 - Facebook - www.facebook.com/britt.barak
@@ -1068,6 +1058,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Software testing
 - Location - Lviv, Ukraine (will travel nationally & internationally)
 - Languages besides English - Ukrainian, Russian
+
+#### Adi Polak
+
+- [@adipolak](https://twitter.com/adipolak)
+- Medium: https://medium.com/@adipolak
+- LinkedIn: https://www.linkedin.com/in/adi-polak-68548365/
+- Facebook - whttps://www.facebook.com/adi.polak.9
+- Topics - Big Data, Java, Scala, AI, Kotlin, Serverless, Security, Mentorship, Startups
+- Location - Tel Aviv, Israel (will travel nationally and internationally)
+- Languages besides English - Hebrew
 
 #### Carmen Popoviciu
 
