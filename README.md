@@ -1624,7 +1624,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Women Techmakers Israel](https://www.facebook.com/wtmil/), Tel Aviv, Israel
 - Group Focus - Public speaking, soft skills, WLB, AI, ML, DL.
 
-##### Eliza Camberogiannis
+#### Eliza Camberogiannis
 
 - [@elizacamber](https://twitter.com/ElizaCamber)
 - [Women Techmakers the Netherlands](https://www.meetup.com/Women-Techmakers-The-Netherlands/)
