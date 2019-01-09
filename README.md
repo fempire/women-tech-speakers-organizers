@@ -866,16 +866,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
-#### Adi Polak
-
-- [@adipolak](https://twitter.com/adipolak)
-- Medium: https://medium.com/@adipolak
-- LinkedIn: https://www.linkedin.com/in/adi-polak-68548365/
-- Facebook - whttps://www.facebook.com/adi.polak.9
-- Topics - Big Data, Java, Scala, AI, Kotlin, Serverless, Security, Mentorship, Startups
-- Location - Tel Aviv, Israel (will travel nationally and internationally)
-- Languages besides English - Hebrew
-
 #### Britt Barak
 
 - Facebook - www.facebook.com/britt.barak
@@ -893,6 +883,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Tech Women London](https://www.meetup.com/Tech-Women-London/)
 - Topics - AI, biologically inspired computing, productionising data science, building great tech teams, continous lifecycle, python, docker
 - Location - London, UK (will travel nationally and internationally)
+
+#### Victoria Bergquist
+
+- [@vicbergquist](https://twitter.com/vicbergquist)
+- [LinkedIn](https://www.linkedin.com/in/vicbergquist)
+- Topics - Vue.js, CSS, Diversity, Communities
+- Location - Frankfurt, Germany (will travel nationally and internationally)
+- Languages besides English - Norwegian, German, Japanese
 
 #### Eliza Camberogiannis
 
@@ -1068,6 +1066,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Software testing
 - Location - Lviv, Ukraine (will travel nationally & internationally)
 - Languages besides English - Ukrainian, Russian
+
+#### Adi Polak
+
+- [@adipolak](https://twitter.com/adipolak)
+- Medium: https://medium.com/@adipolak
+- LinkedIn: https://www.linkedin.com/in/adi-polak-68548365/
+- Facebook - whttps://www.facebook.com/adi.polak.9
+- Topics - Big Data, Java, Scala, AI, Kotlin, Serverless, Security, Mentorship, Startups
+- Location - Tel Aviv, Israel (will travel nationally and internationally)
+- Languages besides English - Hebrew
 
 #### Carmen Popoviciu
 
@@ -1624,7 +1632,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Women Techmakers Israel](https://www.facebook.com/wtmil/), Tel Aviv, Israel
 - Group Focus - Public speaking, soft skills, WLB, AI, ML, DL.
 
-##### Eliza Camberogiannis
+#### Victoria Bergquist
+- [@vicbergquist](https://twitter.com/vicbergquist)
+- [CSS Frankfurt](https://cssfrankfurt.de), [Vue.js Frankfurt](https://vuejsfrankfurt.de), [Vue Vixens DE](https://twitter.com/vuevixensDE)
+- Group Focus - Web Development, CSS, Vue.js, Diversity, Public Speaking, Workshops, JavaScript
+- Location - Frankfurt, Germany
+
+#### Eliza Camberogiannis
 
 - [@elizacamber](https://twitter.com/ElizaCamber)
 - [Women Techmakers the Netherlands](https://www.meetup.com/Women-Techmakers-The-Netherlands/)
