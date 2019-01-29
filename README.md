@@ -896,8 +896,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@elizacamber](https://twitter.com/ElizaCamber)
 - [Medium](https://medium.com/@elizacamber)
-- Topics - Android, VUI (conversational apps), diversity, communities
-- Location - Amsterdam, the Netherlands
+- Topics - Android, Google Assistant/ Actions on Google, VUI (conversational apps), diversity, communities
+- Location - Amsterdam, the Netherlands (will travel nationally and internationally)
 - Languages besides English - Greek
 
 #### Ada Rose Cannon
@@ -1641,8 +1641,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Eliza Camberogiannis
 
 - [@elizacamber](https://twitter.com/ElizaCamber)
-- [Women Techmakers the Netherlands](https://www.meetup.com/Women-Techmakers-The-Netherlands/)
-- Group Focus - Diversity, soft skills, Google technologies, Android, Cloud, Web, ML
+- [Women Techmakers Netherlands](https://www.meetup.com/Women-Techmakers-The-Netherlands/)
+- [GDG Netherlands](https://www.meetup.com/gdg-nl/)
+- Group Focus - Diversity, soft skills, Google technologies, Android, Cloud, Web, ML, AoG
 - Location - Amsterdam, the Netherlands
 
 #### Amanda Cavallaro
