@@ -2018,6 +2018,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Atlanta, GA, USA
 - I would like to break into the tech industry and am presently working on getting my front-end certification from freecodecamp
 
+#### Elizabeth Miller
+
+- eemiller4@gmail.com
+- Topics of Interest - App and Web Development, What languauges are useful to learn?, General Knowledge about the tech industry
+- Location - Mountain View, California, USA
+- I quit my old job and followed my husband to CA for his job change. I'm currently learning Python online (Coursera) and I'm a complete newbie to tech. I would like to know if there are conferences or other resources I can check out to discover more about what I can do in the tech industry.
+
 #### Krystal Maughan
 
 - [@kammitama](https://www.twitter.com/kammitama)
