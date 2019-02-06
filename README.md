@@ -42,6 +42,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Europe](#europe-2)
   - [Asia](#asia-2)
   - [Australia](#australia)
+  - [Mexico](#mexico)
 - [Getting Started](#getting-started)
   - [United States](#united-states-3)
   - [Europe](#europe-3)
@@ -2015,6 +2016,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - JavaScript, Node.js, full stack development, getting started with web development
 - Location - Sydney, Australia
 - English, Russian, Ukrainian
+
+### Mexico
+
+#### Marina Mosti
+
+- [@MarinaMosti](https://twitter.com/MarinaMosti)
+- [Dev.to](https://dev.to/marinamosti)
+- Email Address || Twitter - [marina@mosti.com.mx]
+- Javascript, Vue, PHP, Laravel
+- Location - Mexico City, Mexico
+- Languages besides English - Spanish
+- I've been a full stack developer for 13 years and am willing to help out any women out there that are looking to learn new technologies or further their knowledge into existing ones.
 
 
 ## Getting Started
