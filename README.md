@@ -1569,6 +1569,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [RevolutionConf](https://www.revolutionconf.com), Norfolk VA
 - Group Focus - JavaScript, NodeBots
 
+#### MaryBeth Okerson
+
+- [@MBOkerson](http://twitter.com/MBOkerson)
+- [IndyPy](http://indypy.com), Indianapolis, IN, USA
+- IndyPy Group Focus - Python, Web, Automation, IoT, Orchestration, DevOps, Machine Learning, Big Data
+- [IndyAWS](http://indyaws.com), Indianapolis, IN, USA
+- IndyAWS Group Focus - AWS, Cloud Computing, IoT
+
 #### Caterina Paun
 
 - [@caterinasworld](http://twitter.com/caterinasworld)
