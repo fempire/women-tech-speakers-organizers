@@ -822,6 +822,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   - Topics:  React Native, React, Developer Human Skills
   - Location: Kansas City, USA
 
+#### Christine Seeman
+  - [@tech_christine](https://twitter.com/tech_christine)
+  - [Personal Website](https://christine-seeman.com/)
+  - [Dev.to]: (https://dev.to/cseeman)
+  - Topics:  Ruby/Rails, Security, Git, Mentoring, Developer Workflows
+  - Location: Omaha, NE, USA
 
 
 ### Canada
