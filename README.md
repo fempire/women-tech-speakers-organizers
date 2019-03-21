@@ -161,7 +161,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@KimCrayton1](https://twitter.com/@KimCrayton1/)
 - [Personal Website](http://kimcrayton.com/)
 - Topics - Diversity, Mentoring, Women in Tech
-- Location - Atlanta, GA, USA
+- Location - Atlanta, GA, USA.
 
 #### Lanette Creamer
 
@@ -171,9 +171,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Santina Croniser
 
-- [@SantinaCroniser](https://twitter.com/santinacroniser)
-- Topics - Accessibility, Diversity, Women in Tech, Frontend Development, CMS, Tech in Higher Education
-- Location - Chicago, IL
+- [@SantinaCroniser](https://twitter.com/santinacroniser).
+- Topics - Accessibility, Diversity, Women in Tech, Frontend Development, CMS, Tech in Higher Education.
+- Location - Chicago, IL.
 
 #### Angela Damaso
 
