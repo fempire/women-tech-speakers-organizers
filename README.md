@@ -873,6 +873,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
+#### Aygul Zagidullina
+
+- [@aygul](http://twitter.com/aygul)
+- [Personal Website](http://www.aygul.co)
+- Topics - Google Assistant, Actions on Google, Dialogflow, Diversity, Women in Tech
+- Location - London, United Kingdom
+- Languages besides English - German, Russian
+
 #### Britt Barak
 
 - Facebook - www.facebook.com/britt.barak
@@ -1648,6 +1656,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Worldwide
 
 ### Europe
+
+#### Aygul Zagidullina
+
+- [@aygul](http://twitter.com/aygul)
+- [GDG London](https://www.meetup.com/gdglondon), [WTM London](https://www.womentechmakers.com/), [Women in Voice London](https://www.meetup.com/Women-in-Voice-London), [AnitaB.org London](https://www.meetup.com/Inclusive-and-Diverse-Women-in-Tech), London, United Kingdom
+- Group Focus - Google technologies, Diversity, Women in Tech
+- Location - London, United Kingdom
 
 #### Britt Barak
 
