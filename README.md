@@ -1144,6 +1144,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   - [More Information](https://github.com/carolstran/tech-talks)
   - Topics - Accessibility, Documentation, Self-care
   - Location - Berlin, Germany
+  
+  #### Erin B. Taylor
+
+  - [@erinbtaylor_](https://twitter.com/erinbtaylor_)
+  - [Personal website](https://erinbtaylor.com/)
+  - [LinkedIn](https://www.linkedin.com/in/erinbtaylor/)
+  - Topics - OSS communities, Maintainerati, human use of technology, technology and culture, social impact of technology, ICT4D, fintech, technology communities
+  - Location - The Hague, Netherlands
 
 #### Bo Vandersteene
 
