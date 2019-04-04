@@ -882,6 +882,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Android (developement, OS, UX), Communities.
 - Location - Tel Aviv, Israel
 
+#### Burcu Yalcinkaya
+
+- [@burcuco](http://twitter.com)
+- [Personal Website](http://www.burcu.co)
+- LinkedIn: https://www.linkedin.com/in/burcuco/
+- Topics - Android, Kotlin, Community
+- Location - London, United Kingdom
+- Languages besides English - Turkish
+
 #### Janet Bastiman
 
 - [@yssybyl](https://twitter.com/yssybyl)
