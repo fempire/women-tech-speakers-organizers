@@ -679,6 +679,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Keynote Speeches, CSS, JavaScript, Accessibility, Standards, Web Performance
 - Location - San Francisco, CA
 
+#### Alexandra White
+
+- [@heyawhite](https://www.twitter.com/heyawhite)
+- [heyawhite.com](https://heyawhite.com)
+   - [Speaking policy](https://heyawhite.com/speaking#speaking-policy)
+- [GitHub](https://github.com/heyawhite)
+- [LinkedIn](https://www.linkedin.com/in/alexandranwhite/)
+- Topics - Keynote Speeches, Workshops, Technical Writing, Documentation, Technical Videos, Accessibility, Education, Women in Tech, Community Building, Web Development, WordPress
+- Location - New York, NY, USA; NYC; Brooklyn
+
 #### Rachel White
 
 - [@ohhoe](http://www.twitter.com/ohhoe)
