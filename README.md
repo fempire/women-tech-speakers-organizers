@@ -1300,12 +1300,19 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
  - Location - Sofia, Bulgaria
  - Languages besides English - Bulgarian
 
+#### Merve Basak
+- [@bsk_mrv](https://twitter.com/bsk_mrv)
+- Topics - Action on Google, Google Assistant, Women in Technology
+- Location - Eskisehir, Turkey
+- Languages besides English - Turkish.
+
 #### Elif Boncuk
  - [@elifbon_](https://twitter.com/elifbon_)
  - [Personal Website](https://elifboncuk.com/)
  - Topics - Android, Kotlin
  - Location - Istanbul, Turkey
  - Languages besides English - Turkish
+
 
 ### India
 
