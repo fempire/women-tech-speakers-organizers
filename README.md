@@ -679,6 +679,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Keynote Speeches, CSS, JavaScript, Accessibility, Standards, Web Performance
 - Location - San Francisco, CA
 
+#### Alexandra White
+
+- [@heyawhite](https://www.twitter.com/heyawhite)
+- [heyawhite.com](https://heyawhite.com)
+   - [Speaking policy](https://heyawhite.com/speaking#speaking-policy)
+- [GitHub](https://github.com/heyawhite)
+- [LinkedIn](https://www.linkedin.com/in/alexandranwhite/)
+- Topics - Keynote Speeches, Workshops, Technical Writing, Documentation, Technical Videos, Accessibility, Education, Women in Tech, Community Building, Web Development, WordPress
+- Location - New York, NY, USA; NYC; Brooklyn
+
 #### Rachel White
 
 - [@ohhoe](http://www.twitter.com/ohhoe)
@@ -828,6 +838,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   - [Dev.to]: (https://dev.to/cseeman)
   - Topics:  Ruby/Rails, Security, Git, Mentoring, Developer Workflows
   - Location: Omaha, NE, USA
+  
+#### Grishma Jena
+  - [@DebateLove](https://twitter.com/DebateLover)
+  - [Personal Website](https://gjena.github.io)
+  - [LinkedIn](https://www.linkedin.com/in/grishmajena/)
+  - [Medium]: (https://medium.com/@grishma.jena)
+  - Topics:  Python, Data Science, Machine Learning, Natural Language Processing, teaching programming
+  - Location: San Francisco, CA, USA
 
 
 ### Canada
@@ -873,6 +891,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
+#### Mirjam Bäuerlein
+
+- [@mirjam_diala](https://twitter.com/mirjam_diala)
+- [programmiri](http://programmiri.de/)
+- Topics - Software Testing, JavaScript, React, CSS, Soxial Anxiety, Diversity, Conference Buddy
+- Location - near Frankfurt, Germany (will travel nationally and internationally)
+- Languages besides English - German
+
 #### Britt Barak
 
 - Facebook - www.facebook.com/britt.barak
@@ -881,6 +907,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - LinkedIn: https://www.linkedin.com/in/brittbarak
 - Topics - Android (developement, OS, UX), Communities.
 - Location - Tel Aviv, Israel
+
+#### Burcu Yalcinkaya
+
+- [@burcuco](http://twitter.com)
+- [Personal Website](http://www.burcu.co)
+- LinkedIn: https://www.linkedin.com/in/burcuco/
+- Topics - Android, Kotlin, Community
+- Location - London, United Kingdom
+- Languages besides English - Turkish
 
 #### Janet Bastiman
 
@@ -1054,6 +1089,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lviv, Ukraine (will travel nationally & internationally)
 - Languages besides English - Ukrainian, Russian
 
+#### Lana Novikova
+
+ - [@_Unsolved_](https://twitter.com/_Unsolved_)
+ - [Facebook](https://www.facebook.com/svetlnovikova)
+ - [LinkedIn](https://ru.linkedin.com/in/svetlana-novikova)
+ - [Github](https://github.com/lananovikova10)
+ - Topics - Technical documentation, technical writing, docs as code, knowledge management
+ - Location - Moscow, Russia
+ - Languages besides English - Russian
+
 #### Vasylyna Mytsak
 
 - [@vasylyna.mytsak](https://www.facebook.com/vasylyna.mytsak)
@@ -1144,6 +1189,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   - [More Information](https://github.com/carolstran/tech-talks)
   - Topics - Accessibility, Documentation, Self-care
   - Location - Berlin, Germany
+  
+  #### Erin B. Taylor
+
+  - [@erinbtaylor_](https://twitter.com/erinbtaylor_)
+  - [Personal website](https://erinbtaylor.com/)
+  - [LinkedIn](https://www.linkedin.com/in/erinbtaylor/)
+  - Topics - OSS communities, Maintainerati, human use of technology, technology and culture, social impact of technology, ICT4D, fintech, technology communities
+  - Location - The Hague, Netherlands
 
 #### Bo Vandersteene
 
@@ -1247,13 +1300,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
  - Location - Sofia, Bulgaria
  - Languages besides English - Bulgarian
 
-
- #### Merve Basak
+#### Merve Basak
 - [@bsk_mrv](https://twitter.com/bsk_mrv)
 - Topics - Action on Google, Google Assistant, Women in Technology
 - Location - Eskisehir, Turkey
 - Languages besides English - Turkish.
 
+#### Elif Boncuk
+ - [@elifbon_](https://twitter.com/elifbon_)
+ - [Personal Website](https://elifboncuk.com/)
+ - Topics - Android, Kotlin
+ - Location - Istanbul, Turkey
+ - Languages besides English - Turkish
 
 
 ### India
@@ -1508,7 +1566,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, Tech Community, Diversity, Mentorship, Women in tech
 - Location - Sydney, Australia
 - English, Russian
-
 
 ## Organizers
 
@@ -1797,6 +1854,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [WTM Madrid](http://wtm.gdgmadrid.es), Madrid, Spain
 - Group Focus - Technology in general, but focusing on provide visibility and resources to women
 - Location - Madrid, Spain
+
+#### Lana Novikova
+
+ - [@_Unsolved_](https://twitter.com/_Unsolved_)
+ - [Write the docs Russia](https://www.meetup.com/Write-the-Docs-Moscow/)
+ - [RussiaWtd](https://twitter.com/RussiaWtd)
+ - [KnowledgeConf](http://knowledgeconf.ru/)
+ - [Facebook](https://www.facebook.com/svetlnovikova)
+ - [LinkedIn](https://ru.linkedin.com/in/svetlana-novikova)
+ - Group Focus - Technical documentation, knowledge management in IT, content management
+ - Location - Moscow, Russia
 
 ### Nigeria
 
