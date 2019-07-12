@@ -838,6 +838,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   - [Dev.to]: (https://dev.to/cseeman)
   - Topics:  Ruby/Rails, Security, Git, Mentoring, Developer Workflows
   - Location: Omaha, NE, USA
+  
+#### Grishma Jena
+  - [@DebateLove](https://twitter.com/DebateLover)
+  - [Personal Website](https://gjena.github.io)
+  - [LinkedIn](https://www.linkedin.com/in/grishmajena/)
+  - [Medium]: (https://medium.com/@grishma.jena)
+  - Topics:  Python, Data Science, Machine Learning, Natural Language Processing, teaching programming
+  - Location: San Francisco, CA, USA
 
 
 ### Canada
