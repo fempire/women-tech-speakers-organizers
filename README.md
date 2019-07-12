@@ -1054,6 +1054,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lviv, Ukraine (will travel nationally & internationally)
 - Languages besides English - Ukrainian, Russian
 
+#### Lana Novikova
+
+ - [@_Unsolved_](https://twitter.com/_Unsolved_)
+ - [Facebook](https://www.facebook.com/svetlnovikova)
+ - [LinkedIn](https://ru.linkedin.com/in/svetlana-novikova)
+ - [Github](https://github.com/lananovikova10)
+ - Topics - Technical documentation, technical writing, docs as code, knowledge management
+ - Location - Moscow, Russia
+ - Languages besides English - Russian
+
 #### Vasylyna Mytsak
 
 - [@vasylyna.mytsak](https://www.facebook.com/vasylyna.mytsak)
@@ -1500,7 +1510,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English, Russian
 
-
 ## Organizers
 
 ### United States
@@ -1788,6 +1797,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [WTM Madrid](http://wtm.gdgmadrid.es), Madrid, Spain
 - Group Focus - Technology in general, but focusing on provide visibility and resources to women
 - Location - Madrid, Spain
+
+#### Lana Novikova
+
+ - [@_Unsolved_](https://twitter.com/_Unsolved_)
+ - [Write the docs Russia](https://www.meetup.com/Write-the-Docs-Moscow/)
+ - [RussiaWtd](https://twitter.com/RussiaWtd)
+ - [KnowledgeConf](http://knowledgeconf.ru/)
+ - [Facebook](https://www.facebook.com/svetlnovikova)
+ - [LinkedIn](https://ru.linkedin.com/in/svetlana-novikova)
+ - Group Focus - Technical documentation, knowledge management in IT, content management
+ - Location - Moscow, Russia
 
 ### Nigeria
 
