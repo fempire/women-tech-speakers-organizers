@@ -372,6 +372,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Angular, C#, Software Best Practices
 - Location - San Francisco Bay/Silicon Valley Area
 
+#### Krista LaFentres
+
+- [@lafentres](https://twitter.com/lafentres)
+- [lafentres.dev](https://lafentres.dev)
+- Topics - Ad Tech, Analytics, Ruby on Rails
+- Location - Kansas City, MO
+
 #### Pearl Latteier
 
 - [@TwitterHandle](https://twitter.com/pblatteier)
