@@ -78,6 +78,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [sushiandrobots.com](https://www.sushiandrobots.com/)
 - Topics - Design Systems, Sass, Design, CSS
 
+#### Paige Bailey
+
+ - [@DynamicWebPaige](https://twitter.com/DynamicWebPaige)
+ - [paigevie.ws](https://paigevie.ws)
+ - Topics - Cloud Platform, Data Science, Machine Learning, TensorFlow
+ - Location - Palo Alto, CA
+
 #### Laurie Barth
 
 - [@laurieontech](https://twitter.com/laurieontech)
@@ -119,6 +126,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Kara.Codes](https://kara.codes)
 - Topics - Git/Github, Ruby, Rails, ES6, HTML/CSS, Learning to Code, Intersectionality, Ideation & Design Thinking
 - Location - Chicago, IL, USA
+
+#### Michelle Casbon
+- [@texasmichelle](https://twitter.com/texasmichelle)
+- [Playlist](https://www.youtube.com/playlist?list=PLC91InYY0ARk9fJLQ9uXyyoC-wWYOqLiu)
+- Topics - CI/CD, Cloud Platform, Data Engineering, Data Science, Hybrid Cloud,
+  Kubeflow, Kubernetes, Machine Learning, Open Source, NLP, Startups
+- Location - San Francisco, CA
 
 ##### Micheleh "MC" Center
 - [@MichelehCenter](https://twitter.com/MichelehCenter)
