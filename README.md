@@ -677,6 +677,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - CSS (Sass), JavaScript, Animations, Illustrations, Front-End, React
 - Location - Washington, DC
 
+#### Melanie Warrick
+
+- [@nyghtowl](https://twitter.com/nyghtowl)
+- [LinkedIn](https://www.linkedin.com/in/melaniewarrick/)
+- Topics - Artificial Intelligence, Cloud Platform, Machine Learning
+- Location - San Francisco, CA
+
 #### Hilary Weaver-Robb
 
 - [@g33klady](https://twitter.com/g33klady)
