@@ -106,6 +106,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
 
+#### Lauren Buchman
+
+- [@LaurenJBuchman](http://twitter.com/LaurenJBuchman)
+- [LinkedIn](https://www.linkedin.com/in/laurenjbuchman/)
+- Topics - Developer Learning Methods, Developer Marketing, Growth Culture, New Tech Adoption, Startups
+- Location - San Francisco, CA
+
 #### Jessica Dene Earley-Cha
 
 - [@chatasweetie](http://twitter.com/chatasweetie)
