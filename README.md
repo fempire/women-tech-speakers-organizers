@@ -2014,6 +2014,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics for Mentoring - DevOps, DevSecOps, Continuous Delivery, Software Development Culture and Best Practices, How to Get a Conference Talk Accepted, How to Be Active on Social Media without Losing Your Soul
 - Location - St. Louis, MO, USA (relocating from Reasearch Triangle Park, NC, USA)
 
+#### Kaleigh Scruggs
+
+- [@kaleighscruggs](https://twitter.com/kaleighscruggs)
+- [Personal Website](https://kaleighscruggs.com/)
+- [LinkedIn](https://www.linkedin.com/in/kaleigh/)
+- How to Contact - Twitter, LinkedIn
+- Topics for Mentoring - Front-End Web Development, Styling (CSS, etc), Women In Tech groups at work, General Questions/Topics
+- Location - Atlanta, GA, USA
+
 ### India
 
 ####  Manjula Dune
