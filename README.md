@@ -27,6 +27,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Asia](#asia)
   - [Argentina](#argentina)
   - [Australia](#australia)
+  - [Colombia](#colombia)
 - [Organizers](#organizers)
   - [United States](#united-states-1)
   - [Canada](#canada-1)
@@ -46,7 +47,6 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [India](#india-2)
   - [Nigeria](#nigeria-2)
   - [Australia](#australia)
-  - [Colombia](#colombia)
 - [Contributing](#contributing)
   - [Formatting](#formatting)
 
@@ -1131,6 +1131,21 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - UX, Design, Marketing, Team Building
 - Location - Brisbane, Australia
 
+### Colombia
+
+#### Vanessa Aristizabal
+
+- [@vanessamarely](http://twitter.com/vanessamarely)
+- [LinkedIn](https://www.linkedin.com/in/vanessa-marely-aristizabal-angel/)
+- [Medium](https://medium.com/@vanessamarely/)
+- [Website](https://ngchallenges.gitbook.io/project/)
+- vanessamarely@gmail.com
+- Topics: - HTML, CSS (and preprocessors), Javascript, Angular, React, UX
+- Location - Medellin, Antioquia, Colombia
+- Languages: English - Spanish
+- Frontend Developer. GDE in Angular. I like to learn new things and love sharing it with others. I would like to help more women to get involved in tech industry.
+
+
 ## Organizers
 
 ### United States
@@ -1590,16 +1605,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lagos, Nigeria
 - I'll like to get more experience with the topics mentioned above. Also I'm primarily a Web Developer with 3.5-4yrs experience. I'd like to expand my knowledge with some help learning other languages like C++ or Python, to help me grow my career path.
 
-### Colombia
-
-#### Vanessa Aristizabal
-
-- [@vanessamarely](http://twitter.com/vanessamarely)
-- vanessamarely@gmail.com
-- Topics of Interest- HTML, CSS (and preprocessors), Javascript, Angular, React, UX
-- Location - Medellin, Antioquia, Colombia
-- Languages besides English - Spanish
-- I have experience in Web Development. I like to learn new things and love sharing it with others. I would like to help more women to get involved in tech industry.
 
 ## Contributing
 
