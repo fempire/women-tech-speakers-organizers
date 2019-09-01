@@ -35,7 +35,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Nigeria](#nigeria-1)
   - [Europe](#europe-1)
   - [Brazil](#brazil)
-  - [Australia] (#australia)
+  - [Australia](#australia)
   - [Colombia](#colombia)
 - [Mentors](#mentors)
   - [United States](#united-states-2)
