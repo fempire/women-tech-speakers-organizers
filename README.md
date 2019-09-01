@@ -1434,6 +1434,20 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - technology and people leadership
 - Location - Sydney, Australia
 
+### Colombia
+
+#### Vanessa Aristizabal
+
+- [@vanessamarely](http://twitter.com/vanessamarely)
+- [LinkedIn](https://www.linkedin.com/in/vanessa-marely-aristizabal-angel/)
+- [Medium](https://medium.com/@vanessamarely/)
+- [Website](https://ngchallenges.gitbook.io/project/)
+- vanessamarely@gmail.com
+- [GDG Medellin](https://www.meetup.com/GDG-Medellin/)
+- Group Focus - Google Technology, Android, Web and Cloud
+- [She Codes Angular](https://www.meetup.com/She-Codes-Angular/)
+- Group Focus - Angular
+- Location - Medellin, Antioquia, Colombia
 
 ## Mentors
 
