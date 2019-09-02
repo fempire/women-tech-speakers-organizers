@@ -152,8 +152,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@fvcproductions](http://twitter.com/fvcproductions)
 - [fvcproductions.com](http://fvcproductions.com)
-- Topics - Coding Bootcamps, Web Design, Getting Started as a Developer, TypeScript
-- Location - Redwood City, CA, USA
+- Topics - Latinx in Tech, TypeScript, Progressive Web Apps, Web Technologies
+- Location - San Francisco, CA, USA
 - Languages besides English - Spanish
 
 #### Kim Crayton
