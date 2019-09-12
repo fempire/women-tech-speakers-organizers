@@ -476,6 +476,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - CSS, HTML, JavaScript, GitHub, a11y, CMSs, FrontEnd, Design, Design Systems, Collaboration, Workshops, Women in Tech
 - Location - Dayton, OH, USA
 
+#### Tessa Mero
+
+- [@tessamero](https://twitter.com/tessamero)
+- [LinkedIn](https://www.linkedin.com/in/tessamero/)
+- [API City Conference](https://apicity.io)
+- Topics - Vue.js, Performance, Community, Organizing Events, Workshops, Public Speaking, Meetups, Career Advancement, Open Source, Serverless, Media APIs, APIs, Developer Relations/Advocacy, Keynoting, Leadership, Tech Education,
+- Location - Seattle, WA, USA
+
 #### Stefana Muller
 
 - [@stefanamuller](https://twitter.com/stefanamuller)
@@ -838,7 +846,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   - [Dev.to]: (https://dev.to/cseeman)
   - Topics:  Ruby/Rails, Security, Git, Mentoring, Developer Workflows
   - Location: Omaha, NE, USA
-  
+
 #### Grishma Jena
   - [@DebateLove](https://twitter.com/DebateLover)
   - [Personal Website](https://gjena.github.io)
@@ -1182,8 +1190,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
  - Topics - Android, Architecture design, UI/UX, Wearables, Communities
  - Location - Dnipro, Ukraine
  - Languages besides English - Ukrainian, Russian
- 
-   
+
+
 #### Agata Sobek
 
   - [LinkedIn](https://www.linkedin.com/in/agatasobek/)
@@ -1198,7 +1206,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   - [More Information](https://github.com/carolstran/tech-talks)
   - Topics - Accessibility, Documentation, Self-care
   - Location - Berlin, Germany
-  
+
   #### Erin B. Taylor
 
   - [@erinbtaylor_](https://twitter.com/erinbtaylor_)
@@ -1247,7 +1255,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Alina Yurenko
 
 - [@alina_yurenko](https://twitter.com/alina_yurenko)
-— [Medium posts](https://medium.com/@alina.yur) 
+— [Medium posts](https://medium.com/@alina.yur)
 - Topics - Java, JVM, GraalVM
 - Location - Lviv, Ukraine (will travel nationally & internationally)
 - Languages besides English - Ukrainian
@@ -1491,7 +1499,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Xiaoli Shen
 - [@furixturi](http://twitter.com)
-- [Personal Website](http://www.shenxiaoli.com/) | [Github Web Dev](http://twitter.com/fr-xiaoli) | [Github Other Stuff](http://twitter.com/furixturi) 
+- [Personal Website](http://www.shenxiaoli.com/) | [Github Web Dev](http://twitter.com/fr-xiaoli) | [Github Other Stuff](http://twitter.com/furixturi)
 - Topics - JavaScript (React, Node), Golang, Web Development, Full-stack, Career in Tech, Creative Technologies
 - Location - Tokyo, Japan | sometimes Frankfurt, Germany (willing to travel elsewhere)
 - English, Chinese, German, Japanese
@@ -1512,7 +1520,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ##### Diana Rodriguez
 - [@cotufa82] (http://twitter.com/cotufa82)
-- Topics - Vue, Deployment, IOT, Infrastructure, Docker, Kubernetes 
+- Topics - Vue, Deployment, IOT, Infrastructure, Docker, Kubernetes
 - Location - Undefined!
 - English, Spanish, Portuguese
 
@@ -1630,6 +1638,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Triangle Modern Web](http://www.meetup.com/trianglemodernweb), Raleigh, NC
 - Group Focus - JavaScript, Front End Development
 
+#### Tessa Mero
+
+- [@tessamero](https://twitter.com/tessamero)
+- [LinkedIn](https://www.linkedin.com/in/tessamero/)
+- [API City Conference](https://apicity.io), Seattle, WA
+- Group Focus - APIs, Serverless, API Design, API Documentation, GraphQL, Imposter Syndrome, Mental Health, Diversity and Inclusion, API Management, Microservices, Developer Tools, Accessibility
+- [JAMStackSF Meetup] (https://www.meetup.com/jamstack-sf/), San Francisco, CA
+- [Seattle Vue.js Meetup] (https://www.meetup.com/SeattleVueJS/), Seattle, WA
+- [Seattle APIs and Technology Meetup] (https://www.meetup.com/seattle-api/), Seattle, WA
+- [Seattle Developer Relations Meetup] (https://www.meetup.com/Developer-Relations-Meetup/), Seattle, WA
+
 #### Stefana Muller
 
 - [@liwomenintech](https://twitter.com/liwomenintech)
@@ -1678,7 +1697,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@e3betht](http://twitter.com/e3betht)
 - [Madison PHP Conference](https://www.madisonphpconference.com) and [Madison PHP User Group](https://www.madisonphp.com), Madison, WI, USA
-- Group Focus - PHP and Related Web Technologies 
+- Group Focus - PHP and Related Web Technologies
 - [Madison Web Design & Development Group](http://madwebdev.com/), Madison, WI, USA
 - Group Focus - Graphic Design and Web Development
 
@@ -1933,7 +1952,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Xiaoli Shen
 - [@furixturi](http://twitter.com)
-- [Personal Website](http://www.shenxiaoli.com/) | [Github Web Dev](http://twitter.com/fr-xiaoli) | [Github Other Stuff](http://twitter.com/furixturi) 
+- [Personal Website](http://www.shenxiaoli.com/) | [Github Web Dev](http://twitter.com/fr-xiaoli) | [Github Other Stuff](http://twitter.com/furixturi)
 - How to Contact - [twitter](http://twitter.com), [email](alabebop@tmail.com)
 - Topics of interest - JavaScript, React, Node, Golang, Web Development, Full-stack, Creative Technologies, Front-end and UX
 - Location - Tokyo, Japan (remote anywhere)
@@ -2193,7 +2212,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics of Interest- Big Data, Java, Scala, AI, Kotlin, Serverless, Security, Mentorship, Startups
 - Location - Tel Aviv, Israel
 - Languages besides English - Hebrew
-- I working on my online persona in tech and would much appriciate your help and guidence. 
+- I working on my online persona in tech and would much appriciate your help and guidence.
 
 
 #### Oana Galbenu
