@@ -1416,12 +1416,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Android, Java, Kotlin, Firebase products for Android, Women in tech, How to build a startup, BMC or LMC
 - Location - Uyo, Nigeria
 
-#### Omoike Sarah Igho
 
-- [@awesome_sayrah](https://twitter.com/awesome_Sayrah)
-- [LinkedIn](https://www.linkedin.com/in/omoike-sarah/)
-- Topics - HTML, CSS,  Angular, Javascript, SASS, Product Design, UI/UX, Usability, Product Management, Acessibility, Design Systems, Women In Tech.
-- Location - Lagos, Nigeria
 
 #### Ada Nduka Oyom
 - [@kolokodess](https://twitter.com/kolokodess)
