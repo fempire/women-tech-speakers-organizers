@@ -1416,6 +1416,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Android, Java, Kotlin, Firebase products for Android, Women in tech, How to build a startup, BMC or LMC
 - Location - Uyo, Nigeria
 
+#### Omoike Sarah Igho
+
+- [@awesome_sayrah](https://twitter.com/awesome_Sayrah)
+- [LinkedIn](https://www.linkedin.com/in/omoike-sarah/)
+- Topics - HTML, CSS,  Angular, Javascript, SASS, Product Design, UI/UX, Usability, Product Management, Acessibility, Design Systems, Women In Tech.
+- Location - Lagos, Nigeria
+
 #### Ada Nduka Oyom
 - [@kolokodess](https://twitter.com/kolokodess)
 - Topics - HTML/CSS, JavaScript, Python, Keynote speeches, Women in tech, Community
@@ -1904,6 +1911,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus- Front End Development, Design systems, Performance and Animation
 - Location - Lagos, Nigeria
 
+
+#### Omoike Sarah Igho
+
+- [@awesome_sayrah](https://twitter.com/awesome_Sayrah)
+- [ Lagos Women In Machine Learning And Data Science](http://wimlds.org/about-the-lagos-team/)
+- [LinkedIn](https://www.linkedin.com/company/40958128/)
+- [Meetup](https://www.meetup.com/Lagos-Women-in-Machine-Learning-Data-Science/)
+- How to Contact - [twitter](https://twitter.com/WiMLDS_Lagos), [email](Lagos@wimlds.org)
+- Group Focus: Machine Learning, Data Science, Artificial Inteligence, Women In Tech, Public speaking.
+- Location: Lagos, Nigeria 
+
 ### Brazil
 
 #### Thaissa Candella
@@ -2034,6 +2052,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics for Mentoring - Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, community building
 - Location - Lagos, Nigeria
 
+#### Emem Brownson
+- [@brownjee001](https://twitter.com/brownjee001)
+- How to Contact - (mailto:brownjee001@gmail.com) or via Twitter
+- Topics for Mentoring - Android, Public Speaking, Project Management, Community building, Meetups, Presentation
+- Location - Uyo, Nigeria
+
 #### Nenne 'Adora' Nwodo
 
 - [@theadoranwodo](https://twitter.com/theadoranwodo)
@@ -2042,13 +2066,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics for Mentoring - JavaScript, Laravel, DevOps, Continuous Integration and Deployment, Android Development
 - Location - Lagos, Nigeria
 
-### Nigeria
-
-#### Emem Brownson
-- [@brownjee001](https://twitter.com/brownjee001)
-- How to Contact - (mailto:brownjee001@gmail.com) or via Twitter
-- Topics for Mentoring - Android, Public Speaking, Project Management, Community building, Meetups, Presentation
-- Location - Uyo, Nigeria
 
 ### Europe
 
