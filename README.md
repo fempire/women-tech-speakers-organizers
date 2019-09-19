@@ -1919,7 +1919,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [LinkedIn](https://www.linkedin.com/company/40958128/)
 - [Meetup](https://www.meetup.com/Lagos-Women-in-Machine-Learning-Data-Science/)
 - How to Contact - [twitter](https://twitter.com/WiMLDS_Lagos), [email](Lagos@wimlds.org)
-- Group Focus: Machine Learning, Data Science, Artificial Inteligence, Women In Tech, Public speaking.
+- Group Focus: Machine Learning, Data Science, Artificial Inteligence, Women In Tech, Public speaking, ML Workshops, Gender Minorities.
 - Location: Lagos, Nigeria 
 
 ### Brazil
