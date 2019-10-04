@@ -538,6 +538,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Portland, OR
 - Languages besides English - Spanish
 
+#### Annie Pennell
+
+- [anniepennell.com](http://anniepennell.com)
+- Topics - Design Systems and Component Libraries, ReactJS, Transitioning from Bootcamp to Career, Queer in Tech, Volunteering Your Skills, Knowing When to Quit and Move On
+- Location - East Bay/San Francisco, CA
+
 #### Michelle Perz
 
 - [@pinkfiregoddess](http://twitter.com/pinkfiregoddess)
