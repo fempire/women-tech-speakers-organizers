@@ -627,6 +627,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Transitioning from Print Designer to Web Developer, Apprenticeships
 - Location - Dayton, OH, USA
 
+#### Liz Tiller
+
+- [@liztiller](https://twitter.com/liztiller)
+- [liztiller.com](https://www.elizabethtiller.com/)
+- [GitHub](https://github.com/lizthrilla)
+- Topics - React, React Native, Teaching/Education, Career Shifts, Accessibility
+- Location - Tampa, FL
+
 #### Anagha Todalbagi
 
 - [@AnaghaTodalbagi](https://twitter.com/AnaghaTodalbagi)
