@@ -65,6 +65,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### United States
 
+#### Lavanya Shukla
+
+- [@lavanyaai](http://twitter.com/lavanyaai)
+- [Website](http://lavanya.ai)
+- Topics - Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Neural Networks
+- Location - San Francisco, CA
+
 #### Seetha Annamraju
 
 - [@seetha_a](http://twitter.com/seetha_a)
