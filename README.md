@@ -429,6 +429,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Accessibility, Webpack, JavaScript, Imposter Syndrome
 - Location - Orem, UT
 
+
+#### Kara Luton
+
+- [@karaluton](http://twitter.com/karaluton)
+- [karaluton.com](http://www.karaluton.com)
+- Topics - HTML, CSS, JavaScript, Front end development, Transitioning to tech from another career
+- Location - Nashville, TN
+
 #### Tara Z. Manicsic
 
 - [@tzmanics](https://twitter.com/Tzmanics)
