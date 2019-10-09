@@ -682,6 +682,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Stephanie Vaughn
 
 - [@_SLVaughn](https://twitter.com/_SLVaughn)
+- [Personal Website](https://stephanielvaughn.tumblr.com/)
 - Topics - Ethics in Software, STEM Education, JavaScript, Front End Web Development, Equitable Internet
 - Location - Detroit, MI
 
