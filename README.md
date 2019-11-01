@@ -19,6 +19,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
 - [Speakers](#speakers)
   - [United States](#united-states)
   - [Canada](#canada)
+  - [Colombia](#colombia)
   - [Europe](#europe)
   - [India](#india)
   - [Lebanon](#lebanon)
@@ -30,6 +31,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
 - [Organizers](#organizers)
   - [United States](#united-states-1)
   - [Canada](#canada-1)
+  - [Colombia](#colombia)
   - [Argentina](#argentina-1)
   - [Nigeria](#nigeria-1)
   - [Europe](#europe-1)
@@ -43,6 +45,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Asia](#asia-2)
   - [Australia](#australia)
   - [Mexico](#mexico)
+  - [Colombia](#colombia)
 - [Getting Started](#getting-started)
   - [United States](#united-states-3)
   - [Europe](#europe-3)
@@ -926,6 +929,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - AI, robotics, diversity and inclusion, Canadian startup ecosystem
 - Location - Toronto, ON, Canada & Montreal, QC, Canada
 
+### Colombia
+
+#### Lina María Montaño Ramirez
+
+- [@calypsobronte](http://twitter.com/calypsobronte)
+- [Personal Website](https://calypsobronte.me/)
+- Topics - Organizer, Web Dev, Student, diversity and inclusion, Women in Tech
+- Location - Medellín / Colombia , CO
+- Talks - [slides](https://slides.com/calypsobronte)
+- [Medium](https://medium.com/@calypsobronte/), [Github](https://github.com/calypsobronte)
+
 ### Europe
 
 
@@ -1751,6 +1765,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@heatherpayne](https://twitter.com/heatherpayne)
 - [Hackeryou](http://hackeryou.com/)
 - Location - Toronto, ON
+
+### Colombia
+
+#### Lina María Montaño Ramirez
+
+- NodeCo - NodeJS Colombia + NodeJS Medellín
+  - [Meetup](https://www.meetup.com/es/node_co/)
+  - [@node_co](https://twitter.com/node_co)
+  - [Slack](http://bit.ly/nodecoSlack)
+  - [Youtube](https://www.youtube.com/c/nodecolombia)
+- Location - Medellin / Colombia, CO
 
 ### Argentina
 
