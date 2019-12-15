@@ -85,6 +85,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [sushiandrobots.com](https://www.sushiandrobots.com/)
 - Topics - Design Systems, Sass, Design, CSS
 
+#### Paige Bailey
+
+ - [@DynamicWebPaige](https://twitter.com/DynamicWebPaige)
+ - [paigevie.ws](https://paigevie.ws)
+ - Topics - Cloud Platform, Data Science, Machine Learning, TensorFlow
+ - Location - Palo Alto, CA
+
 #### Laurie Barth
 
 - [@laurieontech](https://twitter.com/laurieontech)
@@ -106,6 +113,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
 
+#### Lauren Buchman
+
+- [@LaurenJBuchman](http://twitter.com/LaurenJBuchman)
+- [LinkedIn](https://www.linkedin.com/in/laurenjbuchman/)
+- Topics - Developer Learning Methods, Developer Marketing, Growth Culture, New Tech Adoption, Startups
+- Location - San Francisco, CA
+
 #### Jessica Dene Earley-Cha
 
 - [@chatasweetie](http://twitter.com/chatasweetie)
@@ -126,6 +140,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Kara.Codes](https://kara.codes)
 - Topics - Git/Github, Ruby, Rails, ES6, HTML/CSS, Learning to Code, Intersectionality, Ideation & Design Thinking
 - Location - Chicago, IL, USA
+
+#### Michelle Casbon
+- [@texasmichelle](https://twitter.com/texasmichelle)
+- [Playlist](https://www.youtube.com/playlist?list=PLC91InYY0ARk9fJLQ9uXyyoC-wWYOqLiu)
+- Topics - CI/CD, Cloud Platform, Data Engineering, Data Science, Hybrid Cloud,
+  Kubeflow, Kubernetes, Machine Learning, Open Source, NLP, Startups
+- Location - San Francisco, CA
 
 ##### Micheleh "MC" Center
 - [@MichelehCenter](https://twitter.com/MichelehCenter)
@@ -706,6 +727,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [brittanywalker.io](http://www.brittanywalker.io/)
 - Topics - CSS (Sass), JavaScript, Animations, Illustrations, Front-End, React
 - Location - Washington, DC
+
+#### Melanie Warrick
+
+- [@nyghtowl](https://twitter.com/nyghtowl)
+- [LinkedIn](https://www.linkedin.com/in/melaniewarrick/)
+- Topics - Artificial Intelligence, Cloud Platform, Machine Learning
+- Location - San Francisco, CA
 
 #### Hilary Weaver-Robb
 
