@@ -726,8 +726,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Brittany Walker
 
 - [@musicalwebdev](https://twitter.com/musicalwebdev)
-- [brittanywalker.io](http://www.brittanywalker.io/)
-- Topics - CSS (Sass), JavaScript, Animations, Illustrations, Front-End, React
+- [musicalwebdev.com](http://www.musicalwebdev.com/)
+- Topics - CSS (Sass), JavaScript, Vue.js, Front-End, Open Source, Teaching
 - Location - Washington, DC
 
 #### Melanie Warrick
