@@ -10,9 +10,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
 
 ## Table of Contents
 
-> This TOC was automatically generated using the [VS Code Markdown TOC Extension](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc).
 
-<!-- TOC depthTo:3 -->
 
 - [Table of Contents](#table-of-contents)
 - [Code of Conduct](#code-of-conduct)
@@ -2133,6 +2131,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 
 ### Colombia
+
+#### Manuela Castrillon
+- [@manucastrillonm](https://twitter.com/ManuCastrillonM)
+- co-organizer of [@pionerasdev](https://pionerasdev.co/), [@codexudea](https://github.com/CodexUdeA) | 🦊 [Vue Vixens Colombia](https://twitter.com/vuevixensCO) chapter leader | 🚩 GitHub Campus Expert
+- [Website](http://www.manuela.dev), [Medium](https://medium.com/@ManuCastrillonM), [GitHub](https://github.com/ManuCastrillonM)
+- Location - Medellín, Colombia
 
 #### Vanessa Aristizabal
 
