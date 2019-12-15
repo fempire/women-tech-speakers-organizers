@@ -1008,8 +1008,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@mirjam_diala](https://twitter.com/mirjam_diala)
 - [programmiri](http://programmiri.de/)
-- Topics - Software Testing, JavaScript, React, CSS, Soxial Anxiety, Diversity, Conference Buddy
-- Location - near Frankfurt, Germany (will travel nationally and internationally)
+- Topics - JavaScript, Vue, React, CSS, Software Testing, Soxial Anxiety, Diversity, Soft Skills, Conference Buddy
+- Location - Frankfurt, Germany (will travel nationally and internationally)
 - Languages besides English - German
 
 #### Britt Barak
