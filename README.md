@@ -936,6 +936,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
+### María Arias de Reyna Domínguez
+
+- [@delawen](http://twitter.com/delawen)
+- [Personal Website](http://delawen.com)
+- [LinkedIn](https://www.linkedin.com/in/delawen)
+- Topics - Free and Open Source (FLOSS), Geospatial, Middleware, Java
+- Location - Sevilla, Spain
+- Languages besides English - Spanish
 
 #### Aygul Zagidullina
 
