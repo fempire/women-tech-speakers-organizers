@@ -716,6 +716,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - PHP, WordPress, Web Development Practices - see my [list of slides](http://www.treelinedesign.com/slides) and [talk feedback](https://joind.in/user/e3betht/talks)
 - Location - Madison, WI
 
+#### Stephanie Vaughn
+
+- [@_SLVaughn](https://twitter.com/_SLVaughn)
+- [Personal Website](https://stephanielvaughn.tumblr.com/)
+- Topics - Ethics in Software, STEM Education, JavaScript, Front End Web Development, Equitable Internet
+- Location - Detroit, MI
+
 #### Raquel Vélez
 
 - [@rockbot](http://twitter.com/rockbot)
