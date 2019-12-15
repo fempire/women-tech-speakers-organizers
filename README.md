@@ -884,6 +884,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   - Topics:  Python, Data Science, Machine Learning, Natural Language Processing, teaching programming
   - Location: San Francisco, CA, USA
 
+#### Linda Zhou 
+- [@lhmzhou](https://twitter.com/lhmzhou) 
+- [Dev.to](https://dev.to/lhmzhou) 
+- Topics: Golang, React, Ruby/Rails, GraphQL, Elasticsearch, Rust, Flutter, Serverless, Mobile Voting 
+- Location: Miami/Fort Lauderdale, FL, USA
+- Languages besides English: Portuguese, Spanish, a dash of French 
+
+
 
 ### Canada
 
