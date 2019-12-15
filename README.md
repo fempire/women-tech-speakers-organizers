@@ -25,6 +25,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Asia](#asia)
   - [Argentina](#argentina)
   - [Australia](#australia)
+  - [Colombia](#colombia)
 - [Organizers](#organizers)
   - [United States](#united-states-1)
   - [Canada](#canada-1)
@@ -64,13 +65,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### United States
 
-#### Lavanya Shukla
-
-- [@lavanyaai](http://twitter.com/lavanyaai)
-- [Website](http://lavanya.ai)
-- Topics - Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Neural Networks
-- Location - San Francisco, CA
-
 #### Seetha Annamraju
 
 - [@seetha_a](http://twitter.com/seetha_a)
@@ -83,6 +77,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@jina](https://twitter.com/jina)
 - [sushiandrobots.com](https://www.sushiandrobots.com/)
 - Topics - Design Systems, Sass, Design, CSS
+
+#### Paige Bailey
+
+ - [@DynamicWebPaige](https://twitter.com/DynamicWebPaige)
+ - [paigevie.ws](https://paigevie.ws)
+ - Topics - Cloud Platform, Data Science, Machine Learning, TensorFlow
+ - Location - Palo Alto, CA
 
 #### Laurie Barth
 
@@ -98,12 +99,26 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, AngularJS, HTML/CSS, SASS, Git/Version Control, Career Change, Web Development
 - Location - Washington, DC
 
+#### Tracey Berg-Fulton
+
+- [@BergFulton](http://twitter.com/bergfulton)
+- [traceybergfulton.com](http://www.traceybergfulton.com)
+- Topics - HTML/CSS, JavaScript, Front End Development, Drupal Themeing, Coding Design Systems, Career Change/Second Careers, Front End, Nonprofit tech, DIY Healthtech
+- Location - Pittsburgh, PA, USA
+
 #### Jennifer Bland
 
 - [@ratracegrad](http://twitter.com/ratracegrad)
 - [jenniferbland.com](http://www.jenniferbland.com/)
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
+
+#### Lauren Buchman
+
+- [@LaurenJBuchman](http://twitter.com/LaurenJBuchman)
+- [LinkedIn](https://www.linkedin.com/in/laurenjbuchman/)
+- Topics - Developer Learning Methods, Developer Marketing, Growth Culture, New Tech Adoption, Startups
+- Location - San Francisco, CA
 
 #### Jessica Dene Earley-Cha
 
@@ -125,6 +140,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Kara.Codes](https://kara.codes)
 - Topics - Git/Github, Ruby, Rails, ES6, HTML/CSS, Learning to Code, Intersectionality, Ideation & Design Thinking
 - Location - Chicago, IL, USA
+
+#### Michelle Casbon
+- [@texasmichelle](https://twitter.com/texasmichelle)
+- [Playlist](https://www.youtube.com/playlist?list=PLC91InYY0ARk9fJLQ9uXyyoC-wWYOqLiu)
+- Topics - CI/CD, Cloud Platform, Data Engineering, Data Science, Hybrid Cloud,
+  Kubeflow, Kubernetes, Machine Learning, Open Source, NLP, Startups
+- Location - San Francisco, CA
 
 ##### Micheleh "MC" Center
 - [@MichelehCenter](https://twitter.com/MichelehCenter)
@@ -235,6 +257,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - christina@gravityworksdesign.com
 - Topics of Interest- HTML, CSS, Moms in Tech, Mental health and tech, SVG, Vue
 - Location - Bowling Green, KY, USA
+
+#### Mo Hampton
+
+- [@MoxieHampton](https://twitter.com/MoxieHampton)
+- [Instagram](https://www.instagram.com/moxiehampton/)
+- Moxie.Hampton@gmailcom 
+- Topics of Interest- Breaking Into Tech (Mom, Women of Color, Military Veteran, Bootcamp Graduate), Career Development, JavaScript, HTML, CSS, Front End Development, Microsoft SharePoint Development
+- Location - Fort Bragg, North Carolina 
 
 #### Val Head
 
@@ -377,6 +407,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Blog](http://blogs.msmvps.com/deborahk/)
 - Topics - Angular, C#, Software Best Practices
 - Location - San Francisco Bay/Silicon Valley Area
+
+#### Krista LaFentres
+
+- [@lafentres](https://twitter.com/lafentres)
+- [lafentres.dev](https://lafentres.dev)
+- Topics - Ad Tech, Analytics, Ruby on Rails
+- Location - Kansas City, MO
 
 #### Pearl Latteier
 
@@ -620,6 +657,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Swift, unconscious bias (being a cupcake in a doughnut world), and intro to programming
 - Location - St. Louis, MO
 
+#### Lavanya Shukla
+
+- [@lavanyaai](http://twitter.com/lavanyaai)
+- [Website](http://lavanya.ai)
+- Topics - Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Neural Networks
+- Location - San Francisco, CA
+
 #### Lizzie Siegle
 
 - [@lizziepika](http://twitter.com/lizziepika)
@@ -678,6 +722,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - PHP, WordPress, Web Development Practices - see my [list of slides](http://www.treelinedesign.com/slides) and [talk feedback](https://joind.in/user/e3betht/talks)
 - Location - Madison, WI
 
+#### Stephanie Vaughn
+
+- [@_SLVaughn](https://twitter.com/_SLVaughn)
+- [Personal Website](https://stephanielvaughn.tumblr.com/)
+- Topics - Ethics in Software, STEM Education, JavaScript, Front End Web Development, Equitable Internet
+- Location - Detroit, MI
+
 #### Raquel Vélez
 
 - [@rockbot](http://twitter.com/rockbot)
@@ -695,9 +746,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Brittany Walker
 
 - [@musicalwebdev](https://twitter.com/musicalwebdev)
-- [brittanywalker.io](http://www.brittanywalker.io/)
-- Topics - CSS (Sass), JavaScript, Animations, Illustrations, Front-End, React
+- [musicalwebdev.com](http://www.musicalwebdev.com/)
+- Topics - CSS (Sass), JavaScript, Vue.js, Front-End, Open Source, Teaching
 - Location - Washington, DC
+
+#### Melanie Warrick
+
+- [@nyghtowl](https://twitter.com/nyghtowl)
+- [LinkedIn](https://www.linkedin.com/in/melaniewarrick/)
+- Topics - Artificial Intelligence, Cloud Platform, Machine Learning
+- Location - San Francisco, CA
 
 #### Hilary Weaver-Robb
 
@@ -883,6 +941,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   - Topics:  Python, Data Science, Machine Learning, Natural Language Processing, teaching programming
   - Location: San Francisco, CA, USA
 
+#### Linda Zhou 
+- [@lhmzhou](https://twitter.com/lhmzhou) 
+- [Dev.to](https://dev.to/lhmzhou) 
+- Topics: Golang, React, Ruby/Rails, GraphQL, Elasticsearch, Rust, Flutter, Serverless, Mobile Voting 
+- Location: Miami/Fort Lauderdale, FL, USA
+- Languages besides English: Portuguese, Spanish, a dash of French 
+
+
 
 ### Canada
 
@@ -927,6 +993,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
+### María Arias de Reyna Domínguez
+
+- [@delawen](http://twitter.com/delawen)
+- [Personal Website](http://delawen.com)
+- [LinkedIn](https://www.linkedin.com/in/delawen)
+- Topics - Free and Open Source (FLOSS), Geospatial, Middleware, Java
+- Location - Sevilla, Spain
+- Languages besides English - Spanish
 
 #### Aygul Zagidullina
 
@@ -940,8 +1014,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@mirjam_diala](https://twitter.com/mirjam_diala)
 - [programmiri](http://programmiri.de/)
-- Topics - Software Testing, JavaScript, React, CSS, Soxial Anxiety, Diversity, Conference Buddy
-- Location - near Frankfurt, Germany (will travel nationally and internationally)
+- Topics - JavaScript, Vue, React, CSS, Software Testing, Soxial Anxiety, Diversity, Soft Skills, Conference Buddy
+- Location - Frankfurt, Germany (will travel nationally and internationally)
 - Languages besides English - German
 
 #### Britt Barak
@@ -1452,6 +1526,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Android, Java, Kotlin, Firebase products for Android, Women in tech, How to build a startup, BMC or LMC
 - Location - Uyo, Nigeria
 
+#### Omoike Sarah Igho
+
+- [@awesome_sayrah](https://twitter.com/awesome_Sayrah)
+- [LinkedIn](https://www.linkedin.com/in/omoike-sarah/)
+- Topics - HTML, CSS,  Angular, Javascript, SASS, Product Design, UI/UX, Usability, Product Management, Acessibility, Design Systems, Women In Tech.
+- Location - Lagos, Nigeria
+
 #### Ada Nduka Oyom
 - [@kolokodess](https://twitter.com/kolokodess)
 - Topics - HTML/CSS, JavaScript, Python, Keynote speeches, Women in tech, Community
@@ -1611,6 +1692,21 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, Tech Community, Diversity, Mentorship, Women in tech
 - Location - Sydney, Australia
 - English, Russian
+
+### Colombia
+
+#### Vanessa Aristizabal
+
+- [@vanessamarely](http://twitter.com/vanessamarely)
+- [LinkedIn](https://www.linkedin.com/in/vanessa-marely-aristizabal-angel/)
+- [Medium](https://medium.com/@vanessamarely/)
+- [Website](https://ngchallenges.gitbook.io/project/)
+- vanessamarely@gmail.com
+- Topics: - HTML, CSS (and preprocessors), Javascript, Angular, React, UX
+- Location - Medellin, Antioquia, Colombia
+- Languages: English - Spanish
+- Frontend Developer. GDE in Angular. I like to learn new things and love sharing it with others. I would like to help more women to get involved in tech industry.
+
 
 ## Organizers
 
@@ -1951,6 +2047,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus- Front End Development, Design systems, Performance and Animation
 - Location - Lagos, Nigeria
 
+
+#### Omoike Sarah Igho
+
+- [@awesome_sayrah](https://twitter.com/awesome_Sayrah)
+- [ Lagos Women In Machine Learning And Data Science](http://wimlds.org/about-the-lagos-team/)
+- [LinkedIn](https://www.linkedin.com/company/40958128/)
+- [Meetup](https://www.meetup.com/Lagos-Women-in-Machine-Learning-Data-Science/)
+- How to Contact - [twitter](https://twitter.com/WiMLDS_Lagos), [email](Lagos@wimlds.org)
+- Group Focus: Machine Learning, Data Science, Artificial Inteligence, Women In Tech, Public speaking, ML Workshops, Gender Minorities.
+- Location: Lagos, Nigeria 
+
 ### Brazil
 
 #### Thaissa Candella
@@ -2031,6 +2138,19 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Website](http://www.manuela.dev), [Medium](https://medium.com/@ManuCastrillonM), [GitHub](https://github.com/ManuCastrillonM)
 - Location - Medellín, Colombia
 
+#### Vanessa Aristizabal
+
+- [@vanessamarely](http://twitter.com/vanessamarely)
+- [LinkedIn](https://www.linkedin.com/in/vanessa-marely-aristizabal-angel/)
+- [Medium](https://medium.com/@vanessamarely/)
+- [Website](https://ngchallenges.gitbook.io/project/)
+- vanessamarely@gmail.com
+- [GDG Medellin](https://www.meetup.com/GDG-Medellin/)
+- Group Focus - Google Technology, Android, Web and Cloud
+- [She Codes Angular](https://www.meetup.com/She-Codes-Angular/)
+- Group Focus - Angular
+- Location - Medellin, Antioquia, Colombia
+
 ## Mentors
 
 ### United States
@@ -2097,6 +2217,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics for Mentoring - Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, community building
 - Location - Lagos, Nigeria
 
+#### Emem Brownson
+- [@brownjee001](https://twitter.com/brownjee001)
+- How to Contact - (mailto:brownjee001@gmail.com) or via Twitter
+- Topics for Mentoring - Android, Public Speaking, Project Management, Community building, Meetups, Presentation
+- Location - Uyo, Nigeria
+
 #### Nenne 'Adora' Nwodo
 
 - [@theadoranwodo](https://twitter.com/theadoranwodo)
@@ -2105,13 +2231,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics for Mentoring - JavaScript, Laravel, DevOps, Continuous Integration and Deployment, Android Development
 - Location - Lagos, Nigeria
 
-### Nigeria
-
-#### Emem Brownson
-- [@brownjee001](https://twitter.com/brownjee001)
-- How to Contact - (mailto:brownjee001@gmail.com) or via Twitter
-- Topics for Mentoring - Android, Public Speaking, Project Management, Community building, Meetups, Presentation
-- Location - Uyo, Nigeria
 
 ### Europe
 
@@ -2321,16 +2440,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lagos, Nigeria
 - I'll like to get more experience with the topics mentioned above. Also I'm primarily a Web Developer with 3.5-4yrs experience. I'd like to expand my knowledge with some help learning other languages like C++ or Python, to help me grow my career path.
 
-### Colombia
-
-#### Vanessa Aristizabal
-
-- [@vanessamarely](http://twitter.com/vanessamarely)
-- vanessamarely@gmail.com
-- Topics of Interest- HTML, CSS (and preprocessors), Javascript, Angular, React, UX
-- Location - Medellin, Antioquia, Colombia
-- Languages besides English - Spanish
-- I have experience in Web Development. I like to learn new things and love sharing it with others. I would like to help more women to get involved in tech industry.
 
 ## Contributing
 
