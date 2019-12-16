@@ -1365,11 +1365,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Neha Sharma
 
 - [@hellonehha](https://twitter.com/hellonehha)
-- Email Address - [nsharma215@gmail.com]
-- Design System  | Community & Developer 🥑 | React
+- Email Address - [neha@jslovers.com]
+- Design System | JavaScript | Accessibility | React | Community | Web
 - [LinkedIn](https://www.linkedin.com/in/nehha/)
 - I one of the organizers & mentor at [JSlovers](https://jslovers.com/)
-- Location - Delhi, India
+- Location - Delhi | Bangalore, India
 
 #### Bhavani Ravi
 
