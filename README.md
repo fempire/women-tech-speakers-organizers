@@ -1449,6 +1449,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### India
 
+#### Neha Sharma
+
+- [@hellonehha](https://twitter.com/hellonehha)
+- Email Address - [neha@jslovers.com]
+- Design System | JavaScript | Accessibility | React | Community | Web
+- [LinkedIn](https://www.linkedin.com/in/nehha/)
+- I one of the organizers & mentor at [JSlovers](https://jslovers.com/)
+- Location - Delhi | Bangalore, India
+
 #### Bhavani Ravi
 
 - [@geeky_bhavani](https://twitter.com/geeky_bhavani)
