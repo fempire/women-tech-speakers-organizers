@@ -2064,6 +2064,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
  - Group Focus - Technical documentation, knowledge management in IT, content management
  - Location - Moscow, Russia
 
+ #### Lian Li
+ - [@Chimney42] (https://twitter.com/Chimney42)
+ - [ServerlessDays Amsterdam Conference] (https://serverlessdays.nl/)
+ - [ServerlessDays Amsterdam Meetup] (https://www.meetup.com/ServerlessDays-Amsterdam/)
+ - Location - Amsterdam, The Netherlands
+
 ### Nigeria
 
 #### Ada Nduka Oyom
