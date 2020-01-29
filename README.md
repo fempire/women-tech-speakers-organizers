@@ -1446,6 +1446,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
  - Location - Istanbul, Turkey
  - Languages besides English - Turkish
 
+#### Lian Li
+ - [@Chimney42] (https://twitter.com/Chimney42)
+ - Topics - Kubernetes, Cloud Native, Machine Learning
+ - Location - Amsterdam, The Netherlands
+ - Languages besides English - German
 
 ### India
 
