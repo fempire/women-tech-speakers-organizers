@@ -200,6 +200,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Keynotes, JavaScript, Agile Testing, Test Automation (with JavaScript), iOS and Mac Testing, Enough Git to Git By, Mentoring and Training New Developers, Typography, Coding Basics for Non-Programmers, Pain Management for New Developers, Disability
 - Location - Seattle, WA, USA
 
+#### Lisa Crispin
+
+- [@lisacrispin](https://twitter.com/lisacrispin)
+- [Personal Website](https://lisacrispin.com)
+- Topics - Agile Testing, Testing in Continuous Delivery/Deployment and DevOps
+- Location - Charlotte, VT, USA
+
 #### Santina Croniser
 
 - [@SantinaCroniser](https://twitter.com/santinacroniser).
@@ -2230,6 +2237,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - How to Contact - Twitter, LinkedIn
 - Topics for Mentoring - Front-End Web Development, Styling (CSS, etc), Women In Tech groups at work, General Questions/Topics
 - Location - Atlanta, GA, USA
+
+#### Lisa Crispin
+
+- [@lisacrispin](https://twitter.com/lisacrispin)
+- [Personal Website](https://lisacrispin.com)
+- How to Contact - Twitter
+- Topics for Mentoring - Speaking at conferences
+- Location - Charlotte, VT, USA
 
 ### India
 
