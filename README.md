@@ -347,6 +347,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Chicago, IL / San Francisco, CA
 - Languages besides English - French
 
+#### Sarah Kaiser
+
+- [@crazy4pi314](https://twitter.com/crazy4pi314)
+- [sckaiser.dev](https://www.sckaiser.com/)
+- Topics - Quantum Computing, Quantum Cryptorgraphy, Python, Open Source Research, Community Building, Technical Writing
+- Location - Seattle, WA, USA
+
 #### Sia Karamalegos
 
 - [@thegreengreek](http://twitter.com/thegreengreek)
@@ -1775,6 +1782,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Dayton Data Viz](https://www.meetup.com/preview/daytondv), Dayton, OH
 - Group Focus - Infographic Design and Development, Web Mapping, D3.js, R, Tableau, Matlab, Processing, Hadoop, Data Mining, etc... Anything to do with the design/development of awesome visualizations
 - [GDI Dayton](https://www.meetup.com/preview/girl-develop-it-dayton), Dayton, OH
+
+#### Sarah Kaiser
+
+- [@crazy4pi314](http://twitter.com/crazy4pi314)
+- [Women in Quantum Computing and Applications (WIQCA)](https://www.wiqca.dev/), Seattle, WA, USA
+- Group Focus - WIQCA helps connect people who are interested in and excited about quantum computing in Seattle, WA. We have meet-ups about once a month where we have speakers, hands-on tutorials, and open-source docs sprints. Our group is an inclusive and welcoming, and emphasizes growing everyone’s skills and abilities in quantum computing and open source development. 
+- Location - Seattle, WA, USA
 
 #### Anastasia Lanz
 
