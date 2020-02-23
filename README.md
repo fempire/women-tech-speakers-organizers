@@ -1785,7 +1785,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Sarah Kaiser
 
-- [@crazy4pi314](http://twitter.com/crazy4pi314)
+- [@crazy4pi314](https://twitter.com/crazy4pi314)
 - [Women in Quantum Computing and Applications (WIQCA)](https://www.wiqca.dev/), Seattle, WA, USA
 - Group Focus - WIQCA helps connect people who are interested in and excited about quantum computing in Seattle, WA. We have meet-ups about once a month where we have speakers, hands-on tutorials, and open-source docs sprints. Our group is an inclusive and welcoming, and emphasizes growing everyone’s skills and abilities in quantum computing and open source development. 
 - Location - Seattle, WA, USA
