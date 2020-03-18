@@ -233,6 +233,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Dev Rel, events, Android, APIs
 - Location - San Francisco, CA
 
+#### Sangeetha KP
+
+- [@sangee_kp](twitter.com/sangee_kp)
+- [LinkedIn](https://www.linkedin.com/in/sangeetha-kp-029687bb/)
+- Topics - React, Android
+- Location - Seattle, WA (will travel nationally & internationally)
+
 #### Sarah Drasner
 
 - [@sarah_edo](http://twitter.com/sarah_edo)
