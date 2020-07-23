@@ -1585,6 +1585,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, HTML/CSS, Tech Community
 - Location - Lagos, Nigeria
 
+#### Chiamaka Ikeanyi
+
+- [@chiamakaikeanyi](http://twitter.com/chiamakaikeanyi)
+- [Personal Website](https://chiamakaikeanyi.dev)
+- Topics of Interest- JavaScript, ReactJS, Accessibility, Performance, Technical Writing, Tooling
+- Location - Lagos, Nigeria
+
 #### Nenne 'Adora' Nwodo
 
 - [@theadoranwodo](https://twitter.com/theadoranwodo)
@@ -2493,15 +2500,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics of Interest- HTML, CSS, JavaScript, Vuejs
 - Location - Lagos, Nigeria
 - I'll like to get more involved in the open-source community and actively partcipate in the tech community.
-
-#### Chiamaka Ikeanyi
-
-- [@chiamakaikeanyi](http://twitter.com/chiamakaikeanyi)
-- [Personal Website](https://chiamakaikeanyi.netlify.com/)
-- chiamakaikeanyi@gmail.com
-- Topics of Interest- JavaScript, ReactJS, Accessibility, Collaboration, Technical Writing
-- Location - Lagos, Nigeria
-- I crave to expand my knowledge base and aid in raising the next generation of Tech leaders.
 
 ### Australia
 
