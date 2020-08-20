@@ -1008,6 +1008,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - AI, robotics, diversity and inclusion, Canadian startup ecosystem
 - Location - Toronto, ON, Canada & Montreal, QC, Canada
 
+#### Kenza Iraki
+- [LinkedIn](https://www.linkedin.com/in/kenzairaki/)
+- Email: speaker@kenza.dev
+- Topics - Web development (React, Node.js, TypeScript, JavaScript), mobile development (React Native), Engineering Management
+- Location - Montreal, QC, Canada
+- Languages besides English - French
+
 ### Colombia
 
 #### Lina María Montaño Ramirez
