@@ -1376,6 +1376,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - the Netherlands (will travel nationally and internationally)
 - Languages besides English - Dutch
 
+
+
+### Nigeria
+
+#### Duru Cynthia
+
+- [@Duru_cece](https://twitter.com/durucece)
+- Topics - AWS, Azure, PHP,JavaScript,DevOps, CI/CD, Cloud Engineering,Solutions Architect
+- Location - Lagos, Nigeria
+
+
 #### Hannah Wolfe
 
 - [@erisDS](http://twitter.com/ErisDS)
