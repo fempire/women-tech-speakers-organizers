@@ -1712,7 +1712,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Perth, Australia
 - English
 
-
 ##### Daisy Smith
 - [@daisysmells](http://twitter.com/daisysmells)
 - [Portfolio](http://daisymarie128.github.io)
