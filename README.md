@@ -2504,6 +2504,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lagos, Nigeria
 - I'll like to get more involved in the open-source community and actively partcipate in the tech community.
 
+
+#### Naomi Usman
+
+- [@nayneenarh_](http://twitter.com/nayneenarh_)
+- [Personal Website](http://geniedigital.com.ng)
+- chideu@gmail.com
+- Topics of Interest- HTML, CSS, JavaScript, Azure cloud Engineering
+- Location - Lagos, Nigeria
+- I'd like to learn as much as I can, network with other people and be actively involved in community projects
+
+
+
 #### Chiamaka Ikeanyi
 
 - [@chiamakaikeanyi](http://twitter.com/chiamakaikeanyi)
