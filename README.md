@@ -439,6 +439,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Ad Tech, Analytics, Ruby on Rails
 - Location - Kansas City, MO
 
+#### Avantika Lal
+
+- [@lal_avantika](https://twitter.com/lal_avantika)
+- [LinkedIn](https://www.linkedin.com/in/avantikalal/)
+- Topics - Computational Biology, Genomics, Machine Learning/AI in Biology
+- Location - Menlo Park, CA
+
 #### Pearl Latteier
 
 - [@TwitterHandle](https://twitter.com/pblatteier)
