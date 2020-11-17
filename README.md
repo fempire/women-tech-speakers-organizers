@@ -233,6 +233,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Dev Rel, events, Android, APIs
 - Location - San Francisco, CA
 
+#### Sangeetha KP
+
+- [@sangee_kp](twitter.com/sangee_kp)
+- [LinkedIn](https://www.linkedin.com/in/sangeetha-kp-029687bb/)
+- Topics - React, Android
+- Location - Seattle, WA (will travel nationally & internationally)
+
 #### Sarah Drasner
 
 - [@sarah_edo](http://twitter.com/sarah_edo)
@@ -551,6 +558,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [API City Conference](https://apicity.io)
 - Topics - Vue.js, Performance, Community, Organizing Events, Workshops, Public Speaking, Meetups, Career Advancement, Open Source, Serverless, Media APIs, APIs, Developer Relations/Advocacy, Keynoting, Leadership, Tech Education,
 - Location - Seattle, WA, USA
+
+#### Naomi Meyer
+
+- [@nae_ohmi](https://twitter.com/nae_ohmi)
+- [Personal Website](https://naeohmi.com)
+- Topics - Internationalization I18N, Localization L10N, JavaScript
+- Location - New York, NY, USA
 
 #### Stefana Muller
 
@@ -1376,6 +1390,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - the Netherlands (will travel nationally and internationally)
 - Languages besides English - Dutch
 
+
+
+### Nigeria
+
+#### Duru Cynthia
+
+- [@Duru_cece](https://twitter.com/durucece)
+- Topics - AWS, Azure, PHP,JavaScript,DevOps, CI/CD, Cloud Engineering,Solutions Architect
+- Location - Lagos, Nigeria
+
+
 #### Hannah Wolfe
 
 - [@erisDS](http://twitter.com/ErisDS)
@@ -1709,6 +1734,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English, Burmese
 
+##### Michelle Sandford
+
+- [@msandfor](http://twitter.com/msandfor)
+- [LinkedIn](https://www.linkedin.com/in/michellesandford/)
+- [Github](https://github.com/msandfor)
+- [Website](https://techoutsiders.com.au/)
+- Topics - Career development, Women in technology, Keynote speeches, Chatbots, Learning to Code, OpenSource
+- Location - Perth, Australia
+- English
+
 ##### Daisy Smith
 - [@daisysmells](http://twitter.com/daisysmells)
 - [Portfolio](http://daisymarie128.github.io)
@@ -1931,6 +1966,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@cotufa82](https://twitter.com/cotufa82)
 - [Vue Vixens](https://www.vuevixens.org)
 - Location - Worldwide
+
+#### LasDeSistemas
+
+- [@lasdesistemas](https://twitter.com/lasdesistemas)
+- [FemIT Conf](https://twitter.com/femitconf)
+- Group Focus: LasDeSistemas is a transfeminist community made up of cis women, non-binary, gender nonconforming, trans women, trans men, and more, who are part of the technology industry. We are interested in making our work visible, empowering ourselves to face a world that excludes us, training ourselves to have more opportunities, supporting each other in this path and transforming our work spaces into inclusive environments. FemIT Conf is a free and public tech conference with gender perspective. 
+- Location - Buenos Aires, Argentina
 
 ### Europe
 
@@ -2298,6 +2340,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics for Mentoring - Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, community building
 - Location - Lagos, Nigeria
 
+#### Edidiong Asikpo
+- [@Didicodes](https://twitter.com/Didicodes)
+- How to Contact - via Twitter
+- Topics for Mentoring -Developer Relations, Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, Community building
+- Location - Lagos, Nigeria
+
+
 #### Emem Brownson
 - [@brownjee001](https://twitter.com/brownjee001)
 - How to Contact - (mailto:brownjee001@gmail.com) or via Twitter
@@ -2500,6 +2549,22 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics of Interest- HTML, CSS, JavaScript, Vuejs
 - Location - Lagos, Nigeria
 - I'll like to get more involved in the open-source community and actively partcipate in the tech community.
+
+#### Chiamaka Ikeanyi
+
+- [@chiamakaikeanyi](http://twitter.com/chiamakaikeanyi)
+- [Personal Website](https://chiamakaikeanyi.dev)
+- Topics of Interest- JavaScript, ReactJS, Accessibility, Performance, Technical Writing, Tooling
+- Location - Lagos, Nigeria
+
+#### Naomi Usman
+
+- [@nayneenarh_](http://twitter.com/nayneenarh_)
+- [Personal Website](http://geniedigital.com.ng)
+- chideu@gmail.com
+- Topics of Interest- HTML, CSS, JavaScript, Azure cloud Engineering
+- Location - Lagos, Nigeria
+- I'd like to learn as much as I can, network with other people and be actively involved in community projects
 
 ### Australia
 
