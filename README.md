@@ -1953,6 +1953,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Vue Vixens](https://www.vuevixens.org)
 - Location - Worldwide
 
+#### LasDeSistemas
+
+- [@lasdesistemas](https://twitter.com/lasdesistemas)
+- [FemIT Conf](https://twitter.com/femitconf)
+- Group Focus: LasDeSistemas is a transfeminist community made up of cis women, non-binary, gender nonconforming, trans women, trans men, and more, who are part of the technology industry. We are interested in making our work visible, empowering ourselves to face a world that excludes us, training ourselves to have more opportunities, supporting each other in this path and transforming our work spaces into inclusive environments. FemIT Conf is a free and public tech conference with gender perspective. 
+- Location - Buenos Aires, Argentina
+
 ### Europe
 
 #### Aygul Zagidullina
