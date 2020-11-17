@@ -2326,6 +2326,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics for Mentoring - Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, community building
 - Location - Lagos, Nigeria
 
+#### Edidiong Asikpo
+- [@Didicodes](https://twitter.com/Didicodes)
+- How to Contact - via Twitter
+- Topics for Mentoring -Developer Relations, Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, Community building
+- Location - Lagos, Nigeria
+
+
 #### Emem Brownson
 - [@brownjee001](https://twitter.com/brownjee001)
 - How to Contact - (mailto:brownjee001@gmail.com) or via Twitter
