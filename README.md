@@ -1579,6 +1579,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Hyderabad, IN
 - Language - English, Hindi
 
+#### Anuradha Kumari
+
+- [@miracle_404](https://twitter.com/miracle_404)
+- [LinkedIn](https://www.linkedin.com/in/anuradha15/)
+- Topics - Web accessibility, JavaScript, React, Test driven development
+- [My speaking engagements](https://anuk79.netlify.app/tech_talks/)
+- Location - Pune, India
+
 ### Lebanon
 
 #### Sara Soueidan
