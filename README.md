@@ -1702,6 +1702,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English, Burmese
 
+##### Michelle Sandford
+
+- [@msandfor](http://twitter.com/msandfor)
+- [LinkedIn](https://www.linkedin.com/in/michellesandford/)
+- [Github](https://github.com/msandfor)
+- [Website](https://techoutsiders.com.au/)
+- Topics - Career development, Women in technology, Keynote speeches, Chatbots, Learning to Code, OpenSource
+- Location - Perth, Australia
+- English
+
 ##### Daisy Smith
 - [@daisysmells](http://twitter.com/daisysmells)
 - [Portfolio](http://daisymarie128.github.io)
