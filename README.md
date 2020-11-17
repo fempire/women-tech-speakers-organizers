@@ -559,6 +559,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Vue.js, Performance, Community, Organizing Events, Workshops, Public Speaking, Meetups, Career Advancement, Open Source, Serverless, Media APIs, APIs, Developer Relations/Advocacy, Keynoting, Leadership, Tech Education,
 - Location - Seattle, WA, USA
 
+#### Naomi Meyer
+
+- [@nae_ohmi](https://twitter.com/nae_ohmi)
+- [Personal Website](https://naeohmi.com)
+- Topics - Internationalization I18N, Localization L10N, JavaScript
+- Location - New York, NY, USA
+
 #### Stefana Muller
 
 - [@stefanamuller](https://twitter.com/stefanamuller)
