@@ -613,6 +613,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Keynote Speeches, Tech Leading/Tech Management, Leadership, Project Chaos, UX for Developers, Software Ethics, PHP, the human people parts of software development
 - Location - Minneapolis, MN
 
+#### Ritika Nevatia
+
+- [@nevatiaritika](http://twitter.com/nevatiaritika)
+- [Personal Website](http://www.nevatiaritika.com)
+- Topics - Backend, Design, Architecture, Java, Scalability 
+- Location - Seattle, WA, USA
+- Languages besides English - Hindi (native), Marathi (native), Spanish (intermediate), Japanese (beginner), French (beginner)
+
 #### Lyndsey Padget
 
 - [@lyndseypadget](https://twitter.com/lyndseypadget)
