@@ -68,6 +68,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### United States
 
+#### Cotishea Anderson
+- [@cotishea](http://twitter.com/cotishea)
+- [LinkedIn(https://www.linkedin.com/in/cotishea)
+- Topics - Managing projects in Azure Devops vs Github, Women in Tech
+- Location - Dallas, Texas
+
 #### Seetha Annamraju
 
 - [@seetha_a](http://twitter.com/seetha_a)
