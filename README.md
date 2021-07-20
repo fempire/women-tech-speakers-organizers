@@ -1519,6 +1519,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
  - Location - Amsterdam, The Netherlands
  - Languages besides English - German
 
+
+#### Ioana Chiorean
+
+- [ioana_cis](https://twitter.com/ioana_cis)
+- Topics - Testings, Management, Community, Web & Mobile
+- Location - Cluj-Napoca, Romania;  Berlin, Germany
+- Languages besides English - Spanish, French. 
+
 ### India
 
 #### Neha Sharma
