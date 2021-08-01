@@ -2605,6 +2605,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics of Interest - Machine Learning and Artificial intelligence, Responsible AI, Emerging technologies :)
 - Location - Gurugram, India
 - Languages besides English - Hindi
+- I am currently interested in GANS and ethical AI. I like presenting st conferences and meeting people working in similar field.
 
 #### Meghna Gupta
 
