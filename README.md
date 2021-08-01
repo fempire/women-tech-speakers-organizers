@@ -1582,6 +1582,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - I am currently leading the Google Developer Group - WTM.
 - Location - Mumbai, India
 
+#### Kriti Doneria
+
+- [@kritidoneria](https://www.linkedin.com/in/kritidoneria/)
+- Email Address - [doneriakriti@gmail.com]
+- Topics of Interest - Machine Learning and Artificial intelligence, Responsible AI, Emerging technologies :)
+- Location - Gurugram, India
+- Languages besides English - Hindi
+
 #### Kritika Maheshwari
 
 - [@mozkri](https://twitter.com/mozkri)
@@ -2373,6 +2381,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Charlotte, VT, USA
 
 ### India
+
+#### Kriti Doneria
+
+- [@kritidoneria](https://www.linkedin.com/in/kritidoneria/)
+- Email Address - [doneriakriti@gmail.com]
+- Topics of Interest - Machine Learning and Artificial intelligence, Responsible AI, Emerging technologies :)
+- Location - Gurugram, India
+- Languages besides English - Hindi
 
 ####  Manjula Dune
 
