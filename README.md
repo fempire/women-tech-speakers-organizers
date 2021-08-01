@@ -1529,6 +1529,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### India
 
+#### Kriti Doneria
+
+- [@kritidoneria](https://www.linkedin.com/in/kritidoneria/)
+- Email Address - [doneriakriti@gmail.com]
+- Topics of Interest - Machine Learning and Artificial intelligence, Responsible AI, Emerging technologies :)
+- Location - Gurugram, India
+- Languages besides English - Hindi
+
 #### Neha Sharma
 
 - [@hellonehha](https://twitter.com/hellonehha)
