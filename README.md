@@ -2008,7 +2008,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Diana Rodriguez
 
 - [@cotufa82](https://twitter.com/cotufa82)
-- [Vue Vixens](https://www.vuevixens.org)
 - Location - Worldwide
 
 #### LasDeSistemas
@@ -2038,7 +2037,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Victoria Bergquist
 - [@vicbergquist](https://twitter.com/vicbergquist)
-- [CSS Frankfurt](https://cssfrankfurt.de), [Vue.js Frankfurt](https://vuejsfrankfurt.de), [Vue Vixens DE](https://twitter.com/vuevixensDE)
+- [CSS Frankfurt](https://cssfrankfurt.de), [Vue.js Frankfurt](https://vuejsfrankfurt.de)
 - Group Focus - Web Development, CSS, Vue.js, Diversity, Public Speaking, Workshops, JavaScript
 - Location - Frankfurt, Germany
 
