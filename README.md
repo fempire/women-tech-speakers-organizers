@@ -329,6 +329,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Organizer of Selenium Conference, QA, DevOps, Women in Tech, Culture
 - Location - Raleigh, North Carolina, USA
 
+#### Ashley Huynh
+
+- [@ashley_in_tech](http://twitter.com/ashley_in_tech)
+- [ashleyin.tech](http://ashleyin.tech)
+- Topics - Video API technology, documentation and information architecture, building diverse, equitable, and inclusive communities online and offline, developer relations, web development, mentorship
+- Location - Atlanta, GA, USA (open to travel)
+
 #### Tomomi Imura
 
 - [@girlie_mac](https://twitter.com/girlie_mac)
