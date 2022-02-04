@@ -695,6 +695,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Workshops, JavaScript, Universal Components, React, React Native, GraphQL, Apollo GraphQL
 - Location - Hoboken, NJ
 
+#### Jennifer Reif
+
+- [@JMHReif](https://twitter.com/JMHReif)
+- [LinkedIn](https://www.linkedin.com/in/jmhreif/)
+- [Website/Blog](https://jmhreif.com/)
+- Topics - Java, Data/Databases, Neo4j (graph database), Spring Framework
+- Location - St. Louis, MO
+
 #### Colleen Schnettler
 
 - [@leenyburger](https://twitter.com/leenyburger)
