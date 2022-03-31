@@ -10,8 +10,6 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
 
 ## Table of Contents
 
-
-
 - [Table of Contents](#table-of-contents)
 - [Code of Conduct](#code-of-conduct)
 - [Speakers](#speakers)
@@ -69,6 +67,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 ### United States
 
 #### Cotishea Anderson
+
 - [@cotishea](http://twitter.com/cotishea)
 - [LinkedIn(https://www.linkedin.com/in/cotishea)
 - Topics - Managing projects in Azure Devops vs Github, Women in Tech
@@ -89,10 +88,10 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Paige Bailey
 
- - [@DynamicWebPaige](https://twitter.com/DynamicWebPaige)
- - [paigevie.ws](https://paigevie.ws)
- - Topics - Cloud Platform, Data Science, Machine Learning, TensorFlow
- - Location - Palo Alto, CA
+- [@DynamicWebPaige](https://twitter.com/DynamicWebPaige)
+- [paigevie.ws](https://paigevie.ws)
+- Topics - Cloud Platform, Data Science, Machine Learning, TensorFlow
+- Location - Palo Alto, CA
 
 #### Laurie Barth
 
@@ -151,6 +150,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Chicago, IL, USA
 
 #### Michelle Casbon
+
 - [@texasmichelle](https://twitter.com/texasmichelle)
 - [Playlist](https://www.youtube.com/playlist?list=PLC91InYY0ARk9fJLQ9uXyyoC-wWYOqLiu)
 - Topics - CI/CD, Cloud Platform, Data Engineering, Data Science, Hybrid Cloud,
@@ -158,6 +158,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - San Francisco, CA
 
 ##### Micheleh "MC" Center
+
 - [@MichelehCenter](https://twitter.com/MichelehCenter)
 - [micheleh.com](http://www.micheleh.com)
 - How to Contact - twitter, LinkedIn or email (m@micheleh.com OR micheleh.center@turner.com)
@@ -285,9 +286,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@MoxieHampton](https://twitter.com/MoxieHampton)
 - [Instagram](https://www.instagram.com/moxiehampton/)
-- Moxie.Hampton@gmailcom 
+- Moxie.Hampton@gmailcom
 - Topics of Interest- Breaking Into Tech (Mom, Women of Color, Military Veteran, Bootcamp Graduate), Career Development, JavaScript, HTML, CSS, Front End Development, Microsoft SharePoint Development
-- Location - Fort Bragg, North Carolina 
+- Location - Fort Bragg, North Carolina
 
 #### Val Head
 
@@ -509,7 +510,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Accessibility, Webpack, JavaScript, Imposter Syndrome
 - Location - Orem, UT
 
-
 #### Kara Luton
 
 - [@karaluton](http://twitter.com/karaluton)
@@ -547,7 +547,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   - Small Towns, Big Events: Creating and Growing a Thriving Meetup
 - Organizes: [Tahoe Silicon Mountain](http://www.tahoesiliconmountain.com/) - multiple events every month
 - Location - Truckee, CA, USA
-
 
 #### Kathleen McMahon
 
@@ -607,13 +606,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Portland, OR, USA
 
 #### Alejandra Quetzalli Olvera-Novack
+
 - Founder of sheCodesNow.com
 - Languages besides English - Spanish
-[@QuetzalliAle](https://twitter.com/QuetzalliAle)
+  [@QuetzalliAle](https://twitter.com/QuetzalliAle)
 - Topics - Keynote Speeches, Cloud Computing, AWS, CSS3 Animations, HTML5, Web Accesability, UI Architecture, Front-End UI, Women In Tech, Diversity & Inclusion, Tech Education, JavaScript, NodeJS, NPM, Git, Documentation Best Practices
 - Location - Seattle, WA, USA
 
 #### Eryn O'Neil
+
 - [@eryno](https://twitter.com/eryno)
 - [Slideshare](https://www.slideshare.net/eryno) && [Speakerdeck](https://speakerdeck.com/eryno)
 - Topics - Keynote Speeches, Tech Leading/Tech Management, Leadership, Project Chaos, UX for Developers, Software Ethics, PHP, the human people parts of software development
@@ -623,7 +624,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@nevatiaritika](http://twitter.com/nevatiaritika)
 - [Personal Website](http://www.nevatiaritika.com)
-- Topics - Backend, Design, Architecture, Java, Scalability 
+- Topics - Backend, Design, Architecture, Java, Scalability
 - Location - Seattle, WA, USA
 - Languages besides English - Hindi (native), Marathi (native), Spanish (intermediate), Japanese (beginner), French (beginner)
 
@@ -776,7 +777,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Stephanie Vaughn
 
-- [@_SLVaughn](https://twitter.com/_SLVaughn)
+- [@\_SLVaughn](https://twitter.com/_SLVaughn)
 - [Personal Website](https://stephanielvaughn.tumblr.com/)
 - Topics - Ethics in Software, STEM Education, JavaScript, Front End Web Development, Equitable Internet
 - Location - Detroit, MI
@@ -829,7 +830,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@heyawhite](https://www.twitter.com/heyawhite)
 - [heyawhite.com](https://heyawhite.com)
-   - [Speaking policy](https://heyawhite.com/speaking#speaking-policy)
+  - [Speaking policy](https://heyawhite.com/speaking#speaking-policy)
 - [GitHub](https://github.com/heyawhite)
 - [LinkedIn](https://www.linkedin.com/in/alexandranwhite/)
 - Topics - Keynote Speeches, Workshops, Technical Writing, Documentation, Technical Videos, Accessibility, Education, Women in Tech, Community Building, Web Development, WordPress
@@ -877,7 +878,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Lauren Tan
 
-- [@sugarpirate_](https://twitter.com/sugarpirate_)
+- [@sugarpirate\_](https://twitter.com/sugarpirate_)
 - [Writing](https://medium.com/@sugarpirate)
 - [GitHub](https://github.com/poteto)
 - [LinkedIn](https://www.linkedin.com/in/laurenelizabethtan)
@@ -905,7 +906,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Neha Jain
 
-- [@_nehajain](https://twitter.com/_nehajain)
+- [@\_nehajain](https://twitter.com/_nehajain)
 - [GitHub](https://github.com/n3jain)
 - [LinkedIn](https://www.linkedin.com/in/nehajainhbti/)
 - [PiMothers](http://www.pimothers.com/) Blog about mothers in tech stories
@@ -930,7 +931,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics: Software Engineering (C#, Xamarin, Mobile Development, Azure), Flight Simulation, Flight Physics
 - Location: NYC, NY, USA
 
-
 #### Amanda Sopkin
 
 - [@amandasopkin](https://twitter.com/amandasopkin)
@@ -940,6 +940,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Seattle, WA, USA
 
 #### Jigyasa Grover
+
 - Red Hat Women in Open Source Academic Award Winner | ex-Director, Women Who Code (Delhi)
 - Conference/Keynote Speaker (Open Source, Android, Python, Machine Learning, Software Engineering)
 - [grover.jigyasa1@gmail.com](grover.jigyasa1@gmail.com)
@@ -965,6 +966,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location: Washington, DC, USA
 
 #### Shruti Kapoor
+
 - [@shrutikapoor](https://twitter.com/shrutikapoor08)
 - [Medium](https://medium.com/@shruti.kapoor08)
 - Email: hello@shrutikapoor.me
@@ -972,35 +974,37 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location: San Francisco Bay Area, CA, USA
 
 #### Adhithi Ravichandran
-  - [@AdhithiRavi](https://twitter.com/AdhithiRavi)
-  - [Personal Website](http://adhithiravichandran.com/)
-  - [Medium]: (https://medium.com/@adhithiravi)
-  - Topics:  React Native, React, Developer Human Skills
-  - Location: Kansas City, USA
+
+- [@AdhithiRavi](https://twitter.com/AdhithiRavi)
+- [Personal Website](http://adhithiravichandran.com/)
+- [medium]: (https://medium.com/@adhithiravi)
+- Topics: React Native, React, Developer Human Skills
+- Location: Kansas City, USA
 
 #### Christine Seeman
-  - [@tech_christine](https://twitter.com/tech_christine)
-  - [Personal Website](https://christine-seeman.com/)
-  - [Dev.to]: (https://dev.to/cseeman)
-  - Topics:  Ruby/Rails, Security, Git, Mentoring, Developer Workflows
-  - Location: Omaha, NE, USA
+
+- [@tech_christine](https://twitter.com/tech_christine)
+- [Personal Website](https://christine-seeman.com/)
+- [dev.to]: (https://dev.to/cseeman)
+- Topics: Ruby/Rails, Security, Git, Mentoring, Developer Workflows
+- Location: Omaha, NE, USA
 
 #### Grishma Jena
-  - [@DebateLove](https://twitter.com/DebateLover)
-  - [Personal Website](https://gjena.github.io)
-  - [LinkedIn](https://www.linkedin.com/in/grishmajena/)
-  - [Medium]: (https://medium.com/@grishma.jena)
-  - Topics:  Python, Data Science, Machine Learning, Natural Language Processing, teaching programming
-  - Location: San Francisco, CA, USA
 
-#### Linda Zhou 
-- [@lhmzhou](https://twitter.com/lhmzhou) 
-- [Dev.to](https://dev.to/lhmzhou) 
-- Topics: Golang, React, Ruby/Rails, GraphQL, Elasticsearch, Rust, Flutter, Serverless, Mobile Voting 
+- [@DebateLove](https://twitter.com/DebateLover)
+- [Personal Website](https://gjena.github.io)
+- [LinkedIn](https://www.linkedin.com/in/grishmajena/)
+- [medium]: (https://medium.com/@grishma.jena)
+- Topics: Python, Data Science, Machine Learning, Natural Language Processing, teaching programming
+- Location: San Francisco, CA, USA
+
+#### Linda Zhou
+
+- [@lhmzhou](https://twitter.com/lhmzhou)
+- [Dev.to](https://dev.to/lhmzhou)
+- Topics: Golang, React, Ruby/Rails, GraphQL, Elasticsearch, Rust, Flutter, Serverless, Mobile Voting
 - Location: Miami/Fort Lauderdale, FL, USA
-- Languages besides English: Portuguese, Spanish, a dash of French 
-
-
+- Languages besides English: Portuguese, Spanish, a dash of French
 
 ### Canada
 
@@ -1019,31 +1023,35 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Toronto, Ontario, Canada
 
 #### Sarah Kraynick
+
 - [@luvnumberz](http://twitter.com/luvnumberz)
 - [Writing](https://medium.com/@luvnumberz)
 - [GitHub](https://github.com/skraynick)
 - [LinkedIn](https://www.linkedin.com/in/sarahkraynick/)
 - Email: sarah.kraynick@e253solutions.com
-- Topics:  Cybersecurity, Cyberwarfare
+- Topics: Cybersecurity, Cyberwarfare
 - Location - Split my time between Prince Albert Sk, Vancvouer BC, and Amsterdam NL.
 
 #### Sophie Déziel
+
 - [@sophiedeziel](http://twitter.com/sophiedeziel)
 - [Medium](https://medium.com/@sophiedeziel)
 - [GitHub](https://github.com/sophiedeziel)
 - President of [Montreal.rb](https://montrealrb.com)
 - Email: courrier@sophiedeziel.com
-- Topics:  Ruby, Rails, Open-Source, Best Practices
+- Topics: Ruby, Rails, Open-Source, Best Practices
 - Location - Montreal, Quebec, Canada
 - Languages besides English - French
 
 #### Christina Moro
+
 - [LinkedIn](https://www.linkedin.com/in/christinamoro/)
 - Email: christina@squarephotos.ca
 - Topics - AI, robotics, diversity and inclusion, Canadian startup ecosystem
 - Location - Toronto, ON, Canada & Montreal, QC, Canada
 
 #### Kenza Iraki
+
 - [LinkedIn](https://www.linkedin.com/in/kenzairaki/)
 - Email: speaker@kenza.dev
 - Topics - Web development (React, Node.js, TypeScript, JavaScript), mobile development (React Native), Engineering Management
@@ -1148,6 +1156,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Languages besides English - Portuguese and Italian.
 
 #### Annabel Church
+
 - [@annabelchurch](http://twitter.com/annabelchurch)
 - [Personal Website](http://annabelchurch.com)
 - Location - Berlin, Germany
@@ -1280,13 +1289,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Lana Novikova
 
- - [@_Unsolved_](https://twitter.com/_Unsolved_)
- - [Facebook](https://www.facebook.com/svetlnovikova)
- - [LinkedIn](https://ru.linkedin.com/in/svetlana-novikova)
- - [Github](https://github.com/lananovikova10)
- - Topics - Technical documentation, technical writing, docs as code, knowledge management
- - Location - Moscow, Russia
- - Languages besides English - Russian
+- [@_Unsolved_](https://twitter.com/_Unsolved_)
+- [Facebook](https://www.facebook.com/svetlnovikova)
+- [LinkedIn](https://ru.linkedin.com/in/svetlana-novikova)
+- [Github](https://github.com/lananovikova10)
+- Topics - Technical documentation, technical writing, docs as code, knowledge management
+- Location - Moscow, Russia
+- Languages besides English - Russian
 
 #### Vasylyna Mytsak
 
@@ -1348,6 +1357,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Languages besides English - Arabic, French
 
 #### Ineke Scheffers
+
 - [@FYIneke](https://twitter.com/fyineke) & [@GirlCodeNL](https://twitter.com/GirlCodeNL)
 - [Girl Code](https://www.meetup.com/girlcode/)
 - Topics - Girl Code, women in tech, gender gap in code, workshops, community, web development, changing careers
@@ -1356,36 +1366,35 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Kseniia Shumelchyk
 
- - [@KseniiaS](https://twitter.com/KseniiaS)
- - [Facebook](https://www.facebook.com/kseniya.shumelchyk)
- - [LinkedIn](https://www.linkedin.com/in/kseniiashumelchyk/)
- - Topics - Android, Architecture design, UI/UX, Wearables, Communities
- - Location - Dnipro, Ukraine
- - Languages besides English - Ukrainian, Russian
-
+- [@KseniiaS](https://twitter.com/KseniiaS)
+- [Facebook](https://www.facebook.com/kseniya.shumelchyk)
+- [LinkedIn](https://www.linkedin.com/in/kseniiashumelchyk/)
+- Topics - Android, Architecture design, UI/UX, Wearables, Communities
+- Location - Dnipro, Ukraine
+- Languages besides English - Ukrainian, Russian
 
 #### Agata Sobek
 
-  - [LinkedIn](https://www.linkedin.com/in/agatasobek/)
-  - Email Address - [kochanagatka@gmail.com]
-  - Topics - SCRUM, Agile, KANBAN, LeSS, Team building, #noestimates, soft skills
-  - Location - Wroclaw, Poland
-  - Languages besides English - Polish
+- [LinkedIn](https://www.linkedin.com/in/agatasobek/)
+- Email Address - [kochanagatka@gmail.com]
+- Topics - SCRUM, Agile, KANBAN, LeSS, Team building, #noestimates, soft skills
+- Location - Wroclaw, Poland
+- Languages besides English - Polish
 
 #### Carolyn Stransky
 
-  - [@carolstran](https://twitter.com/carolstran)
-  - [More Information](https://github.com/carolstran/tech-talks)
-  - Topics - Accessibility, Documentation, Self-care
-  - Location - Berlin, Germany
+- [@carolstran](https://twitter.com/carolstran)
+- [More Information](https://github.com/carolstran/tech-talks)
+- Topics - Accessibility, Documentation, Self-care
+- Location - Berlin, Germany
 
-  #### Erin B. Taylor
+#### Erin B. Taylor
 
-  - [@erinbtaylor_](https://twitter.com/erinbtaylor_)
-  - [Personal website](https://erinbtaylor.com/)
-  - [LinkedIn](https://www.linkedin.com/in/erinbtaylor/)
-  - Topics - OSS communities, Maintainerati, human use of technology, technology and culture, social impact of technology, ICT4D, fintech, technology communities
-  - Location - The Hague, Netherlands
+- [@erinbtaylor\_](https://twitter.com/erinbtaylor_)
+- [Personal website](https://erinbtaylor.com/)
+- [LinkedIn](https://www.linkedin.com/in/erinbtaylor/)
+- Topics - OSS communities, Maintainerati, human use of technology, technology and culture, social impact of technology, ICT4D, fintech, technology communities
+- Location - The Hague, Netherlands
 
 #### Bo Vandersteene
 
@@ -1418,8 +1427,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - the Netherlands (will travel nationally and internationally)
 - Languages besides English - Dutch
 
-
-
 ### Nigeria
 
 #### Duru Cynthia
@@ -1427,7 +1434,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@Duru_cece](https://twitter.com/durucece)
 - Topics - AWS, Azure, PHP,JavaScript,DevOps, CI/CD, Cloud Engineering,Solutions Architect
 - Location - Lagos, Nigeria
-
 
 #### Hannah Wolfe
 
@@ -1438,7 +1444,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Alina Yurenko
 
 - [@alina_yurenko](https://twitter.com/alina_yurenko)
-— [Medium posts](https://medium.com/@alina.yur)
+  — [Medium posts](https://medium.com/@alina.yur)
 - Topics - Java, JVM, GraalVM
 - Location - Lviv, Ukraine (will travel nationally & internationally)
 - Languages besides English - Ukrainian
@@ -1460,7 +1466,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Ana Cidre
 
-- [@AnaCidre_](https://twitter.com/AnaCidre_)
+- [@AnaCidre\_](https://twitter.com/AnaCidre_)
 - [anacidre.com](https://anacidre.com)
 - Topics - JavaScript, Angular, Diversity and Inclusion, Community.
 - Location - Sanxenxo, Spain
@@ -1473,7 +1479,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Kyiv, Ukraine (will travel nationally and internationally)
 - Languages besides English - Russian, Ukrainian
 
-
 #### Olga Petrova
 
 - [@tyoushe](https://twitter.com/tyoushe)
@@ -1481,51 +1486,55 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Munich, Germany (will travel nationally and internationally)
 - Languages besides English - Russian
 
-
 #### Sara Vieira
- - [@NikkitaFTW](https://twitter.com/NikkitaFTW)
- - Topics - React, Vue, GraphQL
- - Location - Berlin, Germany
- - Languages besides English - Portuguese
+
+- [@NikkitaFTW](https://twitter.com/NikkitaFTW)
+- Topics - React, Vue, GraphQL
+- Location - Berlin, Germany
+- Languages besides English - Portuguese
 
 #### Stanimira Vlaeva
- - [@StanimiraVlaeva](https://twitter.com/StanimiraVlaeva)
- - Topics - NativeScript, Angular, Schematics
- - Location - Sofia, Bulgaria
- - Languages besides English - Bulgarian
+
+- [@StanimiraVlaeva](https://twitter.com/StanimiraVlaeva)
+- Topics - NativeScript, Angular, Schematics
+- Location - Sofia, Bulgaria
+- Languages besides English - Bulgarian
 
 #### Elena Gancheva
- - [@eagancheva](https://twitter.com/eagancheva)
- - Topics - Angular, Vue
- - Location - Sofia, Bulgaria
- - Languages besides English - Bulgarian
+
+- [@eagancheva](https://twitter.com/eagancheva)
+- Topics - Angular, Vue
+- Location - Sofia, Bulgaria
+- Languages besides English - Bulgarian
 
 #### Merve Basak
+
 - [@bsk_mrv](https://twitter.com/bsk_mrv)
 - Topics - Action on Google, Google Assistant, Women in Technology
 - Location - Eskisehir, Turkey
 - Languages besides English - Turkish.
 
 #### Elif Boncuk
- - [@elifbon_](https://twitter.com/elifbon_)
- - [Personal Website](https://elifboncuk.com/)
- - Topics - Android, Kotlin
- - Location - Istanbul, Turkey
- - Languages besides English - Turkish
+
+- [@elifbon\_](https://twitter.com/elifbon_)
+- [Personal Website](https://elifboncuk.com/)
+- Topics - Android, Kotlin
+- Location - Istanbul, Turkey
+- Languages besides English - Turkish
 
 #### Lian Li
- - [@Chimney42] (https://twitter.com/Chimney42)
- - Topics - Kubernetes, Cloud Native, Machine Learning
- - Location - Amsterdam, The Netherlands
- - Languages besides English - German
 
+- [@Chimney42] (https://twitter.com/Chimney42)
+- Topics - Kubernetes, Cloud Native, Machine Learning
+- Location - Amsterdam, The Netherlands
+- Languages besides English - German
 
 #### Ioana Chiorean
 
 - [ioana_cis](https://twitter.com/ioana_cis)
 - Topics - Testings, Management, Community, Web & Mobile
-- Location - Cluj-Napoca, Romania;  Berlin, Germany
-- Languages besides English - Spanish, French. 
+- Location - Cluj-Napoca, Romania; Berlin, Germany
+- Languages besides English - Spanish, French.
 
 ### India
 
@@ -1548,6 +1557,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Chennai, India
 
 #### Khushbu Parakh
+
 - [@TwitterHandle](http://twitter.com/cokencode)
 - [Personal Website](http://khushbu.strikingly.com/)
 - [LinkedIn](https://www.linkedin.com/in/khushbuparakh)
@@ -1628,11 +1638,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lagos, Nigeria
 
 #### Moyinoluwa Adeyemi
+
 - [@moyheen](http://twitter.com/moyheen)
 - Android Developer, Google Events Co-organiser, Speaker
 - Location - Lagos, Nigeria
 
 #### Emem Brownson
+
 - [@brownjee001](https://twitter.com/brownjee001)
 - Topics - Android, Java, Kotlin, Firebase products for Android, Women in tech, How to build a startup, BMC or LMC
 - Location - Uyo, Nigeria
@@ -1641,15 +1653,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@awesome_sayrah](https://twitter.com/awesome_Sayrah)
 - [LinkedIn](https://www.linkedin.com/in/omoike-sarah/)
-- Topics - HTML, CSS,  Angular, Javascript, SASS, Product Design, UI/UX, Usability, Product Management, Acessibility, Design Systems, Women In Tech.
+- Topics - HTML, CSS, Angular, Javascript, SASS, Product Design, UI/UX, Usability, Product Management, Acessibility, Design Systems, Women In Tech.
 - Location - Lagos, Nigeria
 
 #### Ada Nduka Oyom
+
 - [@kolokodess](https://twitter.com/kolokodess)
 - Topics - HTML/CSS, JavaScript, Python, Keynote speeches, Women in tech, Community
 - Location - Lagos, Nigeria
 
 #### Egwuenu Gift
+
 - [@lauragift21](https://twitter.com/lauragift21)
 - Topics - JavaScript, HTML/CSS, Tech Community
 - Location - Lagos, Nigeria
@@ -1666,6 +1680,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@theadoranwodo](https://twitter.com/theadoranwodo)
 - [Personal Website](https://adoranwodo.com)
 - Topics - Android Development, Software Design Patterns, Game Development, DevOps, JavaScript, VueJS, Mobile Experiences
+- Location - Lagos, Nigeria
+
+#### Ifeoma C. Nwosu
+
+- [@Ifeoma\_\_N](https://twitter.com/Ifeoma__N)
+- Topics - Design Systems, HTML, CSS, Web Performance, Web Accessibility, JavaScript, VueJS
 - Location - Lagos, Nigeria
 
 ### South Africa
@@ -1705,10 +1725,10 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - ReactJS, Ember.js, CSS, Rails, Women in Tech, Diversity in Tech
 - Location - Johannesburg, Gauteng, South Africa
 
-
 ### Asia
 
 #### Hong Phuc Dang
+
 - [@hpdang](https://twitter.com/hpdang)
 - [FOSSASIA](https://fossasia.org)
 - [LinkedIn](https://www.linkedin.com/in/hongphucdang)
@@ -1718,6 +1738,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 ### Japan
 
 ##### Tutti Quintella
+
 - [Twitter @tuttiq](http://twitter.com/tuttiq)
 - [Github @tuttiq](http://github.com/tuttiq)
 - Topics - Ruby on Rails, Web technologies, Project management, Team management, Leadership, Women in tech
@@ -1725,6 +1746,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - English, Portuguese
 
 #### Xiaoli Shen
+
 - [@furixturi](http://twitter.com)
 - [Personal Website](http://www.shenxiaoli.com/) | [Github Web Dev](http://twitter.com/fr-xiaoli) | [Github Other Stuff](http://twitter.com/furixturi)
 - Topics - JavaScript (React, Node), Golang, Web Development, Full-stack, Career in Tech, Creative Technologies
@@ -1734,18 +1756,21 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 ### Argentina
 
 ##### Laura Morinigo
+
 - [@lala_morinigo] (http://twitter.com/lala_morinigo)
 - Topics - Firebase, Javascript, AngularJS, PWA, NodeJS, MongoDB
 - Location - Buenos Aires, Argentina but currently traveling around as a digital nomad.
 - English, Spanish
 
 ##### Eva Ferreira
+
 - [@evaferreira92] (http://twitter.com/evaferreira92)
 - Topics - CSS, JavaScript, Accessibility
 - Location - Buenos Aires, Argentina.
 - English, Spanish, German
 
 ##### Diana Rodriguez
+
 - [@cotufa82] (http://twitter.com/cotufa82)
 - Topics - Vue, Deployment, IOT, Infrastructure, Docker, Kubernetes
 - Location - Undefined!
@@ -1754,6 +1779,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 ### Australia
 
 ##### Charlie Gerard
+
 - [@devdevcharlie](http://twitter.com/devdevcharlie)
 - [Portfolio](http://charliegerard.github.io)
 - Topics - JavaScript, Web technologies, Creative Coding, IoT, Women in tech
@@ -1789,6 +1815,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - English
 
 ##### Daisy Smith
+
 - [@daisysmells](http://twitter.com/daisysmells)
 - [Portfolio](http://daisymarie128.github.io)
 - Topics - JavaScript, Web technologies, Creative Coding, Women in tech
@@ -1796,18 +1823,21 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - English
 
 ##### Kris Howard
+
 - [@web_goddess](https://twitter.com/web_goddess)
 - [Personal Website](http://krishoward.org/)
 - Topics - Keynotes, Mentoring, Art & Tech, Making/Crafting, Leadership, Career Development, Women in tech
 - Location - Sydney, Australia
 
 ##### Anna Harrison
+
 - [@shinyUX](https://twitter.com/shinyUX)
 - [Personal Website](http://www.annaharrison.com/)
 - Topics - UX, Design, Marketing, Team Building
 - Location - Brisbane, Australia
 
 ##### Meggan Turner
+
 - [@megganeturner](http://twitter.com/megganeturner)
 - [Portfolio](http://megganeturner.github.io)
 - Topics - JavaScript, Women in Tech, Git
@@ -1815,6 +1845,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - English
 
 ##### Tanya Butenko
+
 - [@ButenkoMe](https://twitter.com/ButenkoMe)
 - [LinkedIn](https://www.linkedin.com/in/tanya-butenko-019a6a98/)
 - Topics - JavaScript, Tech Community, Diversity, Mentorship, Women in tech
@@ -1834,7 +1865,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Medellin, Antioquia, Colombia
 - Languages: English - Spanish
 - Frontend Developer. GDE in Angular. I like to learn new things and love sharing it with others. I would like to help more women to get involved in tech industry.
-
 
 ## Organizers
 
@@ -1873,7 +1903,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@crazy4pi314](https://twitter.com/crazy4pi314)
 - [Women in Quantum Computing and Applications (WIQCA)](https://www.wiqca.dev/), Seattle, WA, USA
-- Group Focus - WIQCA helps connect people who are interested in and excited about quantum computing in Seattle, WA. We have meet-ups about once a month where we have speakers, hands-on tutorials, and open-source docs sprints. Our group is an inclusive and welcoming, and emphasizes growing everyone’s skills and abilities in quantum computing and open source development. 
+- Group Focus - WIQCA helps connect people who are interested in and excited about quantum computing in Seattle, WA. We have meet-ups about once a month where we have speakers, hands-on tutorials, and open-source docs sprints. Our group is an inclusive and welcoming, and emphasizes growing everyone’s skills and abilities in quantum computing and open source development.
 - Location - Seattle, WA, USA
 
 #### Anastasia Lanz
@@ -1970,7 +2000,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 ### Canada
 
 #### Laurence de Villers
-- [@L\_de\_V](https://twitter.com/L_de_V)
+
+- [@L_de_V](https://twitter.com/L_de_V)
 - [GDG Montreal Android](http://android-montreal.com/), Montreal, QC
 - Group Focus - Android - GDG - Technical Talks
 - [Women Techmakers Montreal](https://wtmmontreal.com/), Montreal, QC
@@ -1996,11 +2027,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 ### Argentina
 
 #### Laura Morinigo
+
 - [@lala_morinigo](https://twitter.com/lala_morinigo)
 - [GDG Rio de La Plata / Women Techmakers Rio de la Plata](http://www.meetup.com/gdgriodelaplata)
 - Location - Buenos Aires, Argentina
 
 #### Eva Ferreira
+
 - [@evaferreira92](https://twitter.com/evaferreira92)
 - [CSSConf Argentina](https://www.cssconfar.com)
 - Location - Buenos Aires, Argentina
@@ -2015,7 +2048,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@lasdesistemas](https://twitter.com/lasdesistemas)
 - [FemIT Conf](https://twitter.com/femitconf)
-- Group Focus: LasDeSistemas is a transfeminist community made up of cis women, non-binary, gender nonconforming, trans women, trans men, and more, who are part of the technology industry. We are interested in making our work visible, empowering ourselves to face a world that excludes us, training ourselves to have more opportunities, supporting each other in this path and transforming our work spaces into inclusive environments. FemIT Conf is a free and public tech conference with gender perspective. 
+- Group Focus: LasDeSistemas is a transfeminist community made up of cis women, non-binary, gender nonconforming, trans women, trans men, and more, who are part of the technology industry. We are interested in making our work visible, empowering ourselves to face a world that excludes us, training ourselves to have more opportunities, supporting each other in this path and transforming our work spaces into inclusive environments. FemIT Conf is a free and public tech conference with gender perspective.
 - Location - Buenos Aires, Argentina
 
 ### Europe
@@ -2037,6 +2070,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - Public speaking, soft skills, WLB, AI, ML, DL.
 
 #### Victoria Bergquist
+
 - [@vicbergquist](https://twitter.com/vicbergquist)
 - [CSS Frankfurt](https://cssfrankfurt.de), [Vue.js Frankfurt](https://vuejsfrankfurt.de), [Vue Vixens DE](https://twitter.com/vuevixensDE)
 - Group Focus - Web Development, CSS, Vue.js, Diversity, Public Speaking, Workshops, JavaScript
@@ -2059,6 +2093,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - London, United Kingdom
 
 #### Annabel Church
+
 - [@annabelchurch](http://twitter.com/annabelchurch)
 - [Hacks/Hackers Berlin](https://www.meetup.com/Hacks-Hackers-Berlin/), Germany
 - Group Focus - Journalism / Technology, Data Driven Journalism, Newsroom tech, Newsnerds
@@ -2132,13 +2167,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Kseniia Shumelchyk
 
- - [@KseniiaS](https://twitter.com/KseniiaS)
- - [Facebook](https://www.facebook.com/kseniya.shumelchyk)
- - [GDG Dnipro] (https://www.facebook.com/gdgdnipro), Dnipro, Ukraine
- - Group Focus - Android Development (UI/UX, Security, Performance), Mobile Architecture, VR/AR, Wearables, Cloud, ML, Google technologies
- - [Women Techmakers Ukraine] (https://www.facebook.com/wtm.ukraine), Dnipro, Ukraine
- - Group Focus - Engineering, Quality assurance, Project & product management, Soft skills, Diversity, Google technologies, Study Jams
- - Location - Dnipro, Ukraine
+- [@KseniiaS](https://twitter.com/KseniiaS)
+- [Facebook](https://www.facebook.com/kseniya.shumelchyk)
+- [GDG Dnipro] (https://www.facebook.com/gdgdnipro), Dnipro, Ukraine
+- Group Focus - Android Development (UI/UX, Security, Performance), Mobile Architecture, VR/AR, Wearables, Cloud, ML, Google technologies
+- [Women Techmakers Ukraine] (https://www.facebook.com/wtm.ukraine), Dnipro, Ukraine
+- Group Focus - Engineering, Quality assurance, Project & product management, Soft skills, Diversity, Google technologies, Study Jams
+- Location - Dnipro, Ukraine
 
 #### Katerina Skroumpelou
 
@@ -2169,30 +2204,33 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Lana Novikova
 
- - [@_Unsolved_](https://twitter.com/_Unsolved_)
- - [Write the docs Russia](https://www.meetup.com/Write-the-Docs-Moscow/)
- - [RussiaWtd](https://twitter.com/RussiaWtd)
- - [KnowledgeConf](http://knowledgeconf.ru/)
- - [Facebook](https://www.facebook.com/svetlnovikova)
- - [LinkedIn](https://ru.linkedin.com/in/svetlana-novikova)
- - Group Focus - Technical documentation, knowledge management in IT, content management
- - Location - Moscow, Russia
+- [@_Unsolved_](https://twitter.com/_Unsolved_)
+- [Write the docs Russia](https://www.meetup.com/Write-the-Docs-Moscow/)
+- [RussiaWtd](https://twitter.com/RussiaWtd)
+- [KnowledgeConf](http://knowledgeconf.ru/)
+- [Facebook](https://www.facebook.com/svetlnovikova)
+- [LinkedIn](https://ru.linkedin.com/in/svetlana-novikova)
+- Group Focus - Technical documentation, knowledge management in IT, content management
+- Location - Moscow, Russia
 
- #### Lian Li
- - [@Chimney42] (https://twitter.com/Chimney42)
- - [ServerlessDays Amsterdam Conference] (https://serverlessdays.nl/)
- - [ServerlessDays Amsterdam Meetup] (https://www.meetup.com/ServerlessDays-Amsterdam/)
- - Location - Amsterdam, The Netherlands
+#### Lian Li
+
+- [@Chimney42] (https://twitter.com/Chimney42)
+- [ServerlessDays Amsterdam Conference] (https://serverlessdays.nl/)
+- [ServerlessDays Amsterdam Meetup] (https://www.meetup.com/ServerlessDays-Amsterdam/)
+- Location - Amsterdam, The Netherlands
 
 ### Nigeria
 
 #### Ada Nduka Oyom
+
 - [@kolokodess](https://twitter.com/kolokodess)
 - [She Code Africa](http://medium.com/shecodeafrica), Africa
 - Group Focus - Software development, Hardware Engineering, web and mobile development, Public speaking, Women in tech
 - Location - Lagos, Nigeria
 
 #### Emem Brownson
+
 - [@brownjee001](https://twitter.com/brownjee001)
 - [Girls Programming Academy](https://web.facebook.com/GirlsProAc/)
 - [WTM Uyo](https://web.facebook.com/WomenTechmakersUyo/)
@@ -2201,11 +2239,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Uyo, Nigeria
 
 #### Egwuenu Gift
+
 - [@lauragift21](https://twitter.com/lauragift21)
 - [Concatenate Conference](https://concatenate.io/)
 - Group Focus- Front End Development, Design systems, Performance and Animation
 - Location - Lagos, Nigeria
-
 
 #### Omoike Sarah Igho
 
@@ -2215,11 +2253,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Meetup](https://www.meetup.com/Lagos-Women-in-Machine-Learning-Data-Science/)
 - How to Contact - [twitter](https://twitter.com/WiMLDS_Lagos), [email](Lagos@wimlds.org)
 - Group Focus: Machine Learning, Data Science, Artificial Inteligence, Women In Tech, Public speaking, ML Workshops, Gender Minorities.
-- Location: Lagos, Nigeria 
+- Location: Lagos, Nigeria
 
 ### Brazil
 
 #### Thaissa Candella
+
 - [thaissacandella](https://www.linkedin.com/in/thaissacandella/)
 - Google Developer Group Campinas
   - [Meetup](https://www.meetup.com/gdgcampinas/)
@@ -2234,6 +2273,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Japan
 
 ##### Tutti Quintella
+
 - [Twitter @tuttiq](http://twitter.com/tuttiq)
 - [Github @tuttiq](http://github.com/tuttiq)
 - Women Who Code Tokyo
@@ -2245,6 +2285,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - English, Portuguese
 
 #### Xiaoli Shen
+
 - [@furixturi](http://twitter.com)
 - [Personal Website](http://www.shenxiaoli.com/) | [Github Web Dev](http://twitter.com/fr-xiaoli) | [Github Other Stuff](http://twitter.com/furixturi)
 - How to Contact - [twitter](http://twitter.com), [email](alabebop@tmail.com)
@@ -2256,6 +2297,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 ### Australia
 
 #### Larene Le Gassick
+
 - [@larenelg](https://twitter.com/larenelg)
 - Women Who Code Brisbane
   - [Meetup](https://www.meetup.com/Women-Who-Code-Brisbane)
@@ -2267,6 +2309,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Brisbane, Australia
 
 #### Kris Howard
+
 - [@web_goddess](https://twitter.com/web_goddess)
 - [Personal Website](http://krishoward.org/)
 - [YOW! Conferences and Workshops](http://yowconference.com.au/)
@@ -2277,6 +2320,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 
 #### Tanya Butenko
+
 - [@ButenkoMe](https://twitter.com/ButenkoMe)
 - [LinkedIn](https://www.linkedin.com/in/tanya-butenko-019a6a98/)
 - Women Who Code Sydney
@@ -2292,6 +2336,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 ### Colombia
 
 #### Manuela Castrillon
+
 - [@manucastrillonm](https://twitter.com/ManuCastrillonM)
 - co-organizer of [@pionerasdev](https://pionerasdev.co/), [@codexudea](https://github.com/CodexUdeA) | 🦊 [Vue Vixens Colombia](https://twitter.com/vuevixensCO) chapter leader | 🚩 GitHub Campus Expert
 - [Website](http://www.manuela.dev), [Medium](https://medium.com/@ManuCastrillonM), [GitHub](https://github.com/ManuCastrillonM)
@@ -2366,7 +2411,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### India
 
-####  Manjula Dune
+#### Manjula Dune
 
 - [@manjula_dube](http://twitter.com/manjula_dube)
 - Email Address - [dube.manjula668@gmail.com]
@@ -2379,19 +2424,21 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 ### Nigeria
 
 #### Ada Nduka Oyom
+
 - [@kolokodess](https://twitter.com/kolokodess)
 - How to Contact - via Twitter
-- Topics for Mentoring - Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, community building
+- Topics for Mentoring - Web development, Students in Bootcamps, Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, community building
 - Location - Lagos, Nigeria
 
 #### Edidiong Asikpo
+
 - [@Didicodes](https://twitter.com/Didicodes)
 - How to Contact - via Twitter
-- Topics for Mentoring -Developer Relations, Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, Community building
+- Topics for Mentoring -Developer Relations, Web development, Students in Bootcamps, Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, Community building
 - Location - Lagos, Nigeria
 
-
 #### Emem Brownson
+
 - [@brownjee001](https://twitter.com/brownjee001)
 - How to Contact - (mailto:brownjee001@gmail.com) or via Twitter
 - Topics for Mentoring - Android, Public Speaking, Project Management, Community building, Meetups, Presentation
@@ -2404,7 +2451,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Email Address - [nennenwodo@gmail.com]
 - Topics for Mentoring - JavaScript, Laravel, DevOps, Continuous Integration and Deployment, Android Development
 - Location - Lagos, Nigeria
-
 
 ### Europe
 
@@ -2447,6 +2493,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Japan
 
 ##### Tutti Quintella
+
 - [Twitter @tuttiq](http://twitter.com/tuttiq)
 - [Github @tuttiq](http://github.com/tuttiq)
 - Email: tutti@womenwhocode.com
@@ -2473,6 +2520,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 
 #### Tanya Butenko
+
 - [@ButenkoMe](https://twitter.com/ButenkoMe)
 - [LinkedIn](https://www.linkedin.com/in/tanya-butenko-019a6a98/)
 - Email Address - [tanya@butenko.me]
@@ -2491,7 +2539,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Mexico City, Mexico
 - Languages besides English - Spanish
 - I've been a full stack developer for 13 years and am willing to help out any women out there that are looking to learn new technologies or further their knowledge into existing ones.
-
 
 ## Getting Started
 
@@ -2551,7 +2598,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Languages besides English - Hebrew
 - I working on my online persona in tech and would much appriciate your help and guidence.
 
-
 #### Oana Galbenu
 
 - [@oanaalex](https://twitter.com/oanaalex)
@@ -2603,7 +2649,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Naomi Usman
 
-- [@nayneenarh_](http://twitter.com/nayneenarh_)
+- [@nayneenarh\_](http://twitter.com/nayneenarh_)
 - [Personal Website](http://geniedigital.com.ng)
 - chideu@gmail.com
 - Topics of Interest- HTML, CSS, JavaScript, Azure cloud Engineering
@@ -2620,7 +2666,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics of Interest - OpenFrameworks, Hardware, Machine Learning, C++, Graphics, WebGL, OpenGL, Python, Security
 - Location - Lagos, Nigeria
 - I'll like to get more experience with the topics mentioned above. Also I'm primarily a Web Developer with 3.5-4yrs experience. I'd like to expand my knowledge with some help learning other languages like C++ or Python, to help me grow my career path.
-
 
 ## Contributing
 
