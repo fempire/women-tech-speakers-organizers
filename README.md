@@ -1551,6 +1551,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Cluj-Napoca, Romania; Berlin, Germany
 - Languages besides English - Spanish, French.
 
+#### Chinatu Uzuegbu
+
+- [@china4_god](https://twitter.com/china4_god)
+- [LinkedIn](https://ng.linkedin.com/in/chinatu-uzuegbu-67593119?trk=author_mini-profile_title)
+- Cyber Security Presentations - (https://www.slideshare.net/Chinatu) 
+- Topics - Cyber Security, Cyber Crime, Data Privacy, Information Systems, Database Management
+- Location - Lagos, Nigeria
+
 ### India
 
 #### Neha Sharma
