@@ -753,6 +753,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Event Sourcing, Legacy Application Development, Organizing Meetups/Communities, WomenInTech
 - Location - Raleigh, NC
 
+#### Natalie Stroud
+
+- [@heyitsnata11y](https://twitter.com/heyitsnata11y)
+- [natalieastroud.com](https://natalieastroud.com/)
+- Topics - Accessibility
+- Location - Cincinnati, OH
+
 #### Marcy Sutton
 
 - [@marcysutton](http://twitter.com/marcysutton)
