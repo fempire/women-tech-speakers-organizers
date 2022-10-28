@@ -1552,6 +1552,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### India
 
+#### Kriti Doneria
+
+- [@kritidoneria](https://www.linkedin.com/in/kritidoneria/)
+- Email Address - [doneriakriti@gmail.com]
+- Topics of Interest - Machine Learning and Artificial intelligence, Responsible AI, Emerging technologies :)
+- Location - Gurugram, India
+- Languages besides English - Hindi
+
 #### Neha Sharma
 
 - [@hellonehha](https://twitter.com/hellonehha)
@@ -1597,6 +1605,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [LinkedIn](https://www.linkedin.com/in/manjula-dube-9b5b3550)
 - I am currently leading the Google Developer Group - WTM.
 - Location - Mumbai, India
+
+#### Kriti Doneria
+
+- [@kritidoneria](https://www.linkedin.com/in/kritidoneria/)
+- Email Address - [doneriakriti@gmail.com]
+- Topics of Interest - Machine Learning and Artificial intelligence, Responsible AI, Emerging technologies :)
+- Location - Gurugram, India
+- Languages besides English - Hindi
 
 #### Kritika Maheshwari
 
@@ -2439,7 +2455,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### India
 
-#### Manjula Dune
+#### Kriti Doneria
+
+- [@kritidoneria](https://www.linkedin.com/in/kritidoneria/)
+- Email Address - [doneriakriti@gmail.com]
+- Topics of Interest - Machine Learning and Artificial intelligence, Responsible AI, Emerging technologies :)
+- Location - Gurugram, India
+- Languages besides English - Hindi
+
+####  Manjula Dune
 
 - [@manjula_dube](http://twitter.com/manjula_dube)
 - Email Address - [dube.manjula668@gmail.com]
@@ -2647,6 +2671,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - I am currently working on building up my portfolio and making my first mobile app. I would like to get involved in speaking and writing on code-related topics.
 
 ### India
+
+#### Kriti Doneria
+
+- [@kritidoneria](https://www.linkedin.com/in/kritidoneria/)
+- Email Address - [doneriakriti@gmail.com]
+- Topics of Interest - Machine Learning and Artificial intelligence, Responsible AI, Emerging technologies :)
+- Location - Gurugram, India
+- Languages besides English - Hindi
+- I am currently interested in GANS and ethical AI. I like presenting st conferences and meeting people working in similar field.
 
 #### Meghna Gupta
 
