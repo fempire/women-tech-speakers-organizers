@@ -1442,14 +1442,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - the Netherlands (will travel nationally and internationally)
 - Languages besides English - Dutch
 
-### Nigeria
-
-#### Duru Cynthia
-
-- [@Duru_cece](https://twitter.com/durucece)
-- Topics - AWS, Azure, PHP,JavaScript,DevOps, CI/CD, Cloud Engineering,Solutions Architect
-- Location - Lagos, Nigeria
-
 #### Hannah Wolfe
 
 - [@erisDS](http://twitter.com/ErisDS)
@@ -1701,6 +1693,20 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@Ifeoma\_\_N](https://twitter.com/Ifeoma__N)
 - Topics - Design Systems, HTML, CSS, Web Performance, Web Accessibility, JavaScript, VueJS
+- Location - Lagos, Nigeria
+
+#### Duru Cynthia
+
+- [@Duru_cece](https://twitter.com/durucece)
+- Topics - AWS, Azure, PHP,JavaScript,DevOps, CI/CD, Cloud Engineering,Solutions Architect
+- Location - Lagos, Nigeria
+
+#### Chinatu Uzuegbu
+
+- [@china4_god](https://twitter.com/china4_god)
+- [LinkedIn](https://ng.linkedin.com/in/chinatu-uzuegbu-67593119?trk=author_mini-profile_title)
+- Cyber Security Presentations - (https://www.slideshare.net/Chinatu) 
+- Topics - Cyber Security, Cyber Crime, Data Privacy, Information Systems, Database Management
 - Location - Lagos, Nigeria
 
 ### South Africa
