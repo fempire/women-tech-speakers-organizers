@@ -1560,6 +1560,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Gurugram, India
 - Languages besides English - Hindi
 
+#### Khushboo Goel
+
+- [LinkedIn](https://www.linkedin.com/in/khushboogoel01/)
+- [GitHub](https://github.com/KhushbooGoel01)
+- [YouTube](https://www.youtube.com/c/KhushbooGoel)
+- Topics - Building @SuperwomenDAO, SWE Intern @Microsoft, WE Scholar'20, Youtuber, Speaker
+- Location - New Delhi, Delhi, India
+
 #### Neha Sharma
 
 - [@hellonehha](https://twitter.com/hellonehha)
