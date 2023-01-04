@@ -1046,13 +1046,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Sarah Kraynick
 
-- [@luvnumberz](http://twitter.com/luvnumberz)
-- [Writing](https://medium.com/@luvnumberz)
+- [@r_malware](http://twitter.com/r_malware)
 - [GitHub](https://github.com/skraynick)
 - [LinkedIn](https://www.linkedin.com/in/sarahkraynick/)
-- Email: sarah.kraynick@e253solutions.com
-- Topics: Cybersecurity, Cyberwarfare
-- Location - Split my time between Prince Albert Sk, Vancvouer BC, and Amsterdam NL.
+- Email: srkraynick@gmail.com
+- Topics: Cyber Security (focus on mobile/IoT), Cyber Warfare, Cyber Crime, Malware, Reverse Engineering 
+- Location - Kingston/Ottawa
 
 #### Sophie Déziel
 
