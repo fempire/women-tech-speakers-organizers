@@ -558,8 +558,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Kathleen McMahon
 
 - [@resource11](http://twitter.com/resource11)
-- [kathleenmcmahon.me](https://kathleenmcmahon.me)
-- Topics - Accessibility, React, Design Systems, Open Source, Women in Tech
+- [kathleenmcmahon.dev](https://kathleenmcmahon.dev)
+- Topics - Design Systems, Component APIs, Accessibility, JavaScript, React, Open Source, Conference Buddy
 - Location - Boston, MA
 
 #### Catherine Meade
@@ -1050,7 +1050,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [GitHub](https://github.com/skraynick)
 - [LinkedIn](https://www.linkedin.com/in/sarahkraynick/)
 - Email: srkraynick@gmail.com
-- Topics: Cyber Security (focus on mobile/IoT), Cyber Warfare, Cyber Crime, Malware, Reverse Engineering 
+- Topics: Cyber Security (focus on mobile/IoT), Cyber Warfare, Cyber Crime, Malware, Reverse Engineering
 - Location - Kingston/Ottawa
 
 #### Sophie Déziel
@@ -1735,7 +1735,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@china4_god](https://twitter.com/china4_god)
 - [LinkedIn](https://ng.linkedin.com/in/chinatu-uzuegbu-67593119?trk=author_mini-profile_title)
-- Cyber Security Presentations - (https://www.slideshare.net/Chinatu) 
+- Cyber Security Presentations - (https://www.slideshare.net/Chinatu)
 - Topics - Cyber Security, Cyber Crime, Data Privacy, Information Systems, Database Management
 - Location - Lagos, Nigeria
 
@@ -2470,7 +2470,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Gurugram, India
 - Languages besides English - Hindi
 
-####  Manjula Dune
+#### Manjula Dune
 
 - [@manjula_dube](http://twitter.com/manjula_dube)
 - Email Address - [dube.manjula668@gmail.com]
