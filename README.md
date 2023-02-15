@@ -1903,6 +1903,27 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English, Russian
 
+#### Amy Kapernick
+
+- [@Amys_Kapers](https://twitter.com/amys_kapers)
+- [Personal Website](https://amyskapers.dev/)
+- Topics - Front End, HTML, CSS, Accessibility, Testing, JavaScript, Machine Learning, Serverless, WordPress
+- Location - Perth, Australia
+
+#### Melissa Houghton
+
+- [@meliss_houghton](https://twitter.com/meliss_houghton)
+- [Personal Website](https://melissahoughton.dev/)
+- Topics - .NET, Blazor, Azure, Angular, C# .NET, ASP .NET
+- Location - Busselton, Australia
+
+#### Michelle Mannering
+
+- [@mishmanners](https://twitter.com/mishmanners)
+- [Personal Website](https://t.co/rRITsLBc9K)
+- Topics - AI, Gaming, eSports, Streaming, StartUps, DevOps, Machine Learning
+- Location - Melbourne, Australia
+
 ### Colombia
 
 #### Vanessa Aristizabal
@@ -2383,6 +2404,20 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   - [LinkedIn](https://www.linkedin.com/company/nodegirls-australia/)
   - [Official](http://nodegirls.com.au/)
 - Location - Sydney, Australia
+
+#### Amy Kapernick
+
+- [@Amys_Kapers](https://twitter.com/amys_kapers)
+- [DDD Perth](https://dddperth.com), Perth, Australia
+- Group Focus - Developers, Designers, Data Scientists, DevOps, Everyone!
+- Location - Perth, Australia
+
+#### Rebecca Waters
+
+- [@bec_h2o](https://twitter.com/bec_h2o)
+- [DDD Perth](https://dddperth.com), Perth, Australia
+- Group Focus - Developers, Designers, Data Scientists, DevOps, Everyone!
+- Location - Perth, Australia
 
 ### Colombia
 
