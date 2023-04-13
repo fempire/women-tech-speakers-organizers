@@ -1308,6 +1308,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lviv, Ukraine (will travel nationally & internationally)
 - Languages besides English - Ukrainian, Russian
 
+#### Natalia Nazaruk
+
+- [@natalianapl](http://twitter.com/natalianapl)
+- [LinkedIn](https://www.linkedin.com/in/natalia-nazaruk/)
+- Topics - Developer on stage, diversity in tech, soft skills, developer's personal brand
+- Location - Gdańsk, Poland
+- Languages besides English - Polish
+
 #### Lana Novikova
 
 - [@_Unsolved_](https://twitter.com/_Unsolved_)
@@ -2193,6 +2201,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Lviv, Ukraine
 - Group Focus - The biggest Google tech event in CEE
 - Location - Lviv, Ukraine
+
+#### Natalia Nazaruk
+
+- [@natalianapl](http://twitter.com/natalianapl)
+- [GDG 3city](https://gdg.community.dev/gdg-3city/)), 3city (Gdańsk, Sopot, Gdynia), Poland
+- Group Focus - Google Technology, Android, Web and Cloud, soft skills topics
+- Location - Gdańsk, Poland
 
 #### Diana Pinchuk
 
