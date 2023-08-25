@@ -1806,12 +1806,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Argentina
 
-##### Laura Morinigo
+##### Diana Rodriguez
 
-- [@lala_morinigo] (http://twitter.com/lala_morinigo)
-- Topics - Firebase, Javascript, AngularJS, PWA, NodeJS, MongoDB
-- Location - Buenos Aires, Argentina but currently traveling around as a digital nomad.
-- English, Spanish
+- [@cotufa82] (http://twitter.com/cotufa82)
+- Topics - Vue, Deployment, IOT, Infrastructure, Docker, Kubernetes
+- Location - Undefined!
+- English, Spanish, Portuguese
 
 ##### Eva Ferreira
 
@@ -1820,18 +1820,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Buenos Aires, Argentina.
 - English, Spanish, German
 
-##### Diana Rodriguez
+##### Laura Morinigo
 
-- [@cotufa82] (http://twitter.com/cotufa82)
-- Topics - Vue, Deployment, IOT, Infrastructure, Docker, Kubernetes
-- Location - Undefined!
-- English, Spanish, Portuguese
+- [@lala_morinigo] (http://twitter.com/lala_morinigo)
+- Topics - Firebase, Javascript, AngularJS, PWA, NodeJS, MongoDB
+- Location - Buenos Aires, Argentina but currently traveling around as a digital nomad.
+- English, Spanish
 
 ##### Nataya Flores
 
 - [@natayadev] (http://twitter.com/natayadev)
 - Topics - Deployment, Data, AI-ML
-- Location - Misiones - Argentina
+- Location - Misiones, Argentina
 - Spanish
   
 ### Australia
