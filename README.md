@@ -1827,6 +1827,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Undefined!
 - English, Spanish, Portuguese
 
+##### Nataya Flores
+
+- [@natayadev] (http://twitter.com/natayadev)
+- Topics - Deployment, Data, AI-ML
+- Location - Misiones - Argentina
+- Spanish
+  
 ### Australia
 
 ##### Charlie Gerard
