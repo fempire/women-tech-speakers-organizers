@@ -1552,7 +1552,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Elizabeth Adegbaju
 
 - [@elizabethadegbaju](https://www.linkedin.com/in/elizabethadegbaju)
-- [Personal Website](elizabeth.adegbaju.com)
+- [Personal Website](https://elizabeth.adegbaju.com)
 - Topics - AWS,Cloud Engineering, DevOps, Women in Tech, Python
 - Location - Munich, Germany
 - Languages besides English - N/A
