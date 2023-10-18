@@ -1079,6 +1079,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Montreal, QC, Canada
 - Languages besides English - French
 
+#### Vaishnavi Venkata Subramanian
+
+- [LinkedIn](https://www.linkedin.com/in/vaishnavitv/)
+- [GitHub](https://github.com/vaishnavitv)
+- Email: vaishnavi.subramanian dot gmail dot com
+- Conference/Keynote Speaker (Software Engineering, Visual Communication, API Best Practices)
+- Topics - Developer Evangelism, Git, Web Accessibility, DEI, UI/UX, Women in Tech, Neurodiversity and Product Design, Web Development, Best practices in Software Engineering
+- Location - Vancouver, BC, Canada
+- Languages besides English - Tamil, Telugu, Hindi
+
 ### Colombia
 
 #### Lina María Montaño Ramirez
