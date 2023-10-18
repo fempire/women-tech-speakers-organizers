@@ -2074,6 +2074,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Hackeryou](http://hackeryou.com/)
 - Location - Toronto, ON
 
+#### Vaishnavi Venkata Subramanian
+
+- [LinkedIn](https://www.linkedin.com/in/vaishnavitv/)
+- [GDG Burnaby](https://gdg.community.dev/gdg-burnaby/), Burnaby, BC
+- Group Focus - Accessibility, Software Engineering, Neurodiversity, Visual Communication, Technical Talks, Public Speaking and Professional Development, Empower Women In Tech
+- [Women Techmakers Vancouver](https://twitter.com/gwtmvancouver), Vancouver, BC
+- Location - Vancouver, BC
+
+  
 ### Colombia
 
 #### Lina María Montaño Ramirez
