@@ -38,6 +38,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Colombia](#colombia)
 - [Mentors](#mentors)
   - [United States](#united-states-2)
+  - [Canada](#canada)
   - [India](#india-1)
   - [Europe](#europe-2)
   - [Asia](#asia-2)
@@ -2695,6 +2696,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Leiden, Netherlands
 - Languages besides English - Dutch
 - I am currently working on building up my portfolio and making my first mobile app. I would like to get involved in speaking and writing on code-related topics.
+
+### Canada
+
+#### Vaishnavi Venkata Subramanian
+
+- [LinkedIn](https://www.linkedin.com/in/vaishnavitv/)
+- [GitHub](https://github.com/vaishnavitv)
+- vaishnavi.subramanian at gamil dot com
+- How to Contact - Email
+- Topics for Mentoring - Visual COmmunication, Story Telling, Students in Bootcamps, How to Mentor Someone, How to be an Awesome Mentee, Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building
+- Location - Vancouver, BC, Canada
 
 ### India
 
