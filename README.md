@@ -159,8 +159,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ##### Micheleh "MC" Center
 
-- [@MichelehCenter](https://twitter.com/MichelehCenter)
-- [micheleh.com](http://www.micheleh.com)
 - How to Contact - twitter, LinkedIn or email (m@micheleh.com OR micheleh.center@turner.com)
 - Topics - PHP, Drupal, Laravel, Wordpress, CSS/Sass/Bootstrap/Grids, Rest API, React, Vue, JS in general, "from Designer to Developer - how to," "Designing w/ a Developer mindset or vice versa"
 - Location - Atlanta, GA, USA
@@ -242,7 +240,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Sangeetha KP
 
-- [@sangee_kp](twitter.com/sangee_kp)
+- [@sangee_kp](https://twitter.com/sangee_kp)
 - [LinkedIn](https://www.linkedin.com/in/sangeetha-kp-029687bb/)
 - Topics - React, Android
 - Location - Seattle, WA (will travel nationally & internationally)
@@ -637,15 +635,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Lyndsey Padget
 
-- [@lyndseypadget](https://twitter.com/lyndseypadget)
-- [lyndseypadget.com](http://www.lyndseypadget.com)
 - Topics - Git, REST, Node.js, JavaScript, Microservices, Back-end development, Public Speaking, Java, Women in Tech, Work/life balance, Badassery
 - Location - Kansas City, MO
 
 #### Caterina Paun
 
 - [@caterinasworld](http://twitter.com/caterinasworld)
-- [caterinasworld.com](https://caterinasworld.github.io/)
 - Topics - Prototyping, React, design systems, voice apps, NLP, community building, leadership
 - Location - Portland, OR, USA
 
