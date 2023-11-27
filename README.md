@@ -1152,6 +1152,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Frankfurt, Germany (will travel nationally and internationally)
 - Languages besides English - Norwegian, German, Japanese
 
+#### Marie-Alice Blete
+
+- [@mariealice_b](https://twitter.com/mariealice_b)
+- Personal website - [mariealiceblete.com](http://mariealiceblete.com)
+- [LinkedIn](https://www.linkedin.com/in/mblete)
+- Topics - AI, LLMs, Machine Learning, POC to Production
+- Location - Lyon, France (will travel nationally and internationally)
+- Languages besides English - French
+  
 #### Eliza Camberogiannis
 
 - [@elizacamber](https://twitter.com/ElizaCamber)
