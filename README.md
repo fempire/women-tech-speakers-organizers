@@ -102,8 +102,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Stella Biderman
 
-- [@BlancheMinerva](http://twitter.com/blancheminerva)
-- [stellabiderman.com](http://www.stellabiderman.com)
+- [@BlancheMinerva](https://twitter.com/blancheminerva)
+- [stellabiderman.com](https://www.stellabiderman.com)
 - Topics - Generative AI, Open Source, Non-Profit Research 
 - Location - Washington, DC
 
