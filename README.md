@@ -1030,6 +1030,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics: Golang, React, Ruby/Rails, GraphQL, Elasticsearch, Rust, Flutter, Serverless, Mobile Voting
 - Location: Miami/Fort Lauderdale, FL, USA
 - Languages besides English: Portuguese, Spanish, a dash of French
+- 
+#### Maddy Montaquila
+
+- [@maddymontaquila](https://twitter.com/maddymontaquila)
+- [LinkedIn](https://www.linkedin.com/in/maddyleger1/)
+- Topics: .NET, .NET MAUI, Cross-Platform Apps, Developer Productivity, Mobile Tooling
+- Location: Boston, MA, USA
 
 ### Canada
 
