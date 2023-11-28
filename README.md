@@ -100,6 +100,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Software Engineering, Web Development, DevOps, Engineering Culture, Project Challenges
 - Location - Washington, DC
 
+#### Stella Biderman
+
+- [@BlancheMinerva](https://twitter.com/blancheminerva)
+- [stellabiderman.com](https://www.stellabiderman.com)
+- Topics - Generative AI, Open Source, Non-Profit Research 
+- Location - Washington, DC
+
 #### Jessica Bell
 
 - [@SirJesstheBrave](http://twitter.com/SirJesstheBrave)
