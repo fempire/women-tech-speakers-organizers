@@ -1801,7 +1801,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [GitHub](https://github.com/ann-kilzer)
 - [Personal Website](https://annkilzer.net)
 - Topics - AWS, TypeScript, Golang, Creative Coding, Quality, Leadership, Privacy
-- English
 
 #### Xiaoli Shen
 
