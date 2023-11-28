@@ -69,7 +69,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Cotishea Anderson
 
 - [@cotishea](http://twitter.com/cotishea)
-- [LinkedIn(https://www.linkedin.com/in/cotishea)
+- [LinkedIn](https://www.linkedin.com/in/cotishea)
 - Topics - Managing projects in Azure Devops vs Github, Women in Tech
 - Location - Dallas, Texas
 
@@ -682,6 +682,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [graphqlworkshop.com](https://www.graphqlworkshop.com/)
 - Topics - React, GraphQL
 - Location - Tahoe City, CA
+
+#### Brittney Postma
+
+- [@BrittneyPostma](http://twitter.com/brittneypostma)
+- [Personal Website](http://www.brittneypostma.com)
+- [LinkedIn](https://www.linkedin.com/in/brittney-postma-868928178)
+- Topics - Svelte & SvelteKit, Design Systems, Frontend, and Community
+- Location - Holland, Michigan
 
 #### Natalie Qabazard
 
