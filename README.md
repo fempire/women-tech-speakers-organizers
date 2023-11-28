@@ -1096,6 +1096,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Montreal, QC, Canada
 - Languages besides English - French
 
+#### Erica Pisani
+- [Twitter](https://twitter.com/ericapisani?ref=ericapisani.dev)
+- [LinkedIn](https://www.linkedin.com/in/erica-pisani-5b77ab84/?ref=ericapisani.dev)
+- [Personal site (which includes videos of past talks)](https://ericapisani.dev)
+- Email: hey@ericapisani.dev
+- Topics: Edge computing, career brag sheets
+- Location: Toronto, ON
+
 ### Colombia
 
 #### Lina María Montaño Ramirez
