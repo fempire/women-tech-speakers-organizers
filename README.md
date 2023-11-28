@@ -107,6 +107,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, AngularJS, HTML/CSS, SASS, Git/Version Control, Career Change, Web Development
 - Location - Washington, DC
 
+#### Alessia Bellisario
+
+- [@alessbell](http://twitter.com/alessbell)
+- [aless.co](https://aless.co)
+- Topics - JavaScript/TypeScript, GraphQL, React, Apollo Client
+- Location - New York, NY
+
 #### Tracey Berg-Fulton
 
 - [@BergFulton](http://twitter.com/bergfulton)
