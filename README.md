@@ -69,7 +69,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Cotishea Anderson
 
 - [@cotishea](http://twitter.com/cotishea)
-- [LinkedIn(https://www.linkedin.com/in/cotishea)
+- [LinkedIn](https://www.linkedin.com/in/cotishea)
 - Topics - Managing projects in Azure Devops vs Github, Women in Tech
 - Location - Dallas, Texas
 
@@ -98,6 +98,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@laurieontech](https://twitter.com/laurieontech)
 - [laurieontech.com](https://laurieontech.com/)
 - Topics - Software Engineering, Web Development, DevOps, Engineering Culture, Project Challenges
+- Location - Washington, DC
+
+#### Stella Biderman
+
+- [@BlancheMinerva](http://twitter.com/blancheminerva)
+- [stellabiderman.com](http://www.stellabiderman.com)
+- Topics - Generative AI, Open Source, Non-Profit Research 
 - Location - Washington, DC
 
 #### Jessica Bell
