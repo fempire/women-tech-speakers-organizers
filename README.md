@@ -1397,6 +1397,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Amsterdam, Netherlands
 - Languages besides English - Romanian, Dutch
 
+#### Layla Porter
+
+- [@LaylaCodesIt](http://twitter.com/laylacodesit)
+- [layla.dev](https://layla.dev)
+- Topics - .NET, Architecture, distributed systems
+- Location - UK
+
 #### Irina Preda
 
 - [@IrinaPreda](https://twitter.com/IrinaPreda)
