@@ -683,6 +683,8 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - React, GraphQL
 - Location - Tahoe City, CA
 
+
+
 #### Natalie Qabazard
 
 - [@natqab](http://twitter.com/natqab)
@@ -1354,6 +1356,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Keynote Speeches, Angular, Polymer, Machine Learning, Community
 - Location - Amsterdam, Netherlands
 - Languages besides English - Romanian, Dutch
+
+#### Layla Porter
+
+- [@LaylaCodesIt](http://twitter.com/laylacodesit)
+- [layla.dev](https://layla.dev)
+- Topics - .NET, Architecture, distributed systems
+- Location - UK
 
 #### Irina Preda
 
