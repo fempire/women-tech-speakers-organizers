@@ -1549,6 +1549,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Cluj-Napoca, Romania; Berlin, Germany
 - Languages besides English - Spanish, French.
 
+#### Ramona Schwering
+
+- [@leichteckig](https://twitter.com/leichteckig)
+- [Website](https://ramona.codes)
+- [LinkedIn](https://www.linkedin.com/in/ramona-schwering/)
+- Topics - Frontend Development (Javascript, CSS), Test Automation, Web Security, Identity
+- Location - Germany, Münster
+- Languages besides English - German and Dutch
+
 ### India
 
 #### Kriti Doneria
