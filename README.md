@@ -620,6 +620,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Keynote Speeches, Cloud Computing, AWS, CSS3 Animations, HTML5, Web Accesability, UI Architecture, Front-End UI, Women In Tech, Diversity & Inclusion, Tech Education, JavaScript, NodeJS, NPM, Git, Documentation Best Practices
 - Location - Seattle, WA, USA
 
+
+##### Tutti Quintella
+
+- [Twitter @tuttiq](http://twitter.com/tuttiq)
+- [Github @tuttiq](http://github.com/tuttiq)
+- Topics - Ruby on Rails, Web technologies, Project management, Team management, Leadership, Women in tech
+- Location - San Francisco, CA, USA (eventually Brazil, able to travel to speak on occasions)
+- English, Portuguese
+
 #### Eryn O'Neil
 
 - [@eryno](https://twitter.com/eryno)
@@ -1788,13 +1797,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Japan
 
-##### Tutti Quintella
-
-- [Twitter @tuttiq](http://twitter.com/tuttiq)
-- [Github @tuttiq](http://github.com/tuttiq)
-- Topics - Ruby on Rails, Web technologies, Project management, Team management, Leadership, Women in tech
-- Location - Tokyo, Japan (eventually Brazil, able to travel to speak on occasions)
-- English, Portuguese
+##### Ann Kilzer
+- [LinkedIn](https://www.linkedin.com/in/annkilzer/)
+- [GitHub](https://github.com/ann-kilzer)
+- [Personal Website](https://annkilzer.net)
+- Topics - AWS, TypeScript, Golang, Creative Coding, Quality, Leadership
+- English
 
 #### Xiaoli Shen
 
