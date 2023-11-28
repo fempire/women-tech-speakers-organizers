@@ -699,6 +699,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, React
 - Location - San Francisco, CA
 
+##### Tutti Quintella
+
+- [Twitter @tuttiq](http://twitter.com/tuttiq)
+- [Github @tuttiq](http://github.com/tuttiq)
+- Topics - Ruby on Rails, Web technologies, Project management, Team management, Leadership, Women in tech
+- Location - San Francisco, CA, USA (eventually Brazil, able to travel to speak on occasions)
+- English, Portuguese
+
 #### Samantha Quiñones
 
 - [@ieatkillerbees](http://twitter.com/ieatkillerbees)
@@ -1845,13 +1853,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Japan
 
-##### Tutti Quintella
-
-- [Twitter @tuttiq](http://twitter.com/tuttiq)
-- [Github @tuttiq](http://github.com/tuttiq)
-- Topics - Ruby on Rails, Web technologies, Project management, Team management, Leadership, Women in tech
-- Location - Tokyo, Japan (eventually Brazil, able to travel to speak on occasions)
-- English, Portuguese
+#### Ann Kilzer
+- [LinkedIn](https://www.linkedin.com/in/annkilzer/)
+- [GitHub](https://github.com/ann-kilzer)
+- [Personal Website](https://annkilzer.net)
+- Topics - AWS, TypeScript, Golang, Creative Coding, Quality, Leadership, Privacy
 
 #### Xiaoli Shen
 
