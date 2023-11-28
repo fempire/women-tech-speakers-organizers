@@ -1062,6 +1062,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Canada
 
+#### Bashbunni
+
+- [@sudobunni](https://twitter.com/sudobunni)
+- [Personal Website](https://bashbunni.dev)
+- Topics - Go, Open Source, Developer Relations
+- Location - Vancouver BC Canada
+
 #### Myriam Jessier
 
 - [@myriamjessier](http://twitter.com/myriamjessier)
