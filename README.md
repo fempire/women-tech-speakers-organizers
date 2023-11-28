@@ -1139,6 +1139,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
+#### Elizabeth Adegbaju
+
+- [@elizabethadegbaju](https://www.linkedin.com/in/elizabethadegbaju)
+- [Personal Website](https://elizabeth.adegbaju.com)
+- Topics - AWS,Cloud Engineering, DevOps, Women in Tech, Python
+- Location - Munich, Germany
+
 ### María Arias de Reyna Domínguez
 
 - [@delawen](http://twitter.com/delawen)
@@ -1620,13 +1627,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Cluj-Napoca, Romania; Berlin, Germany
 - Languages besides English - Spanish, French.
 
-#### Elizabeth Adegbaju
+#### Ramona Schwering
 
-- [@elizabethadegbaju](https://www.linkedin.com/in/elizabethadegbaju)
-- [Personal Website](https://elizabeth.adegbaju.com)
-- Topics - AWS,Cloud Engineering, DevOps, Women in Tech, Python
-- Location - Munich, Germany
-- Languages besides English - N/A
+- [@leichteckig](https://twitter.com/leichteckig)
+- [Website](https://ramona.codes)
+- [LinkedIn](https://www.linkedin.com/in/ramona-schwering/)
+- Topics - Frontend Development (Javascript, CSS), Test Automation, Web Security, Identity
+- Location - Germany, Münster
+- Languages besides English - German and Dutch
+
 
 ### India
 
