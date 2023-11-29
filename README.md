@@ -73,6 +73,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Managing projects in Azure Devops vs Github, Women in Tech
 - Location - Dallas, Texas
 
+### Courtney Robertson
+
+- [@courtneyr_dev](http://twitter.com/courtneyr_dev)
+- [Personal Website](http://courtneyr.dev)
+- Topics - WordPress, Open Source, Education, DEIB, DevRel Developer Relations, Funding, Bootcamps, Developer Education
+- Location - Chambersburg, PA,
+
 #### Seetha Annamraju
 
 - [@seetha_a](http://twitter.com/seetha_a)
@@ -2829,7 +2836,7 @@ Add yourself or others by submitting a PR!
 
 ### Formatting
 
-Please add yourself alphabetically, per region.
+Please add yourself alphabetically per region.
 
 > Speakers
 
