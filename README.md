@@ -1874,6 +1874,28 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Open Source AI,SUSI.AI, Open Data, FashionTech
 - Location - Singapore, Vietnam, and around Asia.
 
+### Israel
+
+#### Yael Balla
+- [LinkedIn](https://www.linkedin.com/in/yael-oshri-balla-6b56686)
+- Topics - NodeJS, JavaScript, React, Management and Leadership
+- Location - Israel
+- Language - Hebrew, English
+
+#### Maya Shavin
+- [@MayaShavin](https://twitter.com/MayaShavin)
+- [LinkedIn](https://www.linkedin.com/in/mayashavin)
+- [mayashavin.com](https://mayashavin.com]
+- [GitHub](https://github.com/mayashavin)
+- [Dev.to Blog](https://dev.to/mayashavin)
+- Topics - Web technologies, Frontend, TypeScript, Web Accessibility, JavaScript, OSS, Design systems, React, Vue, Women in Tech
+- Language - Vietnamese, English, Hebrew
+
+#### Keren Kenzi
+- [@Keren_Ray](https://twitter.com/Keren_Ray)
+- Topics - React, JavaScript, Web technologies, Community management
+- Language - English, Hebrew
+
 ### Japan
 
 #### Ann Kilzer
@@ -1938,7 +1960,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [LinkedIn](https://www.linkedin.com/in/eisabai)
 - [Medium](https://medium.com/@eisabai)
 - [eisabainyo.net](http://eisabainyo.net)
-- Topics - Enginnering leadership, Career development, Women in technology, Kenote speeches, Frontend, Web technologies
+- Topics - Enginnering leadership, Career development, Women in technology, Keynote speeches, Frontend, Web technologies
 - Location - Sydney, Australia
 - English, Burmese
 
