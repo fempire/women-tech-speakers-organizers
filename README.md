@@ -1645,6 +1645,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### India
 
+#### Haimantika Mitra
+
+- [@HaimantikaM](https://twitter.com/HaimantikaM)
+- [Email Address](haimantikamitra@gmail.com)
+- Topics of Interest - OSS, Community & DevRel,AI, Frontend developments
+- [Portfolio](https://haimantika.com/)
+- Location - Bangalore, India
+
 #### Kriti Doneria
 
 - [@kritidoneria](https://www.linkedin.com/in/kritidoneria/)
