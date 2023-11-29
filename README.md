@@ -1069,6 +1069,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Go, Open Source, Developer Relations
 - Location - Vancouver BC Canada
 
+#### Maria Khalusova
+
+- [@mariaKhalusova](https://twitter.com/mariaKhalusova)
+- [GitHub](https://github.com/MKhalusova)
+- Topics - AI/machine learning, Python, Data Science, Open Source
+- Location - Canada
+
 #### Myriam Jessier
 
 - [@myriamjessier](http://twitter.com/myriamjessier)
