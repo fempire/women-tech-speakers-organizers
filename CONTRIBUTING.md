@@ -19,7 +19,7 @@ Thank you for your interest in contributing to the women-tech-speakers-organizer
 
 ## Formatting
 
-Please add yourself alphabetically, per region.
+Please add yourself alphabetically per region and be sure to add yourself alphabetically by last name.
 
 > Speakers
 
