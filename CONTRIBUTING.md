@@ -2,20 +2,35 @@
 
 Thank you for your interest in contributing to the women-tech-speakers-organizers repository! We are looking for additional speakers to add to our expanding list.
 
+**Before submitting a new name, please check the README to see whether your suggestion already exists.**
+
 ## How to contribute
 
-1. Check the `README` to see if your suggestion exists or not.
-2. Fork the repository. Here are the [GitHub instructions for forking a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
-3. In the command line, clone the repository by typing `git clone https://github.com/YOUR-GITHUB-USERNAME/women-tech-speakers-organizers.git`
-4. Then type `cd women-tech-speakers-organizers` to go into the project's directory.
-5. Create a branch and switch to that new branch by using the following command: `git checkout -b new-branch-name`
-6. Update the `README.md` with your newsletter suggestion(s).
+You can edit this file [using GitHub's web interface](#edit-the-readme-on-github), or fork the repository and [work locally in your code editor](#edit-the-repository-locally).
+
+### Edit the README on GitHub
+
+1. Navigate to the README file in the repository and click the pencil icon to "edit file", or navigate to [the URL to edit this file directly](https://github.com/fempire/women-tech-speakers-organizers/edit/main/README.md).
+2. Scroll down to the appropriate location in the file to add your suggestion. Suggestions are organized first by country, and then by last name alphabetically.
+3. Use the [format](#formatting) provided as a template for adding your suggestion to the document. You can toggle from "Edit" mode into "Preview" mode at the top of the file editor to view your changes as they will appear.
+4. After you make your changes, click the "Commit changes..." button in the upper right of the screen. You will be prompted to enter a commit message that will be used to describe the changes you have made. You may wish to edit this to convey more specific information to the repository maintainers (e.g. "Added a new speaker to README.md"), but this is not required. An extended description is not necessary.
+5. Click the "Propose changes" button when you are happy with your submission. This will automatically create a fork of the repository in your GitHub account with the changes you have made.
+6. Once you have committed your edits to your fork, follow the prompts to create a pull request (PR) which proposes changes to this repository.
+7. The maintainers will review your PR and either request changes or approve it.
+
+### Edit the repository locally
+
+1. Fork the repository. Here are the [GitHub instructions for forking a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+2. In the command line, clone the repository by typing `git clone https://github.com/YOUR-GITHUB-USERNAME/women-tech-speakers-organizers.git`
+3. Then type `cd women-tech-speakers-organizers` to go into the project's directory.
+4. Create a branch and switch to that new branch by using the following command: `git checkout -b new-branch-name`
+5. Update the `README.md` with your newsletter suggestion(s).
    - Append the title and link to the newsletter, to the list in the appropriate category
-7. In the command line, stage your changes by using the `git add .` command.
-8. Commit your changes by using the `git commit -m "commit message"` command.
-9. Push up your changes to the remote branch on GitHub by using the `git push -u origin branch_name` command.
-10. Open a PR directed to our `master` branch.
-11. The maintainers will review your PR and either request changes or approve it.
+6. In the command line, stage your changes by using the `git add .` command.
+7. Commit your changes by using the `git commit -m "commit message"` command.
+8. Push up your changes to the remote branch on GitHub by using the `git push -u origin branch_name` command.
+9. Open a PR directed to our `master` branch.
+10. The maintainers will review your PR and either request changes or approve it.
 
 ## Formatting
 
