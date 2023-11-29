@@ -1877,7 +1877,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 ### Israel
 
 #### Keren Kenzi
-- [@Keren_Ray](https://twitter.com/Keren_Ray)
+- [LinkedIn](https://www.linkedin.com/in/keren-kenzi)
 - Topics - React, JavaScript, Web technologies, Community management
 - Language - English, Hebrew
   
