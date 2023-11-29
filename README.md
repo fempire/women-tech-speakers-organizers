@@ -2679,6 +2679,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - London, UK (remote contact also ok)
 - Languages besides English - Polish
 
+#### Joran Quinten
+
+- [@joranquinten](https://twitter.com/joranquinten)
+- [joranquinten.nl](http://joranquinten.nl/)
+- How to contact - Twitter (DMs open) or hello@joranquinten.nl
+- Topics for mentoring - Web Development, Vue, Career in tech, Public Speaking, Design Systems, Job Interviews
+- Location - Veghel, Netherlands (remote contact probably best)
+- Languages besides English - Dutch
+
 ### Asia
 
 #### Japan
