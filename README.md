@@ -1627,6 +1627,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Cluj-Napoca, Romania; Berlin, Germany
 - Languages besides English - Spanish, French.
 
+#### Josefine Schaefer
+
+- [@JsfnSchfr](https://twitter.com/JsfnSchfr)
+- [Dev.to](https://dev.to/josefine)
+- Topics - Web Accessibility Testing & Implementation, Creating & Fostering Inclusive Communities 
+- Location - Hamburg, Germany
+- Languages besides English - German
+
 #### Ramona Schwering
 
 - [@leichteckig](https://twitter.com/leichteckig)
