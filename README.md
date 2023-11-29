@@ -1876,12 +1876,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Israel
 
-#### Yael Balla
-- [LinkedIn](https://www.linkedin.com/in/yael-oshri-balla-6b56686)
-- Topics - NodeJS, JavaScript, React, Management and Leadership
-- Location - Israel
-- Language - Hebrew, English
-
+#### Keren Kenzi
+- [@Keren_Ray](https://twitter.com/Keren_Ray)
+- Topics - React, JavaScript, Web technologies, Community management
+- Language - English, Hebrew
+  
 #### Maya Shavin
 - [@MayaShavin](https://twitter.com/MayaShavin)
 - [LinkedIn](https://www.linkedin.com/in/mayashavin)
@@ -1891,10 +1890,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Web technologies, Frontend, TypeScript, Web Accessibility, JavaScript, OSS, Design systems, React, Vue, Women in Tech
 - Language - Vietnamese, English, Hebrew
 
-#### Keren Kenzi
-- [@Keren_Ray](https://twitter.com/Keren_Ray)
-- Topics - React, JavaScript, Web technologies, Community management
-- Language - English, Hebrew
+#### Yael Balla
+- [LinkedIn](https://www.linkedin.com/in/yael-oshri-balla-6b56686)
+- Topics - NodeJS, JavaScript, React, Management and Leadership
+- Location - Israel
+- Language - Hebrew, English
 
 ### Japan
 
