@@ -1126,6 +1126,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics: Edge computing, career brag sheets
 - Location: Toronto, ON
 
+#### Sarah Rainsberger
+- [@sarah11918](http://twitter.com/sarah11918), [@sarah11918@mastodon.social](https://mastodon.social/@sarah11918)
+- [https://rainsberger.ca](https://rainsberger.ca)
+- Topics - Developer Documentation (especially for reluctant docs writers!) and education, Open-source community building/maintenance, Non-code contributions to open-source projects, Learning/Developing in the Browser (Cloud Development Environments, Chromebooks, tablets, mobile devices)
+- Location - Prince Edward Island (PEI), Canada
+  
 ### Colombia
 
 #### Lina María Montaño Ramirez
