@@ -8,10 +8,12 @@ Thank you for your interest in contributing to the women-tech-speakers-organizer
 
 You can edit this file [using GitHub's web interface](#edit-the-readme-on-github), or fork the repository and [work locally in your code editor](#edit-the-repository-locally).
 
+**Please add new names in alphabetical order by last name, under the appropriate category and country.**
+
 ### Edit the README on GitHub
 
 1. Navigate to the README file in the repository and click the pencil icon to "edit file", or navigate to [the URL to edit this file directly](https://github.com/fempire/women-tech-speakers-organizers/edit/main/README.md).
-2. Scroll down to the appropriate location in the file to add your suggestion. Suggestions are organized first by country, and then by last name alphabetically.
+2. Scroll down to the appropriate location in the file to add your suggestion. Suggestions are organized first by country, and then **by last name alphabetically**.
 3. Use the [format](#formatting) provided as a template for adding your suggestion to the document. You can toggle from "Edit" mode into "Preview" mode at the top of the file editor to view your changes as they will appear.
 4. After you make your changes, click the "Commit changes..." button in the upper right of the screen. You will be prompted to enter a commit message that will be used to describe the changes you have made. You may wish to edit this to convey more specific information to the repository maintainers (e.g. "Added a new speaker to README.md"), but this is not required. An extended description is not necessary.
 5. Click the "Propose changes" button when you are happy with your submission. This will automatically create a fork of the repository in your GitHub account with the changes you have made.
@@ -24,8 +26,9 @@ You can edit this file [using GitHub's web interface](#edit-the-readme-on-github
 2. In the command line, clone the repository by typing `git clone https://github.com/YOUR-GITHUB-USERNAME/women-tech-speakers-organizers.git`
 3. Then type `cd women-tech-speakers-organizers` to go into the project's directory.
 4. Create a branch and switch to that new branch by using the following command: `git checkout -b new-branch-name`
-5. Update the `README.md` with your newsletter suggestion(s).
-   - Append the title and link to the newsletter, to the list in the appropriate category
+5. Update the `README.md` with your new suggestion.
+   - Scroll down to the appropriate location in the file to add your suggestion. Suggestions are organized first by country, and then **by last name alphabetically**.
+   - Use the [format](#formatting) provided as a template for adding your suggestion to the document.
 6. In the command line, stage your changes by using the `git add .` command.
 7. Commit your changes by using the `git commit -m "commit message"` command.
 8. Push up your changes to the remote branch on GitHub by using the `git push -u origin branch_name` command.
