@@ -1475,6 +1475,19 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Budapest, Hungary
 - Languages besides English - Arabic, French
 
+#### Ixchel Ruiz
+
+- [@ixchelruiz@mastodon.social](http://mastodon.social/@ixchelruiz)
+- [ixchelruiz.com](https://ixchelruiz.com)
+- [@ixchelruiz](https://twitter.com/ixchelruiz)
+- @ixchelruiz.bsky.social
+- [LinkedIn](https://www.linkedin.com/in/ixchelruiz)
+- [Github](https://github.com/ixchelruiz)
+- [Sessionize](https://www.sessionize.com/ixchelruiz)
+- Topics: Keynote Speaker, Java, Server side technologies, Culture & Digital Transformation , Testing, DevOps, Security
+- Location :earth_americas: :  Basel, Switzerland
+- Languages :microphone: : besides English - Spanish
+
 #### Ineke Scheffers
 
 - [@FYIneke](https://twitter.com/fyineke) & [@GirlCodeNL](https://twitter.com/GirlCodeNL)
