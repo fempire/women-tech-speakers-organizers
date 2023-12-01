@@ -1288,6 +1288,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Dublin, Ireland
 - Languages besides English - Romanian
 
+#### Gale Fagan
+
+- [@foobly](https://twitter.com/foobly)
+- @foobly.bsky.social
+- [gep dot dev](https://gep.dev)
+- [LinkedIn](https://linkedin.com/in/galepedowitz)
+- [Github](https://github.com/galeep)
+- Topics - Practical AI & Agents, Edge/IoT, Large-Scale Infra, Operating Systems, UNIX, Manufacturing Tech & Automation, Enterprise Networking & IT, SOC 2 for Developers, GCP, Resilience, Engineering Exec Leadership, 3D Printing, Retrotech
+- Location - Ireland (will travel nationally & internationally)
+
 #### Sal Freudenberg
 
 - [@SalFreudenberg](https://twitter.com/SalFreudenberg)
