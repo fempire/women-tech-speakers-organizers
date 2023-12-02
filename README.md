@@ -27,18 +27,16 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Japan](#japan)
   - [Argentina](#argentina)
   - [Australia](#australia)
-  - [Colombia](#colombia-1)
 - [Organizers](#organizers)
   - [United States](#united-states-1)
   - [Canada](#canada-1)
-  - [Colombia](#colombia-2)
   - [Argentina](#argentina-1)
   - [Europe](#europe-1)
   - [Nigeria](#nigeria-1)
   - [Brazil](#brazil)
   - [Asia](#asia-1)
   - [Australia](#australia-1)
-  - [Colombia](#colombia-3)
+  - [Colombia](#colombia-1)
 - [Mentors](#mentors)
   - [United States](#united-states-2)
   - [India](#india-1)
@@ -1150,6 +1148,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   
 ### Colombia
 
+#### Vanessa Aristizabal
+
+- [@vanessamarely](http://twitter.com/vanessamarely)
+- [LinkedIn](https://www.linkedin.com/in/vanessa-marely-aristizabal-angel/)
+- [Medium](https://medium.com/@vanessamarely/)
+- [ngchallenges.gitbook.io](https://ngchallenges.gitbook.io/project/)
+- [Email Address](mailto:vanessamarely@gmail.com)
+- Topics: - HTML, CSS (and preprocessors), Javascript, Angular, React, UX
+- Location - Medellin, Antioquia, Colombia
+- Languages: English - Spanish
+- Frontend Developer. GDE in Angular. I like to learn new things and love sharing it with others. I would like to help more women to get involved in tech industry.
+
 #### Lina María Montaño Ramirez
 
 - [@calypsobronte](http://twitter.com/calypsobronte)
@@ -2092,20 +2102,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English
 
-### Colombia
-
-#### Vanessa Aristizabal
-
-- [@vanessamarely](http://twitter.com/vanessamarely)
-- [LinkedIn](https://www.linkedin.com/in/vanessa-marely-aristizabal-angel/)
-- [Medium](https://medium.com/@vanessamarely/)
-- [ngchallenges.gitbook.io](https://ngchallenges.gitbook.io/project/)
-- [Email Address](mailto:vanessamarely@gmail.com)
-- Topics: - HTML, CSS (and preprocessors), Javascript, Angular, React, UX
-- Location - Medellin, Antioquia, Colombia
-- Languages: English - Spanish
-- Frontend Developer. GDE in Angular. I like to learn new things and love sharing it with others. I would like to help more women to get involved in tech industry.
-
 ## Organizers
 
 ### United States
@@ -2252,17 +2248,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@heatherpayne](https://twitter.com/heatherpayne)
 - [Hackeryou](http://hackeryou.com/)
 - Location - Toronto, ON
-
-### Colombia
-
-#### Lina María Montaño Ramirez
-
-- NodeCo - NodeJS Colombia + NodeJS Medellín
-  - [Meetup](https://www.meetup.com/es/node_co/)
-  - [@node_co](https://twitter.com/node_co)
-  - [Slack](http://bit.ly/nodecoSlack)
-  - [Youtube](https://www.youtube.com/c/nodecolombia)
-- Location - Medellin / Colombia, CO
 
 ### Argentina
 
@@ -2576,13 +2561,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Colombia
 
-#### Manuela Castrillon
-
-- [@manucastrillonm](https://twitter.com/ManuCastrillonM)
-- co-organizer of [@pionerasdev](https://pionerasdev.co/), [@codexudea](https://github.com/CodexUdeA) | GitHub Campus Expert
-- [manuela.dev](http://www.manuela.dev), [Medium](https://medium.com/@ManuCastrillonM), [GitHub](https://github.com/ManuCastrillonM)
-- Location - Medellín, Colombia
-
 #### Vanessa Aristizabal
 
 - [@vanessamarely](http://twitter.com/vanessamarely)
@@ -2595,6 +2573,22 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [She Codes Angular](https://www.meetup.com/She-Codes-Angular/)
 - Group Focus - Angular
 - Location - Medellin, Antioquia, Colombia
+
+#### Manuela Castrillon
+
+- [@manucastrillonm](https://twitter.com/ManuCastrillonM)
+- co-organizer of [@pionerasdev](https://pionerasdev.co/), [@codexudea](https://github.com/CodexUdeA) | GitHub Campus Expert
+- [manuela.dev](http://www.manuela.dev), [Medium](https://medium.com/@ManuCastrillonM), [GitHub](https://github.com/ManuCastrillonM)
+- Location - Medellín, Colombia
+
+#### Lina María Montaño Ramirez
+
+- NodeCo - NodeJS Colombia + NodeJS Medellín
+  - [Meetup](https://www.meetup.com/es/node_co/)
+  - [@node_co](https://twitter.com/node_co)
+  - [Slack](http://bit.ly/nodecoSlack)
+  - [Youtube](https://www.youtube.com/c/nodecolombia)
+- Location - Medellin / Colombia, CO
 
 ## Mentors
 
