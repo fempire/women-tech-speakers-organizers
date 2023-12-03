@@ -1386,6 +1386,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Vienna, Austria
 - Languages besides English - German
 
+#### Malin Litwinski
+
+- [@malinlitwinski](http://twitter.com/malinlitwinski)
+- [LinkedIn](https://uk.linkedin.com/in/malin-litwinski)
+- Topics - Empathy in Tech, chaos engineering, payment systems, team leadership, DevOps & Platform Engineering 
+- Location - London, UK (will travel nationally & internationally)
+- Languages besides English - German
+
 #### Steph Locke
 
 - [@stefflocke](https://twitter.com/stefflocke)
