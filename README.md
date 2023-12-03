@@ -1365,6 +1365,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Munich, Germany
 - Languages besides English - Finnish
 
+#### Rachel Horner
+
+- [LinkedIn](https://www.linkedin.com/in/rachel-horner)
+- Topics - Cyber-security, Product Management, Public/Private Cloud
+- Location - Dublin, Ireland
+- Languages besides English - Managementese
+
 #### Sophie Huts
 
 - [@sophie_h29](https://twitter.com/sophie_h29)
