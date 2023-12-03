@@ -1949,6 +1949,24 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Web technologies, Frontend, TypeScript, Web Accessibility, JavaScript, OSS, Design systems, React, Vue, Women in Tech
 - Language - Vietnamese, English, Hebrew
 
+#### Ariel Shulman
+- [LinkedIn](https://www.linkedin.com/in/ariel-shulman/)
+- Topics - TypeScript, React, JavaScript
+- Language - English, Hebrew
+
+#### Tamar (Twena) Stern
+- [LinkedIn](https://www.linkedin.com/in/tamarstern/)
+- Topics - Node.js, Angular, Python, Golang, Software architecture
+- Language - English, Hebrew
+
+#### Moran Weber
+- [@moranWeber](https://twitter.com/moranWeber)
+- [LinkedIn](https://www.linkedin.com/in/moran-weber/)
+- [moranweber.com](https://www.moranweber.com/)
+- Topics - Web technologies, Leadrship, Community, Women in Tech
+- Languages - English, Hebrew
+
+
 ### Japan
 
 #### Ann Kilzer
