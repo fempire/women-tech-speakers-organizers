@@ -1985,7 +1985,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Web technologies, Leadrship, Community, Women in Tech
 - Languages - English, Hebrew
 
-
 ### Japan
 
 #### Ann Kilzer
@@ -2495,8 +2494,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Campinas, SP, Brazil
 
 ### Asia
-
-#### Japan
 
 #### Tutti Quintella
 
