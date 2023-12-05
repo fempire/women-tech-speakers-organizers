@@ -757,6 +757,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Swift, unconscious bias (being a cupcake in a doughnut world), and intro to programming
 - Location - St. Louis, MO
 
+
+#### Lindsay Shelton
+
+- [@LShelton_Tech](https://twitter.com/LShelton_Tech)
+- [LindsayTShelton.com](https://www.lindsaytshelton.com/)
+- Topics - Power Automate, SharePoint document libraries, Microsoft Approvals, Career Transitions (teacher for 10 years into tech)
+- Location - Kansas City, MO, USA
+
 #### Lavanya Shukla
 
 - [@lavanyaai](http://twitter.com/lavanyaai)
