@@ -10,6 +10,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
 
 ## Table of Contents
 
+<!-- toc -->
 - [Table of Contents](#table-of-contents)
 - [Code of Conduct](#code-of-conduct)
 - [Speakers](#speakers)
@@ -22,35 +23,34 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Nigeria](#nigeria)
   - [South Africa](#south-africa)
   - [Asia](#asia)
+  - [Israel](#israel)
+  - [Japan](#japan)
   - [Argentina](#argentina)
   - [Australia](#australia)
-  - [Colombia](#colombia)
 - [Organizers](#organizers)
   - [United States](#united-states-1)
   - [Canada](#canada-1)
-  - [Colombia](#colombia)
   - [Argentina](#argentina-1)
-  - [Nigeria](#nigeria-1)
   - [Europe](#europe-1)
+  - [Nigeria](#nigeria-1)
   - [Brazil](#brazil)
   - [Asia](#asia-1)
-  - [Australia](#australia)
-  - [Colombia](#colombia)
+  - [Australia](#australia-1)
+  - [Colombia](#colombia-1)
 - [Mentors](#mentors)
   - [United States](#united-states-2)
   - [India](#india-1)
+  - [Nigeria](#nigeria-2)
   - [Europe](#europe-2)
   - [Asia](#asia-2)
-  - [Australia](#australia)
+  - [Australia](#australia-2)
   - [Mexico](#mexico)
-  - [Colombia](#colombia)
 - [Getting Started](#getting-started)
   - [United States](#united-states-3)
   - [Europe](#europe-3)
   - [India](#india-2)
-  - [Nigeria](#nigeria-2)
-  - [Australia](#australia)
-  - [Colombia](#colombia)
+  - [Nigeria](#nigeria-3)
+  - [Australia](#australia-3)
 - [Contributing](#contributing)
   - [Formatting](#formatting)
 
@@ -171,14 +171,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   Kubeflow, Kubernetes, Machine Learning, Open Source, NLP, Startups
 - Location - San Francisco, CA
 
-##### Micheleh "MC" Center
+#### Micheleh "MC" Center
 
 - How to Contact - twitter, LinkedIn or email (m@micheleh.com OR micheleh.center@turner.com)
 - Topics - PHP, Drupal, Laravel, Wordpress, CSS/Sass/Bootstrap/Grids, Rest API, React, Vue, JS in general, "from Designer to Developer - how to," "Designing w/ a Developer mindset or vice versa"
 - Location - Atlanta, GA, USA
 - Languages - Lao
 
-##### Lin Clark
+#### Lin Clark
 
 - [@linclark](http://twitter.com/linclark)
 - [code-cartoons.com](https://code-cartoons.com/)
@@ -706,7 +706,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - JavaScript, React
 - Location - San Francisco, CA
 
-##### Tutti Quintella
+#### Tutti Quintella
 
 - [Twitter @tuttiq](http://twitter.com/tuttiq)
 - [Github @tuttiq](http://github.com/tuttiq)
@@ -1148,6 +1148,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   
 ### Colombia
 
+#### Vanessa Aristizabal
+
+- [@vanessamarely](http://twitter.com/vanessamarely)
+- [LinkedIn](https://www.linkedin.com/in/vanessa-marely-aristizabal-angel/)
+- [Medium](https://medium.com/@vanessamarely/)
+- [ngchallenges.gitbook.io](https://ngchallenges.gitbook.io/project/)
+- [Email Address](mailto:vanessamarely@gmail.com)
+- Topics: - HTML, CSS (and preprocessors), Javascript, Angular, React, UX
+- Location - Medellin, Antioquia, Colombia
+- Languages: English - Spanish
+- Frontend Developer. GDE in Angular. I like to learn new things and love sharing it with others. I would like to help more women to get involved in tech industry.
+
 #### Lina María Montaño Ramirez
 
 - [@calypsobronte](http://twitter.com/calypsobronte)
@@ -1166,7 +1178,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - AWS,Cloud Engineering, DevOps, Women in Tech, Python
 - Location - Munich, Germany
 
-### María Arias de Reyna Domínguez
+#### María Arias de Reyna Domínguez
 
 - [@delawen](http://twitter.com/delawen)
 - [delawen.com](http://delawen.com)
@@ -1973,7 +1985,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Web technologies, Leadrship, Community, Women in Tech
 - Languages - English, Hebrew
 
-
 ### Japan
 
 #### Ann Kilzer
@@ -1993,21 +2004,21 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Argentina
 
-##### Eva Ferreira
+#### Eva Ferreira
 
 - [@evaferreira92](http://twitter.com/evaferreira92)
 - Topics - CSS, JavaScript, Accessibility
 - Location - Buenos Aires, Argentina
 - English, Spanish, German
 
-##### Nataya Flores
+#### Nataya Flores
 
 - [@natayadev](http://twitter.com/natayadev)
 - Topics - Deployment, Data, AI-ML
 - Location - Misiones, Argentina
 - Spanish
 
-##### Laura Morinigo
+#### Laura Morinigo
 
 - [@lala_morinigo](http://twitter.com/lala_morinigo)
 - Topics - Firebase, Javascript, AngularJS, PWA, NodeJS, MongoDB
@@ -2016,7 +2027,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
   
 ### Australia
 
-##### Tanya Butenko
+#### Tanya Butenko
 
 - [@ButenkoMe](https://twitter.com/ButenkoMe)
 - [LinkedIn](https://www.linkedin.com/in/tanya-butenko-019a6a98/)
@@ -2024,7 +2035,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English, Russian
 
-##### Charlie Gerard
+#### Charlie Gerard
 
 - [@devdevcharlie](http://twitter.com/devdevcharlie)
 - [charliegerard.github.io](http://charliegerard.github.io)
@@ -2032,21 +2043,21 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English, French
 
-##### Kris Howard
+#### Kris Howard
 
 - [@web_goddess](https://twitter.com/web_goddess)
 - [krishoward.org](http://krishoward.org/)
 - Topics - Keynotes, Mentoring, Art & Tech, Making/Crafting, Leadership, Career Development, Women in tech
 - Location - Sydney, Australia
 
-##### Anna Harrison
+#### Anna Harrison
 
 - [@shinyUX](https://twitter.com/shinyUX)
 - [annaharrison.com](http://www.annaharrison.com/)
 - Topics - UX, Design, Marketing, Team Building
 - Location - Brisbane, Australia
 
-##### Larene Le Gassick
+#### Larene Le Gassick
 
 - [@larenelg](https://twitter.com/larenelg)
 - [LinkedIn](https://www.linkedin.com/in/larene)
@@ -2054,7 +2065,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Brisbane, Australia
 - English, Chinese
 
-##### Isabel Nyo
+#### Isabel Nyo
 
 - [@eisabai](http://twitter.com/eisabai)
 - [LinkedIn](https://www.linkedin.com/in/eisabai)
@@ -2064,7 +2075,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English, Burmese
 
-##### Michelle Sandford
+#### Michelle Sandford
 
 - [@msandfor](http://twitter.com/msandfor)
 - [LinkedIn](https://www.linkedin.com/in/michellesandford/)
@@ -2074,7 +2085,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Perth, Australia
 - English
 
-##### Daisy Smith
+#### Daisy Smith
 
 - [@daisysmells](http://twitter.com/daisysmells)
 - [daisymariel128.github.io](http://daisymarie128.github.io)
@@ -2082,27 +2093,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sydney, Australia
 - English
 
-##### Meggan Turner
+#### Meggan Turner
 
 - [@megganeturner](http://twitter.com/megganeturner)
 - [megganeturner.github.io](http://megganeturner.github.io)
 - Topics - JavaScript, Women in Tech, Git
 - Location - Sydney, Australia
 - English
-
-### Colombia
-
-#### Vanessa Aristizabal
-
-- [@vanessamarely](http://twitter.com/vanessamarely)
-- [LinkedIn](https://www.linkedin.com/in/vanessa-marely-aristizabal-angel/)
-- [Medium](https://medium.com/@vanessamarely/)
-- [ngchallenges.gitbook.io](https://ngchallenges.gitbook.io/project/)
-- [Email Address](mailto:vanessamarely@gmail.com)
-- Topics: - HTML, CSS (and preprocessors), Javascript, Angular, React, UX
-- Location - Medellin, Antioquia, Colombia
-- Languages: English - Spanish
-- Frontend Developer. GDE in Angular. I like to learn new things and love sharing it with others. I would like to help more women to get involved in tech industry.
 
 ## Organizers
 
@@ -2250,17 +2247,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@heatherpayne](https://twitter.com/heatherpayne)
 - [Hackeryou](http://hackeryou.com/)
 - Location - Toronto, ON
-
-### Colombia
-
-#### Lina María Montaño Ramirez
-
-- NodeCo - NodeJS Colombia + NodeJS Medellín
-  - [Meetup](https://www.meetup.com/es/node_co/)
-  - [@node_co](https://twitter.com/node_co)
-  - [Slack](http://bit.ly/nodecoSlack)
-  - [Youtube](https://www.youtube.com/c/nodecolombia)
-- Location - Medellin / Colombia, CO
 
 ### Argentina
 
@@ -2509,9 +2495,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Asia
 
-#### Japan
-
-##### Tutti Quintella
+#### Tutti Quintella
 
 - [Twitter @tuttiq](http://twitter.com/tuttiq)
 - [Github @tuttiq](http://github.com/tuttiq)
@@ -2574,13 +2558,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Colombia
 
-#### Manuela Castrillon
-
-- [@manucastrillonm](https://twitter.com/ManuCastrillonM)
-- co-organizer of [@pionerasdev](https://pionerasdev.co/), [@codexudea](https://github.com/CodexUdeA) | GitHub Campus Expert
-- [manuela.dev](http://www.manuela.dev), [Medium](https://medium.com/@ManuCastrillonM), [GitHub](https://github.com/ManuCastrillonM)
-- Location - Medellín, Colombia
-
 #### Vanessa Aristizabal
 
 - [@vanessamarely](http://twitter.com/vanessamarely)
@@ -2593,6 +2570,22 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [She Codes Angular](https://www.meetup.com/She-Codes-Angular/)
 - Group Focus - Angular
 - Location - Medellin, Antioquia, Colombia
+
+#### Manuela Castrillon
+
+- [@manucastrillonm](https://twitter.com/ManuCastrillonM)
+- co-organizer of [@pionerasdev](https://pionerasdev.co/), [@codexudea](https://github.com/CodexUdeA) | GitHub Campus Expert
+- [manuela.dev](http://www.manuela.dev), [Medium](https://medium.com/@ManuCastrillonM), [GitHub](https://github.com/ManuCastrillonM)
+- Location - Medellín, Colombia
+
+#### Lina María Montaño Ramirez
+
+- NodeCo - NodeJS Colombia + NodeJS Medellín
+  - [Meetup](https://www.meetup.com/es/node_co/)
+  - [@node_co](https://twitter.com/node_co)
+  - [Slack](http://bit.ly/nodecoSlack)
+  - [Youtube](https://www.youtube.com/c/nodecolombia)
+- Location - Medellin / Colombia, CO
 
 ## Mentors
 
@@ -2748,7 +2741,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 #### Japan
 
-##### Tutti Quintella
+#### Tutti Quintella
 
 - [@tuttiq](http://twitter.com/tuttiq)
 - [Github](http://github.com/tuttiq)
