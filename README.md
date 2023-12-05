@@ -1723,6 +1723,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Sofia, Bulgaria
 - Languages besides English - Bulgarian
 
+#### Nathalie Leenders
+
+- [@NathLeenders](https://twitter.com/NathLeenders)
+- [NathalieLeenders.com](www.nathalieelenders.com)
+- Topics - Power Platform, PowerBI, Community, M365
+- Location - Oosterhout, North Brabant, The Netherlands
+- Languages - Dutch and English
+
 ### India
 
 #### Ramya Authappan
