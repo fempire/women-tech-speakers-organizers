@@ -1261,7 +1261,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Medium](https://medium.com/@elizacamber)
 - Topics - Android, Google Assistant/ Actions on Google, VUI (conversational apps), diversity, communities
 - Location - Amsterdam, the Netherlands (will travel nationally and internationally)
-- Languages besides En glish - Greek
+- Languages besides English - Greek
 
 ### Farah Hawa
 - [@Farah_Hawaa](https://twitter.com/Farah_Hawaa)
