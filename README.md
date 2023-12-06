@@ -42,7 +42,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [India](#india-1)
   - [Nigeria](#nigeria-2)
   - [Europe](#europe-2)
-  - [Asia](#asia-2)
+  - [Japan](#japan-1)
   - [Australia](#australia-2)
   - [Mexico](#mexico)
 - [Getting Started](#getting-started)
@@ -2752,9 +2752,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - How to contact - Twitter, open direct messages
 - Topics for mentoring - Web Development, WebVR / WebGL, Career in tech, Public Speaking
 
-### Asia
-
-#### Japan
+### Japan
 
 #### Tutti Quintella
 
