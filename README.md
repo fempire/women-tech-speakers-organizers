@@ -2286,6 +2286,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - Google technologies, Diversity, Women in Tech
 - Location - London, United Kingdom
 
+#### Bettina Boon Falleur
+
+- [@bettina_boon](http://twitter.com/bettina_boon)
+- [EthCC](https://ethcc.io), Paris, France
+- Group Focus - Ethereum, Blockchain, Women in Tech
+- Location - Paris, France
+
 #### Britt Barak
 
 - Facebook - www.facebook.com/britt.barak
