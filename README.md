@@ -1261,7 +1261,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Medium](https://medium.com/@elizacamber)
 - Topics - Android, Google Assistant/ Actions on Google, VUI (conversational apps), diversity, communities
 - Location - Amsterdam, the Netherlands (will travel nationally and internationally)
-- Languages besides English - Greek
+- Languages besides En glish - Greek
+
+### Farah Hawa
+- [@Farah_Hawaa](https://twitter.com/Farah_Hawaa)
+- [Instagram](https://www.instagram.com/farah_hawaa/)
+- [YouTube](https://www.youtube.com/@FarahHawa)
+- Topics - Web Security, Bug Bounty
+- Location - London, UK
+- Languages besides English - Hindi
 
 #### Ada Rose Cannon
 
@@ -1483,6 +1491,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Big Data, Java, Scala, AI, Kotlin, Serverless, Security, Mentorship, Startups
 - Location - Tel Aviv, Israel (will travel nationally and internationally)
 - Languages besides English - Hebrew
+
+### Farah Hawa
+- [@Farah_Hawaa](https://twitter.com/Farah_Hawaa)
+- [Instagram](https://www.instagram.com/farah_hawaa/)
+- [YouTube](https://www.youtube.com/@FarahHawa)
+- Topics - Web Security, Bug Bounty
+- Location - London, UK
+- Languages besides English - Hindi
 
 #### Carmen Popoviciu
 
