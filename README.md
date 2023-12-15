@@ -604,6 +604,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - History of programming languages, Scala, Java, C++, Software Architecture
 - Location - Pittsburgh, PA
 
+#### Cecelia Martinez
+
+- [@ceceliacreates](http://twitter.com/ceceliacreates)
+- [LinkedIn](https://www.linkedin.com/in/ceceliamartinez)
+- [GitHub](https://github.com/ceceliacreates)
+- Topics - Vue, Ionic, Cypress, DevOps, Automated Testing, Cross-platform, OSS, Community
+- Location - Atlanta, GA
+- Languages besides English - Spanish
+
 #### Jessica Mauerhan
 
 - [@jessicamauerhan](http://twitter.com/jessicamauerhan)
