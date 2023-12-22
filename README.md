@@ -1656,6 +1656,23 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Netherlands
 - Languages besides English - Russian, Ukrainian
 
+#### Aurélie Vache
+
+- [scraly.com](https://scraly.com/)
+- [@aurelievache](https://twitter.com/aurelievache)
+- @aurelievache.bsky.social
+- [LinkedIn](https://www.linkedin.com/in/aurelievache)
+- [GitHub](https://github.com/scraly)
+- [Notist](https://noti.st/aurelievache) (talks)
+- [Sessionize](https://sessionize.com/aurelie-vache/)
+- [YouTube](https://www.youtube.com/c/AurelieVache)
+- Topics: Keynoter, Speaker, Cloud, Kubernetes, Docker, DevOps, IaC, Terraform, Go, Imposter Syndrome, Visual learning/sharing
+- Recognitions: Google Developer expert, Docker Captain, CNCF Ambassador, WomenTechmakers Ambassador, Gitpod Community Hero
+- Book author: [Amazon](https://www.amazon.com/stores/Aur%C3%A9lie-Vache/author/B09WHB5YR6?) & [GumRoad](https://aurelievache.gumroad.com/)
+- Creator of [developers.events](https://developers.events/)
+- Location - Toulouse, France
+- Languages :microphone: : besides French - English
+  
 #### Kim van Wilgen
 
 - [@kimvanwilgen](http://twitter.com/kimvanwilgen)
