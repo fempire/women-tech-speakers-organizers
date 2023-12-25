@@ -2328,6 +2328,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - Web Development, CSS, Vue.js, Diversity, Public Speaking, Workshops, JavaScript
 - Location - Frankfurt, Germany
 
+#### Bettina Boon Falleur
+
+- [@bettina_boon](http://twitter.com/bettina_boon)
+- [EthCC](https://ethcc.io), Paris, France
+- Group Focus - Ethereum, Blockchain, Women in Tech
+- Location - Paris, France
+
 #### Eliza Camberogiannis
 
 - [@elizacamber](https://twitter.com/ElizaCamber)
