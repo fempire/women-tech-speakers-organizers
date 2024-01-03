@@ -186,6 +186,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [code-cartoons.com](https://code-cartoons.com/)
 - Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly
 
+#### Alyssa Columbus
+
+- [@alycolumbus](https://twitter.com/alycolumbus)
+- [alyssacolumbus.com](https://www.alyssacolumbus.com)
+- Topics - Keynotes, Statistics, Data Science, AI/Machine Learning, Information Security, Privacy, Open Source Software, Open Science
+- Location - Baltimore, MD, USA
+
 #### Chloe Condon
 
 - [@chloecondon](https://twitter.com/ChloeCondon)
