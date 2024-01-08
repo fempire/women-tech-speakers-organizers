@@ -186,6 +186,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [code-cartoons.com](https://code-cartoons.com/)
 - Topics - JavaScript, React, Flux, Relay, Redux, WebAssembly
 
+#### Alyssa Columbus
+
+- [@alycolumbus](https://twitter.com/alycolumbus)
+- [alyssacolumbus.com](https://www.alyssacolumbus.com)
+- Topics - Keynotes, Statistics, Data Science, AI/Machine Learning, Information Security, Privacy, Open Source Software, Open Science
+- Location - Baltimore, MD, USA
+
 #### Chloe Condon
 
 - [@chloecondon](https://twitter.com/ChloeCondon)
@@ -603,6 +610,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [LinkedIn](https://www.linkedin.com/in/J41Manning)
 - Topics - History of programming languages, Scala, Java, C++, Software Architecture
 - Location - Pittsburgh, PA
+
+#### Cecelia Martinez
+
+- [@ceceliacreates](http://twitter.com/ceceliacreates)
+- [LinkedIn](https://www.linkedin.com/in/ceceliamartinez)
+- [GitHub](https://github.com/ceceliacreates)
+- Topics - Vue, Ionic, Cypress, DevOps, Automated Testing, Cross-platform, OSS, Community
+- Location - Atlanta, GA
+- Languages besides English - Spanish
 
 #### Jessica Mauerhan
 
@@ -1653,6 +1669,23 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Netherlands
 - Languages besides English - Russian, Ukrainian
 
+#### Aurélie Vache
+
+- [scraly.com](https://scraly.com/)
+- [@aurelievache](https://twitter.com/aurelievache)
+- @aurelievache.bsky.social
+- [LinkedIn](https://www.linkedin.com/in/aurelievache)
+- [GitHub](https://github.com/scraly)
+- [Notist](https://noti.st/aurelievache) (talks)
+- [Sessionize](https://sessionize.com/aurelie-vache/)
+- [YouTube](https://www.youtube.com/c/AurelieVache)
+- Topics: Keynoter, Speaker, Cloud, Kubernetes, Docker, DevOps, IaC, Terraform, Go, Imposter Syndrome, Visual learning/sharing
+- Recognitions: Google Developer expert, Docker Captain, CNCF Ambassador, WomenTechmakers Ambassador, Gitpod Community Hero
+- Book author: [Amazon](https://www.amazon.com/stores/Aur%C3%A9lie-Vache/author/B09WHB5YR6?) & [GumRoad](https://aurelievache.gumroad.com/)
+- Creator of [developers.events](https://developers.events/)
+- Location - Toulouse, France
+- Languages :microphone: : besides French - English
+  
 #### Kim van Wilgen
 
 - [@kimvanwilgen](http://twitter.com/kimvanwilgen)
@@ -2307,6 +2340,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [CSS Frankfurt](https://cssfrankfurt.de), [Vue.js Frankfurt](https://vuejsfrankfurt.de)
 - Group Focus - Web Development, CSS, Vue.js, Diversity, Public Speaking, Workshops, JavaScript
 - Location - Frankfurt, Germany
+
+#### Bettina Boon Falleur
+
+- [@bettina_boon](http://twitter.com/bettina_boon)
+- [EthCC](https://ethcc.io), Paris, France
+- Group Focus - Ethereum, Blockchain, Women in Tech
+- Location - Paris, France
 
 #### Eliza Camberogiannis
 
