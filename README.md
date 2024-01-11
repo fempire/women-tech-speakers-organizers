@@ -1526,6 +1526,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Moscow, Russia
 - Languages besides English - Russian
 
+#### Jennifer Petoff
+- Linkedin: https://www.linkedin.com/in/jpetoff
+- [Google SRE website](sre.google/books)
+- Topics - Site Reliability Engineering, SRE, SRE Education, SRE Culture, DevOps, Tech Education, Project Management, Women in Technology, Women in STEM
+- Location - Lisbon, Portugal (will travel nationally and internationally)
+
 #### Olga Petrova
 
 - [@tyoushe](https://twitter.com/tyoushe)
