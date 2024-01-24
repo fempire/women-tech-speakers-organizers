@@ -1285,6 +1285,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - London, United Kingdom.
 - Languages besides English - Portuguese and Italian.
 
+#### Ruth Cheesley
+
+- [@RCheesley](https://twitter.com/rcheesley)
+- [LinkedIn](https://linkedin.com/in/ruthcheesley)
+- [ruthcheesley.co.uk](https://ruthcheesley.co.uk)
+- Topics - Open Source, Marketing, Community Management, Marketing Automation, Ethics, Living with a disability.
+- Location - Ipswich, UK (will travel nationally & internationally)
+
 #### Ioana Chiorean
 
 - [ioana_cis](https://twitter.com/ioana_cis)
@@ -2364,6 +2372,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - Google Cloud Platform, Cloud computing.
 - Location - London, United Kingdom
 
+#### Ruth Cheesley
+
+- [@RCheesley](https://twitter.com/rcheesley)
+- [LinkedIn](https://linkedin.com/in/ruthcheesley)
+- [ruthcheesley.co.uk](https://ruthcheesley.co.uk)
+- [Women of Open Source](https://womenofopensource.org)
+- Group focus - Women who are already actively contributing to and maintaning open source projects, and those interested in getting involved with Open Source.
+- [MautiCon](https://mauticon.mautic.org)
+- Group focus - Open source marketing automation community conferences
+- Location - MautiCon events rotate continent every year, to give our international community the opportunity to attend and host our flagship in-person conference.
+
 #### Annabel Church
 
 - [@annabelchurch](http://twitter.com/annabelchurch)
@@ -2754,6 +2773,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lagos, Nigeria
 
 ### Europe
+
+#### Ruth Cheesley
+
+- [@RCheesley](https://twitter.com/rcheesley)
+- [LinkedIn](https://linkedin.com/in/ruthcheesley)
+- [ruthcheesley.co.uk](https://ruthcheesley.co.uk)
+- How to Contact - Drop me a message via my website or via social media!
+- Topics for mentoring - Open Source, Marketing, Community Management, Living and working with a disability, Leadership.
+- Location - Ipswich, UK (will travel nationally & internationally and can do video conference)
 
 #### Oana Galbenu
 
