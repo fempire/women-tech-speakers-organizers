@@ -2782,6 +2782,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - How to Contact - Drop me a message via my website or via social media!
 - Topics for mentoring - Open Source, Marketing, Community Management, Living and working with a disability, Leadership.
 - Location - Ipswich, UK (will travel nationally & internationally and can do video conference)
+- I have extensive experience contributing to open source projects and more recently leading one. I'd like to help women getting involved in open source, and also speaking about their experiences / growing their projects. I'm also interested in supporting folks as community leaders and managers, and those who are living with a disability.
 
 #### Oana Galbenu
 
