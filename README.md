@@ -1534,6 +1534,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Moscow, Russia
 - Languages besides English - Russian
 
+#### Sandrina Pereira
+
+- [@a_sandrina_p](https://twitter.com/a_sandrina_p)
+- [sandrina-p.net]([http://janjanjan.uk](https://sandrina-p.net/))
+- [LinkedIn](https://www.linkedin.com/in/sandrina-p/)
+- Topics - React, Accessibility, React, Remote async culture
+- Location - Portugal (will travel nationally and internationally)
+- Languages besides English - Portuguese
+
 #### Jennifer Petoff
 - Linkedin: https://www.linkedin.com/in/jpetoff
 - [Google SRE website](sre.google/books)
