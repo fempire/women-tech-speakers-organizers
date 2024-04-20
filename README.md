@@ -73,13 +73,6 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Managing projects in Azure Devops vs Github, Women in Tech
 - Location - Dallas, Texas
 
-#### Sophia Aryan
-
-- [@sopharicks](https://twitter.com/sopharicks)
-- [LinkedIn](https://www.linkedin.com/in/sophia-aryan-b2836150/)
-- Topics - How to build a developer community: strategies and approaches, developer tools marketing, Artificial Intelligence
-- Location - San Francisco, CA
-
 #### Seetha Annamraju
 
 - [@seetha_a](http://twitter.com/seetha_a)
@@ -92,6 +85,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@jina](https://twitter.com/jina)
 - [sushiandrobots.com](https://www.sushiandrobots.com/)
 - Topics - Design Systems, Sass, Design, CSS
+
+#### Sophia Aryan
+
+- [@sopharicks](https://twitter.com/sopharicks)
+- [LinkedIn](https://www.linkedin.com/in/sophia-aryan-b2836150/)
+- Topics - How to build a developer community: strategies and approaches, developer tools marketing, Artificial Intelligence
+- Location - San Francisco, CA
 
 #### Paige Bailey
 
