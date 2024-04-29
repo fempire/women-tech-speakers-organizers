@@ -2809,6 +2809,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - How to Contact - [Email](mailto:work.with@carmenh.dev) or DMs on socials!
 - Topics for Mentoring - Climbing the career ladder, open source, developer relations, leadership, freelancing
 - Location - Vienna, Austria
+- Languages besides English - Spanish, German
 - I've been in tech for 15 years and have worked in several stacks as well as areas, a significant portion of which has been as a consultant. I've also run free learning initiatives for folks looking to get into tech!
 
 #### Madlaina Kalunder
