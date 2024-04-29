@@ -86,6 +86,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [sushiandrobots.com](https://www.sushiandrobots.com/)
 - Topics - Design Systems, Sass, Design, CSS
 
+#### Sophia Aryan
+
+- [@sopharicks](https://twitter.com/sopharicks)
+- [LinkedIn](https://www.linkedin.com/in/sophia-aryan-b2836150/)
+- Topics - How to build a developer community: strategies and approaches, developer tools marketing, Artificial Intelligence
+- Location - San Francisco, CA
+
 #### Paige Bailey
 
 - [@DynamicWebPaige](https://twitter.com/DynamicWebPaige)
