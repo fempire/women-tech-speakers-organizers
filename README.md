@@ -1437,6 +1437,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Dublin, Ireland
 - Languages besides English - Managementese
 
+#### Carmen Huidobro
+
+- [LinkedIn](https://www.linkedin.com/in/carmen-huidobro)
+- [@hola_soy_milk](https://twitter.com/hola_soy_milk)
+- Topics - Web Development, Leadership, Developer Education, React, Ruby on Rails
+- Location - Vienna, Austria
+- Languages besides English - Spanish, German
+
 #### Sophie Huts
 
 - [@sophie_h29](https://twitter.com/sophie_h29)
@@ -2800,6 +2808,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Bucharest, Romania, other Romanian cities, or any location via Skype (or other media)
 - Languages besides English - Romanian
 - I have more than 10 years of work expecience and more that 8 years as a fully registered web developer. I would like to help women understand the basics of the Web and help them. I have also worked a lot with Agile and I am able to coach and help with advice and best practices.
+
+#### Carmen Huidobro
+
+- [LinkedIn](https://www.linkedin.com/in/carmen-huidobro)
+- [@hola_soy_milk](https://twitter.com/hola_soy_milk)
+- How to Contact - [Email](mailto:work.with@carmenh.dev) or DMs on socials!
+- Topics for Mentoring - Climbing the career ladder, open source, developer relations, leadership, freelancing
+- Location - Vienna, Austria
+- Languages besides English - Spanish, German
+- I've been in tech for 15 years and have worked in several stacks as well as areas, a significant portion of which has been as a consultant. I've also run free learning initiatives for folks looking to get into tech!
 
 #### Madlaina Kalunder
 
