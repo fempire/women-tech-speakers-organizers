@@ -1892,6 +1892,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Hyderabad, IN
 - Language - English, Hindi
 
+#### Vaibhavi Singh
+
+- [@__Vaibhavi](https://twitter.com/__Vaibhavi)
+- [Email Address](mailto:contactvaibhavisingh@gmail.com)
+- Machine Learning Engineering, NLP, Python, C++, GPU Programming
+- [MentoringClub Profile](https://www.mentoring-club.com/the-mentors/vaibhavi-singh)
+- [LinkedIn](https://www.linkedin.com/in/contactvaibhavi/)
+- I am currently mentoring at The Mentoring Club.
+- Location - Delhi, India
+
 ### Lebanon
 
 #### Sara Soueidan
