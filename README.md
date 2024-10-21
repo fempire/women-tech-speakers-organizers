@@ -20,7 +20,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
   - [Europe](#europe)
   - [India](#india)
   - [Lebanon](#lebanon)
-  - [Nigeria](#nigeria)
+  - [Nigeri](#nigeria)
   - [South Africa](#south-africa)
   - [Asia](#asia)
   - [Israel](#israel)
@@ -1968,6 +1968,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Cyber Security Presentations - (https://www.slideshare.net/Chinatu)
 - Topics - Cyber Security, Cyber Crime, Data Privacy, Information Systems, Database Management
 - Location - Lagos, Nigeria
+
+  #### Happiness Akabuike
+
+- [@AkabuikeO]
+  (https://x.com/AkabuikeO)
+- [LinkedIn]
+(https://www.linkedin.com/in/akabuikehappiness)
+- Topics: HTML/CSS, JAVASCRIPT, PYTHON, C, ERP SOFTWARE, AI, Machine Learning, Natural Language processing, IOT Implementation
+- Location - Onitsha Nigeria 
+
 
 ### South Africa
 
