@@ -1399,6 +1399,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Berlin, Germany
 - Languages besides English - German, Polish
 
+#### Trisha Gee
+
+- [@trishagee.bsky.social](https://bsky.app/profile/trishagee.bsky.social)
+- [@trisha_gee](https://x.com/trisha_gee)
+- [jvm.social/@trisha_gee](https://jvm.social/@trisha_gee)
+- [trishagee.com](https://trishagee.com)
+- Topics - Keynote talks, Developer Productivity, Java, Developer Careers, Code Review, IntelliJ IDEA, Agile
+- Location - Seville, Spain
+- Languages besides English - Spanish
+
 #### Aurélie Guillaume
 
 - [@slig36](https://twitter.com/slig36)
