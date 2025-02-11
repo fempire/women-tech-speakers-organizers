@@ -2061,6 +2061,15 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Web technologies, Leadrship, Community, Women in Tech
 - Languages - English, Hebrew
 
+#### Dana Fine
+
+- [@danafine7](http://twitter.com/danafine7)
+- [Dana Fine](https://www.linkedin.com/in/fine-dana/)
+- danafinetlv@gmail.com
+- Topics of Interest- Open Source Community Leader & Expert, Empowering Women in Tech & Eco-Warrier
+- Location - Tel Aviv, Israel
+- Languages besides English - Spanish, Hebrew, Russian
+
 ### Japan
 
 #### Ann Kilzer
